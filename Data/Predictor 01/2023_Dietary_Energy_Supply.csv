@@ -1,1171 +1,1171 @@
-Country,Country Code,Year,Item,Food supply (kcal/capita/day),Protein supply quantity (g/capita/day),Fat supply quantity (g/capita/day)
-Afghanistan,AFG,2023,Eggs,2.1,0.2,0.1
-Afghanistan,AFG,2023,Maize and products,62.6,1.3,0.5
-Afghanistan,AFG,2023,Milk - Excluding Butter,85.1,5.1,3.9
-Afghanistan,AFG,2023,"Pulses, Other and products",4.4,0.3,0.1
-Afghanistan,AFG,2023,Rice and products,206.0,4.2,0.5
-Afghanistan,AFG,2023,Wheat and products,1370.0,41.4,6.1
-Albania,ALB,2023,Eggs,45.2,3.5,3.3
-Albania,ALB,2023,Maize and products,27.2,0.7,0.3
-Albania,ALB,2023,Milk - Excluding Butter,572.1,30.4,35.6
-Albania,ALB,2023,"Pulses, Other and products",3.6,0.3,0.0
-Albania,ALB,2023,Rice and products,57.8,1.2,0.2
-Albania,ALB,2023,Wheat and products,724.6,22.5,6.0
-Algeria,DZA,2023,Eggs,21.0,1.9,1.5
-Algeria,DZA,2023,Maize and products,117.0,2.7,1.1
-Algeria,DZA,2023,Milk - Excluding Butter,247.3,14.4,12.3
-Algeria,DZA,2023,"Pulses, Other and products",58.9,4.2,0.5
-Algeria,DZA,2023,Rice and products,44.5,0.9,0.1
-Algeria,DZA,2023,Wheat and products,1267.1,40.9,6.4
-Andorra,AND,2023,Eggs,None,None,None
-Andorra,AND,2023,Maize and products,None,None,None
-Andorra,AND,2023,Milk - Excluding Butter,None,None,None
-Andorra,AND,2023,"Pulses, Other and products",None,None,None
-Andorra,AND,2023,Rice and products,None,None,None
-Andorra,AND,2023,Wheat and products,None,None,None
-Angola,AGO,2023,Eggs,6.1,0.6,0.4
-Angola,AGO,2023,Maize and products,399.0,8.3,3.4
-Angola,AGO,2023,Milk - Excluding Butter,13.2,0.7,0.8
-Angola,AGO,2023,"Pulses, Other and products",6.9,0.4,0.1
-Angola,AGO,2023,Rice and products,96.3,2.0,0.3
-Angola,AGO,2023,Wheat and products,153.4,4.8,0.9
-Antigua and Barbuda,ATG,2023,Eggs,20.4,1.8,1.4
-Antigua and Barbuda,ATG,2023,Maize and products,22.2,0.5,0.2
-Antigua and Barbuda,ATG,2023,Milk - Excluding Butter,178.0,8.9,10.4
-Antigua and Barbuda,ATG,2023,"Pulses, Other and products",10.1,0.8,0.1
-Antigua and Barbuda,ATG,2023,Rice and products,132.0,3.2,0.9
-Antigua and Barbuda,ATG,2023,Wheat and products,424.7,12.2,4.8
-Argentina,ARG,2023,Eggs,64.5,5.8,4.5
-Argentina,ARG,2023,Maize and products,81.0,1.7,0.7
-Argentina,ARG,2023,Milk - Excluding Butter,259.5,14.2,16.6
-Argentina,ARG,2023,"Pulses, Other and products",6.3,0.5,0.1
-Argentina,ARG,2023,Rice and products,82.3,1.7,0.3
-Argentina,ARG,2023,Wheat and products,908.9,29.9,8.6
-Armenia,ARM,2023,Eggs,46.5,4.2,3.2
-Armenia,ARM,2023,Maize and products,40.7,1.0,0.4
-Armenia,ARM,2023,Milk - Excluding Butter,354.7,18.4,21.9
-Armenia,ARM,2023,"Pulses, Other and products",8.8,0.7,0.1
-Armenia,ARM,2023,Rice and products,31.9,0.7,0.1
-Armenia,ARM,2023,Wheat and products,973.3,30.2,5.5
-Australia,AUS,2023,Eggs,26.8,2.4,1.9
-Australia,AUS,2023,Maize and products,40.0,0.8,0.3
-Australia,AUS,2023,Milk - Excluding Butter,370.8,20.3,23.5
-Australia,AUS,2023,"Pulses, Other and products",66.3,4.0,1.0
-Australia,AUS,2023,Rice and products,84.7,1.7,0.2
-Australia,AUS,2023,Wheat and products,600.3,19.7,5.7
-Austria,AUT,2023,Eggs,53.4,4.6,3.7
-Austria,AUT,2023,Maize and products,91.2,1.9,0.7
-Austria,AUT,2023,Milk - Excluding Butter,362.4,23.3,23.4
-Austria,AUT,2023,"Pulses, Other and products",12.4,0.8,0.2
-Austria,AUT,2023,Rice and products,38.7,0.8,0.1
-Austria,AUT,2023,Wheat and products,664.9,21.6,3.9
-Azerbaijan,AZE,2023,Eggs,37.0,3.3,2.6
-Azerbaijan,AZE,2023,Maize and products,90.3,1.9,0.8
-Azerbaijan,AZE,2023,Milk - Excluding Butter,284.1,15.3,17.4
-Azerbaijan,AZE,2023,"Pulses, Other and products",6.0,0.5,0.0
-Azerbaijan,AZE,2023,Rice and products,53.9,1.1,0.1
-Azerbaijan,AZE,2023,Wheat and products,1424.9,44.4,8.0
-Bahamas,BHS,2023,Eggs,44.5,3.8,3.1
-Bahamas,BHS,2023,Maize and products,52.0,1.2,0.4
-Bahamas,BHS,2023,Milk - Excluding Butter,205.6,11.4,13.0
-Bahamas,BHS,2023,"Pulses, Other and products",1.9,0.1,0.0
-Bahamas,BHS,2023,Rice and products,71.9,1.7,0.4
-Bahamas,BHS,2023,Wheat and products,308.1,7.3,6.8
-Bahrain,BHR,2023,Eggs,34.8,3.1,2.4
-Bahrain,BHR,2023,Maize and products,55.9,1.2,0.5
-Bahrain,BHR,2023,Milk - Excluding Butter,197.9,12.1,10.0
-Bahrain,BHR,2023,"Pulses, Other and products",34.5,2.3,0.5
-Bahrain,BHR,2023,Rice and products,423.9,8.6,1.1
-Bahrain,BHR,2023,Wheat and products,579.8,18.2,3.3
-Bangladesh,BGD,2023,Eggs,14.0,1.2,1.0
-Bangladesh,BGD,2023,Maize and products,7.4,0.2,0.1
-Bangladesh,BGD,2023,Milk - Excluding Butter,146.7,7.0,8.6
-Bangladesh,BGD,2023,"Pulses, Other and products",64.0,4.6,0.7
-Bangladesh,BGD,2023,Rice and products,1655.1,32.7,4.2
-Bangladesh,BGD,2023,Wheat and products,92.7,2.9,0.5
-Barbados,BRB,2023,Eggs,33.5,3.0,2.3
-Barbados,BRB,2023,Maize and products,158.3,3.4,1.3
-Barbados,BRB,2023,Milk - Excluding Butter,162.1,9.3,10.0
-Barbados,BRB,2023,"Pulses, Other and products",37.7,2.8,0.5
-Barbados,BRB,2023,Rice and products,179.3,3.9,0.9
-Barbados,BRB,2023,Wheat and products,571.6,17.3,4.5
-Belarus,BLR,2023,Eggs,58.5,5.2,4.1
-Belarus,BLR,2023,Maize and products,1.4,0.0,0.0
-Belarus,BLR,2023,Milk - Excluding Butter,413.2,25.1,15.8
-Belarus,BLR,2023,"Pulses, Other and products",0.3,0.0,0.0
-Belarus,BLR,2023,Rice and products,1.3,0.0,0.0
-Belarus,BLR,2023,Wheat and products,523.3,13.6,9.0
-Belgium,BEL,2023,Eggs,114.1,10.2,7.9
-Belgium,BEL,2023,Maize and products,8.0,0.2,0.1
-Belgium,BEL,2023,Milk - Excluding Butter,543.1,34.9,28.2
-Belgium,BEL,2023,"Pulses, Other and products",36.2,2.7,0.5
-Belgium,BEL,2023,Rice and products,108.1,2.2,0.3
-Belgium,BEL,2023,Wheat and products,530.1,16.4,2.8
-Belize,BLZ,2023,Eggs,16.6,1.5,1.2
-Belize,BLZ,2023,Maize and products,378.1,8.0,3.2
-Belize,BLZ,2023,Milk - Excluding Butter,103.2,5.2,5.7
-Belize,BLZ,2023,"Pulses, Other and products",0.1,0.0,0.0
-Belize,BLZ,2023,Rice and products,222.5,4.5,0.6
-Belize,BLZ,2023,Wheat and products,417.9,12.1,4.5
-Benin,BEN,2023,Eggs,None,None,None
-Benin,BEN,2023,Maize and products,None,None,None
-Benin,BEN,2023,Milk - Excluding Butter,None,None,None
-Benin,BEN,2023,"Pulses, Other and products",None,None,None
-Benin,BEN,2023,Rice and products,None,None,None
-Benin,BEN,2023,Wheat and products,None,None,None
-Bhutan,BTN,2023,Eggs,14.9,1.3,1.0
-Bhutan,BTN,2023,Maize and products,485.6,12.3,5.6
-Bhutan,BTN,2023,Milk - Excluding Butter,79.6,4.6,4.7
-Bhutan,BTN,2023,"Pulses, Other and products",42.4,3.1,0.4
-Bhutan,BTN,2023,Rice and products,1184.8,24.1,3.1
-Bhutan,BTN,2023,Wheat and products,203.8,5.4,3.0
-Bolivia,BOL,2023,Eggs,None,None,None
-Bolivia,BOL,2023,Maize and products,None,None,None
-Bolivia,BOL,2023,Milk - Excluding Butter,None,None,None
-Bolivia,BOL,2023,"Pulses, Other and products",None,None,None
-Bolivia,BOL,2023,Rice and products,None,None,None
-Bolivia,BOL,2023,Wheat and products,None,None,None
-Bosnia and Herzegovina,BIH,2023,Eggs,24.5,2.2,1.7
-Bosnia and Herzegovina,BIH,2023,Maize and products,124.0,2.6,1.0
-Bosnia and Herzegovina,BIH,2023,Milk - Excluding Butter,316.7,16.1,19.6
-Bosnia and Herzegovina,BIH,2023,"Pulses, Other and products",16.1,1.0,0.3
-Bosnia and Herzegovina,BIH,2023,Rice and products,21.3,0.4,0.1
-Bosnia and Herzegovina,BIH,2023,Wheat and products,968.2,30.9,6.4
-Botswana,BWA,2023,Eggs,5.0,0.4,0.4
-Botswana,BWA,2023,Maize and products,620.5,13.1,5.2
-Botswana,BWA,2023,Milk - Excluding Butter,65.9,3.4,3.1
-Botswana,BWA,2023,"Pulses, Other and products",22.4,1.6,0.3
-Botswana,BWA,2023,Rice and products,160.5,3.2,0.4
-Botswana,BWA,2023,Wheat and products,392.4,12.1,3.5
-Brazil,BRA,2023,Eggs,45.1,4.0,3.1
-Brazil,BRA,2023,Maize and products,243.2,5.1,2.1
-Brazil,BRA,2023,Milk - Excluding Butter,302.6,14.8,16.8
-Brazil,BRA,2023,"Pulses, Other and products",1.4,0.1,0.0
-Brazil,BRA,2023,Rice and products,275.4,5.6,0.7
-Brazil,BRA,2023,Wheat and products,371.5,11.7,1.8
-Brunei,BRN,2023,Eggs,None,None,None
-Brunei,BRN,2023,Maize and products,None,None,None
-Brunei,BRN,2023,Milk - Excluding Butter,None,None,None
-Brunei,BRN,2023,"Pulses, Other and products",None,None,None
-Brunei,BRN,2023,Rice and products,None,None,None
-Brunei,BRN,2023,Wheat and products,None,None,None
-Bulgaria,BGR,2023,Eggs,17.8,1.6,1.2
-Bulgaria,BGR,2023,Maize and products,226.9,4.7,1.9
-Bulgaria,BGR,2023,Milk - Excluding Butter,304.2,19.9,18.4
-Bulgaria,BGR,2023,"Pulses, Other and products",3.4,0.3,0.0
-Bulgaria,BGR,2023,Rice and products,27.6,0.6,0.2
-Bulgaria,BGR,2023,Wheat and products,563.3,17.4,3.6
-Burkina Faso,BFA,2023,Eggs,3.8,0.3,0.3
-Burkina Faso,BFA,2023,Maize and products,536.3,11.1,4.6
-Burkina Faso,BFA,2023,Milk - Excluding Butter,42.5,2.1,2.3
-Burkina Faso,BFA,2023,"Pulses, Other and products",289.5,19.9,2.0
-Burkina Faso,BFA,2023,Rice and products,332.5,6.9,1.3
-Burkina Faso,BFA,2023,Wheat and products,96.2,3.1,0.6
-Burundi,BDI,2023,Eggs,None,None,None
-Burundi,BDI,2023,Maize and products,None,None,None
-Burundi,BDI,2023,Milk - Excluding Butter,None,None,None
-Burundi,BDI,2023,"Pulses, Other and products",None,None,None
-Burundi,BDI,2023,Rice and products,None,None,None
-Burundi,BDI,2023,Wheat and products,None,None,None
-Cabo Verde,CPV,2023,Eggs,15.8,1.4,1.1
-Cabo Verde,CPV,2023,Maize and products,401.3,8.3,3.4
-Cabo Verde,CPV,2023,Milk - Excluding Butter,179.8,9.4,9.8
-Cabo Verde,CPV,2023,"Pulses, Other and products",78.3,5.8,1.0
-Cabo Verde,CPV,2023,Rice and products,558.2,11.4,1.4
-Cabo Verde,CPV,2023,Wheat and products,315.6,9.7,3.1
-Cambodia,KHM,2023,Eggs,3.9,0.3,0.3
-Cambodia,KHM,2023,Maize and products,6.8,0.1,0.1
-Cambodia,KHM,2023,Milk - Excluding Butter,13.2,0.6,0.5
-Cambodia,KHM,2023,"Pulses, Other and products",2.9,0.2,0.0
-Cambodia,KHM,2023,Rice and products,1506.3,30.6,3.9
-Cambodia,KHM,2023,Wheat and products,24.7,0.6,0.4
-Cameroon,CMR,2023,Eggs,6.1,0.5,0.4
-Cameroon,CMR,2023,Maize and products,341.4,7.1,2.9
-Cameroon,CMR,2023,Milk - Excluding Butter,23.3,1.2,1.3
-Cameroon,CMR,2023,"Pulses, Other and products",59.9,4.0,0.5
-Cameroon,CMR,2023,Rice and products,275.2,5.8,1.1
-Cameroon,CMR,2023,Wheat and products,231.0,7.5,1.5
-Canada,CAN,2023,Eggs,55.7,5.0,3.9
-Canada,CAN,2023,Maize and products,153.4,3.2,1.3
-Canada,CAN,2023,Milk - Excluding Butter,282.4,19.4,16.1
-Canada,CAN,2023,"Pulses, Other and products",2.2,0.1,0.0
-Canada,CAN,2023,Rice and products,143.9,3.0,0.5
-Canada,CAN,2023,Wheat and products,541.5,16.6,2.7
-Central African Republic,CAF,2023,Eggs,None,None,None
-Central African Republic,CAF,2023,Maize and products,None,None,None
-Central African Republic,CAF,2023,Milk - Excluding Butter,None,None,None
-Central African Republic,CAF,2023,"Pulses, Other and products",None,None,None
-Central African Republic,CAF,2023,Rice and products,None,None,None
-Central African Republic,CAF,2023,Wheat and products,None,None,None
-Chad,TCD,2023,Eggs,None,None,None
-Chad,TCD,2023,Maize and products,None,None,None
-Chad,TCD,2023,Milk - Excluding Butter,None,None,None
-Chad,TCD,2023,"Pulses, Other and products",None,None,None
-Chad,TCD,2023,Rice and products,None,None,None
-Chad,TCD,2023,Wheat and products,None,None,None
-Chile,CHL,2023,Eggs,33.1,3.0,2.3
-Chile,CHL,2023,Maize and products,83.4,1.7,0.7
-Chile,CHL,2023,Milk - Excluding Butter,183.3,10.8,10.1
-Chile,CHL,2023,"Pulses, Other and products",16.9,1.4,0.2
-Chile,CHL,2023,Rice and products,72.6,1.5,0.2
-Chile,CHL,2023,Wheat and products,867.4,27.2,5.3
-China,CHN,2023,Eggs,82.5,7.2,5.8
-China,CHN,2023,Maize and products,59.4,1.3,0.5
-China,CHN,2023,Milk - Excluding Butter,68.1,3.4,3.9
-China,CHN,2023,"Pulses, Other and products",7.6,0.6,0.1
-China,CHN,2023,Rice and products,847.6,17.6,3.4
-China,CHN,2023,Wheat and products,634.3,22.6,4.3
-Colombia,COL,2023,Eggs,52.1,4.7,3.6
-Colombia,COL,2023,Maize and products,402.2,8.5,3.5
-Colombia,COL,2023,Milk - Excluding Butter,218.2,10.6,13.0
-Colombia,COL,2023,"Pulses, Other and products",15.5,1.2,0.1
-Colombia,COL,2023,Rice and products,271.5,5.5,0.7
-Colombia,COL,2023,Wheat and products,246.4,7.8,1.2
-Comoros,COM,2023,Eggs,5.2,0.5,0.4
-Comoros,COM,2023,Maize and products,150.4,3.1,1.3
-Comoros,COM,2023,Milk - Excluding Butter,29.0,1.4,1.6
-Comoros,COM,2023,"Pulses, Other and products",105.5,7.9,1.5
-Comoros,COM,2023,Rice and products,676.4,13.6,1.8
-Comoros,COM,2023,Wheat and products,158.1,4.7,1.3
-Congo,COG,2023,Eggs,0.7,0.1,0.1
-Congo,COG,2023,Maize and products,65.3,1.4,0.6
-Congo,COG,2023,Milk - Excluding Butter,10.5,0.6,0.6
-Congo,COG,2023,"Pulses, Other and products",0.2,0.0,0.0
-Congo,COG,2023,Rice and products,111.2,2.3,0.3
-Congo,COG,2023,Wheat and products,311.7,9.6,2.0
-Costa Rica,CRI,2023,Eggs,46.8,4.2,3.2
-Costa Rica,CRI,2023,Maize and products,158.0,3.3,1.3
-Costa Rica,CRI,2023,Milk - Excluding Butter,348.7,17.5,20.0
-Costa Rica,CRI,2023,"Pulses, Other and products",4.7,0.3,0.1
-Costa Rica,CRI,2023,Rice and products,430.1,8.8,1.1
-Costa Rica,CRI,2023,Wheat and products,346.9,10.6,2.3
-Croatia,HRV,2023,Eggs,31.4,2.8,2.2
-Croatia,HRV,2023,Maize and products,30.4,0.7,0.2
-Croatia,HRV,2023,Milk - Excluding Butter,330.9,23.3,18.2
-Croatia,HRV,2023,"Pulses, Other and products",15.2,1.2,0.1
-Croatia,HRV,2023,Rice and products,30.8,0.6,0.1
-Croatia,HRV,2023,Wheat and products,817.5,23.6,8.4
-Cuba,CUB,2023,Eggs,None,None,None
-Cuba,CUB,2023,Maize and products,None,None,None
-Cuba,CUB,2023,Milk - Excluding Butter,None,None,None
-Cuba,CUB,2023,"Pulses, Other and products",None,None,None
-Cuba,CUB,2023,Rice and products,None,None,None
-Cuba,CUB,2023,Wheat and products,None,None,None
-Cyprus,CYP,2023,Eggs,23.1,2.0,1.6
-Cyprus,CYP,2023,Maize and products,112.9,2.8,1.2
-Cyprus,CYP,2023,Milk - Excluding Butter,352.9,18.9,19.3
-Cyprus,CYP,2023,"Pulses, Other and products",17.5,1.3,0.1
-Cyprus,CYP,2023,Rice and products,59.0,1.2,0.2
-Cyprus,CYP,2023,Wheat and products,600.0,17.2,6.9
-Czechia,CZE,2023,Eggs,32.0,2.9,2.2
-Czechia,CZE,2023,Maize and products,1.8,0.0,0.0
-Czechia,CZE,2023,Milk - Excluding Butter,324.8,21.6,19.3
-Czechia,CZE,2023,"Pulses, Other and products",6.6,0.5,0.0
-Czechia,CZE,2023,Rice and products,45.2,0.9,0.1
-Czechia,CZE,2023,Wheat and products,564.2,17.6,2.8
-Côte d'Ivoire,CIV,2023,Eggs,6.9,0.6,0.5
-Côte d'Ivoire,CIV,2023,Maize and products,161.5,3.3,1.4
-Côte d'Ivoire,CIV,2023,Milk - Excluding Butter,10.3,0.6,0.5
-Côte d'Ivoire,CIV,2023,"Pulses, Other and products",4.2,0.3,0.1
-Côte d'Ivoire,CIV,2023,Rice and products,691.2,14.8,3.3
-Côte d'Ivoire,CIV,2023,Wheat and products,155.9,4.6,1.6
-Democratic Republic of the Congo,COD,2023,Eggs,0.2,0.0,0.0
-Democratic Republic of the Congo,COD,2023,Maize and products,175.1,3.7,1.5
-Democratic Republic of the Congo,COD,2023,Milk - Excluding Butter,6.3,0.5,0.2
-Democratic Republic of the Congo,COD,2023,"Pulses, Other and products",7.5,0.5,0.1
-Democratic Republic of the Congo,COD,2023,Rice and products,102.6,2.1,0.3
-Democratic Republic of the Congo,COD,2023,Wheat and products,36.3,1.1,0.4
-Denmark,DNK,2023,Eggs,51.3,4.7,3.5
-Denmark,DNK,2023,Maize and products,45.5,0.9,0.4
-Denmark,DNK,2023,Milk - Excluding Butter,529.5,33.3,27.4
-Denmark,DNK,2023,"Pulses, Other and products",2.6,0.2,0.0
-Denmark,DNK,2023,Rice and products,49.8,1.0,0.1
-Denmark,DNK,2023,Wheat and products,688.9,18.7,9.1
-Djibouti,DJI,2023,Eggs,6.9,0.6,0.5
-Djibouti,DJI,2023,Maize and products,6.6,0.1,0.1
-Djibouti,DJI,2023,Milk - Excluding Butter,110.3,5.9,6.2
-Djibouti,DJI,2023,"Pulses, Other and products",74.6,5.7,0.6
-Djibouti,DJI,2023,Rice and products,513.5,10.5,1.3
-Djibouti,DJI,2023,Wheat and products,865.2,26.8,5.7
-Dominica,DMA,2023,Eggs,None,None,None
-Dominica,DMA,2023,Maize and products,None,None,None
-Dominica,DMA,2023,Milk - Excluding Butter,None,None,None
-Dominica,DMA,2023,"Pulses, Other and products",None,None,None
-Dominica,DMA,2023,Rice and products,None,None,None
-Dominica,DMA,2023,Wheat and products,None,None,None
-Dominican Republic,DOM,2023,Eggs,58.2,5.2,4.0
-Dominican Republic,DOM,2023,Maize and products,34.9,0.8,0.3
-Dominican Republic,DOM,2023,Milk - Excluding Butter,194.5,10.9,10.9
-Dominican Republic,DOM,2023,"Pulses, Other and products",23.5,1.7,0.1
-Dominican Republic,DOM,2023,Rice and products,448.4,9.1,1.2
-Dominican Republic,DOM,2023,Wheat and products,276.0,8.5,1.7
-Ecuador,ECU,2023,Eggs,26.9,2.4,1.9
-Ecuador,ECU,2023,Maize and products,142.2,3.0,1.2
-Ecuador,ECU,2023,Milk - Excluding Butter,195.7,10.6,12.4
-Ecuador,ECU,2023,"Pulses, Other and products",10.9,0.9,0.1
-Ecuador,ECU,2023,Rice and products,423.9,8.6,1.1
-Ecuador,ECU,2023,Wheat and products,335.6,10.5,1.8
-Egypt,EGY,2023,Eggs,12.9,1.2,0.9
-Egypt,EGY,2023,Maize and products,569.7,12.4,5.3
-Egypt,EGY,2023,Milk - Excluding Butter,97.3,5.9,6.4
-Egypt,EGY,2023,"Pulses, Other and products",13.7,1.0,0.1
-Egypt,EGY,2023,Rice and products,317.9,6.5,0.9
-Egypt,EGY,2023,Wheat and products,1048.7,33.1,5.0
-El Salvador,SLV,2023,Eggs,29.8,2.7,2.1
-El Salvador,SLV,2023,Maize and products,767.1,15.9,6.5
-El Salvador,SLV,2023,Milk - Excluding Butter,216.8,12.0,13.5
-El Salvador,SLV,2023,"Pulses, Other and products",0.5,0.0,0.0
-El Salvador,SLV,2023,Rice and products,100.9,2.1,0.3
-El Salvador,SLV,2023,Wheat and products,316.0,9.5,2.4
-Equatorial Guinea,GNQ,2023,Eggs,None,None,None
-Equatorial Guinea,GNQ,2023,Maize and products,None,None,None
-Equatorial Guinea,GNQ,2023,Milk - Excluding Butter,None,None,None
-Equatorial Guinea,GNQ,2023,"Pulses, Other and products",None,None,None
-Equatorial Guinea,GNQ,2023,Rice and products,None,None,None
-Equatorial Guinea,GNQ,2023,Wheat and products,None,None,None
-Eritrea,ERI,2023,Eggs,None,None,None
-Eritrea,ERI,2023,Maize and products,None,None,None
-Eritrea,ERI,2023,Milk - Excluding Butter,None,None,None
-Eritrea,ERI,2023,"Pulses, Other and products",None,None,None
-Eritrea,ERI,2023,Rice and products,None,None,None
-Eritrea,ERI,2023,Wheat and products,None,None,None
-Estonia,EST,2023,Eggs,46.6,4.0,3.3
-Estonia,EST,2023,Maize and products,87.4,1.8,0.7
-Estonia,EST,2023,Milk - Excluding Butter,631.6,40.2,35.5
-Estonia,EST,2023,"Pulses, Other and products",0.0,0.0,0.0
-Estonia,EST,2023,Rice and products,25.4,0.5,0.1
-Estonia,EST,2023,Wheat and products,345.1,11.0,4.7
-Eswatini,SWZ,2023,Eggs,5.0,0.5,0.3
-Eswatini,SWZ,2023,Maize and products,761.3,16.1,6.4
-Eswatini,SWZ,2023,Milk - Excluding Butter,82.8,4.0,4.5
-Eswatini,SWZ,2023,"Pulses, Other and products",14.3,1.0,0.2
-Eswatini,SWZ,2023,Rice and products,251.4,5.1,0.7
-Eswatini,SWZ,2023,Wheat and products,294.8,8.3,3.2
-Ethiopia,ETH,2023,Eggs,1.1,0.1,0.1
-Ethiopia,ETH,2023,Maize and products,471.2,9.7,4.0
-Ethiopia,ETH,2023,Milk - Excluding Butter,62.1,3.1,3.5
-Ethiopia,ETH,2023,"Pulses, Other and products",139.2,10.5,1.1
-Ethiopia,ETH,2023,Rice and products,52.3,1.1,0.1
-Ethiopia,ETH,2023,Wheat and products,481.1,15.2,2.2
-Fiji,FJI,2023,Eggs,42.9,3.8,3.0
-Fiji,FJI,2023,Maize and products,28.3,0.6,0.3
-Fiji,FJI,2023,Milk - Excluding Butter,75.4,5.4,2.8
-Fiji,FJI,2023,"Pulses, Other and products",14.5,1.1,0.2
-Fiji,FJI,2023,Rice and products,372.1,7.5,1.0
-Fiji,FJI,2023,Wheat and products,370.9,11.3,2.1
-Finland,FIN,2023,Eggs,37.1,3.3,2.6
-Finland,FIN,2023,Maize and products,1.2,0.0,0.0
-Finland,FIN,2023,Milk - Excluding Butter,533.0,35.1,29.2
-Finland,FIN,2023,"Pulses, Other and products",0.6,0.0,0.0
-Finland,FIN,2023,Rice and products,60.7,1.2,0.2
-Finland,FIN,2023,Wheat and products,679.1,19.3,10.0
-France,FRA,2023,Eggs,46.2,4.1,3.2
-France,FRA,2023,Maize and products,87.1,1.8,0.7
-France,FRA,2023,Milk - Excluding Butter,402.5,27.0,25.1
-France,FRA,2023,"Pulses, Other and products",6.8,0.5,0.0
-France,FRA,2023,Rice and products,64.7,1.3,0.2
-France,FRA,2023,Wheat and products,737.5,23.1,3.9
-Gabon,GAB,2023,Eggs,2.8,0.3,0.2
-Gabon,GAB,2023,Maize and products,143.9,3.0,1.2
-Gabon,GAB,2023,Milk - Excluding Butter,59.7,2.8,2.5
-Gabon,GAB,2023,"Pulses, Other and products",1.6,0.1,0.0
-Gabon,GAB,2023,Rice and products,397.5,8.1,1.0
-Gabon,GAB,2023,Wheat and products,436.5,13.3,3.2
-Gambia,GMB,2023,Eggs,6.8,0.6,0.5
-Gambia,GMB,2023,Maize and products,80.2,1.8,0.7
-Gambia,GMB,2023,Milk - Excluding Butter,74.9,3.7,3.2
-Gambia,GMB,2023,"Pulses, Other and products",9.0,0.6,0.1
-Gambia,GMB,2023,Rice and products,885.1,17.8,2.3
-Gambia,GMB,2023,Wheat and products,286.9,9.0,1.8
-Georgia,GEO,2023,Eggs,39.3,3.5,2.7
-Georgia,GEO,2023,Maize and products,170.9,3.6,1.5
-Georgia,GEO,2023,Milk - Excluding Butter,335.9,16.0,19.7
-Georgia,GEO,2023,"Pulses, Other and products",2.6,0.2,0.0
-Georgia,GEO,2023,Rice and products,29.7,0.6,0.1
-Georgia,GEO,2023,Wheat and products,886.9,26.9,6.2
-Germany,DEU,2023,Eggs,50.7,4.5,3.5
-Germany,DEU,2023,Maize and products,45.7,0.9,0.4
-Germany,DEU,2023,Milk - Excluding Butter,528.5,34.4,29.2
-Germany,DEU,2023,"Pulses, Other and products",4.4,0.3,0.0
-Germany,DEU,2023,Rice and products,37.4,0.8,0.1
-Germany,DEU,2023,Wheat and products,552.0,17.1,3.4
-Ghana,GHA,2023,Eggs,3.7,0.3,0.3
-Ghana,GHA,2023,Maize and products,280.2,6.4,2.6
-Ghana,GHA,2023,Milk - Excluding Butter,9.7,0.5,0.3
-Ghana,GHA,2023,"Pulses, Other and products",6.1,0.5,0.1
-Ghana,GHA,2023,Rice and products,342.6,7.0,0.9
-Ghana,GHA,2023,Wheat and products,109.9,3.5,0.5
-Greece,GRC,2023,Eggs,33.9,3.0,2.4
-Greece,GRC,2023,Maize and products,12.0,0.3,0.1
-Greece,GRC,2023,Milk - Excluding Butter,453.5,27.6,30.9
-Greece,GRC,2023,"Pulses, Other and products",13.7,1.0,0.1
-Greece,GRC,2023,Rice and products,38.3,0.8,0.1
-Greece,GRC,2023,Wheat and products,787.5,24.2,5.1
-Grenada,GRD,2023,Eggs,74.1,6.6,5.1
-Grenada,GRD,2023,Maize and products,33.4,0.8,0.3
-Grenada,GRD,2023,Milk - Excluding Butter,216.3,10.9,10.3
-Grenada,GRD,2023,"Pulses, Other and products",36.2,2.5,0.2
-Grenada,GRD,2023,Rice and products,101.1,2.2,0.6
-Grenada,GRD,2023,Wheat and products,360.6,9.4,6.1
-Guatemala,GTM,2023,Eggs,43.2,3.9,3.0
-Guatemala,GTM,2023,Maize and products,759.4,15.7,6.5
-Guatemala,GTM,2023,Milk - Excluding Butter,80.9,4.6,4.8
-Guatemala,GTM,2023,"Pulses, Other and products",22.5,1.7,0.2
-Guatemala,GTM,2023,Rice and products,68.0,1.4,0.2
-Guatemala,GTM,2023,Wheat and products,295.7,8.8,2.0
-Guinea,GIN,2023,Eggs,6.5,0.6,0.5
-Guinea,GIN,2023,Maize and products,97.5,2.0,0.8
-Guinea,GIN,2023,Milk - Excluding Butter,30.2,1.5,1.7
-Guinea,GIN,2023,"Pulses, Other and products",32.4,2.4,0.5
-Guinea,GIN,2023,Rice and products,966.1,19.6,2.5
-Guinea,GIN,2023,Wheat and products,151.3,4.7,0.9
-Guinea-Bissau,GNB,2023,Eggs,3.0,0.3,0.2
-Guinea-Bissau,GNB,2023,Maize and products,78.4,1.6,0.7
-Guinea-Bissau,GNB,2023,Milk - Excluding Butter,31.8,1.6,1.9
-Guinea-Bissau,GNB,2023,"Pulses, Other and products",13.8,1.0,0.2
-Guinea-Bissau,GNB,2023,Rice and products,1134.4,23.0,2.9
-Guinea-Bissau,GNB,2023,Wheat and products,79.4,2.4,0.7
-Guyana,GUY,2023,Eggs,5.6,0.5,0.4
-Guyana,GUY,2023,Maize and products,21.4,0.5,0.2
-Guyana,GUY,2023,Milk - Excluding Butter,219.5,12.0,12.2
-Guyana,GUY,2023,"Pulses, Other and products",22.7,1.5,0.3
-Guyana,GUY,2023,Rice and products,580.2,11.9,1.6
-Guyana,GUY,2023,Wheat and products,429.5,11.9,5.4
-Haiti,HTI,2023,Eggs,1.4,0.1,0.1
-Haiti,HTI,2023,Maize and products,183.4,4.0,1.7
-Haiti,HTI,2023,Milk - Excluding Butter,12.7,0.6,0.7
-Haiti,HTI,2023,"Pulses, Other and products",48.8,3.2,0.5
-Haiti,HTI,2023,Rice and products,514.9,10.5,1.3
-Haiti,HTI,2023,Wheat and products,295.4,9.0,2.2
-Honduras,HND,2023,Eggs,13.6,1.2,0.9
-Honduras,HND,2023,Maize and products,726.8,15.1,6.2
-Honduras,HND,2023,Milk - Excluding Butter,116.9,6.2,6.2
-Honduras,HND,2023,"Pulses, Other and products",0.1,0.0,0.0
-Honduras,HND,2023,Rice and products,112.2,2.3,0.3
-Honduras,HND,2023,Wheat and products,203.5,6.1,1.5
-Hungary,HUN,2023,Eggs,49.9,4.5,3.5
-Hungary,HUN,2023,Maize and products,7.8,0.2,0.1
-Hungary,HUN,2023,Milk - Excluding Butter,275.8,16.4,16.4
-Hungary,HUN,2023,"Pulses, Other and products",3.0,0.2,0.0
-Hungary,HUN,2023,Rice and products,45.3,0.9,0.1
-Hungary,HUN,2023,Wheat and products,907.9,27.6,6.5
-Iceland,ISL,2023,Eggs,31.9,2.8,2.2
-Iceland,ISL,2023,Maize and products,38.7,1.5,0.5
-Iceland,ISL,2023,Milk - Excluding Butter,523.1,33.9,34.4
-Iceland,ISL,2023,"Pulses, Other and products",1.7,0.1,0.0
-Iceland,ISL,2023,Rice and products,41.9,0.9,0.1
-Iceland,ISL,2023,Wheat and products,663.6,17.9,14.0
-India,IND,2023,Eggs,16.4,1.5,1.1
-India,IND,2023,Maize and products,55.8,1.2,0.5
-India,IND,2023,Milk - Excluding Butter,213.6,11.7,10.7
-India,IND,2023,"Pulses, Other and products",97.7,6.4,1.2
-India,IND,2023,Rice and products,646.1,13.2,1.7
-India,IND,2023,Wheat and products,565.2,17.9,2.6
-Indonesia,IDN,2023,Eggs,73.5,6.5,5.1
-Indonesia,IDN,2023,Maize and products,5.5,0.1,0.1
-Indonesia,IDN,2023,Milk - Excluding Butter,20.6,1.4,0.8
-Indonesia,IDN,2023,"Pulses, Other and products",0.8,0.1,0.0
-Indonesia,IDN,2023,Rice and products,1129.8,23.3,4.0
-Indonesia,IDN,2023,Wheat and products,206.7,6.8,1.1
-Iran,IRN,2023,Eggs,None,None,None
-Iran,IRN,2023,Maize and products,None,None,None
-Iran,IRN,2023,Milk - Excluding Butter,None,None,None
-Iran,IRN,2023,"Pulses, Other and products",None,None,None
-Iran,IRN,2023,Rice and products,None,None,None
-Iran,IRN,2023,Wheat and products,None,None,None
-Iraq,IRQ,2023,Eggs,8.9,0.8,0.6
-Iraq,IRQ,2023,Maize and products,15.1,0.3,0.1
-Iraq,IRQ,2023,Milk - Excluding Butter,56.2,3.3,2.9
-Iraq,IRQ,2023,"Pulses, Other and products",54.1,3.9,0.4
-Iraq,IRQ,2023,Rice and products,475.1,9.7,1.2
-Iraq,IRQ,2023,Wheat and products,1098.0,33.8,6.7
-Ireland,IRL,2023,Eggs,36.0,3.2,2.5
-Ireland,IRL,2023,Maize and products,126.2,2.9,1.0
-Ireland,IRL,2023,Milk - Excluding Butter,494.0,28.4,19.9
-Ireland,IRL,2023,"Pulses, Other and products",2.8,0.2,0.0
-Ireland,IRL,2023,Rice and products,49.3,1.0,0.2
-Ireland,IRL,2023,Wheat and products,651.2,19.1,5.4
-Israel,ISR,2023,Eggs,43.6,3.9,3.0
-Israel,ISR,2023,Maize and products,87.2,1.0,0.4
-Israel,ISR,2023,Milk - Excluding Butter,333.7,19.8,21.9
-Israel,ISR,2023,"Pulses, Other and products",23.8,1.6,0.3
-Israel,ISR,2023,Rice and products,183.9,3.7,0.5
-Israel,ISR,2023,Wheat and products,804.8,25.5,4.7
-Italy,ITA,2023,Eggs,46.0,4.2,3.2
-Italy,ITA,2023,Maize and products,23.7,0.5,0.2
-Italy,ITA,2023,Milk - Excluding Butter,418.0,26.4,22.3
-Italy,ITA,2023,"Pulses, Other and products",25.6,1.9,0.2
-Italy,ITA,2023,Rice and products,63.1,1.3,0.2
-Italy,ITA,2023,Wheat and products,955.5,29.9,4.8
-Jamaica,JAM,2023,Eggs,12.3,1.1,0.9
-Jamaica,JAM,2023,Maize and products,111.4,2.4,0.9
-Jamaica,JAM,2023,Milk - Excluding Butter,171.9,8.9,9.8
-Jamaica,JAM,2023,"Pulses, Other and products",3.3,0.2,0.0
-Jamaica,JAM,2023,Rice and products,227.8,4.7,0.7
-Jamaica,JAM,2023,Wheat and products,516.9,15.8,3.3
-Japan,JPN,2023,Eggs,None,None,None
-Japan,JPN,2023,Maize and products,None,None,None
-Japan,JPN,2023,Milk - Excluding Butter,None,None,None
-Japan,JPN,2023,"Pulses, Other and products",None,None,None
-Japan,JPN,2023,Rice and products,None,None,None
-Japan,JPN,2023,Wheat and products,None,None,None
-Jordan,JOR,2023,Eggs,15.9,1.4,1.1
-Jordan,JOR,2023,Maize and products,17.8,0.3,0.1
-Jordan,JOR,2023,Milk - Excluding Butter,163.8,9.6,6.5
-Jordan,JOR,2023,"Pulses, Other and products",60.7,4.0,0.7
-Jordan,JOR,2023,Rice and products,200.2,4.1,0.5
-Jordan,JOR,2023,Wheat and products,755.0,24.0,3.9
-Kazakhstan,KAZ,2023,Eggs,33.9,3.0,2.3
-Kazakhstan,KAZ,2023,Maize and products,10.1,0.2,0.1
-Kazakhstan,KAZ,2023,Milk - Excluding Butter,313.4,18.2,16.1
-Kazakhstan,KAZ,2023,"Pulses, Other and products",11.2,0.9,0.1
-Kazakhstan,KAZ,2023,Rice and products,68.7,1.4,0.3
-Kazakhstan,KAZ,2023,Wheat and products,723.7,22.2,4.7
-Kenya,KEN,2023,Eggs,4.4,0.4,0.3
-Kenya,KEN,2023,Maize and products,530.7,11.0,4.5
-Kenya,KEN,2023,Milk - Excluding Butter,170.1,8.3,9.8
-Kenya,KEN,2023,"Pulses, Other and products",49.0,3.4,0.4
-Kenya,KEN,2023,Rice and products,184.0,3.7,0.5
-Kenya,KEN,2023,Wheat and products,190.1,5.6,2.3
-Kiribati,KIR,2023,Eggs,12.2,1.1,0.8
-Kiribati,KIR,2023,Maize and products,0.4,0.0,0.0
-Kiribati,KIR,2023,Milk - Excluding Butter,37.6,1.6,1.8
-Kiribati,KIR,2023,"Pulses, Other and products",0.4,0.0,0.0
-Kiribati,KIR,2023,Rice and products,642.1,13.1,1.7
-Kiribati,KIR,2023,Wheat and products,364.6,10.4,4.2
-Kuwait,KWT,2023,Eggs,47.6,4.3,3.3
-Kuwait,KWT,2023,Maize and products,36.1,0.8,0.3
-Kuwait,KWT,2023,Milk - Excluding Butter,173.5,10.2,10.8
-Kuwait,KWT,2023,"Pulses, Other and products",34.6,2.4,0.4
-Kuwait,KWT,2023,Rice and products,447.9,9.1,1.2
-Kuwait,KWT,2023,Wheat and products,722.3,21.7,5.5
-Kyrgyzstan,KGZ,2023,Eggs,22.5,2.0,1.6
-Kyrgyzstan,KGZ,2023,Maize and products,205.7,4.3,1.8
-Kyrgyzstan,KGZ,2023,Milk - Excluding Butter,436.6,20.2,24.3
-Kyrgyzstan,KGZ,2023,"Pulses, Other and products",3.2,0.3,0.0
-Kyrgyzstan,KGZ,2023,Rice and products,52.3,1.1,0.1
-Kyrgyzstan,KGZ,2023,Wheat and products,770.1,23.6,5.1
-Laos,LAO,2023,Eggs,None,None,None
-Laos,LAO,2023,Maize and products,None,None,None
-Laos,LAO,2023,Milk - Excluding Butter,None,None,None
-Laos,LAO,2023,"Pulses, Other and products",None,None,None
-Laos,LAO,2023,Rice and products,None,None,None
-Laos,LAO,2023,Wheat and products,None,None,None
-Latvia,LVA,2023,Eggs,31.2,2.8,2.2
-Latvia,LVA,2023,Maize and products,12.9,0.8,0.3
-Latvia,LVA,2023,Milk - Excluding Butter,372.9,24.6,23.5
-Latvia,LVA,2023,"Pulses, Other and products",6.6,0.5,0.1
-Latvia,LVA,2023,Rice and products,27.4,0.6,0.1
-Latvia,LVA,2023,Wheat and products,540.2,16.1,3.1
-Lebanon,LBN,2023,Eggs,25.2,2.2,1.8
-Lebanon,LBN,2023,Maize and products,18.8,0.4,0.2
-Lebanon,LBN,2023,Milk - Excluding Butter,154.0,9.3,9.8
-Lebanon,LBN,2023,"Pulses, Other and products",38.9,2.7,0.4
-Lebanon,LBN,2023,Rice and products,89.9,1.8,0.2
-Lebanon,LBN,2023,Wheat and products,928.1,29.5,6.1
-Lesotho,LSO,2023,Eggs,1.9,0.2,0.1
-Lesotho,LSO,2023,Maize and products,848.8,17.7,7.2
-Lesotho,LSO,2023,Milk - Excluding Butter,144.8,7.0,8.3
-Lesotho,LSO,2023,"Pulses, Other and products",1.4,0.1,0.0
-Lesotho,LSO,2023,Rice and products,41.0,0.8,0.1
-Lesotho,LSO,2023,Wheat and products,217.2,6.7,1.6
-Liberia,LBR,2023,Eggs,5.2,0.5,0.4
-Liberia,LBR,2023,Maize and products,2.5,0.1,0.0
-Liberia,LBR,2023,Milk - Excluding Butter,6.4,0.3,0.4
-Liberia,LBR,2023,"Pulses, Other and products",14.4,1.0,0.2
-Liberia,LBR,2023,Rice and products,1071.6,22.4,4.0
-Liberia,LBR,2023,Wheat and products,25.2,0.7,0.4
-Libya,LBY,2023,Eggs,30.9,2.8,2.1
-Libya,LBY,2023,Maize and products,21.3,0.4,0.1
-Libya,LBY,2023,Milk - Excluding Butter,190.5,11.0,10.3
-Libya,LBY,2023,"Pulses, Other and products",34.2,2.6,0.3
-Libya,LBY,2023,Rice and products,110.7,2.3,0.3
-Libya,LBY,2023,Wheat and products,692.2,21.0,4.7
-Liechtenstein,LIE,2023,Eggs,None,None,None
-Liechtenstein,LIE,2023,Maize and products,None,None,None
-Liechtenstein,LIE,2023,Milk - Excluding Butter,None,None,None
-Liechtenstein,LIE,2023,"Pulses, Other and products",None,None,None
-Liechtenstein,LIE,2023,Rice and products,None,None,None
-Liechtenstein,LIE,2023,Wheat and products,None,None,None
-Lithuania,LTU,2023,Eggs,48.8,4.3,3.4
-Lithuania,LTU,2023,Maize and products,30.6,0.7,0.3
-Lithuania,LTU,2023,Milk - Excluding Butter,490.2,31.6,30.2
-Lithuania,LTU,2023,"Pulses, Other and products",28.0,2.0,0.3
-Lithuania,LTU,2023,Rice and products,36.2,0.7,0.1
-Lithuania,LTU,2023,Wheat and products,612.7,18.7,3.2
-Luxembourg,LUX,2023,Eggs,92.4,7.8,6.5
-Luxembourg,LUX,2023,Maize and products,2.3,0.1,0.0
-Luxembourg,LUX,2023,Milk - Excluding Butter,470.1,29.0,26.2
-Luxembourg,LUX,2023,"Pulses, Other and products",5.7,0.4,0.1
-Luxembourg,LUX,2023,Rice and products,57.4,1.2,0.2
-Luxembourg,LUX,2023,Wheat and products,862.3,22.6,10.9
-Madagascar,MDG,2023,Eggs,1.8,0.2,0.1
-Madagascar,MDG,2023,Maize and products,56.5,1.2,0.5
-Madagascar,MDG,2023,Milk - Excluding Butter,27.6,1.3,1.5
-Madagascar,MDG,2023,"Pulses, Other and products",4.4,0.3,0.0
-Madagascar,MDG,2023,Rice and products,1145.3,25.1,6.8
-Madagascar,MDG,2023,Wheat and products,74.3,2.4,0.4
-Malawi,MWI,2023,Eggs,3.1,0.3,0.2
-Malawi,MWI,2023,Maize and products,1116.5,23.1,9.5
-Malawi,MWI,2023,Milk - Excluding Butter,21.2,1.0,1.2
-Malawi,MWI,2023,"Pulses, Other and products",100.8,6.8,0.6
-Malawi,MWI,2023,Rice and products,40.3,0.8,0.1
-Malawi,MWI,2023,Wheat and products,42.1,1.3,0.2
-Malaysia,MYS,2023,Eggs,75.4,6.8,5.2
-Malaysia,MYS,2023,Maize and products,51.7,1.2,0.5
-Malaysia,MYS,2023,Milk - Excluding Butter,92.6,2.9,2.9
-Malaysia,MYS,2023,"Pulses, Other and products",17.8,1.3,0.2
-Malaysia,MYS,2023,Rice and products,700.5,14.3,1.9
-Malaysia,MYS,2023,Wheat and products,300.4,9.3,1.7
-Maldives,MDV,2023,Eggs,69.8,6.3,4.8
-Maldives,MDV,2023,Maize and products,27.6,0.7,0.2
-Maldives,MDV,2023,Milk - Excluding Butter,225.6,9.1,9.6
-Maldives,MDV,2023,"Pulses, Other and products",29.6,2.2,0.2
-Maldives,MDV,2023,Rice and products,472.4,9.6,1.2
-Maldives,MDV,2023,Wheat and products,484.0,14.6,3.9
-Mali,MLI,2023,Eggs,None,None,None
-Mali,MLI,2023,Maize and products,None,None,None
-Mali,MLI,2023,Milk - Excluding Butter,None,None,None
-Mali,MLI,2023,"Pulses, Other and products",None,None,None
-Mali,MLI,2023,Rice and products,None,None,None
-Mali,MLI,2023,Wheat and products,None,None,None
-Malta,MLT,2023,Eggs,44.0,3.9,3.1
-Malta,MLT,2023,Maize and products,139.5,3.0,1.1
-Malta,MLT,2023,Milk - Excluding Butter,323.4,18.2,19.9
-Malta,MLT,2023,"Pulses, Other and products",5.6,0.4,0.1
-Malta,MLT,2023,Rice and products,92.1,1.9,0.2
-Malta,MLT,2023,Wheat and products,900.2,25.6,10.9
-Marshall Islands,MHL,2023,Eggs,38.3,3.1,2.7
-Marshall Islands,MHL,2023,Maize and products,15.8,0.4,0.1
-Marshall Islands,MHL,2023,Milk - Excluding Butter,96.4,4.4,5.1
-Marshall Islands,MHL,2023,"Pulses, Other and products",3.8,0.3,0.0
-Marshall Islands,MHL,2023,Rice and products,352.8,7.2,0.9
-Marshall Islands,MHL,2023,Wheat and products,645.5,16.5,11.2
-Mauritania,MRT,2023,Eggs,3.8,0.3,0.3
-Mauritania,MRT,2023,Maize and products,53.8,1.3,0.5
-Mauritania,MRT,2023,Milk - Excluding Butter,228.1,11.5,12.6
-Mauritania,MRT,2023,"Pulses, Other and products",43.9,3.2,0.5
-Mauritania,MRT,2023,Rice and products,456.0,9.3,1.2
-Mauritania,MRT,2023,Wheat and products,852.8,26.4,5.1
-Mauritius,MUS,2023,Eggs,26.8,2.4,1.9
-Mauritius,MUS,2023,Maize and products,38.7,0.8,0.3
-Mauritius,MUS,2023,Milk - Excluding Butter,175.2,11.6,7.7
-Mauritius,MUS,2023,"Pulses, Other and products",39.3,2.9,0.3
-Mauritius,MUS,2023,Rice and products,345.9,7.0,0.9
-Mauritius,MUS,2023,Wheat and products,883.8,26.7,6.6
-Mexico,MEX,2023,Eggs,75.0,6.7,5.2
-Mexico,MEX,2023,Maize and products,1028.9,21.1,8.7
-Mexico,MEX,2023,Milk - Excluding Butter,202.2,10.6,11.5
-Mexico,MEX,2023,"Pulses, Other and products",12.5,0.9,0.1
-Mexico,MEX,2023,Rice and products,55.0,1.1,0.1
-Mexico,MEX,2023,Wheat and products,224.0,7.0,1.2
-Micronesia,FSM,2023,Eggs,None,None,None
-Micronesia,FSM,2023,Maize and products,None,None,None
-Micronesia,FSM,2023,Milk - Excluding Butter,None,None,None
-Micronesia,FSM,2023,"Pulses, Other and products",None,None,None
-Micronesia,FSM,2023,Rice and products,None,None,None
-Micronesia,FSM,2023,Wheat and products,None,None,None
-Moldova,MDA,2023,Eggs,None,None,None
-Moldova,MDA,2023,Maize and products,None,None,None
-Moldova,MDA,2023,Milk - Excluding Butter,None,None,None
-Moldova,MDA,2023,"Pulses, Other and products",None,None,None
-Moldova,MDA,2023,Rice and products,None,None,None
-Moldova,MDA,2023,Wheat and products,None,None,None
-Monaco,MCO,2023,Eggs,None,None,None
-Monaco,MCO,2023,Maize and products,None,None,None
-Monaco,MCO,2023,Milk - Excluding Butter,None,None,None
-Monaco,MCO,2023,"Pulses, Other and products",None,None,None
-Monaco,MCO,2023,Rice and products,None,None,None
-Monaco,MCO,2023,Wheat and products,None,None,None
-Mongolia,MNG,2023,Eggs,24.4,2.2,1.7
-Mongolia,MNG,2023,Maize and products,0.9,0.0,0.0
-Mongolia,MNG,2023,Milk - Excluding Butter,367.8,17.8,21.6
-Mongolia,MNG,2023,"Pulses, Other and products",3.1,0.2,0.0
-Mongolia,MNG,2023,Rice and products,147.6,3.0,0.4
-Mongolia,MNG,2023,Wheat and products,734.7,20.7,10.1
-Montenegro,MNE,2023,Eggs,46.6,4.2,3.2
-Montenegro,MNE,2023,Maize and products,40.2,1.0,0.4
-Montenegro,MNE,2023,Milk - Excluding Butter,607.2,34.5,38.0
-Montenegro,MNE,2023,"Pulses, Other and products",1.2,0.1,0.0
-Montenegro,MNE,2023,Rice and products,23.3,0.5,0.1
-Montenegro,MNE,2023,Wheat and products,1058.2,29.6,13.5
-Morocco,MAR,2023,Eggs,26.7,2.4,1.9
-Morocco,MAR,2023,Maize and products,310.9,6.4,2.6
-Morocco,MAR,2023,Milk - Excluding Butter,69.7,5.1,2.7
-Morocco,MAR,2023,"Pulses, Other and products",50.2,4.1,0.6
-Morocco,MAR,2023,Rice and products,24.8,0.5,0.1
-Morocco,MAR,2023,Wheat and products,1361.2,42.8,6.7
-Mozambique,MOZ,2023,Eggs,1.7,0.2,0.1
-Mozambique,MOZ,2023,Maize and products,524.9,10.9,4.5
-Mozambique,MOZ,2023,Milk - Excluding Butter,4.6,0.2,0.2
-Mozambique,MOZ,2023,"Pulses, Other and products",27.4,2.0,0.3
-Mozambique,MOZ,2023,Rice and products,253.0,5.2,0.7
-Mozambique,MOZ,2023,Wheat and products,164.7,5.0,1.3
-Myanmar,MMR,2023,Eggs,7.1,0.6,0.5
-Myanmar,MMR,2023,Maize and products,26.5,0.6,0.2
-Myanmar,MMR,2023,Milk - Excluding Butter,21.7,1.3,1.2
-Myanmar,MMR,2023,"Pulses, Other and products",56.1,3.5,0.8
-Myanmar,MMR,2023,Rice and products,1634.7,33.3,4.2
-Myanmar,MMR,2023,Wheat and products,53.7,1.7,0.3
-Namibia,NAM,2023,Eggs,3.1,0.3,0.2
-Namibia,NAM,2023,Maize and products,537.1,11.2,4.5
-Namibia,NAM,2023,Milk - Excluding Butter,102.8,5.4,5.4
-Namibia,NAM,2023,"Pulses, Other and products",59.2,4.5,0.9
-Namibia,NAM,2023,Rice and products,75.7,1.5,0.2
-Namibia,NAM,2023,Wheat and products,455.4,14.1,3.6
-Nauru,NRU,2023,Eggs,43.3,3.7,3.1
-Nauru,NRU,2023,Maize and products,0.3,0.0,0.0
-Nauru,NRU,2023,Milk - Excluding Butter,142.1,7.8,5.7
-Nauru,NRU,2023,"Pulses, Other and products",0.4,0.0,0.0
-Nauru,NRU,2023,Rice and products,256.0,5.2,0.7
-Nauru,NRU,2023,Wheat and products,559.2,16.4,7.8
-Nepal,NPL,2023,Eggs,8.2,0.7,0.6
-Nepal,NPL,2023,Maize and products,322.1,6.7,2.7
-Nepal,NPL,2023,Milk - Excluding Butter,121.5,6.4,6.4
-Nepal,NPL,2023,"Pulses, Other and products",112.4,8.0,1.1
-Nepal,NPL,2023,Rice and products,841.3,17.1,2.2
-Nepal,NPL,2023,Wheat and products,419.9,13.4,2.2
-Netherlands,NLD,2023,Eggs,None,None,None
-Netherlands,NLD,2023,Maize and products,None,None,None
-Netherlands,NLD,2023,Milk - Excluding Butter,None,None,None
-Netherlands,NLD,2023,"Pulses, Other and products",None,None,None
-Netherlands,NLD,2023,Rice and products,None,None,None
-Netherlands,NLD,2023,Wheat and products,None,None,None
-New Zealand,NZL,2023,Eggs,38.0,3.4,2.6
-New Zealand,NZL,2023,Maize and products,29.8,0.6,0.3
-New Zealand,NZL,2023,Milk - Excluding Butter,102.6,5.6,6.4
-New Zealand,NZL,2023,"Pulses, Other and products",29.3,2.2,0.2
-New Zealand,NZL,2023,Rice and products,104.5,2.1,0.3
-New Zealand,NZL,2023,Wheat and products,755.5,23.7,5.8
-Nicaragua,NIC,2023,Eggs,16.7,1.5,1.2
-Nicaragua,NIC,2023,Maize and products,584.7,12.2,5.0
-Nicaragua,NIC,2023,Milk - Excluding Butter,202.0,10.9,12.5
-Nicaragua,NIC,2023,"Pulses, Other and products",0.0,0.0,0.0
-Nicaragua,NIC,2023,Rice and products,531.8,10.8,1.4
-Nicaragua,NIC,2023,Wheat and products,245.6,6.8,3.2
-Niger,NER,2023,Eggs,0.8,0.1,0.1
-Niger,NER,2023,Maize and products,13.5,0.3,0.1
-Niger,NER,2023,Milk - Excluding Butter,83.8,5.1,4.2
-Niger,NER,2023,"Pulses, Other and products",449.1,31.1,2.8
-Niger,NER,2023,Rice and products,250.6,5.2,0.8
-Niger,NER,2023,Wheat and products,33.1,1.0,0.2
-Nigeria,NGA,2023,Eggs,9.1,0.8,0.6
-Nigeria,NGA,2023,Maize and products,284.7,6.8,2.8
-Nigeria,NGA,2023,Milk - Excluding Butter,6.8,0.4,0.3
-Nigeria,NGA,2023,"Pulses, Other and products",106.3,7.4,0.6
-Nigeria,NGA,2023,Rice and products,213.1,4.4,0.7
-Nigeria,NGA,2023,Wheat and products,146.5,4.5,0.7
-North Korea,PRK,2023,Eggs,None,None,None
-North Korea,PRK,2023,Maize and products,None,None,None
-North Korea,PRK,2023,Milk - Excluding Butter,None,None,None
-North Korea,PRK,2023,"Pulses, Other and products",None,None,None
-North Korea,PRK,2023,Rice and products,None,None,None
-North Korea,PRK,2023,Wheat and products,None,None,None
-North Macedonia,MKD,2023,Eggs,22.0,2.0,1.5
-North Macedonia,MKD,2023,Maize and products,100.7,2.1,0.9
-North Macedonia,MKD,2023,Milk - Excluding Butter,226.4,14.8,11.6
-North Macedonia,MKD,2023,"Pulses, Other and products",8.8,0.6,0.1
-North Macedonia,MKD,2023,Rice and products,23.6,0.5,0.1
-North Macedonia,MKD,2023,Wheat and products,774.5,23.7,5.1
-Norway,NOR,2023,Eggs,42.6,3.8,3.0
-Norway,NOR,2023,Maize and products,4.4,0.1,0.0
-Norway,NOR,2023,Milk - Excluding Butter,318.4,21.4,17.7
-Norway,NOR,2023,"Pulses, Other and products",82.2,5.0,1.1
-Norway,NOR,2023,Rice and products,46.4,1.0,0.1
-Norway,NOR,2023,Wheat and products,932.1,25.5,12.3
-Oman,OMN,2023,Eggs,19.3,1.7,1.3
-Oman,OMN,2023,Maize and products,155.7,3.2,1.3
-Oman,OMN,2023,Milk - Excluding Butter,258.6,13.6,14.4
-Oman,OMN,2023,"Pulses, Other and products",43.5,3.0,0.5
-Oman,OMN,2023,Rice and products,342.7,7.0,0.9
-Oman,OMN,2023,Wheat and products,408.7,10.4,6.9
-Pakistan,PAK,2023,Eggs,13.8,1.2,1.0
-Pakistan,PAK,2023,Maize and products,55.3,1.1,0.5
-Pakistan,PAK,2023,Milk - Excluding Butter,367.4,20.0,18.4
-Pakistan,PAK,2023,"Pulses, Other and products",42.4,2.7,0.6
-Pakistan,PAK,2023,Rice and products,67.6,1.4,0.2
-Pakistan,PAK,2023,Wheat and products,948.2,31.0,5.0
-Palau,PLW,2023,Eggs,None,None,None
-Palau,PLW,2023,Maize and products,None,None,None
-Palau,PLW,2023,Milk - Excluding Butter,None,None,None
-Palau,PLW,2023,"Pulses, Other and products",None,None,None
-Palau,PLW,2023,Rice and products,None,None,None
-Palau,PLW,2023,Wheat and products,None,None,None
-Palestine,PSE,2023,Eggs,None,None,None
-Palestine,PSE,2023,Maize and products,None,None,None
-Palestine,PSE,2023,Milk - Excluding Butter,None,None,None
-Palestine,PSE,2023,"Pulses, Other and products",None,None,None
-Palestine,PSE,2023,Rice and products,None,None,None
-Palestine,PSE,2023,Wheat and products,None,None,None
-Panama,PAN,2023,Eggs,23.8,2.1,1.7
-Panama,PAN,2023,Maize and products,229.6,4.5,1.8
-Panama,PAN,2023,Milk - Excluding Butter,115.8,8.2,6.2
-Panama,PAN,2023,"Pulses, Other and products",19.4,1.4,0.1
-Panama,PAN,2023,Rice and products,632.6,12.9,1.7
-Panama,PAN,2023,Wheat and products,333.3,9.3,4.7
-Papua New Guinea,PNG,2023,Eggs,1.5,0.1,0.1
-Papua New Guinea,PNG,2023,Maize and products,10.0,0.2,0.1
-Papua New Guinea,PNG,2023,Milk - Excluding Butter,4.7,0.2,0.2
-Papua New Guinea,PNG,2023,"Pulses, Other and products",3.0,0.2,0.0
-Papua New Guinea,PNG,2023,Rice and products,303.2,6.2,0.8
-Papua New Guinea,PNG,2023,Wheat and products,252.0,7.8,1.4
-Paraguay,PRY,2023,Eggs,60.0,5.4,4.2
-Paraguay,PRY,2023,Maize and products,771.1,16.0,6.6
-Paraguay,PRY,2023,Milk - Excluding Butter,118.9,5.8,6.8
-Paraguay,PRY,2023,"Pulses, Other and products",16.9,1.4,0.1
-Paraguay,PRY,2023,Rice and products,28.1,0.6,0.1
-Paraguay,PRY,2023,Wheat and products,327.0,9.8,2.6
-Peru,PER,2023,Eggs,38.1,3.4,2.6
-Peru,PER,2023,Maize and products,140.0,3.2,1.4
-Peru,PER,2023,Milk - Excluding Butter,127.3,6.6,6.9
-Peru,PER,2023,"Pulses, Other and products",39.4,3.1,0.3
-Peru,PER,2023,Rice and products,457.8,9.0,1.1
-Peru,PER,2023,Wheat and products,367.4,12.1,3.5
-Philippines,PHL,2023,Eggs,20.3,1.8,1.4
-Philippines,PHL,2023,Maize and products,190.8,3.8,1.6
-Philippines,PHL,2023,Milk - Excluding Butter,24.8,1.8,0.7
-Philippines,PHL,2023,"Pulses, Other and products",2.7,0.2,0.0
-Philippines,PHL,2023,Rice and products,1253.0,25.5,3.2
-Philippines,PHL,2023,Wheat and products,327.0,10.0,1.9
-Poland,POL,2023,Eggs,18.0,1.6,1.2
-Poland,POL,2023,Maize and products,None,None,None
-Poland,POL,2023,Milk - Excluding Butter,447.8,27.7,22.8
-Poland,POL,2023,"Pulses, Other and products",16.5,1.2,0.2
-Poland,POL,2023,Rice and products,23.1,0.5,0.1
-Poland,POL,2023,Wheat and products,762.7,24.0,3.7
-Portugal,PRT,2023,Eggs,43.7,3.8,3.0
-Portugal,PRT,2023,Maize and products,129.5,2.7,1.1
-Portugal,PRT,2023,Milk - Excluding Butter,321.0,21.5,14.6
-Portugal,PRT,2023,"Pulses, Other and products",3.4,0.3,0.0
-Portugal,PRT,2023,Rice and products,145.2,2.9,0.4
-Portugal,PRT,2023,Wheat and products,714.6,21.0,6.7
-Qatar,QAT,2023,Eggs,49.8,4.4,3.5
-Qatar,QAT,2023,Maize and products,34.0,0.7,0.3
-Qatar,QAT,2023,Milk - Excluding Butter,140.9,7.8,7.5
-Qatar,QAT,2023,"Pulses, Other and products",62.6,4.4,0.6
-Qatar,QAT,2023,Rice and products,631.2,12.8,1.6
-Qatar,QAT,2023,Wheat and products,664.3,19.9,6.9
-Romania,ROU,2023,Eggs,46.2,4.1,3.2
-Romania,ROU,2023,Maize and products,224.9,4.7,1.9
-Romania,ROU,2023,Milk - Excluding Butter,460.7,25.7,27.7
-Romania,ROU,2023,"Pulses, Other and products",1.6,0.1,0.0
-Romania,ROU,2023,Rice and products,22.7,0.5,0.1
-Romania,ROU,2023,Wheat and products,976.7,29.9,6.3
-Russia,RUS,2023,Eggs,None,None,None
-Russia,RUS,2023,Maize and products,None,None,None
-Russia,RUS,2023,Milk - Excluding Butter,None,None,None
-Russia,RUS,2023,"Pulses, Other and products",None,None,None
-Russia,RUS,2023,Rice and products,None,None,None
-Russia,RUS,2023,Wheat and products,None,None,None
-Rwanda,RWA,2023,Eggs,1.3,0.1,0.1
-Rwanda,RWA,2023,Maize and products,307.5,7.5,3.0
-Rwanda,RWA,2023,Milk - Excluding Butter,29.6,1.7,1.4
-Rwanda,RWA,2023,"Pulses, Other and products",0.1,0.0,0.0
-Rwanda,RWA,2023,Rice and products,166.6,3.4,0.4
-Rwanda,RWA,2023,Wheat and products,121.4,3.9,0.7
-Saint Kitts and Nevis,KNA,2023,Eggs,13.2,1.2,0.9
-Saint Kitts and Nevis,KNA,2023,Maize and products,13.3,0.3,0.1
-Saint Kitts and Nevis,KNA,2023,Milk - Excluding Butter,137.3,7.2,8.2
-Saint Kitts and Nevis,KNA,2023,"Pulses, Other and products",38.1,2.9,0.5
-Saint Kitts and Nevis,KNA,2023,Rice and products,251.7,5.1,0.7
-Saint Kitts and Nevis,KNA,2023,Wheat and products,397.6,11.4,4.2
-Saint Lucia,LCA,2023,Eggs,17.8,1.6,1.2
-Saint Lucia,LCA,2023,Maize and products,133.2,2.9,1.1
-Saint Lucia,LCA,2023,Milk - Excluding Butter,95.0,5.8,5.8
-Saint Lucia,LCA,2023,"Pulses, Other and products",57.6,4.4,0.3
-Saint Lucia,LCA,2023,Rice and products,174.1,3.6,0.5
-Saint Lucia,LCA,2023,Wheat and products,564.3,16.1,6.8
-Saint Vincent and the Grenadines,VCT,2023,Eggs,16.7,1.5,1.2
-Saint Vincent and the Grenadines,VCT,2023,Maize and products,85.8,1.9,0.7
-Saint Vincent and the Grenadines,VCT,2023,Milk - Excluding Butter,157.4,9.9,7.4
-Saint Vincent and the Grenadines,VCT,2023,"Pulses, Other and products",68.1,5.1,0.8
-Saint Vincent and the Grenadines,VCT,2023,Rice and products,128.8,2.8,0.8
-Saint Vincent and the Grenadines,VCT,2023,Wheat and products,561.7,15.8,6.5
-Samoa,WSM,2023,Eggs,5.2,0.5,0.4
-Samoa,WSM,2023,Maize and products,25.4,0.6,0.2
-Samoa,WSM,2023,Milk - Excluding Butter,89.6,4.4,5.2
-Samoa,WSM,2023,"Pulses, Other and products",0.1,0.0,0.0
-Samoa,WSM,2023,Rice and products,377.1,7.7,1.0
-Samoa,WSM,2023,Wheat and products,530.3,15.4,5.2
-San Marino,SMR,2023,Eggs,None,None,None
-San Marino,SMR,2023,Maize and products,None,None,None
-San Marino,SMR,2023,Milk - Excluding Butter,None,None,None
-San Marino,SMR,2023,"Pulses, Other and products",None,None,None
-San Marino,SMR,2023,Rice and products,None,None,None
-San Marino,SMR,2023,Wheat and products,None,None,None
-Sao Tome and Principe,STP,2023,Eggs,2.5,0.2,0.2
-Sao Tome and Principe,STP,2023,Maize and products,52.5,1.1,0.5
-Sao Tome and Principe,STP,2023,Milk - Excluding Butter,31.6,1.7,1.3
-Sao Tome and Principe,STP,2023,"Pulses, Other and products",2.8,0.2,0.0
-Sao Tome and Principe,STP,2023,Rice and products,411.2,8.4,1.1
-Sao Tome and Principe,STP,2023,Wheat and products,355.5,10.9,2.5
-Saudi Arabia,SAU,2023,Eggs,39.2,3.5,2.7
-Saudi Arabia,SAU,2023,Maize and products,251.1,5.2,2.1
-Saudi Arabia,SAU,2023,Milk - Excluding Butter,176.4,10.6,9.5
-Saudi Arabia,SAU,2023,"Pulses, Other and products",46.9,3.4,0.5
-Saudi Arabia,SAU,2023,Rice and products,325.6,6.6,0.9
-Saudi Arabia,SAU,2023,Wheat and products,951.1,29.6,5.1
-Senegal,SEN,2023,Eggs,11.5,1.0,0.8
-Senegal,SEN,2023,Maize and products,207.9,4.3,1.8
-Senegal,SEN,2023,Milk - Excluding Butter,33.0,1.7,1.9
-Senegal,SEN,2023,"Pulses, Other and products",39.6,2.7,0.3
-Senegal,SEN,2023,Rice and products,792.8,16.0,2.1
-Senegal,SEN,2023,Wheat and products,341.6,11.0,2.2
-Serbia,SRB,2023,Eggs,40.1,3.6,2.8
-Serbia,SRB,2023,Maize and products,65.3,1.4,0.6
-Serbia,SRB,2023,Milk - Excluding Butter,332.1,18.6,17.3
-Serbia,SRB,2023,"Pulses, Other and products",3.3,0.2,0.0
-Serbia,SRB,2023,Rice and products,17.0,0.4,0.1
-Serbia,SRB,2023,Wheat and products,1726.9,53.4,10.1
-Seychelles,SYC,2023,Eggs,36.8,3.3,2.6
-Seychelles,SYC,2023,Maize and products,191.6,4.2,1.6
-Seychelles,SYC,2023,Milk - Excluding Butter,132.8,8.0,6.5
-Seychelles,SYC,2023,"Pulses, Other and products",43.7,3.2,0.3
-Seychelles,SYC,2023,Rice and products,285.6,5.8,0.7
-Seychelles,SYC,2023,Wheat and products,574.3,15.4,8.7
-Sierra Leone,SLE,2023,Eggs,4.4,0.4,0.3
-Sierra Leone,SLE,2023,Maize and products,19.0,0.4,0.2
-Sierra Leone,SLE,2023,Milk - Excluding Butter,16.6,0.8,0.9
-Sierra Leone,SLE,2023,"Pulses, Other and products",73.4,5.5,1.1
-Sierra Leone,SLE,2023,Rice and products,1137.9,23.2,3.0
-Sierra Leone,SLE,2023,Wheat and products,60.7,1.9,0.4
-Singapore,SGP,2023,Eggs,None,None,None
-Singapore,SGP,2023,Maize and products,None,None,None
-Singapore,SGP,2023,Milk - Excluding Butter,None,None,None
-Singapore,SGP,2023,"Pulses, Other and products",None,None,None
-Singapore,SGP,2023,Rice and products,None,None,None
-Singapore,SGP,2023,Wheat and products,None,None,None
-Slovakia,SVK,2023,Eggs,27.2,2.4,1.9
-Slovakia,SVK,2023,Maize and products,0.0,0.0,0.0
-Slovakia,SVK,2023,Milk - Excluding Butter,213.2,13.3,12.1
-Slovakia,SVK,2023,"Pulses, Other and products",4.0,0.3,0.0
-Slovakia,SVK,2023,Rice and products,28.5,0.6,0.1
-Slovakia,SVK,2023,Wheat and products,670.4,19.2,6.8
-Slovenia,SVN,2023,Eggs,35.5,3.1,2.5
-Slovenia,SVN,2023,Maize and products,262.3,5.5,2.2
-Slovenia,SVN,2023,Milk - Excluding Butter,302.4,20.9,16.8
-Slovenia,SVN,2023,"Pulses, Other and products",0.9,0.1,0.0
-Slovenia,SVN,2023,Rice and products,37.4,0.7,0.1
-Slovenia,SVN,2023,Wheat and products,820.4,23.3,8.6
-Solomon Islands,SLB,2023,Eggs,2.9,0.3,0.2
-Solomon Islands,SLB,2023,Maize and products,0.3,0.0,0.0
-Solomon Islands,SLB,2023,Milk - Excluding Butter,17.1,0.8,0.9
-Solomon Islands,SLB,2023,"Pulses, Other and products",67.4,5.0,1.0
-Solomon Islands,SLB,2023,Rice and products,466.2,9.5,1.2
-Solomon Islands,SLB,2023,Wheat and products,245.6,7.3,2.2
-Somalia,SOM,2023,Eggs,None,None,None
-Somalia,SOM,2023,Maize and products,None,None,None
-Somalia,SOM,2023,Milk - Excluding Butter,None,None,None
-Somalia,SOM,2023,"Pulses, Other and products",None,None,None
-Somalia,SOM,2023,Rice and products,None,None,None
-Somalia,SOM,2023,Wheat and products,None,None,None
-South Africa,ZAF,2023,Eggs,21.4,1.8,1.5
-South Africa,ZAF,2023,Maize and products,613.5,18.5,7.4
-South Africa,ZAF,2023,Milk - Excluding Butter,92.3,4.5,5.5
-South Africa,ZAF,2023,"Pulses, Other and products",2.0,0.1,0.0
-South Africa,ZAF,2023,Rice and products,151.7,3.1,0.4
-South Africa,ZAF,2023,Wheat and products,433.3,14.2,2.3
-South Korea,KOR,2023,Eggs,None,None,None
-South Korea,KOR,2023,Maize and products,None,None,None
-South Korea,KOR,2023,Milk - Excluding Butter,None,None,None
-South Korea,KOR,2023,"Pulses, Other and products",None,None,None
-South Korea,KOR,2023,Rice and products,None,None,None
-South Korea,KOR,2023,Wheat and products,None,None,None
-South Sudan,SSD,2023,Eggs,None,None,None
-South Sudan,SSD,2023,Maize and products,None,None,None
-South Sudan,SSD,2023,Milk - Excluding Butter,None,None,None
-South Sudan,SSD,2023,"Pulses, Other and products",None,None,None
-South Sudan,SSD,2023,Rice and products,None,None,None
-South Sudan,SSD,2023,Wheat and products,None,None,None
-Spain,ESP,2023,Eggs,52.3,4.7,3.6
-Spain,ESP,2023,Maize and products,16.8,0.4,0.1
-Spain,ESP,2023,Milk - Excluding Butter,348.4,20.4,19.9
-Spain,ESP,2023,"Pulses, Other and products",29.3,1.9,0.3
-Spain,ESP,2023,Rice and products,62.2,1.3,0.3
-Spain,ESP,2023,Wheat and products,647.9,20.2,3.3
-Sri Lanka,LKA,2023,Eggs,13.3,1.1,0.9
-Sri Lanka,LKA,2023,Maize and products,47.2,1.0,0.4
-Sri Lanka,LKA,2023,Milk - Excluding Butter,82.5,4.1,4.1
-Sri Lanka,LKA,2023,"Pulses, Other and products",87.8,6.5,0.5
-Sri Lanka,LKA,2023,Rice and products,1175.3,23.9,3.1
-Sri Lanka,LKA,2023,Wheat and products,269.8,8.8,1.4
-Sudan,SDN,2023,Eggs,None,None,None
-Sudan,SDN,2023,Maize and products,None,None,None
-Sudan,SDN,2023,Milk - Excluding Butter,None,None,None
-Sudan,SDN,2023,"Pulses, Other and products",None,None,None
-Sudan,SDN,2023,Rice and products,None,None,None
-Sudan,SDN,2023,Wheat and products,None,None,None
-Suriname,SUR,2023,Eggs,19.9,1.8,1.4
-Suriname,SUR,2023,Maize and products,18.3,0.5,0.2
-Suriname,SUR,2023,Milk - Excluding Butter,69.6,4.4,3.3
-Suriname,SUR,2023,"Pulses, Other and products",1.0,0.1,0.0
-Suriname,SUR,2023,Rice and products,575.7,11.7,1.5
-Suriname,SUR,2023,Wheat and products,446.1,13.0,4.2
-Sweden,SWE,2023,Eggs,37.7,3.3,2.6
-Sweden,SWE,2023,Maize and products,13.5,0.3,0.1
-Sweden,SWE,2023,Milk - Excluding Butter,433.7,27.4,23.6
-Sweden,SWE,2023,"Pulses, Other and products",2.9,0.2,0.0
-Sweden,SWE,2023,Rice and products,64.1,1.3,0.2
-Sweden,SWE,2023,Wheat and products,717.7,21.6,5.3
-Switzerland,CHE,2023,Eggs,39.2,3.4,2.7
-Switzerland,CHE,2023,Maize and products,6.9,0.2,0.1
-Switzerland,CHE,2023,Milk - Excluding Butter,488.2,29.0,33.1
-Switzerland,CHE,2023,"Pulses, Other and products",3.8,0.3,0.0
-Switzerland,CHE,2023,Rice and products,27.0,0.6,0.1
-Switzerland,CHE,2023,Wheat and products,790.9,22.5,9.1
-Syria,SYR,2023,Eggs,None,None,None
-Syria,SYR,2023,Maize and products,None,None,None
-Syria,SYR,2023,Milk - Excluding Butter,None,None,None
-Syria,SYR,2023,"Pulses, Other and products",None,None,None
-Syria,SYR,2023,Rice and products,None,None,None
-Syria,SYR,2023,Wheat and products,None,None,None
-Tajikistan,TJK,2023,Eggs,21.6,1.9,1.5
-Tajikistan,TJK,2023,Maize and products,6.7,0.1,0.1
-Tajikistan,TJK,2023,Milk - Excluding Butter,206.0,9.8,12.4
-Tajikistan,TJK,2023,"Pulses, Other and products",6.2,0.4,0.1
-Tajikistan,TJK,2023,Rice and products,121.3,2.5,0.4
-Tajikistan,TJK,2023,Wheat and products,1135.1,34.2,9.5
-Tanzania,TZA,2023,Eggs,None,None,None
-Tanzania,TZA,2023,Maize and products,None,None,None
-Tanzania,TZA,2023,Milk - Excluding Butter,None,None,None
-Tanzania,TZA,2023,"Pulses, Other and products",None,None,None
-Tanzania,TZA,2023,Rice and products,None,None,None
-Tanzania,TZA,2023,Wheat and products,None,None,None
-Thailand,THA,2023,Eggs,43.9,3.7,3.1
-Thailand,THA,2023,Maize and products,92.2,2.1,1.0
-Thailand,THA,2023,Milk - Excluding Butter,47.7,2.8,2.2
-Thailand,THA,2023,"Pulses, Other and products",13.3,0.9,0.2
-Thailand,THA,2023,Rice and products,1157.4,23.3,3.3
-Thailand,THA,2023,Wheat and products,139.2,4.5,0.8
-Timor-Leste,TLS,2023,Eggs,8.4,0.8,0.6
-Timor-Leste,TLS,2023,Maize and products,356.3,7.4,3.0
-Timor-Leste,TLS,2023,Milk - Excluding Butter,29.9,1.6,0.9
-Timor-Leste,TLS,2023,"Pulses, Other and products",0.2,0.0,0.0
-Timor-Leste,TLS,2023,Rice and products,774.5,15.7,2.0
-Timor-Leste,TLS,2023,Wheat and products,193.8,5.2,2.8
-Togo,TGO,2023,Eggs,None,None,None
-Togo,TGO,2023,Maize and products,None,None,None
-Togo,TGO,2023,Milk - Excluding Butter,None,None,None
-Togo,TGO,2023,"Pulses, Other and products",None,None,None
-Togo,TGO,2023,Rice and products,None,None,None
-Togo,TGO,2023,Wheat and products,None,None,None
-Tonga,TON,2023,Eggs,13.1,1.2,0.9
-Tonga,TON,2023,Maize and products,35.7,0.9,0.2
-Tonga,TON,2023,Milk - Excluding Butter,91.1,4.1,5.1
-Tonga,TON,2023,"Pulses, Other and products",0.1,0.0,0.0
-Tonga,TON,2023,Rice and products,5.9,0.1,0.0
-Tonga,TON,2023,Wheat and products,743.2,20.1,10.9
-Trinidad and Tobago,TTO,2023,Eggs,17.7,1.6,1.2
-Trinidad and Tobago,TTO,2023,Maize and products,242.3,5.4,2.0
-Trinidad and Tobago,TTO,2023,Milk - Excluding Butter,124.4,7.4,6.9
-Trinidad and Tobago,TTO,2023,"Pulses, Other and products",42.8,2.9,0.4
-Trinidad and Tobago,TTO,2023,Rice and products,175.2,3.8,1.0
-Trinidad and Tobago,TTO,2023,Wheat and products,614.2,19.1,3.3
-Tunisia,TUN,2023,Eggs,24.4,2.2,1.7
-Tunisia,TUN,2023,Maize and products,0.6,0.0,0.0
-Tunisia,TUN,2023,Milk - Excluding Butter,216.1,12.4,10.8
-Tunisia,TUN,2023,"Pulses, Other and products",57.3,4.2,0.6
-Tunisia,TUN,2023,Rice and products,14.0,0.3,0.0
-Tunisia,TUN,2023,Wheat and products,1475.1,46.4,7.4
-Turkmenistan,TKM,2023,Eggs,40.3,3.6,2.8
-Turkmenistan,TKM,2023,Maize and products,0.3,0.0,0.0
-Turkmenistan,TKM,2023,Milk - Excluding Butter,538.7,25.3,31.8
-Turkmenistan,TKM,2023,"Pulses, Other and products",1.6,0.1,0.0
-Turkmenistan,TKM,2023,Rice and products,61.6,1.3,0.2
-Turkmenistan,TKM,2023,Wheat and products,1211.6,38.3,5.7
-Tuvalu,TUV,2023,Eggs,41.7,3.5,3.0
-Tuvalu,TUV,2023,Maize and products,0.4,0.0,0.0
-Tuvalu,TUV,2023,Milk - Excluding Butter,59.0,2.4,2.6
-Tuvalu,TUV,2023,"Pulses, Other and products",0.0,0.0,0.0
-Tuvalu,TUV,2023,Rice and products,560.5,11.7,1.6
-Tuvalu,TUV,2023,Wheat and products,549.4,14.4,9.5
-Türkiye,TUR,2023,Eggs,36.6,3.3,2.5
-Türkiye,TUR,2023,Maize and products,126.8,2.6,1.1
-Türkiye,TUR,2023,Milk - Excluding Butter,395.0,21.2,24.0
-Türkiye,TUR,2023,"Pulses, Other and products",98.1,6.7,1.0
-Türkiye,TUR,2023,Rice and products,87.9,1.8,0.2
-Türkiye,TUR,2023,Wheat and products,1192.9,37.6,6.1
-Uganda,UGA,2023,Eggs,2.6,0.2,0.2
-Uganda,UGA,2023,Maize and products,649.5,13.4,5.5
-Uganda,UGA,2023,Milk - Excluding Butter,105.4,4.9,6.2
-Uganda,UGA,2023,"Pulses, Other and products",4.6,0.3,0.0
-Uganda,UGA,2023,Rice and products,90.7,1.9,0.2
-Uganda,UGA,2023,Wheat and products,106.7,3.3,0.7
-Ukraine,UKR,2023,Eggs,56.4,5.1,3.9
-Ukraine,UKR,2023,Maize and products,94.2,2.0,0.8
-Ukraine,UKR,2023,Milk - Excluding Butter,274.9,13.6,16.7
-Ukraine,UKR,2023,"Pulses, Other and products",2.8,0.2,0.0
-Ukraine,UKR,2023,Rice and products,19.7,0.4,0.1
-Ukraine,UKR,2023,Wheat and products,716.0,22.5,4.4
-United Arab Emirates,ARE,2023,Eggs,24.7,2.2,1.7
-United Arab Emirates,ARE,2023,Maize and products,11.0,0.3,0.1
-United Arab Emirates,ARE,2023,Milk - Excluding Butter,185.2,8.0,8.0
-United Arab Emirates,ARE,2023,"Pulses, Other and products",84.9,5.9,0.9
-United Arab Emirates,ARE,2023,Rice and products,276.2,5.6,0.8
-United Arab Emirates,ARE,2023,Wheat and products,853.0,26.9,5.9
-United Kingdom,GBR,2023,Eggs,None,None,None
-United Kingdom,GBR,2023,Maize and products,None,None,None
-United Kingdom,GBR,2023,Milk - Excluding Butter,None,None,None
-United Kingdom,GBR,2023,"Pulses, Other and products",None,None,None
-United Kingdom,GBR,2023,Rice and products,None,None,None
-United Kingdom,GBR,2023,Wheat and products,None,None,None
-United States,USA,2023,Eggs,None,None,None
-United States,USA,2023,Maize and products,None,None,None
-United States,USA,2023,Milk - Excluding Butter,None,None,None
-United States,USA,2023,"Pulses, Other and products",None,None,None
-United States,USA,2023,Rice and products,None,None,None
-United States,USA,2023,Wheat and products,None,None,None
-Uruguay,URY,2023,Eggs,48.1,4.3,3.3
-Uruguay,URY,2023,Maize and products,173.5,3.6,1.5
-Uruguay,URY,2023,Milk - Excluding Butter,442.5,24.9,28.2
-Uruguay,URY,2023,"Pulses, Other and products",11.5,0.8,0.1
-Uruguay,URY,2023,Rice and products,90.8,1.9,0.3
-Uruguay,URY,2023,Wheat and products,778.0,23.4,6.1
-Uzbekistan,UZB,2023,Eggs,43.8,3.9,3.0
-Uzbekistan,UZB,2023,Maize and products,68.3,1.4,0.6
-Uzbekistan,UZB,2023,Milk - Excluding Butter,531.9,27.3,31.8
-Uzbekistan,UZB,2023,"Pulses, Other and products",7.3,0.5,0.1
-Uzbekistan,UZB,2023,Rice and products,77.6,1.6,0.2
-Uzbekistan,UZB,2023,Wheat and products,1127.6,35.5,5.3
-Vanuatu,VUT,2023,Eggs,12.4,1.1,0.9
-Vanuatu,VUT,2023,Maize and products,5.3,0.1,0.0
-Vanuatu,VUT,2023,Milk - Excluding Butter,54.8,2.2,2.5
-Vanuatu,VUT,2023,"Pulses, Other and products",0.1,0.0,0.0
-Vanuatu,VUT,2023,Rice and products,570.0,11.6,1.5
-Vanuatu,VUT,2023,Wheat and products,458.8,12.1,7.5
-Vatican City,VAT,2023,Eggs,None,None,None
-Vatican City,VAT,2023,Maize and products,None,None,None
-Vatican City,VAT,2023,Milk - Excluding Butter,None,None,None
-Vatican City,VAT,2023,"Pulses, Other and products",None,None,None
-Vatican City,VAT,2023,Rice and products,None,None,None
-Vatican City,VAT,2023,Wheat and products,None,None,None
-Venezuela,VEN,2023,Eggs,None,None,None
-Venezuela,VEN,2023,Maize and products,None,None,None
-Venezuela,VEN,2023,Milk - Excluding Butter,None,None,None
-Venezuela,VEN,2023,"Pulses, Other and products",None,None,None
-Venezuela,VEN,2023,Rice and products,None,None,None
-Venezuela,VEN,2023,Wheat and products,None,None,None
-Vietnam,VNM,2023,Eggs,None,None,None
-Vietnam,VNM,2023,Maize and products,None,None,None
-Vietnam,VNM,2023,Milk - Excluding Butter,None,None,None
-Vietnam,VNM,2023,"Pulses, Other and products",None,None,None
-Vietnam,VNM,2023,Rice and products,None,None,None
-Vietnam,VNM,2023,Wheat and products,None,None,None
-Yemen,YEM,2023,Eggs,5.6,0.5,0.4
-Yemen,YEM,2023,Maize and products,183.6,3.8,1.6
-Yemen,YEM,2023,Milk - Excluding Butter,46.8,3.1,2.0
-Yemen,YEM,2023,"Pulses, Other and products",32.8,2.3,0.3
-Yemen,YEM,2023,Rice and products,130.4,2.7,0.3
-Yemen,YEM,2023,Wheat and products,585.9,18.1,3.7
-Zambia,ZMB,2023,Eggs,9.4,0.8,0.7
-Zambia,ZMB,2023,Maize and products,856.8,17.7,7.3
-Zambia,ZMB,2023,Milk - Excluding Butter,11.1,0.6,0.6
-Zambia,ZMB,2023,"Pulses, Other and products",16.1,1.1,0.2
-Zambia,ZMB,2023,Rice and products,30.6,0.6,0.1
-Zambia,ZMB,2023,Wheat and products,72.7,2.3,0.4
-Zimbabwe,ZWE,2023,Eggs,5.5,0.5,0.4
-Zimbabwe,ZWE,2023,Maize and products,536.5,11.1,4.6
-Zimbabwe,ZWE,2023,Milk - Excluding Butter,48.2,2.5,2.7
-Zimbabwe,ZWE,2023,"Pulses, Other and products",39.3,2.5,0.5
-Zimbabwe,ZWE,2023,Rice and products,121.4,2.4,0.3
-Zimbabwe,ZWE,2023,Wheat and products,247.9,8.1,1.4
+Domain Code,Country,Country Code,Year,Item,Food supply (kcal/capita/day),Protein supply quantity (g/capita/day),Fat supply quantity (g/capita/day)
+FBS,Afghanistan,AFG,2023,Eggs,2.05,0.18,0.14
+FBS,Afghanistan,AFG,2023,Maize and products,62.57,1.29,0.53
+FBS,Afghanistan,AFG,2023,Milk - Excluding Butter,85.14,5.08,3.92
+FBS,Afghanistan,AFG,2023,"Pulses, Other and products",4.37,0.33,0.06
+FBS,Afghanistan,AFG,2023,Rice and products,205.97,4.17,0.53
+FBS,Afghanistan,AFG,2023,Wheat and products,1369.98,41.35,6.12
+FBS,Albania,ALB,2023,Eggs,45.22,3.48,3.25
+FBS,Albania,ALB,2023,Maize and products,27.16,0.65,0.25
+FBS,Albania,ALB,2023,Milk - Excluding Butter,572.1,30.43,35.59
+FBS,Albania,ALB,2023,"Pulses, Other and products",3.6,0.27,0.04
+FBS,Albania,ALB,2023,Rice and products,57.84,1.17,0.15
+FBS,Albania,ALB,2023,Wheat and products,724.62,22.52,5.97
+FBS,Algeria,DZA,2023,Eggs,21.04,1.89,1.46
+FBS,Algeria,DZA,2023,Maize and products,116.95,2.72,1.1
+FBS,Algeria,DZA,2023,Milk - Excluding Butter,247.26,14.35,12.28
+FBS,Algeria,DZA,2023,"Pulses, Other and products",58.88,4.17,0.51
+FBS,Algeria,DZA,2023,Rice and products,44.5,0.91,0.11
+FBS,Algeria,DZA,2023,Wheat and products,1267.12,40.89,6.38
+None,Andorra,AND,2023,Eggs,None,None,None
+None,Andorra,AND,2023,Maize and products,None,None,None
+None,Andorra,AND,2023,Milk - Excluding Butter,None,None,None
+None,Andorra,AND,2023,"Pulses, Other and products",None,None,None
+None,Andorra,AND,2023,Rice and products,None,None,None
+None,Andorra,AND,2023,Wheat and products,None,None,None
+FBS,Angola,AGO,2023,Eggs,6.07,0.55,0.42
+FBS,Angola,AGO,2023,Maize and products,399.03,8.25,3.39
+FBS,Angola,AGO,2023,Milk - Excluding Butter,13.21,0.67,0.75
+FBS,Angola,AGO,2023,"Pulses, Other and products",6.93,0.42,0.09
+FBS,Angola,AGO,2023,Rice and products,96.27,1.96,0.27
+FBS,Angola,AGO,2023,Wheat and products,153.4,4.79,0.89
+FBS,Antigua and Barbuda,ATG,2023,Eggs,20.36,1.81,1.41
+FBS,Antigua and Barbuda,ATG,2023,Maize and products,22.17,0.49,0.16
+FBS,Antigua and Barbuda,ATG,2023,Milk - Excluding Butter,178.01,8.88,10.44
+FBS,Antigua and Barbuda,ATG,2023,"Pulses, Other and products",10.12,0.75,0.07
+FBS,Antigua and Barbuda,ATG,2023,Rice and products,132.01,3.18,0.89
+FBS,Antigua and Barbuda,ATG,2023,Wheat and products,424.72,12.17,4.75
+FBS,Argentina,ARG,2023,Eggs,64.51,5.81,4.45
+FBS,Argentina,ARG,2023,Maize and products,81.01,1.68,0.69
+FBS,Argentina,ARG,2023,Milk - Excluding Butter,259.45,14.2,16.55
+FBS,Argentina,ARG,2023,"Pulses, Other and products",6.28,0.45,0.05
+FBS,Argentina,ARG,2023,Rice and products,82.31,1.72,0.31
+FBS,Argentina,ARG,2023,Wheat and products,908.86,29.89,8.62
+FBS,Armenia,ARM,2023,Eggs,46.49,4.17,3.22
+FBS,Armenia,ARM,2023,Maize and products,40.74,0.97,0.39
+FBS,Armenia,ARM,2023,Milk - Excluding Butter,354.65,18.39,21.86
+FBS,Armenia,ARM,2023,"Pulses, Other and products",8.78,0.65,0.06
+FBS,Armenia,ARM,2023,Rice and products,31.92,0.65,0.08
+FBS,Armenia,ARM,2023,Wheat and products,973.31,30.23,5.51
+FBS,Australia,AUS,2023,Eggs,26.78,2.4,1.85
+FBS,Australia,AUS,2023,Maize and products,40.02,0.84,0.34
+FBS,Australia,AUS,2023,Milk - Excluding Butter,370.82,20.28,23.54
+FBS,Australia,AUS,2023,"Pulses, Other and products",66.32,4.02,1.03
+FBS,Australia,AUS,2023,Rice and products,84.68,1.69,0.23
+FBS,Australia,AUS,2023,Wheat and products,600.28,19.67,5.67
+FBS,Austria,AUT,2023,Eggs,53.41,4.64,3.73
+FBS,Austria,AUT,2023,Maize and products,91.23,1.94,0.74
+FBS,Austria,AUT,2023,Milk - Excluding Butter,362.42,23.3,23.37
+FBS,Austria,AUT,2023,"Pulses, Other and products",12.37,0.79,0.15
+FBS,Austria,AUT,2023,Rice and products,38.71,0.77,0.11
+FBS,Austria,AUT,2023,Wheat and products,664.85,21.57,3.94
+FBS,Azerbaijan,AZE,2023,Eggs,37.03,3.32,2.56
+FBS,Azerbaijan,AZE,2023,Maize and products,90.25,1.87,0.77
+FBS,Azerbaijan,AZE,2023,Milk - Excluding Butter,284.07,15.27,17.43
+FBS,Azerbaijan,AZE,2023,"Pulses, Other and products",6.0,0.46,0.02
+FBS,Azerbaijan,AZE,2023,Rice and products,53.92,1.1,0.14
+FBS,Azerbaijan,AZE,2023,Wheat and products,1424.93,44.42,7.96
+FBS,Bahamas,BHS,2023,Eggs,44.47,3.82,3.12
+FBS,Bahamas,BHS,2023,Maize and products,52.0,1.16,0.42
+FBS,Bahamas,BHS,2023,Milk - Excluding Butter,205.64,11.35,13.01
+FBS,Bahamas,BHS,2023,"Pulses, Other and products",1.85,0.13,0.01
+FBS,Bahamas,BHS,2023,Rice and products,71.92,1.66,0.36
+FBS,Bahamas,BHS,2023,Wheat and products,308.08,7.25,6.8
+FBS,Bahrain,BHR,2023,Eggs,34.82,3.12,2.41
+FBS,Bahrain,BHR,2023,Maize and products,55.85,1.16,0.47
+FBS,Bahrain,BHR,2023,Milk - Excluding Butter,197.9,12.1,9.96
+FBS,Bahrain,BHR,2023,"Pulses, Other and products",34.54,2.31,0.45
+FBS,Bahrain,BHR,2023,Rice and products,423.93,8.62,1.1
+FBS,Bahrain,BHR,2023,Wheat and products,579.75,18.18,3.31
+FBS,Bangladesh,BGD,2023,Eggs,13.97,1.18,0.99
+FBS,Bangladesh,BGD,2023,Maize and products,7.4,0.19,0.09
+FBS,Bangladesh,BGD,2023,Milk - Excluding Butter,146.65,6.95,8.57
+FBS,Bangladesh,BGD,2023,"Pulses, Other and products",63.95,4.6,0.65
+FBS,Bangladesh,BGD,2023,Rice and products,1655.14,32.66,4.15
+FBS,Bangladesh,BGD,2023,Wheat and products,92.66,2.9,0.49
+FBS,Barbados,BRB,2023,Eggs,33.47,2.98,2.32
+FBS,Barbados,BRB,2023,Maize and products,158.26,3.37,1.27
+FBS,Barbados,BRB,2023,Milk - Excluding Butter,162.13,9.28,10.01
+FBS,Barbados,BRB,2023,"Pulses, Other and products",37.72,2.79,0.49
+FBS,Barbados,BRB,2023,Rice and products,179.29,3.87,0.92
+FBS,Barbados,BRB,2023,Wheat and products,571.62,17.27,4.5
+FBS,Belarus,BLR,2023,Eggs,58.53,5.21,4.06
+FBS,Belarus,BLR,2023,Maize and products,1.4,0.03,0.01
+FBS,Belarus,BLR,2023,Milk - Excluding Butter,413.2,25.14,15.75
+FBS,Belarus,BLR,2023,"Pulses, Other and products",0.3,0.02,0.0
+FBS,Belarus,BLR,2023,Rice and products,1.33,0.03,0.0
+FBS,Belarus,BLR,2023,Wheat and products,523.26,13.55,9.04
+FBS,Belgium,BEL,2023,Eggs,114.13,10.23,7.88
+FBS,Belgium,BEL,2023,Maize and products,8.04,0.17,0.07
+FBS,Belgium,BEL,2023,Milk - Excluding Butter,543.08,34.87,28.23
+FBS,Belgium,BEL,2023,"Pulses, Other and products",36.17,2.71,0.49
+FBS,Belgium,BEL,2023,Rice and products,108.13,2.19,0.28
+FBS,Belgium,BEL,2023,Wheat and products,530.13,16.41,2.83
+FBS,Belize,BLZ,2023,Eggs,16.62,1.49,1.15
+FBS,Belize,BLZ,2023,Maize and products,378.08,7.95,3.17
+FBS,Belize,BLZ,2023,Milk - Excluding Butter,103.24,5.17,5.67
+FBS,Belize,BLZ,2023,"Pulses, Other and products",0.05,0.0,0.0
+FBS,Belize,BLZ,2023,Rice and products,222.51,4.53,0.59
+FBS,Belize,BLZ,2023,Wheat and products,417.94,12.14,4.52
+None,Benin,BEN,2023,Eggs,None,None,None
+None,Benin,BEN,2023,Maize and products,None,None,None
+None,Benin,BEN,2023,Milk - Excluding Butter,None,None,None
+None,Benin,BEN,2023,"Pulses, Other and products",None,None,None
+None,Benin,BEN,2023,Rice and products,None,None,None
+None,Benin,BEN,2023,Wheat and products,None,None,None
+FBS,Bhutan,BTN,2023,Eggs,14.9,1.34,1.03
+FBS,Bhutan,BTN,2023,Maize and products,485.58,12.25,5.61
+FBS,Bhutan,BTN,2023,Milk - Excluding Butter,79.55,4.59,4.68
+FBS,Bhutan,BTN,2023,"Pulses, Other and products",42.36,3.14,0.35
+FBS,Bhutan,BTN,2023,Rice and products,1184.8,24.11,3.06
+FBS,Bhutan,BTN,2023,Wheat and products,203.81,5.43,2.99
+FBS,Bolivia,BOL,2023,Eggs,23.98,2.15,1.66
+FBS,Bolivia,BOL,2023,Maize and products,275.93,5.91,2.5
+FBS,Bolivia,BOL,2023,Milk - Excluding Butter,73.89,3.8,4.27
+FBS,Bolivia,BOL,2023,"Pulses, Other and products",15.32,1.08,0.14
+FBS,Bolivia,BOL,2023,Rice and products,360.43,7.34,0.93
+FBS,Bolivia,BOL,2023,Wheat and products,302.81,9.13,2.09
+FBS,Bosnia and Herzegovina,BIH,2023,Eggs,24.47,2.19,1.69
+FBS,Bosnia and Herzegovina,BIH,2023,Maize and products,123.98,2.62,1.04
+FBS,Bosnia and Herzegovina,BIH,2023,Milk - Excluding Butter,316.65,16.08,19.59
+FBS,Bosnia and Herzegovina,BIH,2023,"Pulses, Other and products",16.07,0.98,0.25
+FBS,Bosnia and Herzegovina,BIH,2023,Rice and products,21.33,0.44,0.06
+FBS,Bosnia and Herzegovina,BIH,2023,Wheat and products,968.16,30.85,6.35
+FBS,Botswana,BWA,2023,Eggs,5.01,0.44,0.35
+FBS,Botswana,BWA,2023,Maize and products,620.53,13.05,5.21
+FBS,Botswana,BWA,2023,Milk - Excluding Butter,65.86,3.43,3.06
+FBS,Botswana,BWA,2023,"Pulses, Other and products",22.36,1.58,0.32
+FBS,Botswana,BWA,2023,Rice and products,160.51,3.24,0.43
+FBS,Botswana,BWA,2023,Wheat and products,392.41,12.08,3.48
+FBS,Brazil,BRA,2023,Eggs,45.08,3.98,3.13
+FBS,Brazil,BRA,2023,Maize and products,243.15,5.12,2.14
+FBS,Brazil,BRA,2023,Milk - Excluding Butter,302.6,14.77,16.77
+FBS,Brazil,BRA,2023,"Pulses, Other and products",1.36,0.1,0.01
+FBS,Brazil,BRA,2023,Rice and products,275.35,5.6,0.71
+FBS,Brazil,BRA,2023,Wheat and products,371.46,11.72,1.76
+None,Brunei,BRN,2023,Eggs,None,None,None
+None,Brunei,BRN,2023,Maize and products,None,None,None
+None,Brunei,BRN,2023,Milk - Excluding Butter,None,None,None
+None,Brunei,BRN,2023,"Pulses, Other and products",None,None,None
+None,Brunei,BRN,2023,Rice and products,None,None,None
+None,Brunei,BRN,2023,Wheat and products,None,None,None
+FBS,Bulgaria,BGR,2023,Eggs,17.77,1.6,1.23
+FBS,Bulgaria,BGR,2023,Maize and products,226.92,4.69,1.93
+FBS,Bulgaria,BGR,2023,Milk - Excluding Butter,304.17,19.93,18.36
+FBS,Bulgaria,BGR,2023,"Pulses, Other and products",3.36,0.26,0.01
+FBS,Bulgaria,BGR,2023,Rice and products,27.63,0.62,0.19
+FBS,Bulgaria,BGR,2023,Wheat and products,563.29,17.35,3.59
+FBS,Burkina Faso,BFA,2023,Eggs,3.78,0.34,0.26
+FBS,Burkina Faso,BFA,2023,Maize and products,536.29,11.09,4.56
+FBS,Burkina Faso,BFA,2023,Milk - Excluding Butter,42.46,2.14,2.34
+FBS,Burkina Faso,BFA,2023,"Pulses, Other and products",289.53,19.89,1.99
+FBS,Burkina Faso,BFA,2023,Rice and products,332.53,6.93,1.29
+FBS,Burkina Faso,BFA,2023,Wheat and products,96.18,3.05,0.57
+None,Burundi,BDI,2023,Eggs,None,None,None
+None,Burundi,BDI,2023,Maize and products,None,None,None
+None,Burundi,BDI,2023,Milk - Excluding Butter,None,None,None
+None,Burundi,BDI,2023,"Pulses, Other and products",None,None,None
+None,Burundi,BDI,2023,Rice and products,None,None,None
+None,Burundi,BDI,2023,Wheat and products,None,None,None
+FBS,Cabo Verde,CPV,2023,Eggs,15.8,1.4,1.1
+FBS,Cabo Verde,CPV,2023,Maize and products,401.28,8.31,3.41
+FBS,Cabo Verde,CPV,2023,Milk - Excluding Butter,179.76,9.38,9.79
+FBS,Cabo Verde,CPV,2023,"Pulses, Other and products",78.27,5.83,1.0
+FBS,Cabo Verde,CPV,2023,Rice and products,558.18,11.36,1.44
+FBS,Cabo Verde,CPV,2023,Wheat and products,315.64,9.7,3.08
+FBS,Cambodia,KHM,2023,Eggs,3.93,0.34,0.28
+FBS,Cambodia,KHM,2023,Maize and products,6.82,0.13,0.06
+FBS,Cambodia,KHM,2023,Milk - Excluding Butter,13.22,0.62,0.53
+FBS,Cambodia,KHM,2023,"Pulses, Other and products",2.89,0.22,0.04
+FBS,Cambodia,KHM,2023,Rice and products,1506.27,30.64,3.88
+FBS,Cambodia,KHM,2023,Wheat and products,24.74,0.62,0.42
+FBS,Cameroon,CMR,2023,Eggs,6.05,0.54,0.42
+FBS,Cameroon,CMR,2023,Maize and products,341.42,7.06,2.9
+FBS,Cameroon,CMR,2023,Milk - Excluding Butter,23.27,1.15,1.34
+FBS,Cameroon,CMR,2023,"Pulses, Other and products",59.9,4.04,0.5
+FBS,Cameroon,CMR,2023,Rice and products,275.2,5.76,1.06
+FBS,Cameroon,CMR,2023,Wheat and products,231.02,7.51,1.45
+FBS,Canada,CAN,2023,Eggs,55.72,5.01,3.85
+FBS,Canada,CAN,2023,Maize and products,153.38,3.17,1.3
+FBS,Canada,CAN,2023,Milk - Excluding Butter,282.42,19.44,16.06
+FBS,Canada,CAN,2023,"Pulses, Other and products",2.2,0.13,0.03
+FBS,Canada,CAN,2023,Rice and products,143.86,2.95,0.45
+FBS,Canada,CAN,2023,Wheat and products,541.53,16.59,2.67
+None,Central African Republic,CAF,2023,Eggs,None,None,None
+None,Central African Republic,CAF,2023,Maize and products,None,None,None
+None,Central African Republic,CAF,2023,Milk - Excluding Butter,None,None,None
+None,Central African Republic,CAF,2023,"Pulses, Other and products",None,None,None
+None,Central African Republic,CAF,2023,Rice and products,None,None,None
+None,Central African Republic,CAF,2023,Wheat and products,None,None,None
+None,Chad,TCD,2023,Eggs,None,None,None
+None,Chad,TCD,2023,Maize and products,None,None,None
+None,Chad,TCD,2023,Milk - Excluding Butter,None,None,None
+None,Chad,TCD,2023,"Pulses, Other and products",None,None,None
+None,Chad,TCD,2023,Rice and products,None,None,None
+None,Chad,TCD,2023,Wheat and products,None,None,None
+FBS,Chile,CHL,2023,Eggs,33.12,2.98,2.29
+FBS,Chile,CHL,2023,Maize and products,83.36,1.72,0.71
+FBS,Chile,CHL,2023,Milk - Excluding Butter,183.34,10.81,10.13
+FBS,Chile,CHL,2023,"Pulses, Other and products",16.86,1.42,0.19
+FBS,Chile,CHL,2023,Rice and products,72.58,1.48,0.19
+FBS,Chile,CHL,2023,Wheat and products,867.41,27.17,5.27
+FBS,China,CHN,2023,Eggs,82.51,7.18,5.78
+FBS,China,CHN,2023,Maize and products,59.44,1.25,0.5
+FBS,China,CHN,2023,Milk - Excluding Butter,68.05,3.35,3.94
+FBS,China,CHN,2023,"Pulses, Other and products",7.61,0.57,0.06
+FBS,China,CHN,2023,Rice and products,847.64,17.58,3.41
+FBS,China,CHN,2023,Wheat and products,634.25,22.61,4.32
+FBS,Colombia,COL,2023,Eggs,52.07,4.67,3.6
+FBS,Colombia,COL,2023,Maize and products,402.15,8.47,3.54
+FBS,Colombia,COL,2023,Milk - Excluding Butter,218.17,10.61,12.96
+FBS,Colombia,COL,2023,"Pulses, Other and products",15.52,1.16,0.08
+FBS,Colombia,COL,2023,Rice and products,271.46,5.52,0.7
+FBS,Colombia,COL,2023,Wheat and products,246.42,7.76,1.2
+FBS,Comoros,COM,2023,Eggs,5.15,0.46,0.36
+FBS,Comoros,COM,2023,Maize and products,150.37,3.11,1.28
+FBS,Comoros,COM,2023,Milk - Excluding Butter,28.95,1.39,1.57
+FBS,Comoros,COM,2023,"Pulses, Other and products",105.45,7.85,1.51
+FBS,Comoros,COM,2023,Rice and products,676.37,13.62,1.75
+FBS,Comoros,COM,2023,Wheat and products,158.11,4.72,1.34
+FBS,Congo,COG,2023,Eggs,0.66,0.06,0.05
+FBS,Congo,COG,2023,Maize and products,65.32,1.35,0.56
+FBS,Congo,COG,2023,Milk - Excluding Butter,10.46,0.56,0.57
+FBS,Congo,COG,2023,"Pulses, Other and products",0.17,0.01,0.0
+FBS,Congo,COG,2023,Rice and products,111.15,2.26,0.29
+FBS,Congo,COG,2023,Wheat and products,311.67,9.63,2.01
+FBS,Costa Rica,CRI,2023,Eggs,46.82,4.2,3.24
+FBS,Costa Rica,CRI,2023,Maize and products,158.0,3.33,1.32
+FBS,Costa Rica,CRI,2023,Milk - Excluding Butter,348.65,17.54,20.0
+FBS,Costa Rica,CRI,2023,"Pulses, Other and products",4.69,0.31,0.05
+FBS,Costa Rica,CRI,2023,Rice and products,430.12,8.76,1.13
+FBS,Costa Rica,CRI,2023,Wheat and products,346.86,10.57,2.27
+FBS,Croatia,HRV,2023,Eggs,31.39,2.81,2.17
+FBS,Croatia,HRV,2023,Maize and products,30.39,0.7,0.23
+FBS,Croatia,HRV,2023,Milk - Excluding Butter,330.86,23.25,18.21
+FBS,Croatia,HRV,2023,"Pulses, Other and products",15.2,1.19,0.09
+FBS,Croatia,HRV,2023,Rice and products,30.8,0.63,0.08
+FBS,Croatia,HRV,2023,Wheat and products,817.47,23.62,8.39
+None,Cuba,CUB,2023,Eggs,None,None,None
+None,Cuba,CUB,2023,Maize and products,None,None,None
+None,Cuba,CUB,2023,Milk - Excluding Butter,None,None,None
+None,Cuba,CUB,2023,"Pulses, Other and products",None,None,None
+None,Cuba,CUB,2023,Rice and products,None,None,None
+None,Cuba,CUB,2023,Wheat and products,None,None,None
+FBS,Cyprus,CYP,2023,Eggs,23.12,1.99,1.62
+FBS,Cyprus,CYP,2023,Maize and products,112.89,2.8,1.2
+FBS,Cyprus,CYP,2023,Milk - Excluding Butter,352.9,18.9,19.26
+FBS,Cyprus,CYP,2023,"Pulses, Other and products",17.52,1.28,0.14
+FBS,Cyprus,CYP,2023,Rice and products,59.01,1.2,0.16
+FBS,Cyprus,CYP,2023,Wheat and products,599.99,17.19,6.87
+FBS,Czechia,CZE,2023,Eggs,31.96,2.91,2.18
+FBS,Czechia,CZE,2023,Maize and products,1.76,0.04,0.01
+FBS,Czechia,CZE,2023,Milk - Excluding Butter,324.83,21.61,19.26
+FBS,Czechia,CZE,2023,"Pulses, Other and products",6.62,0.53,0.04
+FBS,Czechia,CZE,2023,Rice and products,45.19,0.92,0.13
+FBS,Czechia,CZE,2023,Wheat and products,564.22,17.61,2.8
+FBS,Côte d'Ivoire,CIV,2023,Eggs,6.93,0.62,0.48
+FBS,Côte d'Ivoire,CIV,2023,Maize and products,161.51,3.34,1.37
+FBS,Côte d'Ivoire,CIV,2023,Milk - Excluding Butter,10.3,0.56,0.45
+FBS,Côte d'Ivoire,CIV,2023,"Pulses, Other and products",4.17,0.31,0.06
+FBS,Côte d'Ivoire,CIV,2023,Rice and products,691.22,14.79,3.32
+FBS,Côte d'Ivoire,CIV,2023,Wheat and products,155.94,4.56,1.59
+FBS,Democratic Republic of the Congo,COD,2023,Eggs,0.2,0.02,0.01
+FBS,Democratic Republic of the Congo,COD,2023,Maize and products,175.12,3.65,1.51
+FBS,Democratic Republic of the Congo,COD,2023,Milk - Excluding Butter,6.3,0.5,0.16
+FBS,Democratic Republic of the Congo,COD,2023,"Pulses, Other and products",7.53,0.51,0.06
+FBS,Democratic Republic of the Congo,COD,2023,Rice and products,102.61,2.09,0.26
+FBS,Democratic Republic of the Congo,COD,2023,Wheat and products,36.31,1.07,0.35
+FBS,Denmark,DNK,2023,Eggs,51.31,4.72,3.5
+FBS,Denmark,DNK,2023,Maize and products,45.5,0.94,0.39
+FBS,Denmark,DNK,2023,Milk - Excluding Butter,529.52,33.27,27.37
+FBS,Denmark,DNK,2023,"Pulses, Other and products",2.6,0.18,0.02
+FBS,Denmark,DNK,2023,Rice and products,49.82,1.0,0.13
+FBS,Denmark,DNK,2023,Wheat and products,688.9,18.68,9.12
+FBS,Djibouti,DJI,2023,Eggs,6.92,0.62,0.48
+FBS,Djibouti,DJI,2023,Maize and products,6.58,0.14,0.06
+FBS,Djibouti,DJI,2023,Milk - Excluding Butter,110.28,5.87,6.19
+FBS,Djibouti,DJI,2023,"Pulses, Other and products",74.63,5.67,0.55
+FBS,Djibouti,DJI,2023,Rice and products,513.52,10.45,1.33
+FBS,Djibouti,DJI,2023,Wheat and products,865.15,26.8,5.73
+None,Dominica,DMA,2023,Eggs,None,None,None
+None,Dominica,DMA,2023,Maize and products,None,None,None
+None,Dominica,DMA,2023,Milk - Excluding Butter,None,None,None
+None,Dominica,DMA,2023,"Pulses, Other and products",None,None,None
+None,Dominica,DMA,2023,Rice and products,None,None,None
+None,Dominica,DMA,2023,Wheat and products,None,None,None
+FBS,Dominican Republic,DOM,2023,Eggs,58.19,5.22,4.03
+FBS,Dominican Republic,DOM,2023,Maize and products,34.94,0.8,0.27
+FBS,Dominican Republic,DOM,2023,Milk - Excluding Butter,194.54,10.89,10.88
+FBS,Dominican Republic,DOM,2023,"Pulses, Other and products",23.48,1.66,0.14
+FBS,Dominican Republic,DOM,2023,Rice and products,448.35,9.13,1.16
+FBS,Dominican Republic,DOM,2023,Wheat and products,275.96,8.46,1.71
+FBS,Ecuador,ECU,2023,Eggs,26.89,2.41,1.86
+FBS,Ecuador,ECU,2023,Maize and products,142.23,2.97,1.23
+FBS,Ecuador,ECU,2023,Milk - Excluding Butter,195.68,10.6,12.39
+FBS,Ecuador,ECU,2023,"Pulses, Other and products",10.85,0.85,0.06
+FBS,Ecuador,ECU,2023,Rice and products,423.88,8.62,1.09
+FBS,Ecuador,ECU,2023,Wheat and products,335.64,10.49,1.8
+FBS,Egypt,EGY,2023,Eggs,12.85,1.15,0.89
+FBS,Egypt,EGY,2023,Maize and products,569.71,12.39,5.32
+FBS,Egypt,EGY,2023,Milk - Excluding Butter,97.28,5.85,6.43
+FBS,Egypt,EGY,2023,"Pulses, Other and products",13.68,1.04,0.09
+FBS,Egypt,EGY,2023,Rice and products,317.88,6.48,0.87
+FBS,Egypt,EGY,2023,Wheat and products,1048.7,33.13,4.96
+FBS,El Salvador,SLV,2023,Eggs,29.77,2.65,2.06
+FBS,El Salvador,SLV,2023,Maize and products,767.14,15.86,6.52
+FBS,El Salvador,SLV,2023,Milk - Excluding Butter,216.81,11.95,13.53
+FBS,El Salvador,SLV,2023,"Pulses, Other and products",0.49,0.03,0.01
+FBS,El Salvador,SLV,2023,Rice and products,100.85,2.05,0.26
+FBS,El Salvador,SLV,2023,Wheat and products,316.04,9.46,2.43
+None,Equatorial Guinea,GNQ,2023,Eggs,None,None,None
+None,Equatorial Guinea,GNQ,2023,Maize and products,None,None,None
+None,Equatorial Guinea,GNQ,2023,Milk - Excluding Butter,None,None,None
+None,Equatorial Guinea,GNQ,2023,"Pulses, Other and products",None,None,None
+None,Equatorial Guinea,GNQ,2023,Rice and products,None,None,None
+None,Equatorial Guinea,GNQ,2023,Wheat and products,None,None,None
+None,Eritrea,ERI,2023,Eggs,None,None,None
+None,Eritrea,ERI,2023,Maize and products,None,None,None
+None,Eritrea,ERI,2023,Milk - Excluding Butter,None,None,None
+None,Eritrea,ERI,2023,"Pulses, Other and products",None,None,None
+None,Eritrea,ERI,2023,Rice and products,None,None,None
+None,Eritrea,ERI,2023,Wheat and products,None,None,None
+FBS,Estonia,EST,2023,Eggs,46.61,3.96,3.26
+FBS,Estonia,EST,2023,Maize and products,87.39,1.82,0.74
+FBS,Estonia,EST,2023,Milk - Excluding Butter,631.62,40.15,35.46
+FBS,Estonia,EST,2023,"Pulses, Other and products",0.0,0.0,0.0
+FBS,Estonia,EST,2023,Rice and products,25.4,0.52,0.07
+FBS,Estonia,EST,2023,Wheat and products,345.09,11.0,4.66
+FBS,Eswatini,SWZ,2023,Eggs,4.98,0.45,0.34
+FBS,Eswatini,SWZ,2023,Maize and products,761.3,16.05,6.38
+FBS,Eswatini,SWZ,2023,Milk - Excluding Butter,82.8,3.97,4.52
+FBS,Eswatini,SWZ,2023,"Pulses, Other and products",14.28,1.02,0.16
+FBS,Eswatini,SWZ,2023,Rice and products,251.35,5.14,0.7
+FBS,Eswatini,SWZ,2023,Wheat and products,294.82,8.34,3.2
+FBS,Ethiopia,ETH,2023,Eggs,1.05,0.09,0.07
+FBS,Ethiopia,ETH,2023,Maize and products,471.23,9.74,4.0
+FBS,Ethiopia,ETH,2023,Milk - Excluding Butter,62.06,3.06,3.53
+FBS,Ethiopia,ETH,2023,"Pulses, Other and products",139.18,10.46,1.11
+FBS,Ethiopia,ETH,2023,Rice and products,52.31,1.06,0.13
+FBS,Ethiopia,ETH,2023,Wheat and products,481.07,15.19,2.23
+FBS,Fiji,FJI,2023,Eggs,42.89,3.84,2.97
+FBS,Fiji,FJI,2023,Maize and products,28.25,0.59,0.25
+FBS,Fiji,FJI,2023,Milk - Excluding Butter,75.38,5.44,2.79
+FBS,Fiji,FJI,2023,"Pulses, Other and products",14.47,1.08,0.2
+FBS,Fiji,FJI,2023,Rice and products,372.09,7.54,0.97
+FBS,Fiji,FJI,2023,Wheat and products,370.85,11.25,2.08
+FBS,Finland,FIN,2023,Eggs,37.07,3.27,2.58
+FBS,Finland,FIN,2023,Maize and products,1.19,0.03,0.01
+FBS,Finland,FIN,2023,Milk - Excluding Butter,532.96,35.11,29.24
+FBS,Finland,FIN,2023,"Pulses, Other and products",0.63,0.04,0.01
+FBS,Finland,FIN,2023,Rice and products,60.66,1.23,0.16
+FBS,Finland,FIN,2023,Wheat and products,679.05,19.26,10.03
+FBS,France,FRA,2023,Eggs,46.2,4.1,3.21
+FBS,France,FRA,2023,Maize and products,87.13,1.84,0.71
+FBS,France,FRA,2023,Milk - Excluding Butter,402.51,26.96,25.09
+FBS,France,FRA,2023,"Pulses, Other and products",6.8,0.5,0.04
+FBS,France,FRA,2023,Rice and products,64.72,1.34,0.22
+FBS,France,FRA,2023,Wheat and products,737.49,23.14,3.93
+FBS,Gabon,GAB,2023,Eggs,2.82,0.25,0.2
+FBS,Gabon,GAB,2023,Maize and products,143.88,2.98,1.22
+FBS,Gabon,GAB,2023,Milk - Excluding Butter,59.74,2.78,2.53
+FBS,Gabon,GAB,2023,"Pulses, Other and products",1.55,0.12,0.02
+FBS,Gabon,GAB,2023,Rice and products,397.48,8.09,1.03
+FBS,Gabon,GAB,2023,Wheat and products,436.49,13.3,3.2
+FBS,Gambia,GMB,2023,Eggs,6.84,0.61,0.47
+FBS,Gambia,GMB,2023,Maize and products,80.18,1.78,0.73
+FBS,Gambia,GMB,2023,Milk - Excluding Butter,74.94,3.71,3.22
+FBS,Gambia,GMB,2023,"Pulses, Other and products",8.98,0.64,0.05
+FBS,Gambia,GMB,2023,Rice and products,885.06,17.84,2.29
+FBS,Gambia,GMB,2023,Wheat and products,286.88,9.03,1.8
+FBS,Georgia,GEO,2023,Eggs,39.31,3.52,2.72
+FBS,Georgia,GEO,2023,Maize and products,170.88,3.55,1.45
+FBS,Georgia,GEO,2023,Milk - Excluding Butter,335.85,15.95,19.7
+FBS,Georgia,GEO,2023,"Pulses, Other and products",2.56,0.2,0.01
+FBS,Georgia,GEO,2023,Rice and products,29.65,0.61,0.08
+FBS,Georgia,GEO,2023,Wheat and products,886.92,26.93,6.21
+FBS,Germany,DEU,2023,Eggs,50.7,4.47,3.52
+FBS,Germany,DEU,2023,Maize and products,45.65,0.94,0.39
+FBS,Germany,DEU,2023,Milk - Excluding Butter,528.47,34.41,29.15
+FBS,Germany,DEU,2023,"Pulses, Other and products",4.36,0.3,0.04
+FBS,Germany,DEU,2023,Rice and products,37.36,0.75,0.11
+FBS,Germany,DEU,2023,Wheat and products,551.97,17.12,3.38
+FBS,Ghana,GHA,2023,Eggs,3.68,0.33,0.25
+FBS,Ghana,GHA,2023,Maize and products,280.22,6.36,2.59
+FBS,Ghana,GHA,2023,Milk - Excluding Butter,9.74,0.54,0.31
+FBS,Ghana,GHA,2023,"Pulses, Other and products",6.05,0.45,0.09
+FBS,Ghana,GHA,2023,Rice and products,342.55,6.95,0.88
+FBS,Ghana,GHA,2023,Wheat and products,109.93,3.5,0.52
+FBS,Greece,GRC,2023,Eggs,33.86,3.01,2.35
+FBS,Greece,GRC,2023,Maize and products,12.0,0.25,0.1
+FBS,Greece,GRC,2023,Milk - Excluding Butter,453.54,27.61,30.89
+FBS,Greece,GRC,2023,"Pulses, Other and products",13.72,1.0,0.1
+FBS,Greece,GRC,2023,Rice and products,38.31,0.8,0.14
+FBS,Greece,GRC,2023,Wheat and products,787.46,24.15,5.14
+FBS,Grenada,GRD,2023,Eggs,74.07,6.64,5.13
+FBS,Grenada,GRD,2023,Maize and products,33.38,0.84,0.27
+FBS,Grenada,GRD,2023,Milk - Excluding Butter,216.3,10.87,10.26
+FBS,Grenada,GRD,2023,"Pulses, Other and products",36.21,2.5,0.21
+FBS,Grenada,GRD,2023,Rice and products,101.12,2.2,0.55
+FBS,Grenada,GRD,2023,Wheat and products,360.59,9.4,6.13
+FBS,Guatemala,GTM,2023,Eggs,43.24,3.88,2.99
+FBS,Guatemala,GTM,2023,Maize and products,759.37,15.7,6.45
+FBS,Guatemala,GTM,2023,Milk - Excluding Butter,80.86,4.62,4.84
+FBS,Guatemala,GTM,2023,"Pulses, Other and products",22.48,1.73,0.22
+FBS,Guatemala,GTM,2023,Rice and products,68.01,1.39,0.18
+FBS,Guatemala,GTM,2023,Wheat and products,295.65,8.81,2.03
+FBS,Guinea,GIN,2023,Eggs,6.5,0.58,0.45
+FBS,Guinea,GIN,2023,Maize and products,97.52,2.02,0.83
+FBS,Guinea,GIN,2023,Milk - Excluding Butter,30.16,1.48,1.72
+FBS,Guinea,GIN,2023,"Pulses, Other and products",32.42,2.42,0.47
+FBS,Guinea,GIN,2023,Rice and products,966.07,19.63,2.49
+FBS,Guinea,GIN,2023,Wheat and products,151.28,4.71,0.92
+FBS,Guinea-Bissau,GNB,2023,Eggs,3.0,0.26,0.21
+FBS,Guinea-Bissau,GNB,2023,Maize and products,78.37,1.62,0.67
+FBS,Guinea-Bissau,GNB,2023,Milk - Excluding Butter,31.76,1.58,1.88
+FBS,Guinea-Bissau,GNB,2023,"Pulses, Other and products",13.84,1.02,0.18
+FBS,Guinea-Bissau,GNB,2023,Rice and products,1134.4,23.01,2.93
+FBS,Guinea-Bissau,GNB,2023,Wheat and products,79.42,2.39,0.65
+FBS,Guyana,GUY,2023,Eggs,5.56,0.5,0.38
+FBS,Guyana,GUY,2023,Maize and products,21.38,0.48,0.17
+FBS,Guyana,GUY,2023,Milk - Excluding Butter,219.53,12.01,12.17
+FBS,Guyana,GUY,2023,"Pulses, Other and products",22.68,1.48,0.3
+FBS,Guyana,GUY,2023,Rice and products,580.21,11.91,1.57
+FBS,Guyana,GUY,2023,Wheat and products,429.51,11.89,5.35
+FBS,Haiti,HTI,2023,Eggs,1.39,0.12,0.1
+FBS,Haiti,HTI,2023,Maize and products,183.42,4.02,1.73
+FBS,Haiti,HTI,2023,Milk - Excluding Butter,12.72,0.61,0.74
+FBS,Haiti,HTI,2023,"Pulses, Other and products",48.79,3.17,0.47
+FBS,Haiti,HTI,2023,Rice and products,514.92,10.48,1.33
+FBS,Haiti,HTI,2023,Wheat and products,295.44,9.01,2.16
+FBS,Honduras,HND,2023,Eggs,13.63,1.22,0.94
+FBS,Honduras,HND,2023,Maize and products,726.8,15.06,6.17
+FBS,Honduras,HND,2023,Milk - Excluding Butter,116.94,6.22,6.2
+FBS,Honduras,HND,2023,"Pulses, Other and products",0.06,0.0,0.0
+FBS,Honduras,HND,2023,Rice and products,112.23,2.28,0.29
+FBS,Honduras,HND,2023,Wheat and products,203.53,6.12,1.49
+FBS,Hungary,HUN,2023,Eggs,49.9,4.47,3.45
+FBS,Hungary,HUN,2023,Maize and products,7.83,0.21,0.05
+FBS,Hungary,HUN,2023,Milk - Excluding Butter,275.76,16.44,16.44
+FBS,Hungary,HUN,2023,"Pulses, Other and products",2.99,0.23,0.02
+FBS,Hungary,HUN,2023,Rice and products,45.33,0.92,0.12
+FBS,Hungary,HUN,2023,Wheat and products,907.89,27.55,6.49
+FBS,Iceland,ISL,2023,Eggs,31.86,2.79,2.22
+FBS,Iceland,ISL,2023,Maize and products,38.71,1.47,0.47
+FBS,Iceland,ISL,2023,Milk - Excluding Butter,523.06,33.85,34.37
+FBS,Iceland,ISL,2023,"Pulses, Other and products",1.67,0.12,0.01
+FBS,Iceland,ISL,2023,Rice and products,41.88,0.86,0.12
+FBS,Iceland,ISL,2023,Wheat and products,663.59,17.93,14.02
+FBS,India,IND,2023,Eggs,16.41,1.47,1.13
+FBS,India,IND,2023,Maize and products,55.81,1.18,0.47
+FBS,India,IND,2023,Milk - Excluding Butter,213.59,11.71,10.66
+FBS,India,IND,2023,"Pulses, Other and products",97.66,6.35,1.16
+FBS,India,IND,2023,Rice and products,646.08,13.15,1.69
+FBS,India,IND,2023,Wheat and products,565.23,17.86,2.63
+FBS,Indonesia,IDN,2023,Eggs,73.51,6.53,5.11
+FBS,Indonesia,IDN,2023,Maize and products,5.53,0.11,0.05
+FBS,Indonesia,IDN,2023,Milk - Excluding Butter,20.56,1.35,0.82
+FBS,Indonesia,IDN,2023,"Pulses, Other and products",0.75,0.06,0.01
+FBS,Indonesia,IDN,2023,Rice and products,1129.75,23.29,4.03
+FBS,Indonesia,IDN,2023,Wheat and products,206.65,6.79,1.13
+FBS,Iran,IRN,2023,Eggs,29.45,2.64,2.04
+FBS,Iran,IRN,2023,Maize and products,14.77,0.29,0.12
+FBS,Iran,IRN,2023,Milk - Excluding Butter,73.93,5.03,3.46
+FBS,Iran,IRN,2023,"Pulses, Other and products",23.2,1.55,0.28
+FBS,Iran,IRN,2023,Rice and products,207.45,4.22,0.53
+FBS,Iran,IRN,2023,Wheat and products,1206.81,37.79,6.44
+FBS,Iraq,IRQ,2023,Eggs,8.94,0.78,0.62
+FBS,Iraq,IRQ,2023,Maize and products,15.12,0.31,0.13
+FBS,Iraq,IRQ,2023,Milk - Excluding Butter,56.18,3.29,2.89
+FBS,Iraq,IRQ,2023,"Pulses, Other and products",54.07,3.87,0.41
+FBS,Iraq,IRQ,2023,Rice and products,475.05,9.66,1.23
+FBS,Iraq,IRQ,2023,Wheat and products,1098.03,33.75,6.69
+FBS,Ireland,IRL,2023,Eggs,35.99,3.17,2.5
+FBS,Ireland,IRL,2023,Maize and products,126.15,2.87,0.99
+FBS,Ireland,IRL,2023,Milk - Excluding Butter,493.98,28.36,19.88
+FBS,Ireland,IRL,2023,"Pulses, Other and products",2.76,0.18,0.03
+FBS,Ireland,IRL,2023,Rice and products,49.28,1.01,0.15
+FBS,Ireland,IRL,2023,Wheat and products,651.24,19.13,5.4
+FBS,Israel,ISR,2023,Eggs,43.61,3.93,3.01
+FBS,Israel,ISR,2023,Maize and products,87.23,1.0,0.39
+FBS,Israel,ISR,2023,Milk - Excluding Butter,333.65,19.8,21.9
+FBS,Israel,ISR,2023,"Pulses, Other and products",23.82,1.56,0.3
+FBS,Israel,ISR,2023,Rice and products,183.89,3.74,0.48
+FBS,Israel,ISR,2023,Wheat and products,804.76,25.51,4.72
+FBS,Italy,ITA,2023,Eggs,46.04,4.19,3.15
+FBS,Italy,ITA,2023,Maize and products,23.66,0.5,0.2
+FBS,Italy,ITA,2023,Milk - Excluding Butter,417.95,26.36,22.34
+FBS,Italy,ITA,2023,"Pulses, Other and products",25.56,1.87,0.22
+FBS,Italy,ITA,2023,Rice and products,63.09,1.3,0.21
+FBS,Italy,ITA,2023,Wheat and products,955.53,29.9,4.8
+FBS,Jamaica,JAM,2023,Eggs,12.29,1.1,0.85
+FBS,Jamaica,JAM,2023,Maize and products,111.36,2.37,0.93
+FBS,Jamaica,JAM,2023,Milk - Excluding Butter,171.92,8.93,9.76
+FBS,Jamaica,JAM,2023,"Pulses, Other and products",3.33,0.23,0.02
+FBS,Jamaica,JAM,2023,Rice and products,227.81,4.68,0.72
+FBS,Jamaica,JAM,2023,Wheat and products,516.92,15.8,3.33
+None,Japan,JPN,2023,Eggs,None,None,None
+None,Japan,JPN,2023,Maize and products,None,None,None
+None,Japan,JPN,2023,Milk - Excluding Butter,None,None,None
+None,Japan,JPN,2023,"Pulses, Other and products",None,None,None
+None,Japan,JPN,2023,Rice and products,None,None,None
+None,Japan,JPN,2023,Wheat and products,None,None,None
+FBS,Jordan,JOR,2023,Eggs,15.93,1.43,1.1
+FBS,Jordan,JOR,2023,Maize and products,17.79,0.34,0.13
+FBS,Jordan,JOR,2023,Milk - Excluding Butter,163.84,9.63,6.52
+FBS,Jordan,JOR,2023,"Pulses, Other and products",60.68,4.03,0.74
+FBS,Jordan,JOR,2023,Rice and products,200.18,4.07,0.52
+FBS,Jordan,JOR,2023,Wheat and products,755.02,23.97,3.88
+FBS,Kazakhstan,KAZ,2023,Eggs,33.86,3.03,2.34
+FBS,Kazakhstan,KAZ,2023,Maize and products,10.06,0.21,0.08
+FBS,Kazakhstan,KAZ,2023,Milk - Excluding Butter,313.35,18.19,16.11
+FBS,Kazakhstan,KAZ,2023,"Pulses, Other and products",11.23,0.85,0.06
+FBS,Kazakhstan,KAZ,2023,Rice and products,68.69,1.41,0.26
+FBS,Kazakhstan,KAZ,2023,Wheat and products,723.71,22.19,4.65
+FBS,Kenya,KEN,2023,Eggs,4.36,0.39,0.3
+FBS,Kenya,KEN,2023,Maize and products,530.69,10.97,4.51
+FBS,Kenya,KEN,2023,Milk - Excluding Butter,170.14,8.28,9.79
+FBS,Kenya,KEN,2023,"Pulses, Other and products",48.98,3.38,0.37
+FBS,Kenya,KEN,2023,Rice and products,184.04,3.74,0.47
+FBS,Kenya,KEN,2023,Wheat and products,190.06,5.62,2.28
+FBS,Kiribati,KIR,2023,Eggs,12.17,1.09,0.84
+FBS,Kiribati,KIR,2023,Maize and products,0.37,0.01,0.0
+FBS,Kiribati,KIR,2023,Milk - Excluding Butter,37.55,1.6,1.75
+FBS,Kiribati,KIR,2023,"Pulses, Other and products",0.39,0.03,0.0
+FBS,Kiribati,KIR,2023,Rice and products,642.11,13.06,1.66
+FBS,Kiribati,KIR,2023,Wheat and products,364.63,10.38,4.24
+FBS,Kuwait,KWT,2023,Eggs,47.64,4.26,3.3
+FBS,Kuwait,KWT,2023,Maize and products,36.11,0.76,0.3
+FBS,Kuwait,KWT,2023,Milk - Excluding Butter,173.5,10.21,10.75
+FBS,Kuwait,KWT,2023,"Pulses, Other and products",34.56,2.37,0.36
+FBS,Kuwait,KWT,2023,Rice and products,447.89,9.11,1.16
+FBS,Kuwait,KWT,2023,Wheat and products,722.31,21.68,5.5
+FBS,Kyrgyzstan,KGZ,2023,Eggs,22.52,2.01,1.56
+FBS,Kyrgyzstan,KGZ,2023,Maize and products,205.71,4.25,1.75
+FBS,Kyrgyzstan,KGZ,2023,Milk - Excluding Butter,436.63,20.17,24.34
+FBS,Kyrgyzstan,KGZ,2023,"Pulses, Other and products",3.24,0.25,0.01
+FBS,Kyrgyzstan,KGZ,2023,Rice and products,52.32,1.06,0.13
+FBS,Kyrgyzstan,KGZ,2023,Wheat and products,770.13,23.56,5.06
+None,Laos,LAO,2023,Eggs,None,None,None
+None,Laos,LAO,2023,Maize and products,None,None,None
+None,Laos,LAO,2023,Milk - Excluding Butter,None,None,None
+None,Laos,LAO,2023,"Pulses, Other and products",None,None,None
+None,Laos,LAO,2023,Rice and products,None,None,None
+None,Laos,LAO,2023,Wheat and products,None,None,None
+FBS,Latvia,LVA,2023,Eggs,31.24,2.82,2.16
+FBS,Latvia,LVA,2023,Maize and products,12.92,0.75,0.29
+FBS,Latvia,LVA,2023,Milk - Excluding Butter,372.93,24.55,23.52
+FBS,Latvia,LVA,2023,"Pulses, Other and products",6.58,0.49,0.09
+FBS,Latvia,LVA,2023,Rice and products,27.37,0.56,0.08
+FBS,Latvia,LVA,2023,Wheat and products,540.21,16.07,3.14
+FBS,Lebanon,LBN,2023,Eggs,25.16,2.22,1.75
+FBS,Lebanon,LBN,2023,Maize and products,18.84,0.4,0.16
+FBS,Lebanon,LBN,2023,Milk - Excluding Butter,154.01,9.25,9.77
+FBS,Lebanon,LBN,2023,"Pulses, Other and products",38.88,2.73,0.37
+FBS,Lebanon,LBN,2023,Rice and products,89.92,1.83,0.23
+FBS,Lebanon,LBN,2023,Wheat and products,928.07,29.52,6.11
+FBS,Lesotho,LSO,2023,Eggs,1.91,0.17,0.13
+FBS,Lesotho,LSO,2023,Maize and products,848.8,17.73,7.16
+FBS,Lesotho,LSO,2023,Milk - Excluding Butter,144.76,7.0,8.31
+FBS,Lesotho,LSO,2023,"Pulses, Other and products",1.37,0.09,0.01
+FBS,Lesotho,LSO,2023,Rice and products,41.04,0.84,0.11
+FBS,Lesotho,LSO,2023,Wheat and products,217.18,6.73,1.64
+FBS,Liberia,LBR,2023,Eggs,5.23,0.47,0.36
+FBS,Liberia,LBR,2023,Maize and products,2.47,0.06,0.02
+FBS,Liberia,LBR,2023,Milk - Excluding Butter,6.43,0.31,0.36
+FBS,Liberia,LBR,2023,"Pulses, Other and products",14.38,0.96,0.2
+FBS,Liberia,LBR,2023,Rice and products,1071.59,22.4,4.02
+FBS,Liberia,LBR,2023,Wheat and products,25.23,0.69,0.41
+FBS,Libya,LBY,2023,Eggs,30.91,2.77,2.14
+FBS,Libya,LBY,2023,Maize and products,21.25,0.37,0.12
+FBS,Libya,LBY,2023,Milk - Excluding Butter,190.5,10.97,10.31
+FBS,Libya,LBY,2023,"Pulses, Other and products",34.23,2.55,0.28
+FBS,Libya,LBY,2023,Rice and products,110.67,2.25,0.29
+FBS,Libya,LBY,2023,Wheat and products,692.21,20.97,4.72
+None,Liechtenstein,LIE,2023,Eggs,None,None,None
+None,Liechtenstein,LIE,2023,Maize and products,None,None,None
+None,Liechtenstein,LIE,2023,Milk - Excluding Butter,None,None,None
+None,Liechtenstein,LIE,2023,"Pulses, Other and products",None,None,None
+None,Liechtenstein,LIE,2023,Rice and products,None,None,None
+None,Liechtenstein,LIE,2023,Wheat and products,None,None,None
+FBS,Lithuania,LTU,2023,Eggs,48.76,4.31,3.38
+FBS,Lithuania,LTU,2023,Maize and products,30.58,0.74,0.3
+FBS,Lithuania,LTU,2023,Milk - Excluding Butter,490.18,31.61,30.24
+FBS,Lithuania,LTU,2023,"Pulses, Other and products",28.04,1.98,0.26
+FBS,Lithuania,LTU,2023,Rice and products,36.16,0.74,0.11
+FBS,Lithuania,LTU,2023,Wheat and products,612.68,18.69,3.19
+FBS,Luxembourg,LUX,2023,Eggs,92.44,7.81,6.51
+FBS,Luxembourg,LUX,2023,Maize and products,2.27,0.05,0.02
+FBS,Luxembourg,LUX,2023,Milk - Excluding Butter,470.09,29.02,26.19
+FBS,Luxembourg,LUX,2023,"Pulses, Other and products",5.65,0.41,0.05
+FBS,Luxembourg,LUX,2023,Rice and products,57.41,1.2,0.22
+FBS,Luxembourg,LUX,2023,Wheat and products,862.27,22.59,10.87
+FBS,Madagascar,MDG,2023,Eggs,1.77,0.15,0.12
+FBS,Madagascar,MDG,2023,Maize and products,56.5,1.19,0.5
+FBS,Madagascar,MDG,2023,Milk - Excluding Butter,27.64,1.28,1.53
+FBS,Madagascar,MDG,2023,"Pulses, Other and products",4.37,0.31,0.04
+FBS,Madagascar,MDG,2023,Rice and products,1145.32,25.14,6.81
+FBS,Madagascar,MDG,2023,Wheat and products,74.26,2.38,0.41
+FBS,Malawi,MWI,2023,Eggs,3.06,0.27,0.21
+FBS,Malawi,MWI,2023,Maize and products,1116.51,23.09,9.49
+FBS,Malawi,MWI,2023,Milk - Excluding Butter,21.22,1.02,1.24
+FBS,Malawi,MWI,2023,"Pulses, Other and products",100.8,6.82,0.6
+FBS,Malawi,MWI,2023,Rice and products,40.27,0.82,0.1
+FBS,Malawi,MWI,2023,Wheat and products,42.07,1.31,0.24
+FBS,Malaysia,MYS,2023,Eggs,75.41,6.76,5.22
+FBS,Malaysia,MYS,2023,Maize and products,51.74,1.23,0.54
+FBS,Malaysia,MYS,2023,Milk - Excluding Butter,92.56,2.9,2.87
+FBS,Malaysia,MYS,2023,"Pulses, Other and products",17.82,1.32,0.23
+FBS,Malaysia,MYS,2023,Rice and products,700.52,14.27,1.85
+FBS,Malaysia,MYS,2023,Wheat and products,300.41,9.25,1.66
+FBS,Maldives,MDV,2023,Eggs,69.78,6.26,4.83
+FBS,Maldives,MDV,2023,Maize and products,27.63,0.69,0.21
+FBS,Maldives,MDV,2023,Milk - Excluding Butter,225.59,9.1,9.55
+FBS,Maldives,MDV,2023,"Pulses, Other and products",29.59,2.24,0.16
+FBS,Maldives,MDV,2023,Rice and products,472.44,9.61,1.22
+FBS,Maldives,MDV,2023,Wheat and products,483.96,14.55,3.9
+None,Mali,MLI,2023,Eggs,None,None,None
+None,Mali,MLI,2023,Maize and products,None,None,None
+None,Mali,MLI,2023,Milk - Excluding Butter,None,None,None
+None,Mali,MLI,2023,"Pulses, Other and products",None,None,None
+None,Mali,MLI,2023,Rice and products,None,None,None
+None,Mali,MLI,2023,Wheat and products,None,None,None
+FBS,Malta,MLT,2023,Eggs,44.01,3.89,3.06
+FBS,Malta,MLT,2023,Maize and products,139.48,3.02,1.14
+FBS,Malta,MLT,2023,Milk - Excluding Butter,323.39,18.21,19.92
+FBS,Malta,MLT,2023,"Pulses, Other and products",5.55,0.39,0.05
+FBS,Malta,MLT,2023,Rice and products,92.13,1.88,0.24
+FBS,Malta,MLT,2023,Wheat and products,900.16,25.57,10.87
+FBS,Marshall Islands,MHL,2023,Eggs,38.28,3.14,2.71
+FBS,Marshall Islands,MHL,2023,Maize and products,15.77,0.41,0.11
+FBS,Marshall Islands,MHL,2023,Milk - Excluding Butter,96.4,4.44,5.12
+FBS,Marshall Islands,MHL,2023,"Pulses, Other and products",3.79,0.27,0.03
+FBS,Marshall Islands,MHL,2023,Rice and products,352.79,7.2,0.94
+FBS,Marshall Islands,MHL,2023,Wheat and products,645.5,16.47,11.15
+FBS,Mauritania,MRT,2023,Eggs,3.8,0.33,0.27
+FBS,Mauritania,MRT,2023,Maize and products,53.83,1.26,0.51
+FBS,Mauritania,MRT,2023,Milk - Excluding Butter,228.09,11.46,12.56
+FBS,Mauritania,MRT,2023,"Pulses, Other and products",43.88,3.22,0.53
+FBS,Mauritania,MRT,2023,Rice and products,456.01,9.27,1.18
+FBS,Mauritania,MRT,2023,Wheat and products,852.79,26.36,5.11
+FBS,Mauritius,MUS,2023,Eggs,26.83,2.41,1.86
+FBS,Mauritius,MUS,2023,Maize and products,38.65,0.84,0.32
+FBS,Mauritius,MUS,2023,Milk - Excluding Butter,175.19,11.57,7.71
+FBS,Mauritius,MUS,2023,"Pulses, Other and products",39.3,2.86,0.34
+FBS,Mauritius,MUS,2023,Rice and products,345.91,7.03,0.9
+FBS,Mauritius,MUS,2023,Wheat and products,883.8,26.72,6.62
+FBS,Mexico,MEX,2023,Eggs,74.99,6.73,5.19
+FBS,Mexico,MEX,2023,Maize and products,1028.93,21.13,8.68
+FBS,Mexico,MEX,2023,Milk - Excluding Butter,202.23,10.64,11.53
+FBS,Mexico,MEX,2023,"Pulses, Other and products",12.52,0.93,0.1
+FBS,Mexico,MEX,2023,Rice and products,55.0,1.12,0.14
+FBS,Mexico,MEX,2023,Wheat and products,224.0,6.99,1.15
+FBS,Micronesia,FSM,2023,Eggs,17.74,1.59,1.23
+FBS,Micronesia,FSM,2023,Maize and products,0.17,0.0,0.0
+FBS,Micronesia,FSM,2023,Milk - Excluding Butter,33.9,0.95,1.49
+FBS,Micronesia,FSM,2023,"Pulses, Other and products",0.01,0.0,0.0
+FBS,Micronesia,FSM,2023,Rice and products,269.97,5.5,0.7
+FBS,Micronesia,FSM,2023,Wheat and products,257.7,6.1,4.69
+FBS,Moldova,MDA,2023,Eggs,42.79,3.84,2.96
+FBS,Moldova,MDA,2023,Maize and products,112.25,2.2,0.9
+FBS,Moldova,MDA,2023,Milk - Excluding Butter,251.02,14.32,12.81
+FBS,Moldova,MDA,2023,"Pulses, Other and products",11.11,0.67,0.17
+FBS,Moldova,MDA,2023,Rice and products,30.5,0.62,0.08
+FBS,Moldova,MDA,2023,Wheat and products,800.0,25.03,8.22
+None,Monaco,MCO,2023,Eggs,None,None,None
+None,Monaco,MCO,2023,Maize and products,None,None,None
+None,Monaco,MCO,2023,Milk - Excluding Butter,None,None,None
+None,Monaco,MCO,2023,"Pulses, Other and products",None,None,None
+None,Monaco,MCO,2023,Rice and products,None,None,None
+None,Monaco,MCO,2023,Wheat and products,None,None,None
+FBS,Mongolia,MNG,2023,Eggs,24.38,2.16,1.69
+FBS,Mongolia,MNG,2023,Maize and products,0.91,0.02,0.01
+FBS,Mongolia,MNG,2023,Milk - Excluding Butter,367.75,17.75,21.58
+FBS,Mongolia,MNG,2023,"Pulses, Other and products",3.07,0.23,0.04
+FBS,Mongolia,MNG,2023,Rice and products,147.56,3.0,0.38
+FBS,Mongolia,MNG,2023,Wheat and products,734.74,20.74,10.08
+FBS,Montenegro,MNE,2023,Eggs,46.62,4.18,3.23
+FBS,Montenegro,MNE,2023,Maize and products,40.23,1.03,0.35
+FBS,Montenegro,MNE,2023,Milk - Excluding Butter,607.16,34.52,37.99
+FBS,Montenegro,MNE,2023,"Pulses, Other and products",1.17,0.08,0.01
+FBS,Montenegro,MNE,2023,Rice and products,23.25,0.48,0.08
+FBS,Montenegro,MNE,2023,Wheat and products,1058.2,29.6,13.47
+FBS,Morocco,MAR,2023,Eggs,26.69,2.39,1.85
+FBS,Morocco,MAR,2023,Maize and products,310.94,6.43,2.64
+FBS,Morocco,MAR,2023,Milk - Excluding Butter,69.67,5.07,2.71
+FBS,Morocco,MAR,2023,"Pulses, Other and products",50.23,4.12,0.6
+FBS,Morocco,MAR,2023,Rice and products,24.79,0.49,0.07
+FBS,Morocco,MAR,2023,Wheat and products,1361.15,42.81,6.69
+FBS,Mozambique,MOZ,2023,Eggs,1.73,0.15,0.12
+FBS,Mozambique,MOZ,2023,Maize and products,524.92,10.86,4.46
+FBS,Mozambique,MOZ,2023,Milk - Excluding Butter,4.61,0.21,0.19
+FBS,Mozambique,MOZ,2023,"Pulses, Other and products",27.44,1.96,0.25
+FBS,Mozambique,MOZ,2023,Rice and products,252.99,5.16,0.68
+FBS,Mozambique,MOZ,2023,Wheat and products,164.74,4.98,1.25
+FBS,Myanmar,MMR,2023,Eggs,7.13,0.62,0.5
+FBS,Myanmar,MMR,2023,Maize and products,26.47,0.55,0.22
+FBS,Myanmar,MMR,2023,Milk - Excluding Butter,21.68,1.25,1.19
+FBS,Myanmar,MMR,2023,"Pulses, Other and products",56.14,3.51,0.76
+FBS,Myanmar,MMR,2023,Rice and products,1634.74,33.25,4.22
+FBS,Myanmar,MMR,2023,Wheat and products,53.74,1.68,0.3
+FBS,Namibia,NAM,2023,Eggs,3.05,0.26,0.22
+FBS,Namibia,NAM,2023,Maize and products,537.12,11.21,4.53
+FBS,Namibia,NAM,2023,Milk - Excluding Butter,102.83,5.35,5.38
+FBS,Namibia,NAM,2023,"Pulses, Other and products",59.19,4.45,0.87
+FBS,Namibia,NAM,2023,Rice and products,75.74,1.51,0.21
+FBS,Namibia,NAM,2023,Wheat and products,455.42,14.05,3.63
+FBS,Nauru,NRU,2023,Eggs,43.32,3.65,3.08
+FBS,Nauru,NRU,2023,Maize and products,0.28,0.01,0.0
+FBS,Nauru,NRU,2023,Milk - Excluding Butter,142.07,7.8,5.65
+FBS,Nauru,NRU,2023,"Pulses, Other and products",0.41,0.03,0.01
+FBS,Nauru,NRU,2023,Rice and products,256.02,5.22,0.67
+FBS,Nauru,NRU,2023,Wheat and products,559.19,16.41,7.82
+FBS,Nepal,NPL,2023,Eggs,8.24,0.74,0.57
+FBS,Nepal,NPL,2023,Maize and products,322.1,6.66,2.74
+FBS,Nepal,NPL,2023,Milk - Excluding Butter,121.48,6.36,6.38
+FBS,Nepal,NPL,2023,"Pulses, Other and products",112.35,7.97,1.05
+FBS,Nepal,NPL,2023,Rice and products,841.31,17.12,2.17
+FBS,Nepal,NPL,2023,Wheat and products,419.89,13.35,2.2
+FBS,Netherlands,NLD,2023,Eggs,64.28,5.51,4.5
+FBS,Netherlands,NLD,2023,Maize and products,20.07,0.41,0.17
+FBS,Netherlands,NLD,2023,Milk - Excluding Butter,595.58,33.39,31.82
+FBS,Netherlands,NLD,2023,"Pulses, Other and products",6.46,0.47,0.06
+FBS,Netherlands,NLD,2023,Rice and products,15.92,0.32,0.04
+FBS,Netherlands,NLD,2023,Wheat and products,511.54,15.87,2.72
+FBS,New Zealand,NZL,2023,Eggs,38.0,3.39,2.63
+FBS,New Zealand,NZL,2023,Maize and products,29.84,0.64,0.25
+FBS,New Zealand,NZL,2023,Milk - Excluding Butter,102.6,5.55,6.39
+FBS,New Zealand,NZL,2023,"Pulses, Other and products",29.27,2.2,0.21
+FBS,New Zealand,NZL,2023,Rice and products,104.47,2.13,0.28
+FBS,New Zealand,NZL,2023,Wheat and products,755.49,23.65,5.79
+FBS,Nicaragua,NIC,2023,Eggs,16.66,1.49,1.15
+FBS,Nicaragua,NIC,2023,Maize and products,584.72,12.15,4.95
+FBS,Nicaragua,NIC,2023,Milk - Excluding Butter,202.03,10.9,12.54
+FBS,Nicaragua,NIC,2023,"Pulses, Other and products",0.02,0.0,0.0
+FBS,Nicaragua,NIC,2023,Rice and products,531.84,10.8,1.38
+FBS,Nicaragua,NIC,2023,Wheat and products,245.62,6.77,3.19
+FBS,Niger,NER,2023,Eggs,0.8,0.07,0.06
+FBS,Niger,NER,2023,Maize and products,13.47,0.28,0.11
+FBS,Niger,NER,2023,Milk - Excluding Butter,83.79,5.05,4.2
+FBS,Niger,NER,2023,"Pulses, Other and products",449.11,31.06,2.83
+FBS,Niger,NER,2023,Rice and products,250.61,5.19,0.84
+FBS,Niger,NER,2023,Wheat and products,33.06,1.03,0.19
+FBS,Nigeria,NGA,2023,Eggs,9.13,0.82,0.63
+FBS,Nigeria,NGA,2023,Maize and products,284.7,6.83,2.78
+FBS,Nigeria,NGA,2023,Milk - Excluding Butter,6.75,0.41,0.28
+FBS,Nigeria,NGA,2023,"Pulses, Other and products",106.25,7.39,0.64
+FBS,Nigeria,NGA,2023,Rice and products,213.09,4.4,0.69
+FBS,Nigeria,NGA,2023,Wheat and products,146.49,4.54,0.66
+None,North Korea,PRK,2023,Eggs,None,None,None
+None,North Korea,PRK,2023,Maize and products,None,None,None
+None,North Korea,PRK,2023,Milk - Excluding Butter,None,None,None
+None,North Korea,PRK,2023,"Pulses, Other and products",None,None,None
+None,North Korea,PRK,2023,Rice and products,None,None,None
+None,North Korea,PRK,2023,Wheat and products,None,None,None
+FBS,North Macedonia,MKD,2023,Eggs,22.0,2.01,1.51
+FBS,North Macedonia,MKD,2023,Maize and products,100.71,2.08,0.86
+FBS,North Macedonia,MKD,2023,Milk - Excluding Butter,226.44,14.83,11.63
+FBS,North Macedonia,MKD,2023,"Pulses, Other and products",8.84,0.58,0.11
+FBS,North Macedonia,MKD,2023,Rice and products,23.61,0.49,0.1
+FBS,North Macedonia,MKD,2023,Wheat and products,774.45,23.74,5.11
+FBS,Norway,NOR,2023,Eggs,42.56,3.8,2.95
+FBS,Norway,NOR,2023,Maize and products,4.43,0.12,0.03
+FBS,Norway,NOR,2023,Milk - Excluding Butter,318.39,21.43,17.68
+FBS,Norway,NOR,2023,"Pulses, Other and products",82.21,5.04,1.08
+FBS,Norway,NOR,2023,Rice and products,46.43,0.95,0.13
+FBS,Norway,NOR,2023,Wheat and products,932.07,25.52,12.29
+FBS,Oman,OMN,2023,Eggs,19.25,1.7,1.34
+FBS,Oman,OMN,2023,Maize and products,155.72,3.23,1.32
+FBS,Oman,OMN,2023,Milk - Excluding Butter,258.57,13.63,14.41
+FBS,Oman,OMN,2023,"Pulses, Other and products",43.45,2.98,0.47
+FBS,Oman,OMN,2023,Rice and products,342.67,6.98,0.9
+FBS,Oman,OMN,2023,Wheat and products,408.71,10.36,6.88
+FBS,Pakistan,PAK,2023,Eggs,13.77,1.2,0.96
+FBS,Pakistan,PAK,2023,Maize and products,55.33,1.14,0.47
+FBS,Pakistan,PAK,2023,Milk - Excluding Butter,367.35,20.03,18.37
+FBS,Pakistan,PAK,2023,"Pulses, Other and products",42.36,2.67,0.61
+FBS,Pakistan,PAK,2023,Rice and products,67.58,1.39,0.21
+FBS,Pakistan,PAK,2023,Wheat and products,948.17,30.95,4.97
+None,Palau,PLW,2023,Eggs,None,None,None
+None,Palau,PLW,2023,Maize and products,None,None,None
+None,Palau,PLW,2023,Milk - Excluding Butter,None,None,None
+None,Palau,PLW,2023,"Pulses, Other and products",None,None,None
+None,Palau,PLW,2023,Rice and products,None,None,None
+None,Palau,PLW,2023,Wheat and products,None,None,None
+None,Palestine,PSE,2023,Eggs,None,None,None
+None,Palestine,PSE,2023,Maize and products,None,None,None
+None,Palestine,PSE,2023,Milk - Excluding Butter,None,None,None
+None,Palestine,PSE,2023,"Pulses, Other and products",None,None,None
+None,Palestine,PSE,2023,Rice and products,None,None,None
+None,Palestine,PSE,2023,Wheat and products,None,None,None
+FBS,Panama,PAN,2023,Eggs,23.75,2.11,1.65
+FBS,Panama,PAN,2023,Maize and products,229.63,4.47,1.76
+FBS,Panama,PAN,2023,Milk - Excluding Butter,115.76,8.15,6.18
+FBS,Panama,PAN,2023,"Pulses, Other and products",19.37,1.44,0.09
+FBS,Panama,PAN,2023,Rice and products,632.64,12.85,1.65
+FBS,Panama,PAN,2023,Wheat and products,333.32,9.34,4.66
+FBS,Papua New Guinea,PNG,2023,Eggs,1.51,0.14,0.11
+FBS,Papua New Guinea,PNG,2023,Maize and products,9.98,0.21,0.08
+FBS,Papua New Guinea,PNG,2023,Milk - Excluding Butter,4.7,0.23,0.22
+FBS,Papua New Guinea,PNG,2023,"Pulses, Other and products",2.95,0.22,0.04
+FBS,Papua New Guinea,PNG,2023,Rice and products,303.21,6.16,0.79
+FBS,Papua New Guinea,PNG,2023,Wheat and products,252.0,7.84,1.41
+FBS,Paraguay,PRY,2023,Eggs,60.01,5.38,4.15
+FBS,Paraguay,PRY,2023,Maize and products,771.1,15.97,6.55
+FBS,Paraguay,PRY,2023,Milk - Excluding Butter,118.9,5.77,6.8
+FBS,Paraguay,PRY,2023,"Pulses, Other and products",16.93,1.35,0.1
+FBS,Paraguay,PRY,2023,Rice and products,28.09,0.57,0.07
+FBS,Paraguay,PRY,2023,Wheat and products,327.0,9.77,2.6
+FBS,Peru,PER,2023,Eggs,38.12,3.42,2.64
+FBS,Peru,PER,2023,Maize and products,139.97,3.2,1.41
+FBS,Peru,PER,2023,Milk - Excluding Butter,127.34,6.61,6.91
+FBS,Peru,PER,2023,"Pulses, Other and products",39.35,3.12,0.27
+FBS,Peru,PER,2023,Rice and products,457.81,8.96,1.14
+FBS,Peru,PER,2023,Wheat and products,367.4,12.05,3.46
+FBS,Philippines,PHL,2023,Eggs,20.33,1.8,1.41
+FBS,Philippines,PHL,2023,Maize and products,190.84,3.84,1.58
+FBS,Philippines,PHL,2023,Milk - Excluding Butter,24.76,1.8,0.71
+FBS,Philippines,PHL,2023,"Pulses, Other and products",2.74,0.2,0.04
+FBS,Philippines,PHL,2023,Rice and products,1253.02,25.49,3.23
+FBS,Philippines,PHL,2023,Wheat and products,327.04,10.03,1.92
+FBS,Poland,POL,2023,Eggs,17.96,1.63,1.24
+None,Poland,POL,2023,Maize and products,None,None,None
+FBS,Poland,POL,2023,Milk - Excluding Butter,447.84,27.69,22.78
+FBS,Poland,POL,2023,"Pulses, Other and products",16.54,1.16,0.16
+FBS,Poland,POL,2023,Rice and products,23.07,0.48,0.09
+FBS,Poland,POL,2023,Wheat and products,762.65,24.0,3.72
+FBS,Portugal,PRT,2023,Eggs,43.65,3.82,3.04
+FBS,Portugal,PRT,2023,Maize and products,129.46,2.7,1.09
+FBS,Portugal,PRT,2023,Milk - Excluding Butter,320.98,21.51,14.58
+FBS,Portugal,PRT,2023,"Pulses, Other and products",3.41,0.25,0.03
+FBS,Portugal,PRT,2023,Rice and products,145.16,2.91,0.39
+FBS,Portugal,PRT,2023,Wheat and products,714.6,21.0,6.69
+FBS,Qatar,QAT,2023,Eggs,49.8,4.41,3.45
+FBS,Qatar,QAT,2023,Maize and products,33.95,0.72,0.28
+FBS,Qatar,QAT,2023,Milk - Excluding Butter,140.86,7.83,7.52
+FBS,Qatar,QAT,2023,"Pulses, Other and products",62.64,4.43,0.64
+FBS,Qatar,QAT,2023,Rice and products,631.2,12.84,1.63
+FBS,Qatar,QAT,2023,Wheat and products,664.25,19.93,6.86
+FBS,Romania,ROU,2023,Eggs,46.17,4.1,3.2
+FBS,Romania,ROU,2023,Maize and products,224.87,4.66,1.91
+FBS,Romania,ROU,2023,Milk - Excluding Butter,460.69,25.71,27.7
+FBS,Romania,ROU,2023,"Pulses, Other and products",1.63,0.12,0.02
+FBS,Romania,ROU,2023,Rice and products,22.72,0.49,0.11
+FBS,Romania,ROU,2023,Wheat and products,976.71,29.85,6.32
+FBS,Russia,RUS,2023,Eggs,58.68,5.26,4.06
+FBS,Russia,RUS,2023,Maize and products,7.7,0.16,0.07
+FBS,Russia,RUS,2023,Milk - Excluding Butter,375.33,19.95,22.31
+FBS,Russia,RUS,2023,"Pulses, Other and products",1.39,0.09,0.02
+FBS,Russia,RUS,2023,Rice and products,54.54,1.11,0.14
+FBS,Russia,RUS,2023,Wheat and products,1006.63,31.68,4.85
+FBS,Rwanda,RWA,2023,Eggs,1.25,0.11,0.09
+FBS,Rwanda,RWA,2023,Maize and products,307.47,7.45,3.03
+FBS,Rwanda,RWA,2023,Milk - Excluding Butter,29.62,1.69,1.44
+FBS,Rwanda,RWA,2023,"Pulses, Other and products",0.08,0.01,0.0
+FBS,Rwanda,RWA,2023,Rice and products,166.63,3.39,0.43
+FBS,Rwanda,RWA,2023,Wheat and products,121.35,3.93,0.74
+FBS,Saint Kitts and Nevis,KNA,2023,Eggs,13.16,1.18,0.91
+FBS,Saint Kitts and Nevis,KNA,2023,Maize and products,13.26,0.27,0.11
+FBS,Saint Kitts and Nevis,KNA,2023,Milk - Excluding Butter,137.28,7.24,8.19
+FBS,Saint Kitts and Nevis,KNA,2023,"Pulses, Other and products",38.1,2.85,0.54
+FBS,Saint Kitts and Nevis,KNA,2023,Rice and products,251.7,5.13,0.67
+FBS,Saint Kitts and Nevis,KNA,2023,Wheat and products,397.56,11.4,4.23
+FBS,Saint Lucia,LCA,2023,Eggs,17.81,1.6,1.23
+FBS,Saint Lucia,LCA,2023,Maize and products,133.15,2.86,1.1
+FBS,Saint Lucia,LCA,2023,Milk - Excluding Butter,94.99,5.81,5.76
+FBS,Saint Lucia,LCA,2023,"Pulses, Other and products",57.58,4.39,0.27
+FBS,Saint Lucia,LCA,2023,Rice and products,174.13,3.55,0.47
+FBS,Saint Lucia,LCA,2023,Wheat and products,564.34,16.1,6.78
+FBS,Saint Vincent and the Grenadines,VCT,2023,Eggs,16.71,1.5,1.16
+FBS,Saint Vincent and the Grenadines,VCT,2023,Maize and products,85.78,1.86,0.7
+FBS,Saint Vincent and the Grenadines,VCT,2023,Milk - Excluding Butter,157.43,9.91,7.36
+FBS,Saint Vincent and the Grenadines,VCT,2023,"Pulses, Other and products",68.06,5.07,0.81
+FBS,Saint Vincent and the Grenadines,VCT,2023,Rice and products,128.79,2.82,0.77
+FBS,Saint Vincent and the Grenadines,VCT,2023,Wheat and products,561.68,15.81,6.46
+FBS,Samoa,WSM,2023,Eggs,5.16,0.46,0.36
+FBS,Samoa,WSM,2023,Maize and products,25.41,0.64,0.18
+FBS,Samoa,WSM,2023,Milk - Excluding Butter,89.6,4.39,5.21
+FBS,Samoa,WSM,2023,"Pulses, Other and products",0.05,0.0,0.0
+FBS,Samoa,WSM,2023,Rice and products,377.06,7.67,0.97
+FBS,Samoa,WSM,2023,Wheat and products,530.27,15.38,5.24
+None,San Marino,SMR,2023,Eggs,None,None,None
+None,San Marino,SMR,2023,Maize and products,None,None,None
+None,San Marino,SMR,2023,Milk - Excluding Butter,None,None,None
+None,San Marino,SMR,2023,"Pulses, Other and products",None,None,None
+None,San Marino,SMR,2023,Rice and products,None,None,None
+None,San Marino,SMR,2023,Wheat and products,None,None,None
+FBS,Sao Tome and Principe,STP,2023,Eggs,2.48,0.22,0.17
+FBS,Sao Tome and Principe,STP,2023,Maize and products,52.46,1.08,0.45
+FBS,Sao Tome and Principe,STP,2023,Milk - Excluding Butter,31.63,1.74,1.3
+FBS,Sao Tome and Principe,STP,2023,"Pulses, Other and products",2.77,0.17,0.04
+FBS,Sao Tome and Principe,STP,2023,Rice and products,411.22,8.37,1.06
+FBS,Sao Tome and Principe,STP,2023,Wheat and products,355.51,10.93,2.49
+FBS,Saudi Arabia,SAU,2023,Eggs,39.23,3.47,2.73
+FBS,Saudi Arabia,SAU,2023,Maize and products,251.12,5.2,2.12
+FBS,Saudi Arabia,SAU,2023,Milk - Excluding Butter,176.36,10.58,9.47
+FBS,Saudi Arabia,SAU,2023,"Pulses, Other and products",46.93,3.38,0.45
+FBS,Saudi Arabia,SAU,2023,Rice and products,325.64,6.64,0.87
+FBS,Saudi Arabia,SAU,2023,Wheat and products,951.06,29.59,5.13
+FBS,Senegal,SEN,2023,Eggs,11.48,1.03,0.79
+FBS,Senegal,SEN,2023,Maize and products,207.85,4.3,1.77
+FBS,Senegal,SEN,2023,Milk - Excluding Butter,32.95,1.69,1.85
+FBS,Senegal,SEN,2023,"Pulses, Other and products",39.55,2.74,0.26
+FBS,Senegal,SEN,2023,Rice and products,792.82,15.98,2.06
+FBS,Senegal,SEN,2023,Wheat and products,341.58,10.98,2.15
+FBS,Serbia,SRB,2023,Eggs,40.06,3.62,2.76
+FBS,Serbia,SRB,2023,Maize and products,65.33,1.35,0.56
+FBS,Serbia,SRB,2023,Milk - Excluding Butter,332.09,18.57,17.26
+FBS,Serbia,SRB,2023,"Pulses, Other and products",3.25,0.23,0.04
+FBS,Serbia,SRB,2023,Rice and products,17.01,0.35,0.05
+FBS,Serbia,SRB,2023,Wheat and products,1726.86,53.4,10.08
+FBS,Seychelles,SYC,2023,Eggs,36.78,3.25,2.56
+FBS,Seychelles,SYC,2023,Maize and products,191.61,4.21,1.55
+FBS,Seychelles,SYC,2023,Milk - Excluding Butter,132.83,7.98,6.54
+FBS,Seychelles,SYC,2023,"Pulses, Other and products",43.74,3.24,0.32
+FBS,Seychelles,SYC,2023,Rice and products,285.64,5.81,0.74
+FBS,Seychelles,SYC,2023,Wheat and products,574.34,15.39,8.68
+FBS,Sierra Leone,SLE,2023,Eggs,4.4,0.4,0.3
+FBS,Sierra Leone,SLE,2023,Maize and products,18.99,0.4,0.16
+FBS,Sierra Leone,SLE,2023,Milk - Excluding Butter,16.55,0.78,0.9
+FBS,Sierra Leone,SLE,2023,"Pulses, Other and products",73.38,5.49,1.06
+FBS,Sierra Leone,SLE,2023,Rice and products,1137.87,23.16,2.96
+FBS,Sierra Leone,SLE,2023,Wheat and products,60.67,1.87,0.4
+None,Singapore,SGP,2023,Eggs,None,None,None
+None,Singapore,SGP,2023,Maize and products,None,None,None
+None,Singapore,SGP,2023,Milk - Excluding Butter,None,None,None
+None,Singapore,SGP,2023,"Pulses, Other and products",None,None,None
+None,Singapore,SGP,2023,Rice and products,None,None,None
+None,Singapore,SGP,2023,Wheat and products,None,None,None
+FBS,Slovakia,SVK,2023,Eggs,27.2,2.36,1.9
+FBS,Slovakia,SVK,2023,Maize and products,0.0,0.0,0.0
+FBS,Slovakia,SVK,2023,Milk - Excluding Butter,213.19,13.31,12.08
+FBS,Slovakia,SVK,2023,"Pulses, Other and products",4.0,0.3,0.02
+FBS,Slovakia,SVK,2023,Rice and products,28.53,0.59,0.1
+FBS,Slovakia,SVK,2023,Wheat and products,670.37,19.19,6.84
+FBS,Slovenia,SVN,2023,Eggs,35.47,3.12,2.47
+FBS,Slovenia,SVN,2023,Maize and products,262.25,5.52,2.2
+FBS,Slovenia,SVN,2023,Milk - Excluding Butter,302.44,20.93,16.77
+FBS,Slovenia,SVN,2023,"Pulses, Other and products",0.85,0.06,0.01
+FBS,Slovenia,SVN,2023,Rice and products,37.39,0.74,0.1
+FBS,Slovenia,SVN,2023,Wheat and products,820.42,23.34,8.61
+FBS,Solomon Islands,SLB,2023,Eggs,2.92,0.26,0.2
+FBS,Solomon Islands,SLB,2023,Maize and products,0.26,0.01,0.0
+FBS,Solomon Islands,SLB,2023,Milk - Excluding Butter,17.13,0.84,0.89
+FBS,Solomon Islands,SLB,2023,"Pulses, Other and products",67.4,5.03,0.98
+FBS,Solomon Islands,SLB,2023,Rice and products,466.2,9.47,1.2
+FBS,Solomon Islands,SLB,2023,Wheat and products,245.64,7.27,2.21
+None,Somalia,SOM,2023,Eggs,None,None,None
+None,Somalia,SOM,2023,Maize and products,None,None,None
+None,Somalia,SOM,2023,Milk - Excluding Butter,None,None,None
+None,Somalia,SOM,2023,"Pulses, Other and products",None,None,None
+None,Somalia,SOM,2023,Rice and products,None,None,None
+None,Somalia,SOM,2023,Wheat and products,None,None,None
+FBS,South Africa,ZAF,2023,Eggs,21.35,1.83,1.49
+FBS,South Africa,ZAF,2023,Maize and products,613.49,18.46,7.4
+FBS,South Africa,ZAF,2023,Milk - Excluding Butter,92.33,4.51,5.53
+FBS,South Africa,ZAF,2023,"Pulses, Other and products",2.04,0.14,0.02
+FBS,South Africa,ZAF,2023,Rice and products,151.69,3.09,0.39
+FBS,South Africa,ZAF,2023,Wheat and products,433.31,14.16,2.28
+FBS,South Korea,KOR,2023,Eggs,45.44,4.03,3.16
+FBS,South Korea,KOR,2023,Maize and products,112.03,0.66,0.27
+FBS,South Korea,KOR,2023,Milk - Excluding Butter,53.17,3.54,2.96
+FBS,South Korea,KOR,2023,"Pulses, Other and products",3.47,0.25,0.04
+FBS,South Korea,KOR,2023,Rice and products,582.71,11.96,1.69
+FBS,South Korea,KOR,2023,Wheat and products,388.92,12.97,2.23
+None,South Sudan,SSD,2023,Eggs,None,None,None
+None,South Sudan,SSD,2023,Maize and products,None,None,None
+None,South Sudan,SSD,2023,Milk - Excluding Butter,None,None,None
+None,South Sudan,SSD,2023,"Pulses, Other and products",None,None,None
+None,South Sudan,SSD,2023,Rice and products,None,None,None
+None,South Sudan,SSD,2023,Wheat and products,None,None,None
+FBS,Spain,ESP,2023,Eggs,52.31,4.7,3.62
+FBS,Spain,ESP,2023,Maize and products,16.79,0.35,0.14
+FBS,Spain,ESP,2023,Milk - Excluding Butter,348.36,20.43,19.87
+FBS,Spain,ESP,2023,"Pulses, Other and products",29.28,1.94,0.32
+FBS,Spain,ESP,2023,Rice and products,62.16,1.32,0.31
+FBS,Spain,ESP,2023,Wheat and products,647.94,20.23,3.32
+FBS,Sri Lanka,LKA,2023,Eggs,13.29,1.09,0.94
+FBS,Sri Lanka,LKA,2023,Maize and products,47.22,0.98,0.4
+FBS,Sri Lanka,LKA,2023,Milk - Excluding Butter,82.5,4.07,4.09
+FBS,Sri Lanka,LKA,2023,"Pulses, Other and products",87.83,6.54,0.47
+FBS,Sri Lanka,LKA,2023,Rice and products,1175.29,23.91,3.06
+FBS,Sri Lanka,LKA,2023,Wheat and products,269.76,8.8,1.42
+None,Sudan,SDN,2023,Eggs,None,None,None
+None,Sudan,SDN,2023,Maize and products,None,None,None
+None,Sudan,SDN,2023,Milk - Excluding Butter,None,None,None
+None,Sudan,SDN,2023,"Pulses, Other and products",None,None,None
+None,Sudan,SDN,2023,Rice and products,None,None,None
+None,Sudan,SDN,2023,Wheat and products,None,None,None
+FBS,Suriname,SUR,2023,Eggs,19.86,1.78,1.37
+FBS,Suriname,SUR,2023,Maize and products,18.31,0.45,0.18
+FBS,Suriname,SUR,2023,Milk - Excluding Butter,69.61,4.42,3.34
+FBS,Suriname,SUR,2023,"Pulses, Other and products",0.95,0.06,0.01
+FBS,Suriname,SUR,2023,Rice and products,575.71,11.74,1.53
+FBS,Suriname,SUR,2023,Wheat and products,446.1,12.98,4.18
+FBS,Sweden,SWE,2023,Eggs,37.74,3.27,2.63
+FBS,Sweden,SWE,2023,Maize and products,13.5,0.29,0.12
+FBS,Sweden,SWE,2023,Milk - Excluding Butter,433.7,27.44,23.61
+FBS,Sweden,SWE,2023,"Pulses, Other and products",2.94,0.2,0.03
+FBS,Sweden,SWE,2023,Rice and products,64.12,1.3,0.17
+FBS,Sweden,SWE,2023,Wheat and products,717.66,21.58,5.26
+FBS,Switzerland,CHE,2023,Eggs,39.19,3.41,2.73
+FBS,Switzerland,CHE,2023,Maize and products,6.85,0.15,0.06
+FBS,Switzerland,CHE,2023,Milk - Excluding Butter,488.17,28.97,33.1
+FBS,Switzerland,CHE,2023,"Pulses, Other and products",3.84,0.27,0.03
+FBS,Switzerland,CHE,2023,Rice and products,27.0,0.56,0.09
+FBS,Switzerland,CHE,2023,Wheat and products,790.92,22.54,9.11
+FBS,Syria,SYR,2023,Eggs,14.22,1.28,0.98
+FBS,Syria,SYR,2023,Maize and products,54.72,1.06,0.5
+FBS,Syria,SYR,2023,Milk - Excluding Butter,150.5,8.22,9.85
+FBS,Syria,SYR,2023,"Pulses, Other and products",59.42,4.32,0.44
+FBS,Syria,SYR,2023,Rice and products,81.87,1.74,0.26
+FBS,Syria,SYR,2023,Wheat and products,1143.95,35.92,5.82
+FBS,Tajikistan,TJK,2023,Eggs,21.62,1.94,1.5
+FBS,Tajikistan,TJK,2023,Maize and products,6.74,0.14,0.06
+FBS,Tajikistan,TJK,2023,Milk - Excluding Butter,205.99,9.84,12.39
+FBS,Tajikistan,TJK,2023,"Pulses, Other and products",6.23,0.41,0.08
+FBS,Tajikistan,TJK,2023,Rice and products,121.34,2.51,0.41
+FBS,Tajikistan,TJK,2023,Wheat and products,1135.13,34.19,9.45
+FBS,Tanzania,TZA,2023,Eggs,9.8,0.88,0.68
+FBS,Tanzania,TZA,2023,Maize and products,723.66,14.97,6.15
+FBS,Tanzania,TZA,2023,Milk - Excluding Butter,87.09,5.13,4.12
+FBS,Tanzania,TZA,2023,"Pulses, Other and products",26.3,1.83,0.19
+FBS,Tanzania,TZA,2023,Rice and products,298.82,6.08,0.78
+FBS,Tanzania,TZA,2023,Wheat and products,99.68,3.14,0.49
+FBS,Thailand,THA,2023,Eggs,43.87,3.68,3.12
+FBS,Thailand,THA,2023,Maize and products,92.21,2.12,0.95
+FBS,Thailand,THA,2023,Milk - Excluding Butter,47.7,2.83,2.19
+FBS,Thailand,THA,2023,"Pulses, Other and products",13.32,0.94,0.18
+FBS,Thailand,THA,2023,Rice and products,1157.37,23.26,3.25
+FBS,Thailand,THA,2023,Wheat and products,139.16,4.53,0.84
+FBS,Timor-Leste,TLS,2023,Eggs,8.38,0.75,0.58
+FBS,Timor-Leste,TLS,2023,Maize and products,356.32,7.37,3.03
+FBS,Timor-Leste,TLS,2023,Milk - Excluding Butter,29.86,1.55,0.93
+FBS,Timor-Leste,TLS,2023,"Pulses, Other and products",0.2,0.01,0.0
+FBS,Timor-Leste,TLS,2023,Rice and products,774.48,15.71,2.0
+FBS,Timor-Leste,TLS,2023,Wheat and products,193.82,5.19,2.82
+None,Togo,TGO,2023,Eggs,None,None,None
+None,Togo,TGO,2023,Maize and products,None,None,None
+None,Togo,TGO,2023,Milk - Excluding Butter,None,None,None
+None,Togo,TGO,2023,"Pulses, Other and products",None,None,None
+None,Togo,TGO,2023,Rice and products,None,None,None
+None,Togo,TGO,2023,Wheat and products,None,None,None
+FBS,Tonga,TON,2023,Eggs,13.08,1.15,0.91
+FBS,Tonga,TON,2023,Maize and products,35.73,0.94,0.24
+FBS,Tonga,TON,2023,Milk - Excluding Butter,91.07,4.13,5.13
+FBS,Tonga,TON,2023,"Pulses, Other and products",0.09,0.01,0.0
+FBS,Tonga,TON,2023,Rice and products,5.94,0.13,0.02
+FBS,Tonga,TON,2023,Wheat and products,743.2,20.08,10.86
+FBS,Trinidad and Tobago,TTO,2023,Eggs,17.73,1.62,1.21
+FBS,Trinidad and Tobago,TTO,2023,Maize and products,242.28,5.35,1.96
+FBS,Trinidad and Tobago,TTO,2023,Milk - Excluding Butter,124.38,7.43,6.85
+FBS,Trinidad and Tobago,TTO,2023,"Pulses, Other and products",42.77,2.86,0.43
+FBS,Trinidad and Tobago,TTO,2023,Rice and products,175.23,3.84,0.97
+FBS,Trinidad and Tobago,TTO,2023,Wheat and products,614.16,19.07,3.34
+FBS,Tunisia,TUN,2023,Eggs,24.35,2.19,1.68
+FBS,Tunisia,TUN,2023,Maize and products,0.64,0.02,0.0
+FBS,Tunisia,TUN,2023,Milk - Excluding Butter,216.07,12.37,10.8
+FBS,Tunisia,TUN,2023,"Pulses, Other and products",57.33,4.21,0.62
+FBS,Tunisia,TUN,2023,Rice and products,13.99,0.28,0.04
+FBS,Tunisia,TUN,2023,Wheat and products,1475.07,46.42,7.41
+FBS,Turkmenistan,TKM,2023,Eggs,40.26,3.61,2.79
+FBS,Turkmenistan,TKM,2023,Maize and products,0.3,0.01,0.0
+FBS,Turkmenistan,TKM,2023,Milk - Excluding Butter,538.7,25.34,31.77
+FBS,Turkmenistan,TKM,2023,"Pulses, Other and products",1.59,0.12,0.01
+FBS,Turkmenistan,TKM,2023,Rice and products,61.55,1.25,0.16
+FBS,Turkmenistan,TKM,2023,Wheat and products,1211.59,38.25,5.67
+FBS,Tuvalu,TUV,2023,Eggs,41.68,3.47,2.98
+FBS,Tuvalu,TUV,2023,Maize and products,0.35,0.01,0.0
+FBS,Tuvalu,TUV,2023,Milk - Excluding Butter,58.96,2.39,2.62
+FBS,Tuvalu,TUV,2023,"Pulses, Other and products",0.01,0.0,0.0
+FBS,Tuvalu,TUV,2023,Rice and products,560.51,11.66,1.63
+FBS,Tuvalu,TUV,2023,Wheat and products,549.37,14.39,9.46
+FBS,Türkiye,TUR,2023,Eggs,36.6,3.29,2.53
+FBS,Türkiye,TUR,2023,Maize and products,126.76,2.62,1.08
+FBS,Türkiye,TUR,2023,Milk - Excluding Butter,395.04,21.18,24.0
+FBS,Türkiye,TUR,2023,"Pulses, Other and products",98.08,6.73,0.97
+FBS,Türkiye,TUR,2023,Rice and products,87.91,1.79,0.23
+FBS,Türkiye,TUR,2023,Wheat and products,1192.93,37.63,6.06
+FBS,Uganda,UGA,2023,Eggs,2.61,0.23,0.18
+FBS,Uganda,UGA,2023,Maize and products,649.54,13.43,5.52
+FBS,Uganda,UGA,2023,Milk - Excluding Butter,105.4,4.91,6.22
+FBS,Uganda,UGA,2023,"Pulses, Other and products",4.56,0.3,0.04
+FBS,Uganda,UGA,2023,Rice and products,90.7,1.85,0.24
+FBS,Uganda,UGA,2023,Wheat and products,106.69,3.31,0.65
+FBS,Ukraine,UKR,2023,Eggs,56.37,5.05,3.9
+FBS,Ukraine,UKR,2023,Maize and products,94.16,1.95,0.8
+FBS,Ukraine,UKR,2023,Milk - Excluding Butter,274.93,13.6,16.66
+FBS,Ukraine,UKR,2023,"Pulses, Other and products",2.82,0.17,0.04
+FBS,Ukraine,UKR,2023,Rice and products,19.69,0.4,0.05
+FBS,Ukraine,UKR,2023,Wheat and products,716.04,22.46,4.36
+FBS,United Arab Emirates,ARE,2023,Eggs,24.7,2.21,1.71
+FBS,United Arab Emirates,ARE,2023,Maize and products,10.98,0.28,0.1
+FBS,United Arab Emirates,ARE,2023,Milk - Excluding Butter,185.22,8.0,8.0
+FBS,United Arab Emirates,ARE,2023,"Pulses, Other and products",84.85,5.85,0.85
+FBS,United Arab Emirates,ARE,2023,Rice and products,276.24,5.64,0.75
+FBS,United Arab Emirates,ARE,2023,Wheat and products,853.02,26.89,5.87
+FBS,United Kingdom,GBR,2023,Eggs,38.24,3.36,2.66
+FBS,United Kingdom,GBR,2023,Maize and products,37.94,0.78,0.32
+FBS,United Kingdom,GBR,2023,Milk - Excluding Butter,358.99,19.19,21.68
+FBS,United Kingdom,GBR,2023,"Pulses, Other and products",10.93,0.8,0.09
+FBS,United Kingdom,GBR,2023,Rice and products,80.59,1.69,0.26
+FBS,United Kingdom,GBR,2023,Wheat and products,837.18,24.64,7.75
+FBS,United States,USA,2023,Eggs,54.28,4.87,3.75
+FBS,United States,USA,2023,Maize and products,79.94,1.39,0.57
+FBS,United States,USA,2023,Milk - Excluding Butter,392.39,22.61,25.11
+FBS,United States,USA,2023,"Pulses, Other and products",11.07,0.69,0.14
+FBS,United States,USA,2023,Rice and products,93.54,1.91,0.27
+FBS,United States,USA,2023,Wheat and products,599.27,18.14,4.5
+FBS,Uruguay,URY,2023,Eggs,48.14,4.31,3.33
+FBS,Uruguay,URY,2023,Maize and products,173.5,3.61,1.47
+FBS,Uruguay,URY,2023,Milk - Excluding Butter,442.48,24.9,28.19
+FBS,Uruguay,URY,2023,"Pulses, Other and products",11.5,0.83,0.09
+FBS,Uruguay,URY,2023,Rice and products,90.77,1.86,0.27
+FBS,Uruguay,URY,2023,Wheat and products,777.99,23.36,6.07
+FBS,Uzbekistan,UZB,2023,Eggs,43.76,3.92,3.03
+FBS,Uzbekistan,UZB,2023,Maize and products,68.27,1.41,0.58
+FBS,Uzbekistan,UZB,2023,Milk - Excluding Butter,531.94,27.3,31.84
+FBS,Uzbekistan,UZB,2023,"Pulses, Other and products",7.27,0.48,0.09
+FBS,Uzbekistan,UZB,2023,Rice and products,77.63,1.58,0.2
+FBS,Uzbekistan,UZB,2023,Wheat and products,1127.6,35.54,5.29
+FBS,Vanuatu,VUT,2023,Eggs,12.39,1.1,0.86
+FBS,Vanuatu,VUT,2023,Maize and products,5.29,0.13,0.04
+FBS,Vanuatu,VUT,2023,Milk - Excluding Butter,54.81,2.21,2.52
+FBS,Vanuatu,VUT,2023,"Pulses, Other and products",0.1,0.01,0.0
+FBS,Vanuatu,VUT,2023,Rice and products,570.01,11.62,1.49
+FBS,Vanuatu,VUT,2023,Wheat and products,458.83,12.11,7.46
+None,Vatican City,VAT,2023,Eggs,None,None,None
+None,Vatican City,VAT,2023,Maize and products,None,None,None
+None,Vatican City,VAT,2023,Milk - Excluding Butter,None,None,None
+None,Vatican City,VAT,2023,"Pulses, Other and products",None,None,None
+None,Vatican City,VAT,2023,Rice and products,None,None,None
+None,Vatican City,VAT,2023,Wheat and products,None,None,None
+FBS,Venezuela,VEN,2023,Eggs,24.24,2.17,1.68
+FBS,Venezuela,VEN,2023,Maize and products,486.86,10.32,4.33
+FBS,Venezuela,VEN,2023,Milk - Excluding Butter,188.29,11.36,12.97
+FBS,Venezuela,VEN,2023,"Pulses, Other and products",23.79,1.81,0.1
+FBS,Venezuela,VEN,2023,Rice and products,271.6,5.53,0.7
+FBS,Venezuela,VEN,2023,Wheat and products,329.97,10.25,2.35
+FBS,Vietnam,VNM,2023,Eggs,13.79,1.24,0.95
+FBS,Vietnam,VNM,2023,Maize and products,132.49,2.74,1.13
+FBS,Vietnam,VNM,2023,Milk - Excluding Butter,43.6,2.5,1.6
+FBS,Vietnam,VNM,2023,"Pulses, Other and products",14.67,1.1,0.21
+FBS,Vietnam,VNM,2023,Rice and products,1326.12,26.99,3.45
+FBS,Vietnam,VNM,2023,Wheat and products,106.23,3.27,0.71
+FBS,Yemen,YEM,2023,Eggs,5.64,0.5,0.39
+FBS,Yemen,YEM,2023,Maize and products,183.55,3.8,1.56
+FBS,Yemen,YEM,2023,Milk - Excluding Butter,46.76,3.11,1.95
+FBS,Yemen,YEM,2023,"Pulses, Other and products",32.82,2.28,0.29
+FBS,Yemen,YEM,2023,Rice and products,130.44,2.65,0.34
+FBS,Yemen,YEM,2023,Wheat and products,585.92,18.08,3.65
+FBS,Zambia,ZMB,2023,Eggs,9.39,0.84,0.65
+FBS,Zambia,ZMB,2023,Maize and products,856.78,17.72,7.28
+FBS,Zambia,ZMB,2023,Milk - Excluding Butter,11.05,0.63,0.63
+FBS,Zambia,ZMB,2023,"Pulses, Other and products",16.12,1.14,0.23
+FBS,Zambia,ZMB,2023,Rice and products,30.57,0.62,0.08
+FBS,Zambia,ZMB,2023,Wheat and products,72.71,2.29,0.36
+FBS,Zimbabwe,ZWE,2023,Eggs,5.51,0.49,0.38
+FBS,Zimbabwe,ZWE,2023,Maize and products,536.53,11.1,4.56
+FBS,Zimbabwe,ZWE,2023,Milk - Excluding Butter,48.22,2.48,2.65
+FBS,Zimbabwe,ZWE,2023,"Pulses, Other and products",39.28,2.5,0.5
+FBS,Zimbabwe,ZWE,2023,Rice and products,121.37,2.44,0.31
+FBS,Zimbabwe,ZWE,2023,Wheat and products,247.89,8.1,1.36
