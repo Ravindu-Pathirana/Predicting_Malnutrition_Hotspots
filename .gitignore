@@ -6,6 +6,7 @@ __pycache__/
 
 # Local inputs (keep out of git)
 Predictor4.xlsx
+Predictor5.xls
 countries.csv
 
 # OS / editor
