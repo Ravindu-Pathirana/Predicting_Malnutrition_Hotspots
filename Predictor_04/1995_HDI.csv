@@ -1,0 +1,149 @@
+Country,Country Code,Year,Value
+Afghanistan,AFG,1995,0.329
+Albania,ALB,1995,0.638
+Algeria,DZA,1995,0.608
+Argentina,ARG,1995,0.754
+Armenia,ARM,1995,0.631
+Australia,AUS,1995,0.882
+Austria,AUT,1995,0.856
+Azerbaijan,AZE,1995,0.618
+Bahamas,BHS,1995,0.774
+Bahrain,BHR,1995,0.737
+Bangladesh,BGD,1995,0.434
+Barbados,BRB,1995,0.744
+Belarus,BLR,1995,0.692
+Belgium,BEL,1995,0.875
+Belize,BLZ,1995,0.647
+Benin,BEN,1995,0.383
+Bolivia (Plurinational State of),BOL,1995,0.594
+Botswana,BWA,1995,0.583
+Brazil,BRA,1995,0.666
+Brunei Darussalam,BRN,1995,0.784
+Bulgaria,BGR,1995,0.709
+Burundi,BDI,1995,0.294
+Cambodia,KHM,1995,0.404
+Cameroon,CMR,1995,0.433
+Canada,CAN,1995,0.881
+Central African Republic,CAF,1995,0.326
+Chile,CHL,1995,0.739
+China,CHN,1995,0.543
+Colombia,COL,1995,0.655
+Congo,COG,1995,0.551
+Congo (Democratic Republic of the),COD,1995,0.385
+Costa Rica,CRI,1995,0.706
+Croatia,HRV,1995,0.713
+Cuba,CUB,1995,0.664
+Cyprus,CYP,1995,0.777
+Czechia,CZE,1995,0.781
+CÙte d'Ivoire,CIV,1995,0.399
+Denmark,DNK,1995,0.862
+Djibouti,DJI,1995,0.318
+Dominican Republic,DOM,1995,0.624
+Ecuador,ECU,1995,0.672
+Egypt,EGY,1995,0.609
+El Salvador,SLV,1995,0.567
+Estonia,EST,1995,0.725
+Eswatini (Kingdom of),SWZ,1995,0.54
+Fiji,FJI,1995,0.653
+Finland,FIN,1995,0.856
+France,FRA,1995,0.837
+Gabon,GAB,1995,0.64
+Gambia,GMB,1995,0.37
+Germany,DEU,1995,0.87
+Ghana,GHA,1995,0.459
+Greece,GRC,1995,0.792
+Guatemala,GTM,1995,0.522
+Guinea,GIN,1995,0.314
+Guyana,GUY,1995,0.536
+Haiti,HTI,1995,0.473
+Honduras,HND,1995,0.537
+Hungary,HUN,1995,0.744
+Iceland,ISL,1995,0.863
+India,IND,1995,0.469
+Indonesia,IDN,1995,0.575
+Iran (Islamic Republic of),IRN,1995,0.672
+Iraq,IRQ,1995,0.538
+Ireland,IRL,1995,0.809
+Israel,ISR,1995,0.81
+Italy,ITA,1995,0.823
+Jamaica,JAM,1995,0.665
+Japan,JPN,1995,0.874
+Jordan,JOR,1995,0.653
+Kazakhstan,KAZ,1995,0.665
+Kenya,KEN,1995,0.488
+Korea (Republic of),KOR,1995,0.789
+Kuwait,KWT,1995,0.763
+Kyrgyzstan,KGZ,1995,0.59
+Lao People's Democratic Republic,LAO,1995,0.436
+Latvia,LVA,1995,0.695
+Lesotho,LSO,1995,0.476
+Libya,LBY,1995,0.712
+Lithuania,LTU,1995,0.706
+Luxembourg,LUX,1995,0.824
+Malawi,MWI,1995,0.37
+Malaysia,MYS,1995,0.691
+Mali,MLI,1995,0.273
+Malta,MLT,1995,0.763
+Mauritania,MRT,1995,0.439
+Mauritius,MUS,1995,0.65
+Mexico,MEX,1995,0.68
+Mongolia,MNG,1995,0.572
+Morocco,MAR,1995,0.484
+Mozambique,MOZ,1995,0.257
+Myanmar,MMR,1995,0.385
+Namibia,NAM,1995,0.595
+Nepal,NPL,1995,0.438
+Netherlands,NLD,1995,0.886
+New Zealand,NZL,1995,0.858
+Nicaragua,NIC,1995,0.549
+Niger,NER,1995,0.238
+Nigeria,NGA,1995,0.402
+North Macedonia,MKD,1995,0.653
+Norway,NOR,1995,0.887
+Pakistan,PAK,1995,0.415
+Panama,PAN,1995,0.69
+Papua New Guinea,PNG,1995,0.442
+Paraguay,PRY,1995,0.637
+Peru,PER,1995,0.654
+Philippines,PHL,1995,0.609
+Poland,POL,1995,0.754
+Portugal,PRT,1995,0.773
+Qatar,QAT,1995,0.788
+Romania,ROU,1995,0.701
+Russian Federation,RUS,1995,0.713
+Rwanda,RWA,1995,0.294
+Saint Lucia,LCA,1995,0.698
+Samoa,WSM,1995,0.655
+Saudi Arabia,SAU,1995,0.705
+Senegal,SEN,1995,0.384
+Serbia,SRB,1995,0.686
+Sierra Leone,SLE,1995,0.314
+Singapore,SGP,1995,0.854
+Slovakia,SVK,1995,0.729
+Slovenia,SVN,1995,0.768
+South Africa,ZAF,1995,0.654
+Spain,ESP,1995,0.804
+Sri Lanka,LKA,1995,0.667
+Sweden,SWE,1995,0.869
+Switzerland,CHE,1995,0.872
+Syrian Arab Republic,SYR,1995,0.587
+Tajikistan,TJK,1995,0.547
+Tanzania (United Republic of),TZA,1995,0.38
+Thailand,THA,1995,0.628
+Togo,TGO,1995,0.425
+Tonga,TON,1995,0.675
+Trinidad and Tobago,TTO,1995,0.677
+Tunisia,TUN,1995,0.606
+Tuvalu,TUV,1995,0.587
+T¸rkiye,TUR,1995,0.623
+Uganda,UGA,1995,0.356
+Ukraine,UKR,1995,0.702
+United Arab Emirates,ARE,1995,0.747
+United Kingdom,GBR,1995,0.835
+United States,USA,1995,0.888
+Uruguay,URY,1995,0.729
+Venezuela (Bolivarian Republic of),VEN,1995,0.687
+Viet Nam,VNM,1995,0.556
+Yemen,YEM,1995,0.393
+Zambia,ZMB,1995,0.413
+Zimbabwe,ZWE,1995,0.477

@@ -1,0 +1,173 @@
+Country,Country Code,Year,Value
+Afghanistan,AFG,2003,0.392
+Albania,ALB,2003,0.705
+Algeria,DZA,2003,0.677
+Andorra,AND,2003,0.84
+Angola,AGO,2003,0.435
+Argentina,ARG,2003,0.804
+Armenia,ARM,2003,0.692
+Australia,AUS,2003,0.906
+Austria,AUT,2003,0.889
+Azerbaijan,AZE,2003,0.676
+Bahamas,BHS,2003,0.794
+Bahrain,BHR,2003,0.799
+Bangladesh,BGD,2003,0.503
+Barbados,BRB,2003,0.771
+Belarus,BLR,2003,0.747
+Belgium,BEL,2003,0.903
+Belize,BLZ,2003,0.696
+Benin,BEN,2003,0.442
+Bolivia (Plurinational State of),BOL,2003,0.645
+Bosnia and Herzegovina,BIH,2003,0.689
+Botswana,BWA,2003,0.602
+Brazil,BRA,2003,0.705
+Brunei Darussalam,BRN,2003,0.804
+Bulgaria,BGR,2003,0.762
+Burundi,BDI,2003,0.332
+Cabo Verde,CPV,2003,0.606
+Cambodia,KHM,2003,0.488
+Cameroon,CMR,2003,0.465
+Canada,CAN,2003,0.902
+Central African Republic,CAF,2003,0.338
+Chad,TCD,2003,0.32
+Chile,CHL,2003,0.789
+China,CHN,2003,0.63
+Colombia,COL,2003,0.691
+Comoros,COM,2003,0.485
+Congo,COG,2003,0.553
+Congo (Democratic Republic of the),COD,2003,0.398
+Costa Rica,CRI,2003,0.736
+Croatia,HRV,2003,0.798
+Cuba,CUB,2003,0.721
+Cyprus,CYP,2003,0.835
+Czechia,CZE,2003,0.842
+CÙte d'Ivoire,CIV,2003,0.425
+Denmark,DNK,2003,0.907
+Djibouti,DJI,2003,0.36
+Dominica,DMA,2003,0.728
+Dominican Republic,DOM,2003,0.67
+Ecuador,ECU,2003,0.703
+Egypt,EGY,2003,0.643
+El Salvador,SLV,2003,0.628
+Equatorial Guinea,GNQ,2003,0.541
+Estonia,EST,2003,0.824
+Eswatini (Kingdom of),SWZ,2003,0.469
+Ethiopia,ETH,2003,0.317
+Fiji,FJI,2003,0.673
+Finland,FIN,2003,0.915
+France,FRA,2003,0.862
+Gabon,GAB,2003,0.664
+Gambia,GMB,2003,0.422
+Georgia,GEO,2003,0.733
+Germany,DEU,2003,0.914
+Ghana,GHA,2003,0.495
+Greece,GRC,2003,0.842
+Grenada,GRD,2003,0.751
+Guatemala,GTM,2003,0.577
+Guinea,GIN,2003,0.384
+Guyana,GUY,2003,0.587
+Haiti,HTI,2003,0.508
+Honduras,HND,2003,0.568
+Hungary,HUN,2003,0.807
+Iceland,ISL,2003,0.925
+India,IND,2003,0.529
+Indonesia,IDN,2003,0.625
+Iran (Islamic Republic of),IRN,2003,0.732
+Iraq,IRQ,2003,0.582
+Ireland,IRL,2003,0.891
+Israel,ISR,2003,0.847
+Italy,ITA,2003,0.866
+Jamaica,JAM,2003,0.668
+Japan,JPN,2003,0.896
+Jordan,JOR,2003,0.693
+Kazakhstan,KAZ,2003,0.732
+Kenya,KEN,2003,0.515
+Korea (Republic of),KOR,2003,0.852
+Kuwait,KWT,2003,0.795
+Kyrgyzstan,KGZ,2003,0.642
+Lao People's Democratic Republic,LAO,2003,0.496
+Latvia,LVA,2003,0.798
+Lesotho,LSO,2003,0.456
+Liberia,LBR,2003,0.429
+Libya,LBY,2003,0.739
+Liechtenstein,LIE,2003,0.897
+Lithuania,LTU,2003,0.812
+Luxembourg,LUX,2003,0.87
+Madagascar,MDG,2003,0.458
+Malawi,MWI,2003,0.414
+Malaysia,MYS,2003,0.737
+Maldives,MDV,2003,0.654
+Mali,MLI,2003,0.352
+Malta,MLT,2003,0.818
+Mauritania,MRT,2003,0.482
+Mauritius,MUS,2003,0.709
+Mexico,MEX,2003,0.728
+Micronesia (Federated States of),FSM,2003,0.601
+Mongolia,MNG,2003,0.643
+Montenegro,MNE,2003,0.764
+Morocco,MAR,2003,0.56
+Mozambique,MOZ,2003,0.35
+Myanmar,MMR,2003,0.443
+Namibia,NAM,2003,0.558
+Nepal,NPL,2003,0.486
+Netherlands,NLD,2003,0.901
+New Zealand,NZL,2003,0.91
+Nicaragua,NIC,2003,0.615
+Niger,NER,2003,0.284
+Nigeria,NGA,2003,0.464
+North Macedonia,MKD,2003,0.7
+Norway,NOR,2003,0.93
+Oman,OMN,2003,0.739
+Pakistan,PAK,2003,0.458
+Palau,PLW,2003,0.749
+Panama,PAN,2003,0.735
+Papua New Guinea,PNG,2003,0.464
+Paraguay,PRY,2003,0.673
+Peru,PER,2003,0.689
+Philippines,PHL,2003,0.648
+Poland,POL,2003,0.822
+Portugal,PRT,2003,0.808
+Qatar,QAT,2003,0.804
+Romania,ROU,2003,0.749
+Russian Federation,RUS,2003,0.772
+Rwanda,RWA,2003,0.398
+Saint Lucia,LCA,2003,0.721
+Saint Vincent and the Grenadines,VCT,2003,0.715
+Samoa,WSM,2003,0.687
+San Marino,SMR,2003,0.888
+Saudi Arabia,SAU,2003,0.762
+Senegal,SEN,2003,0.416
+Serbia,SRB,2003,0.72
+Sierra Leone,SLE,2003,0.354
+Singapore,SGP,2003,0.897
+Slovakia,SVK,2003,0.796
+Slovenia,SVN,2003,0.865
+Solomon Islands,SLB,2003,0.543
+South Africa,ZAF,2003,0.61
+Spain,ESP,2003,0.846
+Sri Lanka,LKA,2003,0.713
+Sweden,SWE,2003,0.923
+Switzerland,CHE,2003,0.901
+Syrian Arab Republic,SYR,2003,0.621
+Tajikistan,TJK,2003,0.587
+Tanzania (United Republic of),TZA,2003,0.444
+Thailand,THA,2003,0.69
+Timor-Leste,TLS,2003,0.534
+Togo,TGO,2003,0.46
+Tonga,TON,2003,0.703
+Trinidad and Tobago,TTO,2003,0.74
+Tunisia,TUN,2003,0.673
+Tuvalu,TUV,2003,0.621
+T¸rkiye,TUR,2003,0.691
+Uganda,UGA,2003,0.446
+Ukraine,UKR,2003,0.745
+United Arab Emirates,ARE,2003,0.81
+United Kingdom,GBR,2003,0.886
+United States,USA,2003,0.9
+Uruguay,URY,2003,0.78
+Uzbekistan,UZB,2003,0.625
+Venezuela (Bolivarian Republic of),VEN,2003,0.707
+Viet Nam,VNM,2003,0.63
+Yemen,YEM,2003,0.467
+Zambia,ZMB,2003,0.458
+Zimbabwe,ZWE,2003,0.45

@@ -1,0 +1,191 @@
+Country,Country Code,Year,Value
+Afghanistan,AFG,2010,0.465
+Albania,ALB,2010,0.769
+Algeria,DZA,2010,0.718
+Andorra,AND,2010,0.87
+Angola,AGO,2010,0.528
+Antigua and Barbuda,ATG,2010,0.828
+Argentina,ARG,2010,0.844
+Armenia,ARM,2010,0.747
+Australia,AUS,2010,0.929
+Austria,AUT,2010,0.912
+Azerbaijan,AZE,2010,0.744
+Bahamas,BHS,2010,0.801
+Bahrain,BHR,2010,0.81
+Bangladesh,BGD,2010,0.561
+Barbados,BRB,2010,0.797
+Belarus,BLR,2010,0.803
+Belgium,BEL,2010,0.921
+Belize,BLZ,2010,0.727
+Benin,BEN,2010,0.485
+Bhutan,BTN,2010,0.593
+Bolivia (Plurinational State of),BOL,2010,0.677
+Bosnia and Herzegovina,BIH,2010,0.725
+Botswana,BWA,2010,0.652
+Brazil,BRA,2010,0.748
+Brunei Darussalam,BRN,2010,0.83
+Bulgaria,BGR,2010,0.799
+Burkina Faso,BFA,2010,0.377
+Burundi,BDI,2010,0.416
+Cabo Verde,CPV,2010,0.648
+Cambodia,KHM,2010,0.543
+Cameroon,CMR,2010,0.529
+Canada,CAN,2010,0.918
+Central African Republic,CAF,2010,0.358
+Chad,TCD,2010,0.375
+Chile,CHL,2010,0.823
+China,CHN,2010,0.71
+Colombia,COL,2010,0.741
+Comoros,COM,2010,0.534
+Congo,COG,2010,0.609
+Congo (Democratic Republic of the),COD,2010,0.44
+Costa Rica,CRI,2010,0.776
+Croatia,HRV,2010,0.831
+Cuba,CUB,2010,0.783
+Cyprus,CYP,2010,0.869
+Czechia,CZE,2010,0.88
+CÙte d'Ivoire,CIV,2010,0.465
+Denmark,DNK,2010,0.92
+Djibouti,DJI,2010,0.421
+Dominica,DMA,2010,0.747
+Dominican Republic,DOM,2010,0.715
+Ecuador,ECU,2010,0.737
+Egypt,EGY,2010,0.677
+El Salvador,SLV,2010,0.66
+Equatorial Guinea,GNQ,2010,0.612
+Eritrea,ERI,2010,0.465
+Estonia,EST,2010,0.868
+Eswatini (Kingdom of),SWZ,2010,0.534
+Ethiopia,ETH,2010,0.415
+Fiji,FJI,2010,0.697
+Finland,FIN,2010,0.92
+France,FRA,2010,0.888
+Gabon,GAB,2010,0.684
+Gambia,GMB,2010,0.463
+Georgia,GEO,2010,0.77
+Germany,DEU,2010,0.936
+Ghana,GHA,2010,0.558
+Greece,GRC,2010,0.876
+Grenada,GRD,2010,0.771
+Guatemala,GTM,2010,0.623
+Guinea,GIN,2010,0.43
+Guinea-Bissau,GNB,2010,0.452
+Guyana,GUY,2010,0.647
+Haiti,HTI,2010,0.452
+Honduras,HND,2010,0.596
+Hungary,HUN,2010,0.838
+Iceland,ISL,2010,0.935
+India,IND,2010,0.59
+Indonesia,IDN,2010,0.67
+Iran (Islamic Republic of),IRN,2010,0.778
+Iraq,IRQ,2010,0.65
+Ireland,IRL,2010,0.915
+Israel,ISR,2010,0.889
+Italy,ITA,2010,0.887
+Jamaica,JAM,2010,0.708
+Japan,JPN,2010,0.907
+Jordan,JOR,2010,0.732
+Kazakhstan,KAZ,2010,0.781
+Kenya,KEN,2010,0.552
+Kiribati,KIR,2010,0.6
+Korea (Republic of),KOR,2010,0.894
+Kuwait,KWT,2010,0.812
+Kyrgyzstan,KGZ,2010,0.668
+Lao People's Democratic Republic,LAO,2010,0.556
+Latvia,LVA,2010,0.833
+Lebanon,LBN,2010,0.75
+Lesotho,LSO,2010,0.478
+Liberia,LBR,2010,0.467
+Libya,LBY,2010,0.755
+Liechtenstein,LIE,2010,0.914
+Lithuania,LTU,2010,0.854
+Luxembourg,LUX,2010,0.909
+Madagascar,MDG,2010,0.493
+Malawi,MWI,2010,0.475
+Malaysia,MYS,2010,0.779
+Maldives,MDV,2010,0.689
+Mali,MLI,2010,0.41
+Malta,MLT,2010,0.867
+Mauritania,MRT,2010,0.525
+Mauritius,MUS,2010,0.755
+Mexico,MEX,2010,0.751
+Micronesia (Federated States of),FSM,2010,0.603
+Moldova (Republic of),MDA,2010,0.739
+Mongolia,MNG,2010,0.714
+Montenegro,MNE,2010,0.815
+Morocco,MAR,2010,0.607
+Mozambique,MOZ,2010,0.419
+Myanmar,MMR,2010,0.515
+Namibia,NAM,2010,0.591
+Nauru,NRU,2010,0.616
+Nepal,NPL,2010,0.551
+Netherlands,NLD,2010,0.925
+New Zealand,NZL,2010,0.926
+Nicaragua,NIC,2010,0.651
+Niger,NER,2010,0.339
+Nigeria,NGA,2010,0.502
+North Macedonia,MKD,2010,0.765
+Norway,NOR,2010,0.947
+Oman,OMN,2010,0.804
+Pakistan,PAK,2010,0.5
+Palau,PLW,2010,0.779
+"Palestine, State of",PSE,2010,0.691
+Panama,PAN,2010,0.775
+Papua New Guinea,PNG,2010,0.503
+Paraguay,PRY,2010,0.709
+Peru,PER,2010,0.731
+Philippines,PHL,2010,0.669
+Poland,POL,2010,0.852
+Portugal,PRT,2010,0.836
+Qatar,QAT,2010,0.834
+Romania,ROU,2010,0.822
+Russian Federation,RUS,2010,0.808
+Rwanda,RWA,2010,0.504
+Saint Kitts and Nevis,KNA,2010,0.791
+Saint Lucia,LCA,2010,0.749
+Saint Vincent and the Grenadines,VCT,2010,0.746
+Samoa,WSM,2010,0.708
+San Marino,SMR,2010,0.905
+Sao Tome and Principe,STP,2010,0.564
+Saudi Arabia,SAU,2010,0.801
+Senegal,SEN,2010,0.477
+Serbia,SRB,2010,0.775
+Seychelles,SYC,2010,0.758
+Sierra Leone,SLE,2010,0.41
+Singapore,SGP,2010,0.932
+Slovakia,SVK,2010,0.851
+Slovenia,SVN,2010,0.896
+Solomon Islands,SLB,2010,0.564
+South Africa,ZAF,2010,0.669
+South Sudan,SSD,2010,0.42
+Spain,ESP,2010,0.875
+Sri Lanka,LKA,2010,0.748
+Sudan,SDN,2010,0.479
+Suriname,SUR,2010,0.707
+Sweden,SWE,2010,0.918
+Switzerland,CHE,2010,0.945
+Syrian Arab Republic,SYR,2010,0.669
+Tajikistan,TJK,2010,0.639
+Tanzania (United Republic of),TZA,2010,0.513
+Thailand,THA,2010,0.742
+Timor-Leste,TLS,2010,0.645
+Togo,TGO,2010,0.483
+Tonga,TON,2010,0.724
+Trinidad and Tobago,TTO,2010,0.789
+Tunisia,TUN,2010,0.717
+Turkmenistan,TKM,2010,0.7
+Tuvalu,TUV,2010,0.636
+T¸rkiye,TUR,2010,0.75
+Uganda,UGA,2010,0.514
+Ukraine,UKR,2010,0.782
+United Arab Emirates,ARE,2010,0.835
+United Kingdom,GBR,2010,0.921
+United States,USA,2010,0.919
+Uruguay,URY,2010,0.796
+Uzbekistan,UZB,2010,0.681
+Vanuatu,VUT,2010,0.582
+Venezuela (Bolivarian Republic of),VEN,2010,0.764
+Viet Nam,VNM,2010,0.686
+Yemen,YEM,2010,0.502
+Zambia,ZMB,2010,0.533
+Zimbabwe,ZWE,2010,0.512

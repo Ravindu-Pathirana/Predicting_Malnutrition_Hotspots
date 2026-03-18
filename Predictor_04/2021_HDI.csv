@@ -1,0 +1,192 @@
+Country,Country Code,Year,Value
+Afghanistan,AFG,2021,0.486
+Albania,ALB,2021,0.794
+Algeria,DZA,2021,0.755
+Andorra,AND,2021,0.871
+Angola,AGO,2021,0.609
+Antigua and Barbuda,ATG,2021,0.843
+Argentina,ARG,2021,0.847
+Armenia,ARM,2021,0.786
+Australia,AUS,2021,0.954
+Austria,AUT,2021,0.93
+Azerbaijan,AZE,2021,0.765
+Bahamas,BHS,2021,0.794
+Bahrain,BHR,2021,0.885
+Bangladesh,BGD,2021,0.663
+Barbados,BRB,2021,0.803
+Belarus,BLR,2021,0.817
+Belgium,BEL,2021,0.948
+Belize,BLZ,2021,0.713
+Benin,BEN,2021,0.506
+Bhutan,BTN,2021,0.691
+Bolivia (Plurinational State of),BOL,2021,0.693
+Bosnia and Herzegovina,BIH,2021,0.783
+Botswana,BWA,2021,0.7
+Brazil,BRA,2021,0.768
+Brunei Darussalam,BRN,2021,0.835
+Bulgaria,BGR,2021,0.817
+Burkina Faso,BFA,2021,0.454
+Burundi,BDI,2021,0.435
+Cabo Verde,CPV,2021,0.651
+Cambodia,KHM,2021,0.594
+Cameroon,CMR,2021,0.574
+Canada,CAN,2021,0.937
+Central African Republic,CAF,2021,0.339
+Chad,TCD,2021,0.408
+Chile,CHL,2021,0.865
+China,CHN,2021,0.794
+Colombia,COL,2021,0.762
+Comoros,COM,2021,0.594
+Congo,COG,2021,0.643
+Congo (Democratic Republic of the),COD,2021,0.508
+Costa Rica,CRI,2021,0.817
+Croatia,HRV,2021,0.876
+Cuba,CUB,2021,0.745
+Cyprus,CYP,2021,0.907
+Czechia,CZE,2021,0.901
+CÙte d'Ivoire,CIV,2021,0.557
+Denmark,DNK,2021,0.958
+Djibouti,DJI,2021,0.501
+Dominica,DMA,2021,0.749
+Dominican Republic,DOM,2021,0.762
+Ecuador,ECU,2021,0.753
+Egypt,EGY,2021,0.738
+El Salvador,SLV,2021,0.663
+Equatorial Guinea,GNQ,2021,0.671
+Eritrea,ERI,2021,0.496
+Estonia,EST,2021,0.899
+Eswatini (Kingdom of),SWZ,2021,0.658
+Ethiopia,ETH,2021,0.487
+Fiji,FJI,2021,0.705
+Finland,FIN,2021,0.949
+France,FRA,2021,0.915
+Gabon,GAB,2021,0.72
+Gambia,GMB,2021,0.513
+Georgia,GEO,2021,0.819
+Germany,DEU,2021,0.958
+Ghana,GHA,2021,0.618
+Greece,GRC,2021,0.897
+Grenada,GRD,2021,0.782
+Guatemala,GTM,2021,0.639
+Guinea,GIN,2021,0.49
+Guinea-Bissau,GNB,2021,0.502
+Guyana,GUY,2021,0.713
+Haiti,HTI,2021,0.548
+Honduras,HND,2021,0.628
+Hungary,HUN,2021,0.852
+Iceland,ISL,2021,0.967
+India,IND,2021,0.647
+Indonesia,IDN,2021,0.707
+Iran (Islamic Republic of),IRN,2021,0.777
+Iraq,IRQ,2021,0.687
+Ireland,IRL,2021,0.946
+Israel,ISR,2021,0.918
+Italy,ITA,2021,0.908
+Jamaica,JAM,2021,0.703
+Japan,JPN,2021,0.922
+Jordan,JOR,2021,0.736
+Kazakhstan,KAZ,2021,0.816
+Kenya,KEN,2021,0.608
+Kiribati,KIR,2021,0.631
+Korea (Republic of),KOR,2021,0.933
+Kuwait,KWT,2021,0.839
+Kyrgyzstan,KGZ,2021,0.704
+Lao People's Democratic Republic,LAO,2021,0.613
+Latvia,LVA,2021,0.871
+Lebanon,LBN,2021,0.733
+Lesotho,LSO,2021,0.532
+Liberia,LBR,2021,0.503
+Libya,LBY,2021,0.729
+Liechtenstein,LIE,2021,0.933
+Lithuania,LTU,2021,0.887
+Luxembourg,LUX,2021,0.918
+Madagascar,MDG,2021,0.481
+Malawi,MWI,2021,0.509
+Malaysia,MYS,2021,0.802
+Maldives,MDV,2021,0.745
+Mali,MLI,2021,0.414
+Malta,MLT,2021,0.914
+Marshall Islands,MHL,2021,0.723
+Mauritania,MRT,2021,0.553
+Mauritius,MUS,2021,0.789
+Mexico,MEX,2021,0.761
+Micronesia (Federated States of),FSM,2021,0.611
+Moldova (Republic of),MDA,2021,0.773
+Mongolia,MNG,2021,0.727
+Montenegro,MNE,2021,0.84
+Morocco,MAR,2021,0.69
+Mozambique,MOZ,2021,0.478
+Myanmar,MMR,2021,0.605
+Namibia,NAM,2021,0.631
+Nauru,NRU,2021,0.692
+Nepal,NPL,2021,0.596
+Netherlands,NLD,2021,0.951
+New Zealand,NZL,2021,0.939
+Nicaragua,NIC,2021,0.682
+Niger,NER,2021,0.413
+Nigeria,NGA,2021,0.554
+North Macedonia,MKD,2021,0.781
+Norway,NOR,2021,0.969
+Oman,OMN,2021,0.834
+Pakistan,PAK,2021,0.537
+Palau,PLW,2021,0.789
+"Palestine, State of",PSE,2021,0.718
+Panama,PAN,2021,0.819
+Papua New Guinea,PNG,2021,0.567
+Paraguay,PRY,2021,0.723
+Peru,PER,2021,0.764
+Philippines,PHL,2021,0.69
+Poland,POL,2021,0.884
+Portugal,PRT,2021,0.876
+Qatar,QAT,2021,0.866
+Romania,ROU,2021,0.829
+Russian Federation,RUS,2021,0.813
+Rwanda,RWA,2021,0.562
+Saint Kitts and Nevis,KNA,2021,0.818
+Saint Lucia,LCA,2021,0.724
+Saint Vincent and the Grenadines,VCT,2021,0.781
+Samoa,WSM,2021,0.706
+San Marino,SMR,2021,0.903
+Sao Tome and Principe,STP,2021,0.631
+Saudi Arabia,SAU,2021,0.878
+Senegal,SEN,2021,0.522
+Serbia,SRB,2021,0.807
+Seychelles,SYC,2021,0.838
+Sierra Leone,SLE,2021,0.458
+Singapore,SGP,2021,0.948
+Slovakia,SVK,2021,0.859
+Slovenia,SVN,2021,0.924
+Solomon Islands,SLB,2021,0.577
+South Africa,ZAF,2021,0.721
+South Sudan,SSD,2021,0.393
+Spain,ESP,2021,0.912
+Sri Lanka,LKA,2021,0.777
+Sudan,SDN,2021,0.512
+Suriname,SUR,2021,0.697
+Sweden,SWE,2021,0.958
+Switzerland,CHE,2021,0.968
+Syrian Arab Republic,SYR,2021,0.571
+Tajikistan,TJK,2021,0.672
+Tanzania (United Republic of),TZA,2021,0.548
+Thailand,THA,2021,0.8
+Timor-Leste,TLS,2021,0.644
+Togo,TGO,2021,0.56
+Tonga,TON,2021,0.763
+Trinidad and Tobago,TTO,2021,0.796
+Tunisia,TUN,2021,0.728
+Turkmenistan,TKM,2021,0.754
+Tuvalu,TUV,2021,0.681
+T¸rkiye,TUR,2021,0.841
+Uganda,UGA,2021,0.573
+Ukraine,UKR,2021,0.772
+United Arab Emirates,ARE,2021,0.903
+United Kingdom,GBR,2021,0.941
+United States,USA,2021,0.921
+Uruguay,URY,2021,0.837
+Uzbekistan,UZB,2021,0.727
+Vanuatu,VUT,2021,0.615
+Venezuela (Bolivarian Republic of),VEN,2021,0.696
+Viet Nam,VNM,2021,0.754
+Yemen,YEM,2021,0.458
+Zambia,ZMB,2021,0.574
+Zimbabwe,ZWE,2021,0.581
