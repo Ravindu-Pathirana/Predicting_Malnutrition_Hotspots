@@ -1,0 +1,196 @@
+Country Name,Country Code,Year,Prevalence of Undernourishment
+Afghanistan,AFG,2017,21.3
+Albania,ALB,2017,4.3
+Algeria,DZA,2017,2.5
+Andorra,AND,2017,
+Angola,AGO,2017,15.4
+Antigua and Barbuda,ATG,2017,
+Argentina,ARG,2017,3.5
+Armenia,ARM,2017,2.5
+Australia,AUS,2017,2.5
+Austria,AUT,2017,2.5
+Azerbaijan,AZE,2017,2.5
+Bahamas,BHS,2017,
+Bahrain,BHR,2017,
+Bangladesh,BGD,2017,13.4
+Barbados,BRB,2017,2.5
+Belarus,BLR,2017,2.5
+Belgium,BEL,2017,2.5
+Belize,BLZ,2017,5.8
+Benin,BEN,2017,10.5
+Bhutan,BTN,2017,
+Bolivia,BOL,2017,14.2
+Bosnia and Herzegovina,BIH,2017,2.5
+Botswana,BWA,2017,22.1
+Brazil,BRA,2017,2.5
+Brunei,BRN,2017,
+Bulgaria,BGR,2017,3.4
+Burkina Faso,BFA,2017,14.0
+Burundi,BDI,2017,
+Cabo Verde,CPV,2017,15.5
+Cambodia,KHM,2017,6.3
+Cameroon,CMR,2017,6.0
+Canada,CAN,2017,2.5
+Central African Republic,CAF,2017,25.3
+Chad,TCD,2017,26.7
+Chile,CHL,2017,3.1
+China,CHN,2017,2.5
+Colombia,COL,2017,4.2
+Comoros,COM,2017,13.1
+Congo,COG,2017,30.2
+Costa Rica,CRI,2017,2.5
+Croatia,HRV,2017,2.5
+Cuba,CUB,2017,
+Cyprus,CYP,2017,2.5
+Czechia,CZE,2017,2.5
+Côte d'Ivoire,CIV,2017,10.6
+Democratic Republic of the Congo,COD,2017,32.7
+Denmark,DNK,2017,2.5
+Djibouti,DJI,2017,12.6
+Dominica,DMA,2017,5.5
+Dominican Republic,DOM,2017,5.9
+Ecuador,ECU,2017,10.4
+Egypt,EGY,2017,6.6
+El Salvador,SLV,2017,7.6
+Equatorial Guinea,GNQ,2017,
+Eritrea,ERI,2017,
+Estonia,EST,2017,2.5
+Eswatini,SWZ,2017,15.0
+Ethiopia,ETH,2017,14.1
+Fiji,FJI,2017,7.3
+Finland,FIN,2017,2.5
+France,FRA,2017,2.5
+Gabon,GAB,2017,16.4
+Gambia,GMB,2017,14.2
+Georgia,GEO,2017,6.4
+Germany,DEU,2017,2.5
+Ghana,GHA,2017,8.8
+Greece,GRC,2017,2.5
+Grenada,GRD,2017,
+Guatemala,GTM,2017,14.3
+Guinea,GIN,2017,14.0
+Guinea-Bissau,GNB,2017,13.6
+Guyana,GUY,2017,3.1
+Haiti,HTI,2017,40.3
+Honduras,HND,2017,13.2
+Hungary,HUN,2017,2.5
+Iceland,ISL,2017,2.5
+India,IND,2017,10.6
+Indonesia,IDN,2017,6.0
+Iran,IRN,2017,8.0
+Iraq,IRQ,2017,16.0
+Ireland,IRL,2017,2.5
+Israel,ISR,2017,2.5
+Italy,ITA,2017,2.5
+Jamaica,JAM,2017,7.3
+Japan,JPN,2017,
+Jordan,JOR,2017,9.2
+Kazakhstan,KAZ,2017,2.5
+Kenya,KEN,2017,23.6
+Kiribati,KIR,2017,3.2
+Kuwait,KWT,2017,2.5
+Kyrgyzstan,KGZ,2017,5.5
+Laos,LAO,2017,
+Latvia,LVA,2017,2.5
+Lebanon,LBN,2017,5.5
+Lesotho,LSO,2017,
+Liberia,LBR,2017,34.9
+Libya,LBY,2017,11.4
+Liechtenstein,LIE,2017,
+Lithuania,LTU,2017,2.5
+Luxembourg,LUX,2017,2.5
+Madagascar,MDG,2017,36.0
+Malawi,MWI,2017,17.6
+Malaysia,MYS,2017,3.1
+Maldives,MDV,2017,
+Mali,MLI,2017,4.6
+Malta,MLT,2017,2.5
+Marshall Islands,MHL,2017,
+Mauritania,MRT,2017,6.6
+Mauritius,MUS,2017,7.3
+Mexico,MEX,2017,3.7
+Micronesia,FSM,2017,
+Moldova,MDA,2017,2.5
+Monaco,MCO,2017,
+Mongolia,MNG,2017,6.8
+Montenegro,MNE,2017,2.5
+Morocco,MAR,2017,3.5
+Mozambique,MOZ,2017,38.3
+Myanmar,MMR,2017,3.5
+Namibia,NAM,2017,20.0
+Nauru,NRU,2017,
+Nepal,NPL,2017,4.9
+Netherlands,NLD,2017,2.5
+New Zealand,NZL,2017,2.5
+Nicaragua,NIC,2017,15.6
+Niger,NER,2017,11.1
+Nigeria,NGA,2017,11.5
+North Korea,PRK,2017,47.5
+North Macedonia,MKD,2017,2.9
+Norway,NOR,2017,2.5
+Oman,OMN,2017,7.0
+Pakistan,PAK,2017,11.7
+Palau,PLW,2017,
+Palestine,PSE,2017,
+Panama,PAN,2017,5.8
+Papua New Guinea,PNG,2017,28.3
+Paraguay,PRY,2017,2.6
+Peru,PER,2017,6.5
+Philippines,PHL,2017,7.8
+Poland,POL,2017,2.5
+Portugal,PRT,2017,2.5
+Qatar,QAT,2017,
+Romania,ROU,2017,2.5
+Russia,RUS,2017,2.5
+Rwanda,RWA,2017,31.9
+Saint Kitts and Nevis,KNA,2017,
+Saint Lucia,LCA,2017,
+Saint Vincent and the Grenadines,VCT,2017,4.9
+Samoa,WSM,2017,4.9
+San Marino,SMR,2017,
+Sao Tome and Principe,STP,2017,17.9
+Saudi Arabia,SAU,2017,2.5
+Senegal,SEN,2017,8.0
+Serbia,SRB,2017,2.5
+Seychelles,SYC,2017,3.3
+Sierra Leone,SLE,2017,26.0
+Singapore,SGP,2017,
+Slovakia,SVK,2017,4.1
+Slovenia,SVN,2017,2.5
+Solomon Islands,SLB,2017,17.9
+Somalia,SOM,2017,59.0
+South Africa,ZAF,2017,6.1
+South Korea,KOR,2017,2.5
+South Sudan,SSD,2017,
+Spain,ESP,2017,2.5
+Sri Lanka,LKA,2017,5.0
+Sudan,SDN,2017,10.3
+Suriname,SUR,2017,9.3
+Sweden,SWE,2017,2.5
+Switzerland,CHE,2017,2.5
+Syria,SYR,2017,18.5
+Tajikistan,TJK,2017,12.2
+Tanzania,TZA,2017,22.6
+Thailand,THA,2017,8.1
+Timor-Leste,TLS,2017,16.2
+Togo,TGO,2017,20.4
+Tonga,TON,2017,
+Trinidad and Tobago,TTO,2017,7.1
+Tunisia,TUN,2017,2.6
+Turkmenistan,TKM,2017,3.4
+Tuvalu,TUV,2017,
+Türkiye,TUR,2017,2.5
+Uganda,UGA,2017,35.5
+Ukraine,UKR,2017,2.6
+United Arab Emirates,ARE,2017,3.4
+United Kingdom,GBR,2017,2.5
+United States,USA,2017,2.5
+Uruguay,URY,2017,2.5
+Uzbekistan,UZB,2017,2.5
+Vanuatu,VUT,2017,7.4
+Vatican City,VAT,2017,
+Venezuela,VEN,2017,23.7
+Vietnam,VNM,2017,7.3
+Yemen,YEM,2017,
+Zambia,ZMB,2017,31.8
+Zimbabwe,ZWE,2017,30.9

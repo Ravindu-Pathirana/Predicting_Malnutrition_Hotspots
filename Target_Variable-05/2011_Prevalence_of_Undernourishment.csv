@@ -1,0 +1,196 @@
+Country Name,Country Code,Year,Prevalence of Undernourishment
+Afghanistan,AFG,2011,18.6
+Albania,ALB,2011,4.9
+Algeria,DZA,2011,3.7
+Andorra,AND,2011,
+Angola,AGO,2011,14.8
+Antigua and Barbuda,ATG,2011,
+Argentina,ARG,2011,3.7
+Armenia,ARM,2011,2.5
+Australia,AUS,2011,2.5
+Austria,AUT,2011,2.5
+Azerbaijan,AZE,2011,2.5
+Bahamas,BHS,2011,
+Bahrain,BHR,2011,
+Bangladesh,BGD,2011,18.0
+Barbados,BRB,2011,2.5
+Belarus,BLR,2011,2.5
+Belgium,BEL,2011,2.5
+Belize,BLZ,2011,5.1
+Benin,BEN,2011,9.6
+Bhutan,BTN,2011,
+Bolivia,BOL,2011,18.8
+Bosnia and Herzegovina,BIH,2011,2.5
+Botswana,BWA,2011,22.0
+Brazil,BRA,2011,2.7
+Brunei,BRN,2011,
+Bulgaria,BGR,2011,5.2
+Burkina Faso,BFA,2011,14.6
+Burundi,BDI,2011,
+Cabo Verde,CPV,2011,14.1
+Cambodia,KHM,2011,9.2
+Cameroon,CMR,2011,4.3
+Canada,CAN,2011,2.5
+Central African Republic,CAF,2011,26.3
+Chad,TCD,2011,24.0
+Chile,CHL,2011,3.7
+China,CHN,2011,2.5
+Colombia,COL,2011,10.0
+Comoros,COM,2011,15.9
+Congo,COG,2011,40.5
+Costa Rica,CRI,2011,3.1
+Croatia,HRV,2011,2.8
+Cuba,CUB,2011,
+Cyprus,CYP,2011,2.5
+Czechia,CZE,2011,2.5
+Côte d'Ivoire,CIV,2011,16.0
+Democratic Republic of the Congo,COD,2011,29.6
+Denmark,DNK,2011,2.5
+Djibouti,DJI,2011,18.8
+Dominica,DMA,2011,4.7
+Dominican Republic,DOM,2011,11.6
+Ecuador,ECU,2011,8.0
+Egypt,EGY,2011,5.2
+El Salvador,SLV,2011,9.0
+Equatorial Guinea,GNQ,2011,
+Eritrea,ERI,2011,
+Estonia,EST,2011,2.5
+Eswatini,SWZ,2011,24.0
+Ethiopia,ETH,2011,21.2
+Fiji,FJI,2011,7.3
+Finland,FIN,2011,2.5
+France,FRA,2011,2.5
+Gabon,GAB,2011,13.5
+Gambia,GMB,2011,9.5
+Georgia,GEO,2011,8.1
+Germany,DEU,2011,2.5
+Ghana,GHA,2011,7.3
+Greece,GRC,2011,2.5
+Grenada,GRD,2011,
+Guatemala,GTM,2011,15.0
+Guinea,GIN,2011,17.2
+Guinea-Bissau,GNB,2011,23.7
+Guyana,GUY,2011,8.9
+Haiti,HTI,2011,39.7
+Honduras,HND,2011,12.9
+Hungary,HUN,2011,2.5
+Iceland,ISL,2011,2.5
+India,IND,2011,14.2
+Indonesia,IDN,2011,10.9
+Iran,IRN,2011,9.5
+Iraq,IRQ,2011,13.6
+Ireland,IRL,2011,2.5
+Israel,ISR,2011,2.5
+Italy,ITA,2011,2.5
+Jamaica,JAM,2011,7.8
+Japan,JPN,2011,
+Jordan,JOR,2011,9.1
+Kazakhstan,KAZ,2011,3.0
+Kenya,KEN,2011,19.9
+Kiribati,KIR,2011,3.4
+Kuwait,KWT,2011,2.5
+Kyrgyzstan,KGZ,2011,7.1
+Laos,LAO,2011,
+Latvia,LVA,2011,2.5
+Lebanon,LBN,2011,3.9
+Lesotho,LSO,2011,
+Liberia,LBR,2011,35.6
+Libya,LBY,2011,8.1
+Liechtenstein,LIE,2011,
+Lithuania,LTU,2011,2.5
+Luxembourg,LUX,2011,2.5
+Madagascar,MDG,2011,27.4
+Malawi,MWI,2011,13.9
+Malaysia,MYS,2011,3.4
+Maldives,MDV,2011,
+Mali,MLI,2011,5.8
+Malta,MLT,2011,2.5
+Marshall Islands,MHL,2011,
+Mauritania,MRT,2011,6.5
+Mauritius,MUS,2011,6.1
+Mexico,MEX,2011,3.9
+Micronesia,FSM,2011,
+Moldova,MDA,2011,8.4
+Monaco,MCO,2011,
+Mongolia,MNG,2011,14.8
+Montenegro,MNE,2011,2.5
+Morocco,MAR,2011,4.5
+Mozambique,MOZ,2011,19.9
+Myanmar,MMR,2011,8.0
+Namibia,NAM,2011,27.6
+Nauru,NRU,2011,
+Nepal,NPL,2011,10.1
+Netherlands,NLD,2011,2.5
+New Zealand,NZL,2011,2.5
+Nicaragua,NIC,2011,17.2
+Niger,NER,2011,14.8
+Nigeria,NGA,2011,11.1
+North Korea,PRK,2011,43.4
+North Macedonia,MKD,2011,3.7
+Norway,NOR,2011,2.5
+Oman,OMN,2011,5.5
+Pakistan,PAK,2011,15.4
+Palau,PLW,2011,
+Palestine,PSE,2011,
+Panama,PAN,2011,7.9
+Papua New Guinea,PNG,2011,30.1
+Paraguay,PRY,2011,2.5
+Peru,PER,2011,7.6
+Philippines,PHL,2011,14.9
+Poland,POL,2011,2.5
+Portugal,PRT,2011,2.5
+Qatar,QAT,2011,
+Romania,ROU,2011,2.5
+Russia,RUS,2011,2.5
+Rwanda,RWA,2011,35.3
+Saint Kitts and Nevis,KNA,2011,
+Saint Lucia,LCA,2011,
+Saint Vincent and the Grenadines,VCT,2011,5.3
+Samoa,WSM,2011,4.7
+San Marino,SMR,2011,
+Sao Tome and Principe,STP,2011,17.6
+Saudi Arabia,SAU,2011,3.1
+Senegal,SEN,2011,11.1
+Serbia,SRB,2011,2.5
+Seychelles,SYC,2011,5.2
+Sierra Leone,SLE,2011,21.6
+Singapore,SGP,2011,
+Slovakia,SVK,2011,6.1
+Slovenia,SVN,2011,2.5
+Solomon Islands,SLB,2011,15.8
+Somalia,SOM,2011,71.5
+South Africa,ZAF,2011,5.0
+South Korea,KOR,2011,2.5
+South Sudan,SSD,2011,
+Spain,ESP,2011,2.5
+Sri Lanka,LKA,2011,10.8
+Sudan,SDN,2011,
+Suriname,SUR,2011,8.2
+Sweden,SWE,2011,2.5
+Switzerland,CHE,2011,2.5
+Syria,SYR,2011,6.3
+Tajikistan,TJK,2011,22.5
+Tanzania,TZA,2011,22.7
+Thailand,THA,2011,9.4
+Timor-Leste,TLS,2011,17.6
+Togo,TGO,2011,20.1
+Tonga,TON,2011,
+Trinidad and Tobago,TTO,2011,7.4
+Tunisia,TUN,2011,3.4
+Turkmenistan,TKM,2011,4.7
+Tuvalu,TUV,2011,
+Türkiye,TUR,2011,2.5
+Uganda,UGA,2011,17.7
+Ukraine,UKR,2011,2.5
+United Arab Emirates,ARE,2011,4.9
+United Kingdom,GBR,2011,2.5
+United States,USA,2011,2.5
+Uruguay,URY,2011,2.5
+Uzbekistan,UZB,2011,2.8
+Vanuatu,VUT,2011,7.1
+Vatican City,VAT,2011,
+Venezuela,VEN,2011,2.5
+Vietnam,VNM,2011,9.3
+Yemen,YEM,2011,
+Zambia,ZMB,2011,42.8
+Zimbabwe,ZWE,2011,29.9

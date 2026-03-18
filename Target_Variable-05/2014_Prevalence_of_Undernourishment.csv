@@ -1,0 +1,196 @@
+Country Name,Country Code,Year,Prevalence of Undernourishment
+Afghanistan,AFG,2014,19.3
+Albania,ALB,2014,4.6
+Algeria,DZA,2014,2.7
+Andorra,AND,2014,
+Angola,AGO,2014,13.2
+Antigua and Barbuda,ATG,2014,
+Argentina,ARG,2014,2.9
+Armenia,ARM,2014,2.5
+Australia,AUS,2014,2.5
+Austria,AUT,2014,2.5
+Azerbaijan,AZE,2014,2.5
+Bahamas,BHS,2014,
+Bahrain,BHR,2014,
+Bangladesh,BGD,2014,15.6
+Barbados,BRB,2014,2.5
+Belarus,BLR,2014,2.5
+Belgium,BEL,2014,2.5
+Belize,BLZ,2014,6.4
+Benin,BEN,2014,9.2
+Bhutan,BTN,2014,
+Bolivia,BOL,2014,17.2
+Bosnia and Herzegovina,BIH,2014,2.5
+Botswana,BWA,2014,20.1
+Brazil,BRA,2014,2.5
+Brunei,BRN,2014,
+Bulgaria,BGR,2014,4.2
+Burkina Faso,BFA,2014,13.4
+Burundi,BDI,2014,
+Cabo Verde,CPV,2014,16.3
+Cambodia,KHM,2014,8.1
+Cameroon,CMR,2014,4.5
+Canada,CAN,2014,2.5
+Central African Republic,CAF,2014,30.9
+Chad,TCD,2014,25.2
+Chile,CHL,2014,3.3
+China,CHN,2014,2.5
+Colombia,COL,2014,5.8
+Comoros,COM,2014,14.5
+Congo,COG,2014,29.6
+Costa Rica,CRI,2014,2.7
+Croatia,HRV,2014,2.5
+Cuba,CUB,2014,
+Cyprus,CYP,2014,2.5
+Czechia,CZE,2014,2.5
+Côte d'Ivoire,CIV,2014,14.6
+Democratic Republic of the Congo,COD,2014,31.1
+Denmark,DNK,2014,2.5
+Djibouti,DJI,2014,14.1
+Dominica,DMA,2014,4.4
+Dominican Republic,DOM,2014,8.4
+Ecuador,ECU,2014,8.5
+Egypt,EGY,2014,6.4
+El Salvador,SLV,2014,9.4
+Equatorial Guinea,GNQ,2014,
+Eritrea,ERI,2014,
+Estonia,EST,2014,2.5
+Eswatini,SWZ,2014,16.2
+Ethiopia,ETH,2014,15.2
+Fiji,FJI,2014,7.0
+Finland,FIN,2014,2.5
+France,FRA,2014,2.5
+Gabon,GAB,2014,13.3
+Gambia,GMB,2014,11.9
+Georgia,GEO,2014,6.6
+Germany,DEU,2014,2.5
+Ghana,GHA,2014,8.7
+Greece,GRC,2014,2.5
+Grenada,GRD,2014,
+Guatemala,GTM,2014,15.9
+Guinea,GIN,2014,13.6
+Guinea-Bissau,GNB,2014,30.1
+Guyana,GUY,2014,5.7
+Haiti,HTI,2014,37.8
+Honduras,HND,2014,14.2
+Hungary,HUN,2014,2.5
+Iceland,ISL,2014,2.5
+India,IND,2014,12.6
+Indonesia,IDN,2014,7.8
+Iran,IRN,2014,7.6
+Iraq,IRQ,2014,15.3
+Ireland,IRL,2014,2.5
+Israel,ISR,2014,2.5
+Italy,ITA,2014,2.5
+Jamaica,JAM,2014,7.5
+Japan,JPN,2014,
+Jordan,JOR,2014,7.6
+Kazakhstan,KAZ,2014,2.5
+Kenya,KEN,2014,19.0
+Kiribati,KIR,2014,3.0
+Kuwait,KWT,2014,2.5
+Kyrgyzstan,KGZ,2014,5.9
+Laos,LAO,2014,
+Latvia,LVA,2014,2.5
+Lebanon,LBN,2014,5.3
+Lesotho,LSO,2014,
+Liberia,LBR,2014,36.6
+Libya,LBY,2014,10.2
+Liechtenstein,LIE,2014,
+Lithuania,LTU,2014,2.5
+Luxembourg,LUX,2014,2.5
+Madagascar,MDG,2014,32.1
+Malawi,MWI,2014,15.5
+Malaysia,MYS,2014,3.8
+Maldives,MDV,2014,
+Mali,MLI,2014,5.0
+Malta,MLT,2014,2.5
+Marshall Islands,MHL,2014,
+Mauritania,MRT,2014,6.3
+Mauritius,MUS,2014,6.8
+Mexico,MEX,2014,3.7
+Micronesia,FSM,2014,
+Moldova,MDA,2014,3.8
+Monaco,MCO,2014,
+Mongolia,MNG,2014,10.6
+Montenegro,MNE,2014,2.5
+Morocco,MAR,2014,3.9
+Mozambique,MOZ,2014,32.6
+Myanmar,MMR,2014,5.5
+Namibia,NAM,2014,22.5
+Nauru,NRU,2014,
+Nepal,NPL,2014,8.2
+Netherlands,NLD,2014,2.5
+New Zealand,NZL,2014,2.5
+Nicaragua,NIC,2014,17.7
+Niger,NER,2014,13.7
+Nigeria,NGA,2014,11.1
+North Korea,PRK,2014,44.5
+North Macedonia,MKD,2014,3.6
+Norway,NOR,2014,2.5
+Oman,OMN,2014,6.8
+Pakistan,PAK,2014,14.2
+Palau,PLW,2014,
+Palestine,PSE,2014,
+Panama,PAN,2014,7.1
+Papua New Guinea,PNG,2014,27.6
+Paraguay,PRY,2014,2.5
+Peru,PER,2014,5.3
+Philippines,PHL,2014,12.9
+Poland,POL,2014,2.5
+Portugal,PRT,2014,2.5
+Qatar,QAT,2014,
+Romania,ROU,2014,2.5
+Russia,RUS,2014,2.5
+Rwanda,RWA,2014,37.1
+Saint Kitts and Nevis,KNA,2014,
+Saint Lucia,LCA,2014,
+Saint Vincent and the Grenadines,VCT,2014,4.6
+Samoa,WSM,2014,4.4
+San Marino,SMR,2014,
+Sao Tome and Principe,STP,2014,18.1
+Saudi Arabia,SAU,2014,2.7
+Senegal,SEN,2014,11.1
+Serbia,SRB,2014,2.5
+Seychelles,SYC,2014,4.9
+Sierra Leone,SLE,2014,23.2
+Singapore,SGP,2014,
+Slovakia,SVK,2014,5.7
+Slovenia,SVN,2014,2.5
+Solomon Islands,SLB,2014,19.0
+Somalia,SOM,2014,61.4
+South Africa,ZAF,2014,6.4
+South Korea,KOR,2014,2.5
+South Sudan,SSD,2014,
+Spain,ESP,2014,2.5
+Sri Lanka,LKA,2014,6.1
+Sudan,SDN,2014,8.4
+Suriname,SUR,2014,8.0
+Sweden,SWE,2014,2.5
+Switzerland,CHE,2014,2.5
+Syria,SYR,2014,9.7
+Tajikistan,TJK,2014,18.5
+Tanzania,TZA,2014,21.1
+Thailand,THA,2014,8.2
+Timor-Leste,TLS,2014,14.8
+Togo,TGO,2014,20.0
+Tonga,TON,2014,
+Trinidad and Tobago,TTO,2014,6.7
+Tunisia,TUN,2014,2.9
+Turkmenistan,TKM,2014,3.6
+Tuvalu,TUV,2014,
+Türkiye,TUR,2014,2.5
+Uganda,UGA,2014,23.8
+Ukraine,UKR,2014,2.5
+United Arab Emirates,ARE,2014,3.5
+United Kingdom,GBR,2014,2.5
+United States,USA,2014,2.5
+Uruguay,URY,2014,2.5
+Uzbekistan,UZB,2014,2.5
+Vanuatu,VUT,2014,7.4
+Vatican City,VAT,2014,
+Venezuela,VEN,2014,3.9
+Vietnam,VNM,2014,8.3
+Yemen,YEM,2014,
+Zambia,ZMB,2014,37.3
+Zimbabwe,ZWE,2014,33.4

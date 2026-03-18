@@ -1,0 +1,196 @@
+Country Name,Country Code,Year,Prevalence of Undernourishment
+Afghanistan,AFG,2018,22.6
+Albania,ALB,2018,4.3
+Algeria,DZA,2018,2.5
+Andorra,AND,2018,
+Angola,AGO,2018,15.9
+Antigua and Barbuda,ATG,2018,
+Argentina,ARG,2018,3.7
+Armenia,ARM,2018,2.5
+Australia,AUS,2018,2.5
+Austria,AUT,2018,2.5
+Azerbaijan,AZE,2018,2.5
+Bahamas,BHS,2018,
+Bahrain,BHR,2018,
+Bangladesh,BGD,2018,12.0
+Barbados,BRB,2018,2.5
+Belarus,BLR,2018,2.5
+Belgium,BEL,2018,2.5
+Belize,BLZ,2018,5.3
+Benin,BEN,2018,11.4
+Bhutan,BTN,2018,
+Bolivia,BOL,2018,13.7
+Bosnia and Herzegovina,BIH,2018,2.5
+Botswana,BWA,2018,22.1
+Brazil,BRA,2018,2.5
+Brunei,BRN,2018,
+Bulgaria,BGR,2018,3.1
+Burkina Faso,BFA,2018,14.5
+Burundi,BDI,2018,
+Cabo Verde,CPV,2018,14.8
+Cambodia,KHM,2018,5.6
+Cameroon,CMR,2018,6.2
+Canada,CAN,2018,2.5
+Central African Republic,CAF,2018,24.4
+Chad,TCD,2018,28.1
+Chile,CHL,2018,3.0
+China,CHN,2018,2.5
+Colombia,COL,2018,4.2
+Comoros,COM,2018,13.2
+Congo,COG,2018,29.7
+Costa Rica,CRI,2018,2.5
+Croatia,HRV,2018,2.5
+Cuba,CUB,2018,
+Cyprus,CYP,2018,2.5
+Czechia,CZE,2018,2.5
+Côte d'Ivoire,CIV,2018,9.8
+Democratic Republic of the Congo,COD,2018,32.5
+Denmark,DNK,2018,2.5
+Djibouti,DJI,2018,12.2
+Dominica,DMA,2018,5.5
+Dominican Republic,DOM,2018,5.6
+Ecuador,ECU,2018,11.3
+Egypt,EGY,2018,6.4
+El Salvador,SLV,2018,6.8
+Equatorial Guinea,GNQ,2018,
+Eritrea,ERI,2018,
+Estonia,EST,2018,2.5
+Eswatini,SWZ,2018,13.4
+Ethiopia,ETH,2018,16.1
+Fiji,FJI,2018,6.4
+Finland,FIN,2018,2.5
+France,FRA,2018,2.5
+Gabon,GAB,2018,17.5
+Gambia,GMB,2018,15.0
+Georgia,GEO,2018,5.4
+Germany,DEU,2018,2.5
+Ghana,GHA,2018,7.5
+Greece,GRC,2018,2.5
+Grenada,GRD,2018,
+Guatemala,GTM,2018,14.0
+Guinea,GIN,2018,13.4
+Guinea-Bissau,GNB,2018,12.4
+Guyana,GUY,2018,2.9
+Haiti,HTI,2018,41.2
+Honduras,HND,2018,13.1
+Hungary,HUN,2018,2.5
+Iceland,ISL,2018,2.5
+India,IND,2018,10.5
+Indonesia,IDN,2018,6.0
+Iran,IRN,2018,8.0
+Iraq,IRQ,2018,15.8
+Ireland,IRL,2018,2.5
+Israel,ISR,2018,2.5
+Italy,ITA,2018,2.5
+Jamaica,JAM,2018,6.3
+Japan,JPN,2018,
+Jordan,JOR,2018,10.6
+Kazakhstan,KAZ,2018,2.5
+Kenya,KEN,2018,22.9
+Kiribati,KIR,2018,3.6
+Kuwait,KWT,2018,2.5
+Kyrgyzstan,KGZ,2018,5.0
+Laos,LAO,2018,
+Latvia,LVA,2018,2.5
+Lebanon,LBN,2018,5.6
+Lesotho,LSO,2018,
+Liberia,LBR,2018,35.3
+Libya,LBY,2018,11.9
+Liechtenstein,LIE,2018,
+Lithuania,LTU,2018,2.5
+Luxembourg,LUX,2018,2.5
+Madagascar,MDG,2018,37.5
+Malawi,MWI,2018,18.3
+Malaysia,MYS,2018,2.9
+Maldives,MDV,2018,
+Mali,MLI,2018,4.6
+Malta,MLT,2018,2.5
+Marshall Islands,MHL,2018,
+Mauritania,MRT,2018,6.5
+Mauritius,MUS,2018,7.1
+Mexico,MEX,2018,3.6
+Micronesia,FSM,2018,
+Moldova,MDA,2018,2.5
+Monaco,MCO,2018,
+Mongolia,MNG,2018,6.2
+Montenegro,MNE,2018,2.5
+Morocco,MAR,2018,3.6
+Mozambique,MOZ,2018,32.5
+Myanmar,MMR,2018,3.4
+Namibia,NAM,2018,19.2
+Nauru,NRU,2018,
+Nepal,NPL,2018,4.5
+Netherlands,NLD,2018,2.5
+New Zealand,NZL,2018,2.5
+Nicaragua,NIC,2018,15.5
+Niger,NER,2018,10.9
+Nigeria,NGA,2018,12.1
+North Korea,PRK,2018,47.0
+North Macedonia,MKD,2018,2.6
+Norway,NOR,2018,2.5
+Oman,OMN,2018,6.3
+Pakistan,PAK,2018,10.9
+Palau,PLW,2018,
+Palestine,PSE,2018,
+Panama,PAN,2018,5.0
+Papua New Guinea,PNG,2018,28.5
+Paraguay,PRY,2018,2.7
+Peru,PER,2018,6.0
+Philippines,PHL,2018,6.4
+Poland,POL,2018,2.5
+Portugal,PRT,2018,2.5
+Qatar,QAT,2018,
+Romania,ROU,2018,2.5
+Russia,RUS,2018,2.5
+Rwanda,RWA,2018,32.7
+Saint Kitts and Nevis,KNA,2018,
+Saint Lucia,LCA,2018,
+Saint Vincent and the Grenadines,VCT,2018,5.1
+Samoa,WSM,2018,4.7
+San Marino,SMR,2018,
+Sao Tome and Principe,STP,2018,17.8
+Saudi Arabia,SAU,2018,2.5
+Senegal,SEN,2018,7.1
+Serbia,SRB,2018,2.5
+Seychelles,SYC,2018,3.0
+Sierra Leone,SLE,2018,27.0
+Singapore,SGP,2018,
+Slovakia,SVK,2018,3.3
+Slovenia,SVN,2018,2.5
+Solomon Islands,SLB,2018,18.0
+Somalia,SOM,2018,56.2
+South Africa,ZAF,2018,6.4
+South Korea,KOR,2018,2.5
+South Sudan,SSD,2018,
+Spain,ESP,2018,2.5
+Sri Lanka,LKA,2018,5.3
+Sudan,SDN,2018,10.8
+Suriname,SUR,2018,9.0
+Sweden,SWE,2018,2.5
+Switzerland,CHE,2018,2.5
+Syria,SYR,2018,22.8
+Tajikistan,TJK,2018,10.3
+Tanzania,TZA,2018,22.9
+Thailand,THA,2018,7.6
+Timor-Leste,TLS,2018,16.3
+Togo,TGO,2018,19.7
+Tonga,TON,2018,
+Trinidad and Tobago,TTO,2018,7.2
+Tunisia,TUN,2018,2.5
+Turkmenistan,TKM,2018,3.5
+Tuvalu,TUV,2018,
+Türkiye,TUR,2018,2.5
+Uganda,UGA,2018,35.9
+Ukraine,UKR,2018,3.0
+United Arab Emirates,ARE,2018,2.9
+United Kingdom,GBR,2018,2.5
+United States,USA,2018,2.5
+Uruguay,URY,2018,2.5
+Uzbekistan,UZB,2018,2.5
+Vanuatu,VUT,2018,7.6
+Vatican City,VAT,2018,
+Venezuela,VEN,2018,23.4
+Vietnam,VNM,2018,6.9
+Yemen,YEM,2018,
+Zambia,ZMB,2018,31.5
+Zimbabwe,ZWE,2018,31.0

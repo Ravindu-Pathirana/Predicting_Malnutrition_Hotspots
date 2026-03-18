@@ -1,0 +1,196 @@
+Country Name,Country Code,Year,Prevalence of Undernourishment
+Afghanistan,AFG,2023,28.1
+Albania,ALB,2023,5.4
+Algeria,DZA,2023,2.5
+Andorra,AND,2023,
+Angola,AGO,2023,22.5
+Antigua and Barbuda,ATG,2023,
+Argentina,ARG,2023,3.4
+Armenia,ARM,2023,2.5
+Australia,AUS,2023,2.5
+Austria,AUT,2023,2.5
+Azerbaijan,AZE,2023,2.5
+Bahamas,BHS,2023,
+Bahrain,BHR,2023,
+Bangladesh,BGD,2023,10.4
+Barbados,BRB,2023,4.4
+Belarus,BLR,2023,2.5
+Belgium,BEL,2023,2.5
+Belize,BLZ,2023,7.0
+Benin,BEN,2023,14.3
+Bhutan,BTN,2023,
+Bolivia,BOL,2023,21.8
+Bosnia and Herzegovina,BIH,2023,2.5
+Botswana,BWA,2023,24.0
+Brazil,BRA,2023,2.5
+Brunei,BRN,2023,
+Bulgaria,BGR,2023,2.5
+Burkina Faso,BFA,2023,13.1
+Burundi,BDI,2023,
+Cabo Verde,CPV,2023,13.5
+Cambodia,KHM,2023,5.2
+Cameroon,CMR,2023,4.8
+Canada,CAN,2023,2.5
+Central African Republic,CAF,2023,29.8
+Chad,TCD,2023,32.0
+Chile,CHL,2023,2.5
+China,CHN,2023,2.5
+Colombia,COL,2023,3.9
+Comoros,COM,2023,15.4
+Congo,COG,2023,26.4
+Costa Rica,CRI,2023,2.5
+Croatia,HRV,2023,2.5
+Cuba,CUB,2023,
+Cyprus,CYP,2023,2.5
+Czechia,CZE,2023,2.5
+Côte d'Ivoire,CIV,2023,11.1
+Democratic Republic of the Congo,COD,2023,38.5
+Denmark,DNK,2023,2.5
+Djibouti,DJI,2023,12.9
+Dominica,DMA,2023,3.6
+Dominican Republic,DOM,2023,3.6
+Ecuador,ECU,2023,12.1
+Egypt,EGY,2023,9.4
+El Salvador,SLV,2023,6.7
+Equatorial Guinea,GNQ,2023,
+Eritrea,ERI,2023,
+Estonia,EST,2023,2.5
+Eswatini,SWZ,2023,14.7
+Ethiopia,ETH,2023,19.7
+Fiji,FJI,2023,6.8
+Finland,FIN,2023,2.5
+France,FRA,2023,2.5
+Gabon,GAB,2023,25.3
+Gambia,GMB,2023,16.8
+Georgia,GEO,2023,2.5
+Germany,DEU,2023,2.5
+Ghana,GHA,2023,6.3
+Greece,GRC,2023,2.5
+Grenada,GRD,2023,
+Guatemala,GTM,2023,11.8
+Guinea,GIN,2023,11.4
+Guinea-Bissau,GNB,2023,22.1
+Guyana,GUY,2023,2.5
+Haiti,HTI,2023,54.2
+Honduras,HND,2023,14.8
+Hungary,HUN,2023,2.5
+Iceland,ISL,2023,2.5
+India,IND,2023,12.0
+Indonesia,IDN,2023,6.3
+Iran,IRN,2023,6.8
+Iraq,IRQ,2023,14.9
+Ireland,IRL,2023,2.5
+Israel,ISR,2023,2.5
+Italy,ITA,2023,2.5
+Jamaica,JAM,2023,7.7
+Japan,JPN,2023,
+Jordan,JOR,2023,14.3
+Kazakhstan,KAZ,2023,2.5
+Kenya,KEN,2023,36.8
+Kiribati,KIR,2023,4.1
+Kuwait,KWT,2023,2.5
+Kyrgyzstan,KGZ,2023,5.1
+Laos,LAO,2023,
+Latvia,LVA,2023,2.5
+Lebanon,LBN,2023,8.7
+Lesotho,LSO,2023,
+Liberia,LBR,2023,35.5
+Libya,LBY,2023,16.5
+Liechtenstein,LIE,2023,
+Lithuania,LTU,2023,2.5
+Luxembourg,LUX,2023,2.5
+Madagascar,MDG,2023,39.5
+Malawi,MWI,2023,21.4
+Malaysia,MYS,2023,2.5
+Maldives,MDV,2023,
+Mali,MLI,2023,12.3
+Malta,MLT,2023,2.5
+Marshall Islands,MHL,2023,
+Mauritania,MRT,2023,8.7
+Mauritius,MUS,2023,8.7
+Mexico,MEX,2023,2.7
+Micronesia,FSM,2023,
+Moldova,MDA,2023,2.5
+Monaco,MCO,2023,
+Mongolia,MNG,2023,2.5
+Montenegro,MNE,2023,2.5
+Morocco,MAR,2023,7.0
+Mozambique,MOZ,2023,21.8
+Myanmar,MMR,2023,5.4
+Namibia,NAM,2023,18.1
+Nauru,NRU,2023,
+Nepal,NPL,2023,5.3
+Netherlands,NLD,2023,2.5
+New Zealand,NZL,2023,2.5
+Nicaragua,NIC,2023,
+Niger,NER,2023,12.9
+Nigeria,NGA,2023,19.9
+North Korea,PRK,2023,
+North Macedonia,MKD,2023,2.5
+Norway,NOR,2023,2.5
+Oman,OMN,2023,5.9
+Pakistan,PAK,2023,16.5
+Palau,PLW,2023,
+Palestine,PSE,2023,
+Panama,PAN,2023,5.7
+Papua New Guinea,PNG,2023,28.7
+Paraguay,PRY,2023,5.2
+Peru,PER,2023,6.9
+Philippines,PHL,2023,3.0
+Poland,POL,2023,2.5
+Portugal,PRT,2023,2.5
+Qatar,QAT,2023,
+Romania,ROU,2023,2.5
+Russia,RUS,2023,2.5
+Rwanda,RWA,2023,24.4
+Saint Kitts and Nevis,KNA,2023,
+Saint Lucia,LCA,2023,
+Saint Vincent and the Grenadines,VCT,2023,6.1
+Samoa,WSM,2023,3.6
+San Marino,SMR,2023,
+Sao Tome and Principe,STP,2023,17.4
+Saudi Arabia,SAU,2023,2.5
+Senegal,SEN,2023,5.1
+Serbia,SRB,2023,2.5
+Seychelles,SYC,2023,2.5
+Sierra Leone,SLE,2023,24.1
+Singapore,SGP,2023,
+Slovakia,SVK,2023,3.1
+Slovenia,SVN,2023,2.5
+Solomon Islands,SLB,2023,20.0
+Somalia,SOM,2023,53.2
+South Africa,ZAF,2023,10.0
+South Korea,KOR,2023,2.5
+South Sudan,SSD,2023,22.3
+Spain,ESP,2023,2.5
+Sri Lanka,LKA,2023,7.4
+Sudan,SDN,2023,
+Suriname,SUR,2023,9.7
+Sweden,SWE,2023,2.5
+Switzerland,CHE,2023,2.5
+Syria,SYR,2023,39.0
+Tajikistan,TJK,2023,8.4
+Tanzania,TZA,2023,20.2
+Thailand,THA,2023,4.6
+Timor-Leste,TLS,2023,18.7
+Togo,TGO,2023,9.1
+Tonga,TON,2023,
+Trinidad and Tobago,TTO,2023,11.2
+Tunisia,TUN,2023,3.0
+Turkmenistan,TKM,2023,4.3
+Tuvalu,TUV,2023,
+Türkiye,TUR,2023,2.5
+Uganda,UGA,2023,22.0
+Ukraine,UKR,2023,6.9
+United Arab Emirates,ARE,2023,2.5
+United Kingdom,GBR,2023,2.5
+United States,USA,2023,2.5
+Uruguay,URY,2023,2.5
+Uzbekistan,UZB,2023,2.5
+Vanuatu,VUT,2023,7.2
+Vatican City,VAT,2023,
+Venezuela,VEN,2023,5.9
+Vietnam,VNM,2023,5.3
+Yemen,YEM,2023,
+Zambia,ZMB,2023,37.2
+Zimbabwe,ZWE,2023,19.7

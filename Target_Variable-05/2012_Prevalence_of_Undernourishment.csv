@@ -1,0 +1,196 @@
+Country Name,Country Code,Year,Prevalence of Undernourishment
+Afghanistan,AFG,2012,19.7
+Albania,ALB,2012,4.6
+Algeria,DZA,2012,3.1
+Andorra,AND,2012,
+Angola,AGO,2012,14.0
+Antigua and Barbuda,ATG,2012,
+Argentina,ARG,2012,3.6
+Armenia,ARM,2012,2.5
+Australia,AUS,2012,2.5
+Austria,AUT,2012,2.5
+Azerbaijan,AZE,2012,2.5
+Bahamas,BHS,2012,
+Bahrain,BHR,2012,
+Bangladesh,BGD,2012,17.3
+Barbados,BRB,2012,2.5
+Belarus,BLR,2012,2.5
+Belgium,BEL,2012,2.5
+Belize,BLZ,2012,5.5
+Benin,BEN,2012,9.4
+Bhutan,BTN,2012,
+Bolivia,BOL,2012,18.1
+Bosnia and Herzegovina,BIH,2012,2.5
+Botswana,BWA,2012,21.3
+Brazil,BRA,2012,2.5
+Brunei,BRN,2012,
+Bulgaria,BGR,2012,4.8
+Burkina Faso,BFA,2012,14.1
+Burundi,BDI,2012,
+Cabo Verde,CPV,2012,14.6
+Cambodia,KHM,2012,8.5
+Cameroon,CMR,2012,4.1
+Canada,CAN,2012,2.5
+Central African Republic,CAF,2012,28.7
+Chad,TCD,2012,23.5
+Chile,CHL,2012,3.5
+China,CHN,2012,2.5
+Colombia,COL,2012,8.6
+Comoros,COM,2012,15.6
+Congo,COG,2012,37.4
+Costa Rica,CRI,2012,3.1
+Croatia,HRV,2012,2.5
+Cuba,CUB,2012,
+Cyprus,CYP,2012,2.5
+Czechia,CZE,2012,2.5
+Côte d'Ivoire,CIV,2012,15.1
+Democratic Republic of the Congo,COD,2012,30.5
+Denmark,DNK,2012,2.5
+Djibouti,DJI,2012,17.4
+Dominica,DMA,2012,4.7
+Dominican Republic,DOM,2012,10.4
+Ecuador,ECU,2012,8.5
+Egypt,EGY,2012,5.7
+El Salvador,SLV,2012,9.1
+Equatorial Guinea,GNQ,2012,
+Eritrea,ERI,2012,
+Estonia,EST,2012,2.5
+Eswatini,SWZ,2012,20.4
+Ethiopia,ETH,2012,19.8
+Fiji,FJI,2012,7.3
+Finland,FIN,2012,2.5
+France,FRA,2012,2.5
+Gabon,GAB,2012,13.0
+Gambia,GMB,2012,10.2
+Georgia,GEO,2012,7.8
+Germany,DEU,2012,2.5
+Ghana,GHA,2012,7.7
+Greece,GRC,2012,2.5
+Grenada,GRD,2012,
+Guatemala,GTM,2012,15.4
+Guinea,GIN,2012,15.5
+Guinea-Bissau,GNB,2012,25.1
+Guyana,GUY,2012,8.0
+Haiti,HTI,2012,39.8
+Honduras,HND,2012,13.0
+Hungary,HUN,2012,2.5
+Iceland,ISL,2012,2.5
+India,IND,2012,13.4
+Indonesia,IDN,2012,9.5
+Iran,IRN,2012,9.2
+Iraq,IRQ,2012,14.2
+Ireland,IRL,2012,2.5
+Israel,ISR,2012,2.5
+Italy,ITA,2012,2.5
+Jamaica,JAM,2012,7.7
+Japan,JPN,2012,
+Jordan,JOR,2012,9.1
+Kazakhstan,KAZ,2012,2.6
+Kenya,KEN,2012,19.1
+Kiribati,KIR,2012,3.2
+Kuwait,KWT,2012,2.5
+Kyrgyzstan,KGZ,2012,6.4
+Laos,LAO,2012,
+Latvia,LVA,2012,2.5
+Lebanon,LBN,2012,4.4
+Lesotho,LSO,2012,
+Liberia,LBR,2012,36.5
+Libya,LBY,2012,9.0
+Liechtenstein,LIE,2012,
+Lithuania,LTU,2012,2.5
+Luxembourg,LUX,2012,2.5
+Madagascar,MDG,2012,28.6
+Malawi,MWI,2012,14.2
+Malaysia,MYS,2012,3.5
+Maldives,MDV,2012,
+Mali,MLI,2012,5.4
+Malta,MLT,2012,2.5
+Marshall Islands,MHL,2012,
+Mauritania,MRT,2012,6.2
+Mauritius,MUS,2012,6.5
+Mexico,MEX,2012,3.8
+Micronesia,FSM,2012,
+Moldova,MDA,2012,5.7
+Monaco,MCO,2012,
+Mongolia,MNG,2012,13.0
+Montenegro,MNE,2012,2.5
+Morocco,MAR,2012,4.3
+Mozambique,MOZ,2012,21.6
+Myanmar,MMR,2012,7.4
+Namibia,NAM,2012,25.1
+Nauru,NRU,2012,
+Nepal,NPL,2012,9.4
+Netherlands,NLD,2012,2.5
+New Zealand,NZL,2012,2.5
+Nicaragua,NIC,2012,17.0
+Niger,NER,2012,15.0
+Nigeria,NGA,2012,11.7
+North Korea,PRK,2012,43.7
+North Macedonia,MKD,2012,3.8
+Norway,NOR,2012,2.5
+Oman,OMN,2012,6.5
+Pakistan,PAK,2012,15.0
+Palau,PLW,2012,
+Palestine,PSE,2012,
+Panama,PAN,2012,7.3
+Papua New Guinea,PNG,2012,28.6
+Paraguay,PRY,2012,2.5
+Peru,PER,2012,6.7
+Philippines,PHL,2012,14.3
+Poland,POL,2012,2.5
+Portugal,PRT,2012,2.5
+Qatar,QAT,2012,
+Romania,ROU,2012,2.5
+Russia,RUS,2012,2.5
+Rwanda,RWA,2012,35.5
+Saint Kitts and Nevis,KNA,2012,
+Saint Lucia,LCA,2012,
+Saint Vincent and the Grenadines,VCT,2012,5.0
+Samoa,WSM,2012,4.6
+San Marino,SMR,2012,
+Sao Tome and Principe,STP,2012,17.4
+Saudi Arabia,SAU,2012,3.2
+Senegal,SEN,2012,11.3
+Serbia,SRB,2012,2.5
+Seychelles,SYC,2012,5.5
+Sierra Leone,SLE,2012,21.9
+Singapore,SGP,2012,
+Slovakia,SVK,2012,5.8
+Slovenia,SVN,2012,2.5
+Solomon Islands,SLB,2012,17.4
+Somalia,SOM,2012,67.4
+South Africa,ZAF,2012,5.2
+South Korea,KOR,2012,2.5
+South Sudan,SSD,2012,
+Spain,ESP,2012,2.5
+Sri Lanka,LKA,2012,10.0
+Sudan,SDN,2012,
+Suriname,SUR,2012,8.2
+Sweden,SWE,2012,2.5
+Switzerland,CHE,2012,2.5
+Syria,SYR,2012,7.5
+Tajikistan,TJK,2012,21.4
+Tanzania,TZA,2012,21.7
+Thailand,THA,2012,9.3
+Timor-Leste,TLS,2012,16.7
+Togo,TGO,2012,19.9
+Tonga,TON,2012,
+Trinidad and Tobago,TTO,2012,6.8
+Tunisia,TUN,2012,3.2
+Turkmenistan,TKM,2012,4.6
+Tuvalu,TUV,2012,
+Türkiye,TUR,2012,2.5
+Uganda,UGA,2012,19.6
+Ukraine,UKR,2012,2.5
+United Arab Emirates,ARE,2012,3.9
+United Kingdom,GBR,2012,2.5
+United States,USA,2012,2.5
+Uruguay,URY,2012,2.5
+Uzbekistan,UZB,2012,2.5
+Vanuatu,VUT,2012,7.6
+Vatican City,VAT,2012,
+Venezuela,VEN,2012,2.5
+Vietnam,VNM,2012,8.8
+Yemen,YEM,2012,
+Zambia,ZMB,2012,41.1
+Zimbabwe,ZWE,2012,29.6
