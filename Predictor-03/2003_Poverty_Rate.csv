@@ -1,0 +1,196 @@
+Country Name,Country Code,Year,Poverty_Rate(daily income < 3USD)
+Afghanistan,AFG,2003,
+Albania,ALB,2003,
+Algeria,DZA,2003,
+Andorra,AND,2003,
+Angola,AGO,2003,
+Antigua and Barbuda,ATG,2003,
+Argentina,ARG,2003,8.2
+Armenia,ARM,2003,14.8
+Australia,AUS,2003,1
+Austria,AUT,2003,0.4
+Azerbaijan,AZE,2003,0.2
+Bahamas,BHS,2003,
+Bahrain,BHR,2003,
+Bangladesh,BGD,2003,
+Barbados,BRB,2003,
+Belarus,BLR,2003,8.7
+Belgium,BEL,2003,0.4
+Belize,BLZ,2003,
+Benin,BEN,2003,70.5
+Bhutan,BTN,2003,23.1
+Bolivia,BOL,2003,
+Bosnia and Herzegovina,BIH,2003,
+Botswana,BWA,2003,
+Brazil,BRA,2003,17.1
+Brunei,BRN,2003,
+Bulgaria,BGR,2003,2.2
+Burkina Faso,BFA,2003,69.6
+Burundi,BDI,2003,
+Cabo Verde,CPV,2003,
+Cambodia,KHM,2003,
+Cameroon,CMR,2003,
+Canada,CAN,2003,0.2
+Central African Republic,CAF,2003,
+Chad,TCD,2003,66.7
+Chile,CHL,2003,7.9
+China,CHN,2003,
+Colombia,COL,2003,19.8
+Comoros,COM,2003,
+Congo,COG,2003,
+Costa Rica,CRI,2003,6.9
+Croatia,HRV,2003,
+Cuba,CUB,2003,
+Cyprus,CYP,2003,
+Czechia,CZE,2003,
+Côte d'Ivoire,CIV,2003,
+Democratic Republic of the Congo,COD,2003,
+Denmark,DNK,2003,0.4
+Djibouti,DJI,2003,
+Dominica,DMA,2003,
+Dominican Republic,DOM,2003,10.7
+Ecuador,ECU,2003,18.9
+Egypt,EGY,2003,
+El Salvador,SLV,2003,20.9
+Equatorial Guinea,GNQ,2003,
+Eritrea,ERI,2003,
+Estonia,EST,2003,3.6
+Eswatini,SWZ,2003,
+Ethiopia,ETH,2003,
+Fiji,FJI,2003,
+Finland,FIN,2003,0
+France,FRA,2003,0.2
+Gabon,GAB,2003,
+Gambia,GMB,2003,55.2
+Georgia,GEO,2003,22.3
+Germany,DEU,2003,0.2
+Ghana,GHA,2003,
+Greece,GRC,2003,0.6
+Grenada,GRD,2003,
+Guatemala,GTM,2003,
+Guinea,GIN,2003,
+Guinea-Bissau,GNB,2003,
+Guyana,GUY,2003,
+Haiti,HTI,2003,
+Honduras,HND,2003,34
+Hungary,HUN,2003,0.2
+Iceland,ISL,2003,0
+India,IND,2003,
+Indonesia,IDN,2003,45.5
+Iran,IRN,2003,
+Iraq,IRQ,2003,
+Ireland,IRL,2003,0.2
+Israel,ISR,2003,0.9
+Italy,ITA,2003,0.9
+Jamaica,JAM,2003,
+Japan,JPN,2003,
+Jordan,JOR,2003,
+Kazakhstan,KAZ,2003,12.3
+Kenya,KEN,2003,
+Kiribati,KIR,2003,
+Kuwait,KWT,2003,
+Kyrgyzstan,KGZ,2003,56.6
+Laos,LAO,2003,
+Latvia,LVA,2003,1.5
+Lebanon,LBN,2003,
+Lesotho,LSO,2003,
+Liberia,LBR,2003,
+Libya,LBY,2003,
+Liechtenstein,LIE,2003,
+Lithuania,LTU,2003,0.4
+Luxembourg,LUX,2003,0.1
+Madagascar,MDG,2003,
+Malawi,MWI,2003,
+Malaysia,MYS,2003,3.2
+Maldives,MDV,2003,
+Mali,MLI,2003,
+Malta,MLT,2003,
+Marshall Islands,MHL,2003,
+Mauritania,MRT,2003,
+Mauritius,MUS,2003,
+Mexico,MEX,2003,
+Micronesia,FSM,2003,
+Moldova,MDA,2003,10
+Monaco,MCO,2003,
+Mongolia,MNG,2003,
+Montenegro,MNE,2003,
+Morocco,MAR,2003,
+Mozambique,MOZ,2003,
+Myanmar,MMR,2003,
+Namibia,NAM,2003,47.6
+Nauru,NRU,2003,
+Nepal,NPL,2003,55.7
+Netherlands,NLD,2003,
+New Zealand,NZL,2003,
+Nicaragua,NIC,2003,
+Niger,NER,2003,
+Nigeria,NGA,2003,51.1
+North Korea,PRK,2003,
+North Macedonia,MKD,2003,2.8
+Norway,NOR,2003,0.2
+Oman,OMN,2003,
+Pakistan,PAK,2003,
+Palau,PLW,2003,
+Palestine,PSE,2003,
+Panama,PAN,2003,16.8
+Papua New Guinea,PNG,2003,
+Paraguay,PRY,2003,13.8
+Peru,PER,2003,22.5
+Philippines,PHL,2003,24.3
+Poland,POL,2003,0.2
+Portugal,PRT,2003,1.1
+Qatar,QAT,2003,
+Romania,ROU,2003,7
+Russia,RUS,2003,2.1
+Rwanda,RWA,2003,
+Saint Kitts and Nevis,KNA,2003,
+Saint Lucia,LCA,2003,
+Saint Vincent and the Grenadines,VCT,2003,
+Samoa,WSM,2003,
+San Marino,SMR,2003,
+Sao Tome and Principe,STP,2003,
+Saudi Arabia,SAU,2003,
+Senegal,SEN,2003,
+Serbia,SRB,2003,0.9
+Seychelles,SYC,2003,
+Sierra Leone,SLE,2003,72.4
+Singapore,SGP,2003,
+Slovakia,SVK,2003,
+Slovenia,SVN,2003,0
+Solomon Islands,SLB,2003,
+Somalia,SOM,2003,
+South Africa,ZAF,2003,
+South Korea,KOR,2003,
+South Sudan,SSD,2003,
+Spain,ESP,2003,0.9
+Sri Lanka,LKA,2003,
+Sudan,SDN,2003,
+Suriname,SUR,2003,
+Sweden,SWE,2003,0.4
+Switzerland,CHE,2003,
+Syria,SYR,2003,0.5
+Tajikistan,TJK,2003,56
+Tanzania,TZA,2003,
+Thailand,THA,2003,
+Timor-Leste,TLS,2003,
+Togo,TGO,2003,
+Tonga,TON,2003,
+Trinidad and Tobago,TTO,2003,
+Tunisia,TUN,2003,
+Turkmenistan,TKM,2003,
+Tuvalu,TUV,2003,
+Türkiye,TUR,2003,10
+Uganda,UGA,2003,
+Ukraine,UKR,2003,3.2
+United Arab Emirates,ARE,2003,
+United Kingdom,GBR,2003,0.2
+United States,USA,2003,1
+Uruguay,URY,2003,1.5
+Uzbekistan,UZB,2003,93.3
+Vanuatu,VUT,2003,
+Vatican City,VAT,2003,
+Venezuela,VEN,2003,27.1
+Vietnam,VNM,2003,
+Yemen,YEM,2003,
+Zambia,ZMB,2003,
+Zimbabwe,ZWE,2003,

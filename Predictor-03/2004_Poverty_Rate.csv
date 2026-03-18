@@ -1,0 +1,196 @@
+Country Name,Country Code,Year,Poverty_Rate(daily income < 3USD)
+Afghanistan,AFG,2004,
+Albania,ALB,2004,
+Algeria,DZA,2004,
+Andorra,AND,2004,
+Angola,AGO,2004,
+Antigua and Barbuda,ATG,2004,
+Argentina,ARG,2004,6
+Armenia,ARM,2004,10.3
+Australia,AUS,2004,0.7
+Austria,AUT,2004,0.1
+Azerbaijan,AZE,2004,0
+Bahamas,BHS,2004,
+Bahrain,BHR,2004,
+Bangladesh,BGD,2004,
+Barbados,BRB,2004,
+Belarus,BLR,2004,4.3
+Belgium,BEL,2004,0.1
+Belize,BLZ,2004,
+Benin,BEN,2004,
+Bhutan,BTN,2004,
+Bolivia,BOL,2004,13.2
+Bosnia and Herzegovina,BIH,2004,0.4
+Botswana,BWA,2004,
+Brazil,BRA,2004,15.3
+Brunei,BRN,2004,
+Bulgaria,BGR,2004,
+Burkina Faso,BFA,2004,
+Burundi,BDI,2004,
+Cabo Verde,CPV,2004,
+Cambodia,KHM,2004,
+Cameroon,CMR,2004,
+Canada,CAN,2004,0.2
+Central African Republic,CAF,2004,
+Chad,TCD,2004,
+Chile,CHL,2004,
+China,CHN,2004,
+Colombia,COL,2004,19.2
+Comoros,COM,2004,27.9
+Congo,COG,2004,
+Costa Rica,CRI,2004,6.6
+Croatia,HRV,2004,0
+Cuba,CUB,2004,
+Cyprus,CYP,2004,0.1
+Czechia,CZE,2004,0
+Côte d'Ivoire,CIV,2004,
+Democratic Republic of the Congo,COD,2004,94.9
+Denmark,DNK,2004,0.3
+Djibouti,DJI,2004,
+Dominica,DMA,2004,
+Dominican Republic,DOM,2004,14.6
+Ecuador,ECU,2004,19.4
+Egypt,EGY,2004,4.1
+El Salvador,SLV,2004,16.3
+Equatorial Guinea,GNQ,2004,
+Eritrea,ERI,2004,
+Estonia,EST,2004,1.6
+Eswatini,SWZ,2004,
+Ethiopia,ETH,2004,41.3
+Fiji,FJI,2004,
+Finland,FIN,2004,0
+France,FRA,2004,0.1
+Gabon,GAB,2004,
+Gambia,GMB,2004,
+Georgia,GEO,2004,20.9
+Germany,DEU,2004,0
+Ghana,GHA,2004,
+Greece,GRC,2004,0.9
+Grenada,GRD,2004,
+Guatemala,GTM,2004,
+Guinea,GIN,2004,
+Guinea-Bissau,GNB,2004,
+Guyana,GUY,2004,
+Haiti,HTI,2004,
+Honduras,HND,2004,33.3
+Hungary,HUN,2004,0.3
+Iceland,ISL,2004,0.2
+India,IND,2004,46.4
+Indonesia,IDN,2004,45.4
+Iran,IRN,2004,
+Iraq,IRQ,2004,
+Ireland,IRL,2004,0.1
+Israel,ISR,2004,1
+Italy,ITA,2004,0.8
+Jamaica,JAM,2004,4.5
+Japan,JPN,2004,
+Jordan,JOR,2004,
+Kazakhstan,KAZ,2004,7.6
+Kenya,KEN,2004,
+Kiribati,KIR,2004,
+Kuwait,KWT,2004,
+Kyrgyzstan,KGZ,2004,32.5
+Laos,LAO,2004,
+Latvia,LVA,2004,3.7
+Lebanon,LBN,2004,
+Lesotho,LSO,2004,
+Liberia,LBR,2004,
+Libya,LBY,2004,
+Liechtenstein,LIE,2004,
+Lithuania,LTU,2004,4
+Luxembourg,LUX,2004,0
+Madagascar,MDG,2004,
+Malawi,MWI,2004,74.4
+Malaysia,MYS,2004,
+Maldives,MDV,2004,
+Mali,MLI,2004,
+Malta,MLT,2004,
+Marshall Islands,MHL,2004,
+Mauritania,MRT,2004,28.5
+Mauritius,MUS,2004,
+Mexico,MEX,2004,11
+Micronesia,FSM,2004,
+Moldova,MDA,2004,11.6
+Monaco,MCO,2004,
+Mongolia,MNG,2004,
+Montenegro,MNE,2004,
+Morocco,MAR,2004,
+Mozambique,MOZ,2004,
+Myanmar,MMR,2004,
+Namibia,NAM,2004,
+Nauru,NRU,2004,
+Nepal,NPL,2004,
+Netherlands,NLD,2004,0.3
+New Zealand,NZL,2004,
+Nicaragua,NIC,2004,
+Niger,NER,2004,
+Nigeria,NGA,2004,
+North Korea,PRK,2004,
+North Macedonia,MKD,2004,1.4
+Norway,NOR,2004,0.3
+Oman,OMN,2004,
+Pakistan,PAK,2004,40.9
+Palau,PLW,2004,
+Palestine,PSE,2004,1.8
+Panama,PAN,2004,15.5
+Papua New Guinea,PNG,2004,
+Paraguay,PRY,2004,10.7
+Peru,PER,2004,23.5
+Philippines,PHL,2004,
+Poland,POL,2004,2.8
+Portugal,PRT,2004,0.7
+Qatar,QAT,2004,
+Romania,ROU,2004,5.3
+Russia,RUS,2004,1.8
+Rwanda,RWA,2004,
+Saint Kitts and Nevis,KNA,2004,
+Saint Lucia,LCA,2004,
+Saint Vincent and the Grenadines,VCT,2004,
+Samoa,WSM,2004,
+San Marino,SMR,2004,
+Sao Tome and Principe,STP,2004,
+Saudi Arabia,SAU,2004,
+Senegal,SEN,2004,
+Serbia,SRB,2004,1.2
+Seychelles,SYC,2004,
+Sierra Leone,SLE,2004,
+Singapore,SGP,2004,
+Slovakia,SVK,2004,0.2
+Slovenia,SVN,2004,0.1
+Solomon Islands,SLB,2004,
+Somalia,SOM,2004,
+South Africa,ZAF,2004,
+South Korea,KOR,2004,
+South Sudan,SSD,2004,
+Spain,ESP,2004,1
+Sri Lanka,LKA,2004,
+Sudan,SDN,2004,
+Suriname,SUR,2004,
+Sweden,SWE,2004,0.5
+Switzerland,CHE,2004,0.2
+Syria,SYR,2004,
+Tajikistan,TJK,2004,37.2
+Tanzania,TZA,2004,
+Thailand,THA,2004,3.1
+Timor-Leste,TLS,2004,
+Togo,TGO,2004,
+Tonga,TON,2004,
+Trinidad and Tobago,TTO,2004,
+Tunisia,TUN,2004,
+Turkmenistan,TKM,2004,
+Tuvalu,TUV,2004,
+Türkiye,TUR,2004,6.6
+Uganda,UGA,2004,
+Ukraine,UKR,2004,2.8
+United Arab Emirates,ARE,2004,
+United Kingdom,GBR,2004,0.2
+United States,USA,2004,1
+Uruguay,URY,2004,1.7
+Uzbekistan,UZB,2004,
+Vanuatu,VUT,2004,
+Vatican City,VAT,2004,
+Venezuela,VEN,2004,22.8
+Vietnam,VNM,2004,30.9
+Yemen,YEM,2004,
+Zambia,ZMB,2004,68.9
+Zimbabwe,ZWE,2004,

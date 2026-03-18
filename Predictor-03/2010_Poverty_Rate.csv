@@ -1,0 +1,196 @@
+Country Name,Country Code,Year,Poverty_Rate(daily income < 3USD)
+Afghanistan,AFG,2010,
+Albania,ALB,2010,
+Algeria,DZA,2010,
+Andorra,AND,2010,
+Angola,AGO,2010,
+Antigua and Barbuda,ATG,2010,
+Argentina,ARG,2010,1.5
+Armenia,ARM,2010,2.9
+Australia,AUS,2010,0.3
+Austria,AUT,2010,0.5
+Azerbaijan,AZE,2010,
+Bahamas,BHS,2010,
+Bahrain,BHR,2010,
+Bangladesh,BGD,2010,25.1
+Barbados,BRB,2010,
+Belarus,BLR,2010,0.2
+Belgium,BEL,2010,0.1
+Belize,BLZ,2010,
+Benin,BEN,2010,
+Bhutan,BTN,2010,
+Bolivia,BOL,2010,
+Bosnia and Herzegovina,BIH,2010,
+Botswana,BWA,2010,
+Brazil,BRA,2010,
+Brunei,BRN,2010,
+Bulgaria,BGR,2010,2.7
+Burkina Faso,BFA,2010,
+Burundi,BDI,2010,
+Cabo Verde,CPV,2010,
+Cambodia,KHM,2010,
+Cameroon,CMR,2010,
+Canada,CAN,2010,0.2
+Central African Republic,CAF,2010,
+Chad,TCD,2010,
+Chile,CHL,2010,
+China,CHN,2010,20.6
+Colombia,COL,2010,13.1
+Comoros,COM,2010,
+Congo,COG,2010,
+Costa Rica,CRI,2010,2.2
+Croatia,HRV,2010,1.4
+Cuba,CUB,2010,
+Cyprus,CYP,2010,0.1
+Czechia,CZE,2010,0
+Côte d'Ivoire,CIV,2010,
+Democratic Republic of the Congo,COD,2010,
+Denmark,DNK,2010,0.1
+Djibouti,DJI,2010,
+Dominica,DMA,2010,
+Dominican Republic,DOM,2010,5.5
+Ecuador,ECU,2010,7.8
+Egypt,EGY,2010,1.5
+El Salvador,SLV,2010,11.4
+Equatorial Guinea,GNQ,2010,
+Eritrea,ERI,2010,
+Estonia,EST,2010,1
+Eswatini,SWZ,2010,
+Ethiopia,ETH,2010,37.4
+Fiji,FJI,2010,
+Finland,FIN,2010,0.1
+France,FRA,2010,0.1
+Gabon,GAB,2010,
+Gambia,GMB,2010,34.2
+Georgia,GEO,2010,23.6
+Germany,DEU,2010,0
+Ghana,GHA,2010,
+Greece,GRC,2010,1.1
+Grenada,GRD,2010,
+Guatemala,GTM,2010,
+Guinea,GIN,2010,
+Guinea-Bissau,GNB,2010,75.7
+Guyana,GUY,2010,
+Haiti,HTI,2010,
+Honduras,HND,2010,19.6
+Hungary,HUN,2010,0.2
+Iceland,ISL,2010,0.1
+India,IND,2010,
+Indonesia,IDN,2010,34.1
+Iran,IRN,2010,
+Iraq,IRQ,2010,
+Ireland,IRL,2010,0.7
+Israel,ISR,2010,0.5
+Italy,ITA,2010,1.4
+Jamaica,JAM,2010,
+Japan,JPN,2010,0.7
+Jordan,JOR,2010,0.1
+Kazakhstan,KAZ,2010,0.5
+Kenya,KEN,2010,
+Kiribati,KIR,2010,
+Kuwait,KWT,2010,
+Kyrgyzstan,KGZ,2010,12.6
+Laos,LAO,2010,
+Latvia,LVA,2010,2.6
+Lebanon,LBN,2010,
+Lesotho,LSO,2010,
+Liberia,LBR,2010,
+Libya,LBY,2010,
+Liechtenstein,LIE,2010,
+Lithuania,LTU,2010,2
+Luxembourg,LUX,2010,0
+Madagascar,MDG,2010,65.3
+Malawi,MWI,2010,72.9
+Malaysia,MYS,2010,
+Maldives,MDV,2010,
+Mali,MLI,2010,
+Malta,MLT,2010,0.3
+Marshall Islands,MHL,2010,
+Mauritania,MRT,2010,
+Mauritius,MUS,2010,
+Mexico,MEX,2010,8.4
+Micronesia,FSM,2010,
+Moldova,MDA,2010,0.8
+Monaco,MCO,2010,
+Mongolia,MNG,2010,3.5
+Montenegro,MNE,2010,0
+Morocco,MAR,2010,
+Mozambique,MOZ,2010,
+Myanmar,MMR,2010,
+Namibia,NAM,2010,
+Nauru,NRU,2010,
+Nepal,NPL,2010,21.5
+Netherlands,NLD,2010,0
+New Zealand,NZL,2010,
+Nicaragua,NIC,2010,
+Niger,NER,2010,
+Nigeria,NGA,2010,38.5
+North Korea,PRK,2010,
+North Macedonia,MKD,2010,12.8
+Norway,NOR,2010,0.2
+Oman,OMN,2010,
+Pakistan,PAK,2010,26.7
+Palau,PLW,2010,
+Palestine,PSE,2010,0.6
+Panama,PAN,2010,7.7
+Papua New Guinea,PNG,2010,
+Paraguay,PRY,2010,9.4
+Peru,PER,2010,11.2
+Philippines,PHL,2010,
+Poland,POL,2010,0.6
+Portugal,PRT,2010,0.2
+Qatar,QAT,2010,
+Romania,ROU,2010,6.3
+Russia,RUS,2010,0.2
+Rwanda,RWA,2010,70.2
+Saint Kitts and Nevis,KNA,2010,
+Saint Lucia,LCA,2010,
+Saint Vincent and the Grenadines,VCT,2010,
+Samoa,WSM,2010,
+San Marino,SMR,2010,
+Sao Tome and Principe,STP,2010,18.9
+Saudi Arabia,SAU,2010,
+Senegal,SEN,2010,
+Serbia,SRB,2010,0.3
+Seychelles,SYC,2010,
+Sierra Leone,SLE,2010,
+Singapore,SGP,2010,
+Slovakia,SVK,2010,0.6
+Slovenia,SVN,2010,0
+Solomon Islands,SLB,2010,
+Somalia,SOM,2010,
+South Africa,ZAF,2010,29.5
+South Korea,KOR,2010,0.5
+South Sudan,SSD,2010,
+Spain,ESP,2010,0.7
+Sri Lanka,LKA,2010,
+Sudan,SDN,2010,
+Suriname,SUR,2010,
+Sweden,SWE,2010,0.6
+Switzerland,CHE,2010,0.1
+Syria,SYR,2010,
+Tajikistan,TJK,2010,
+Tanzania,TZA,2010,
+Thailand,THA,2010,0.7
+Timor-Leste,TLS,2010,
+Togo,TGO,2010,
+Tonga,TON,2010,
+Trinidad and Tobago,TTO,2010,
+Tunisia,TUN,2010,3.1
+Turkmenistan,TKM,2010,
+Tuvalu,TUV,2010,9
+Türkiye,TUR,2010,2.8
+Uganda,UGA,2010,
+Ukraine,UKR,2010,0.1
+United Arab Emirates,ARE,2010,
+United Kingdom,GBR,2010,0.2
+United States,USA,2010,1.2
+Uruguay,URY,2010,0.3
+Uzbekistan,UZB,2010,
+Vanuatu,VUT,2010,25.7
+Vatican City,VAT,2010,
+Venezuela,VEN,2010,
+Vietnam,VNM,2010,5.2
+Yemen,YEM,2010,
+Zambia,ZMB,2010,71.4
+Zimbabwe,ZWE,2010,
