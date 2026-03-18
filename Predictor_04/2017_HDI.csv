@@ -19,11 +19,11 @@ Belgium,BEL,2017,0.94
 Belize,BLZ,2017,0.722
 Benin,BEN,2017,0.507
 Bhutan,BTN,2017,0.656
-Bolivia (Plurinational State of),BOL,2017,0.715
+Bolivia,BOL,2017,0.715
 Bosnia and Herzegovina,BIH,2017,0.78
 Botswana,BWA,2017,0.704
 Brazil,BRA,2017,0.77
-Brunei Darussalam,BRN,2017,0.837
+Brunei,BRN,2017,0.837
 Bulgaria,BGR,2017,0.829
 Burkina Faso,BFA,2017,0.438
 Burundi,BDI,2017,0.434
@@ -38,13 +38,13 @@ China,CHN,2017,0.765
 Colombia,COL,2017,0.774
 Comoros,COM,2017,0.577
 Congo,COG,2017,0.635
-Congo (Democratic Republic of the),COD,2017,0.491
 Costa Rica,CRI,2017,0.809
 Croatia,HRV,2017,0.862
 Cuba,CUB,2017,0.767
 Cyprus,CYP,2017,0.897
 Czechia,CZE,2017,0.904
-CÙte d'Ivoire,CIV,2017,0.539
+Côte d'Ivoire,CIV,2017,0.539
+Democratic Republic of the Congo,COD,2017,0.491
 Denmark,DNK,2017,0.951
 Djibouti,DJI,2017,0.484
 Dominica,DMA,2017,0.735
@@ -55,7 +55,7 @@ El Salvador,SLV,2017,0.665
 Equatorial Guinea,GNQ,2017,0.661
 Eritrea,ERI,2017,0.48
 Estonia,EST,2017,0.894
-Eswatini (Kingdom of),SWZ,2017,0.631
+Eswatini,SWZ,2017,0.631
 Ethiopia,ETH,2017,0.47
 Fiji,FJI,2017,0.725
 Finland,FIN,2017,0.942
@@ -77,7 +77,7 @@ Hungary,HUN,2017,0.853
 Iceland,ISL,2017,0.962
 India,IND,2017,0.649
 Indonesia,IDN,2017,0.712
-Iran (Islamic Republic of),IRN,2017,0.793
+Iran,IRN,2017,0.793
 Iraq,IRQ,2017,0.681
 Ireland,IRL,2017,0.941
 Israel,ISR,2017,0.908
@@ -88,10 +88,9 @@ Jordan,JOR,2017,0.747
 Kazakhstan,KAZ,2017,0.824
 Kenya,KEN,2017,0.599
 Kiribati,KIR,2017,0.63
-Korea (Republic of),KOR,2017,0.922
 Kuwait,KWT,2017,0.838
 Kyrgyzstan,KGZ,2017,0.704
-Lao People's Democratic Republic,LAO,2017,0.612
+Laos,LAO,2017,0.612
 Latvia,LVA,2017,0.87
 Lebanon,LBN,2017,0.772
 Lesotho,LSO,2017,0.531
@@ -110,8 +109,9 @@ Marshall Islands,MHL,2017,0.702
 Mauritania,MRT,2017,0.551
 Mauritius,MUS,2017,0.799
 Mexico,MEX,2017,0.781
-Micronesia (Federated States of),FSM,2017,0.607
-Moldova (Republic of),MDA,2017,0.769
+Micronesia,FSM,2017,0.607
+Moldova,MDA,2017,0.769
+Monaco,MCO,2017,
 Mongolia,MNG,2017,0.759
 Montenegro,MNE,2017,0.843
 Morocco,MAR,2017,0.674
@@ -125,12 +125,13 @@ New Zealand,NZL,2017,0.936
 Nicaragua,NIC,2017,0.688
 Niger,NER,2017,0.384
 Nigeria,NGA,2017,0.534
+North Korea,PRK,2017,
 North Macedonia,MKD,2017,0.807
 Norway,NOR,2017,0.965
 Oman,OMN,2017,0.848
 Pakistan,PAK,2017,0.537
 Palau,PLW,2017,0.804
-"Palestine, State of",PSE,2017,0.721
+Palestine,PSE,2017,0.721
 Panama,PAN,2017,0.815
 Papua New Guinea,PNG,2017,0.555
 Paraguay,PRY,2017,0.74
@@ -140,7 +141,7 @@ Poland,POL,2017,0.882
 Portugal,PRT,2017,0.864
 Qatar,QAT,2017,0.87
 Romania,ROU,2017,0.828
-Russian Federation,RUS,2017,0.838
+Russia,RUS,2017,0.838
 Rwanda,RWA,2017,0.539
 Saint Kitts and Nevis,KNA,2017,0.834
 Saint Lucia,LCA,2017,0.757
@@ -157,7 +158,9 @@ Singapore,SGP,2017,0.935
 Slovakia,SVK,2017,0.865
 Slovenia,SVN,2017,0.918
 Solomon Islands,SLB,2017,0.581
+Somalia,SOM,2017,
 South Africa,ZAF,2017,0.726
+South Korea,KOR,2017,0.922
 South Sudan,SSD,2017,0.292
 Spain,ESP,2017,0.902
 Sri Lanka,LKA,2017,0.777
@@ -165,9 +168,9 @@ Sudan,SDN,2017,0.506
 Suriname,SUR,2017,0.715
 Sweden,SWE,2017,0.949
 Switzerland,CHE,2017,0.96
-Syrian Arab Republic,SYR,2017,0.551
+Syria,SYR,2017,0.551
 Tajikistan,TJK,2017,0.666
-Tanzania (United Republic of),TZA,2017,0.528
+Tanzania,TZA,2017,0.528
 Thailand,THA,2017,0.794
 Timor-Leste,TLS,2017,0.621
 Togo,TGO,2017,0.534
@@ -176,7 +179,7 @@ Trinidad and Tobago,TTO,2017,0.806
 Tunisia,TUN,2017,0.737
 Turkmenistan,TKM,2017,0.732
 Tuvalu,TUV,2017,0.668
-T¸rkiye,TUR,2017,0.833
+Türkiye,TUR,2017,0.833
 Uganda,UGA,2017,0.557
 Ukraine,UKR,2017,0.785
 United Arab Emirates,ARE,2017,0.884
@@ -185,8 +188,9 @@ United States,USA,2017,0.931
 Uruguay,URY,2017,0.827
 Uzbekistan,UZB,2017,0.719
 Vanuatu,VUT,2017,0.607
-Venezuela (Bolivarian Republic of),VEN,2017,0.749
-Viet Nam,VNM,2017,0.729
+Vatican City,VAT,2017,
+Venezuela,VEN,2017,0.749
+Vietnam,VNM,2017,0.729
 Yemen,YEM,2017,0.459
 Zambia,ZMB,2017,0.57
 Zimbabwe,ZWE,2017,0.575

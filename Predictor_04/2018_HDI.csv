@@ -19,11 +19,11 @@ Belgium,BEL,2018,0.942
 Belize,BLZ,2018,0.723
 Benin,BEN,2018,0.507
 Bhutan,BTN,2018,0.667
-Bolivia (Plurinational State of),BOL,2018,0.722
+Bolivia,BOL,2018,0.722
 Bosnia and Herzegovina,BIH,2018,0.785
 Botswana,BWA,2018,0.71
 Brazil,BRA,2018,0.774
-Brunei Darussalam,BRN,2018,0.837
+Brunei,BRN,2018,0.837
 Bulgaria,BGR,2018,0.832
 Burkina Faso,BFA,2018,0.449
 Burundi,BDI,2018,0.434
@@ -38,13 +38,13 @@ China,CHN,2018,0.774
 Colombia,COL,2018,0.775
 Comoros,COM,2018,0.584
 Congo,COG,2018,0.64
-Congo (Democratic Republic of the),COD,2018,0.497
 Costa Rica,CRI,2018,0.813
 Croatia,HRV,2018,0.867
 Cuba,CUB,2018,0.769
 Cyprus,CYP,2018,0.902
 Czechia,CZE,2018,0.901
-CÙte d'Ivoire,CIV,2018,0.545
+Côte d'Ivoire,CIV,2018,0.545
+Democratic Republic of the Congo,COD,2018,0.497
 Denmark,DNK,2018,0.95
 Djibouti,DJI,2018,0.492
 Dominica,DMA,2018,0.755
@@ -55,7 +55,7 @@ El Salvador,SLV,2018,0.67
 Equatorial Guinea,GNQ,2018,0.663
 Eritrea,ERI,2018,0.49
 Estonia,EST,2018,0.897
-Eswatini (Kingdom of),SWZ,2018,0.643
+Eswatini,SWZ,2018,0.643
 Ethiopia,ETH,2018,0.476
 Fiji,FJI,2018,0.728
 Finland,FIN,2018,0.945
@@ -77,7 +77,7 @@ Hungary,HUN,2018,0.857
 Iceland,ISL,2018,0.966
 India,IND,2018,0.648
 Indonesia,IDN,2018,0.715
-Iran (Islamic Republic of),IRN,2018,0.79
+Iran,IRN,2018,0.79
 Iraq,IRQ,2018,0.689
 Ireland,IRL,2018,0.944
 Israel,ISR,2018,0.911
@@ -88,10 +88,9 @@ Jordan,JOR,2018,0.747
 Kazakhstan,KAZ,2018,0.828
 Kenya,KEN,2018,0.605
 Kiribati,KIR,2018,0.633
-Korea (Republic of),KOR,2018,0.924
 Kuwait,KWT,2018,0.84
 Kyrgyzstan,KGZ,2018,0.708
-Lao People's Democratic Republic,LAO,2018,0.613
+Laos,LAO,2018,0.613
 Latvia,LVA,2018,0.875
 Lebanon,LBN,2018,0.774
 Lesotho,LSO,2018,0.538
@@ -110,8 +109,9 @@ Marshall Islands,MHL,2018,0.71
 Mauritania,MRT,2018,0.561
 Mauritius,MUS,2018,0.801
 Mexico,MEX,2018,0.785
-Micronesia (Federated States of),FSM,2018,0.608
-Moldova (Republic of),MDA,2018,0.772
+Micronesia,FSM,2018,0.608
+Moldova,MDA,2018,0.772
+Monaco,MCO,2018,
 Mongolia,MNG,2018,0.767
 Montenegro,MNE,2018,0.849
 Morocco,MAR,2018,0.68
@@ -125,12 +125,13 @@ New Zealand,NZL,2018,0.938
 Nicaragua,NIC,2018,0.69
 Niger,NER,2018,0.391
 Nigeria,NGA,2018,0.537
+North Korea,PRK,2018,
 North Macedonia,MKD,2018,0.814
 Norway,NOR,2018,0.966
 Oman,OMN,2018,0.854
 Pakistan,PAK,2018,0.538
 Palau,PLW,2018,0.805
-"Palestine, State of",PSE,2018,0.725
+Palestine,PSE,2018,0.725
 Panama,PAN,2018,0.82
 Papua New Guinea,PNG,2018,0.559
 Paraguay,PRY,2018,0.744
@@ -140,7 +141,7 @@ Poland,POL,2018,0.884
 Portugal,PRT,2018,0.866
 Qatar,QAT,2018,0.876
 Romania,ROU,2018,0.833
-Russian Federation,RUS,2018,0.845
+Russia,RUS,2018,0.845
 Rwanda,RWA,2018,0.54
 Saint Kitts and Nevis,KNA,2018,0.835
 Saint Lucia,LCA,2018,0.759
@@ -157,7 +158,9 @@ Singapore,SGP,2018,0.939
 Slovakia,SVK,2018,0.868
 Slovenia,SVN,2018,0.922
 Solomon Islands,SLB,2018,0.582
+Somalia,SOM,2018,
 South Africa,ZAF,2018,0.732
+South Korea,KOR,2018,0.924
 South Sudan,SSD,2018,0.371
 Spain,ESP,2018,0.905
 Sri Lanka,LKA,2018,0.782
@@ -165,9 +168,9 @@ Sudan,SDN,2018,0.515
 Suriname,SUR,2018,0.719
 Sweden,SWE,2018,0.95
 Switzerland,CHE,2018,0.962
-Syrian Arab Republic,SYR,2018,0.557
+Syria,SYR,2018,0.557
 Tajikistan,TJK,2018,0.67
-Tanzania (United Republic of),TZA,2018,0.537
+Tanzania,TZA,2018,0.537
 Thailand,THA,2018,0.796
 Timor-Leste,TLS,2018,0.624
 Togo,TGO,2018,0.542
@@ -176,7 +179,7 @@ Trinidad and Tobago,TTO,2018,0.803
 Tunisia,TUN,2018,0.742
 Turkmenistan,TKM,2018,0.735
 Tuvalu,TUV,2018,0.672
-T¸rkiye,TUR,2018,0.838
+Türkiye,TUR,2018,0.838
 Uganda,UGA,2018,0.563
 Ukraine,UKR,2018,0.784
 United Arab Emirates,ARE,2018,0.901
@@ -185,8 +188,9 @@ United States,USA,2018,0.934
 Uruguay,URY,2018,0.826
 Uzbekistan,UZB,2018,0.725
 Vanuatu,VUT,2018,0.612
-Venezuela (Bolivarian Republic of),VEN,2018,0.741
-Viet Nam,VNM,2018,0.737
+Vatican City,VAT,2018,
+Venezuela,VEN,2018,0.741
+Vietnam,VNM,2018,0.737
 Yemen,YEM,2018,0.454
 Zambia,ZMB,2018,0.575
 Zimbabwe,ZWE,2018,0.586

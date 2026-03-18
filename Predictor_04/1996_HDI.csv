@@ -2,6 +2,9 @@ Country,Country Code,Year,Value
 Afghanistan,AFG,1996,0.334
 Albania,ALB,1996,0.647
 Algeria,DZA,1996,0.615
+Andorra,AND,1996,
+Angola,AGO,1996,
+Antigua and Barbuda,ATG,1996,
 Argentina,ARG,1996,0.76
 Armenia,ARM,1996,0.635
 Australia,AUS,1996,0.884
@@ -15,45 +18,58 @@ Belarus,BLR,1996,0.697
 Belgium,BEL,1996,0.881
 Belize,BLZ,1996,0.65
 Benin,BEN,1996,0.389
-Bolivia (Plurinational State of),BOL,1996,0.602
+Bhutan,BTN,1996,
+Bolivia,BOL,1996,0.602
+Bosnia and Herzegovina,BIH,1996,
 Botswana,BWA,1996,0.584
 Brazil,BRA,1996,0.671
-Brunei Darussalam,BRN,1996,0.784
+Brunei,BRN,1996,0.784
 Bulgaria,BGR,1996,0.718
+Burkina Faso,BFA,1996,
 Burundi,BDI,1996,0.292
+Cabo Verde,CPV,1996,
 Cambodia,KHM,1996,0.408
 Cameroon,CMR,1996,0.432
 Canada,CAN,1996,0.884
 Central African Republic,CAF,1996,0.323
+Chad,TCD,1996,
 Chile,CHL,1996,0.745
 China,CHN,1996,0.555
 Colombia,COL,1996,0.663
+Comoros,COM,1996,
 Congo,COG,1996,0.55
-Congo (Democratic Republic of the),COD,1996,0.386
 Costa Rica,CRI,1996,0.707
 Croatia,HRV,1996,0.725
 Cuba,CUB,1996,0.675
 Cyprus,CYP,1996,0.782
 Czechia,CZE,1996,0.793
-CÙte d'Ivoire,CIV,1996,0.403
+Côte d'Ivoire,CIV,1996,0.403
+Democratic Republic of the Congo,COD,1996,0.386
 Denmark,DNK,1996,0.87
 Djibouti,DJI,1996,0.32
+Dominica,DMA,1996,
 Dominican Republic,DOM,1996,0.631
 Ecuador,ECU,1996,0.677
 Egypt,EGY,1996,0.617
 El Salvador,SLV,1996,0.576
+Equatorial Guinea,GNQ,1996,
+Eritrea,ERI,1996,
 Estonia,EST,1996,0.746
-Eswatini (Kingdom of),SWZ,1996,0.532
+Eswatini,SWZ,1996,0.532
+Ethiopia,ETH,1996,
 Fiji,FJI,1996,0.657
 Finland,FIN,1996,0.863
 France,FRA,1996,0.842
 Gabon,GAB,1996,0.644
 Gambia,GMB,1996,0.377
+Georgia,GEO,1996,
 Germany,DEU,1996,0.875
 Ghana,GHA,1996,0.465
 Greece,GRC,1996,0.796
+Grenada,GRD,1996,
 Guatemala,GTM,1996,0.53
 Guinea,GIN,1996,0.323
+Guinea-Bissau,GNB,1996,
 Guyana,GUY,1996,0.546
 Haiti,HTI,1996,0.479
 Honduras,HND,1996,0.541
@@ -61,7 +77,7 @@ Hungary,HUN,1996,0.752
 Iceland,ISL,1996,0.873
 India,IND,1996,0.476
 Indonesia,IDN,1996,0.585
-Iran (Islamic Republic of),IRN,1996,0.681
+Iran,IRN,1996,0.681
 Iraq,IRQ,1996,0.557
 Ireland,IRL,1996,0.816
 Israel,ISR,1996,0.817
@@ -71,36 +87,51 @@ Japan,JPN,1996,0.88
 Jordan,JOR,1996,0.657
 Kazakhstan,KAZ,1996,0.669
 Kenya,KEN,1996,0.491
-Korea (Republic of),KOR,1996,0.801
+Kiribati,KIR,1996,
 Kuwait,KWT,1996,0.769
 Kyrgyzstan,KGZ,1996,0.597
-Lao People's Democratic Republic,LAO,1996,0.449
+Laos,LAO,1996,0.449
 Latvia,LVA,1996,0.714
+Lebanon,LBN,1996,
 Lesotho,LSO,1996,0.473
+Liberia,LBR,1996,
 Libya,LBY,1996,0.716
+Liechtenstein,LIE,1996,
 Lithuania,LTU,1996,0.723
 Luxembourg,LUX,1996,0.832
+Madagascar,MDG,1996,
 Malawi,MWI,1996,0.375
 Malaysia,MYS,1996,0.701
+Maldives,MDV,1996,
 Mali,MLI,1996,0.282
 Malta,MLT,1996,0.763
+Marshall Islands,MHL,1996,
 Mauritania,MRT,1996,0.448
 Mauritius,MUS,1996,0.653
 Mexico,MEX,1996,0.687
+Micronesia,FSM,1996,
+Moldova,MDA,1996,
+Monaco,MCO,1996,
 Mongolia,MNG,1996,0.578
+Montenegro,MNE,1996,
 Morocco,MAR,1996,0.495
 Mozambique,MOZ,1996,0.269
 Myanmar,MMR,1996,0.391
 Namibia,NAM,1996,0.587
+Nauru,NRU,1996,
 Nepal,NPL,1996,0.447
 Netherlands,NLD,1996,0.89
 New Zealand,NZL,1996,0.862
 Nicaragua,NIC,1996,0.559
 Niger,NER,1996,0.245
 Nigeria,NGA,1996,0.408
+North Korea,PRK,1996,
 North Macedonia,MKD,1996,0.657
 Norway,NOR,1996,0.894
+Oman,OMN,1996,
 Pakistan,PAK,1996,0.42
+Palau,PLW,1996,
+Palestine,PSE,1996,
 Panama,PAN,1996,0.694
 Papua New Guinea,PNG,1996,0.448
 Paraguay,PRY,1996,0.646
@@ -110,40 +141,56 @@ Poland,POL,1996,0.763
 Portugal,PRT,1996,0.781
 Qatar,QAT,1996,0.791
 Romania,ROU,1996,0.707
-Russian Federation,RUS,1996,0.723
+Russia,RUS,1996,0.723
 Rwanda,RWA,1996,0.297
+Saint Kitts and Nevis,KNA,1996,
 Saint Lucia,LCA,1996,0.701
+Saint Vincent and the Grenadines,VCT,1996,
 Samoa,WSM,1996,0.663
+San Marino,SMR,1996,
+Sao Tome and Principe,STP,1996,
 Saudi Arabia,SAU,1996,0.711
 Senegal,SEN,1996,0.385
 Serbia,SRB,1996,0.692
+Seychelles,SYC,1996,
 Sierra Leone,SLE,1996,0.311
 Singapore,SGP,1996,0.859
 Slovakia,SVK,1996,0.74
 Slovenia,SVN,1996,0.778
+Solomon Islands,SLB,1996,
+Somalia,SOM,1996,
 South Africa,ZAF,1996,0.649
+South Korea,KOR,1996,0.801
+South Sudan,SSD,1996,
 Spain,ESP,1996,0.811
 Sri Lanka,LKA,1996,0.672
+Sudan,SDN,1996,
+Suriname,SUR,1996,
 Sweden,SWE,1996,0.877
 Switzerland,CHE,1996,0.875
-Syrian Arab Republic,SYR,1996,0.59
+Syria,SYR,1996,0.59
 Tajikistan,TJK,1996,0.528
-Tanzania (United Republic of),TZA,1996,0.383
+Tanzania,TZA,1996,0.383
 Thailand,THA,1996,0.634
+Timor-Leste,TLS,1996,
 Togo,TGO,1996,0.433
 Tonga,TON,1996,0.678
 Trinidad and Tobago,TTO,1996,0.684
 Tunisia,TUN,1996,0.616
+Turkmenistan,TKM,1996,
 Tuvalu,TUV,1996,0.587
-T¸rkiye,TUR,1996,0.63
+Türkiye,TUR,1996,0.63
 Uganda,UGA,1996,0.367
 Ukraine,UKR,1996,0.701
 United Arab Emirates,ARE,1996,0.753
 United Kingdom,GBR,1996,0.841
 United States,USA,1996,0.89
 Uruguay,URY,1996,0.736
-Venezuela (Bolivarian Republic of),VEN,1996,0.69
-Viet Nam,VNM,1996,0.567
+Uzbekistan,UZB,1996,
+Vanuatu,VUT,1996,
+Vatican City,VAT,1996,
+Venezuela,VEN,1996,0.69
+Vietnam,VNM,1996,0.567
 Yemen,YEM,1996,0.405
 Zambia,ZMB,1996,0.415
 Zimbabwe,ZWE,1996,0.472

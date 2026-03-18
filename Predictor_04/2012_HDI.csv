@@ -19,11 +19,11 @@ Belgium,BEL,2012,0.923
 Belize,BLZ,2012,0.727
 Benin,BEN,2012,0.497
 Bhutan,BTN,2012,0.609
-Bolivia (Plurinational State of),BOL,2012,0.685
+Bolivia,BOL,2012,0.685
 Bosnia and Herzegovina,BIH,2012,0.742
 Botswana,BWA,2012,0.667
 Brazil,BRA,2012,0.758
-Brunei Darussalam,BRN,2012,0.841
+Brunei,BRN,2012,0.841
 Bulgaria,BGR,2012,0.807
 Burkina Faso,BFA,2012,0.398
 Burundi,BDI,2012,0.425
@@ -38,13 +38,13 @@ China,CHN,2012,0.725
 Colombia,COL,2012,0.748
 Comoros,COM,2012,0.548
 Congo,COG,2012,0.624
-Congo (Democratic Republic of the),COD,2012,0.451
 Costa Rica,CRI,2012,0.789
 Croatia,HRV,2012,0.839
 Cuba,CUB,2012,0.777
 Cyprus,CYP,2012,0.872
 Czechia,CZE,2012,0.885
-CÙte d'Ivoire,CIV,2012,0.478
+Côte d'Ivoire,CIV,2012,0.478
+Democratic Republic of the Congo,COD,2012,0.451
 Denmark,DNK,2012,0.938
 Djibouti,DJI,2012,0.442
 Dominica,DMA,2012,0.745
@@ -55,7 +55,7 @@ El Salvador,SLV,2012,0.666
 Equatorial Guinea,GNQ,2012,0.635
 Eritrea,ERI,2012,0.483
 Estonia,EST,2012,0.88
-Eswatini (Kingdom of),SWZ,2012,0.562
+Eswatini,SWZ,2012,0.562
 Ethiopia,ETH,2012,0.433
 Fiji,FJI,2012,0.698
 Finland,FIN,2012,0.924
@@ -77,7 +77,7 @@ Hungary,HUN,2012,0.841
 Iceland,ISL,2012,0.946
 India,IND,2012,0.609
 Indonesia,IDN,2012,0.686
-Iran (Islamic Republic of),IRN,2012,0.795
+Iran,IRN,2012,0.795
 Iraq,IRQ,2012,0.664
 Ireland,IRL,2012,0.911
 Israel,ISR,2012,0.893
@@ -88,10 +88,9 @@ Jordan,JOR,2012,0.74
 Kazakhstan,KAZ,2012,0.799
 Kenya,KEN,2012,0.565
 Kiribati,KIR,2012,0.608
-Korea (Republic of),KOR,2012,0.901
 Kuwait,KWT,2012,0.822
 Kyrgyzstan,KGZ,2012,0.679
-Lao People's Democratic Republic,LAO,2012,0.577
+Laos,LAO,2012,0.577
 Latvia,LVA,2012,0.843
 Lebanon,LBN,2012,0.762
 Lesotho,LSO,2012,0.496
@@ -110,8 +109,9 @@ Marshall Islands,MHL,2012,0.668
 Mauritania,MRT,2012,0.538
 Mauritius,MUS,2012,0.778
 Mexico,MEX,2012,0.764
-Micronesia (Federated States of),FSM,2012,0.605
-Moldova (Republic of),MDA,2012,0.754
+Micronesia,FSM,2012,0.605
+Moldova,MDA,2012,0.754
+Monaco,MCO,2012,
 Mongolia,MNG,2012,0.735
 Montenegro,MNE,2012,0.825
 Morocco,MAR,2012,0.629
@@ -125,12 +125,13 @@ New Zealand,NZL,2012,0.929
 Nicaragua,NIC,2012,0.664
 Niger,NER,2012,0.356
 Nigeria,NGA,2012,0.512
+North Korea,PRK,2012,
 North Macedonia,MKD,2012,0.775
 Norway,NOR,2012,0.95
 Oman,OMN,2012,0.824
 Pakistan,PAK,2012,0.508
 Palau,PLW,2012,0.787
-"Palestine, State of",PSE,2012,0.704
+Palestine,PSE,2012,0.704
 Panama,PAN,2012,0.798
 Papua New Guinea,PNG,2012,0.514
 Paraguay,PRY,2012,0.719
@@ -140,7 +141,7 @@ Poland,POL,2012,0.863
 Portugal,PRT,2012,0.844
 Qatar,QAT,2012,0.846
 Romania,ROU,2012,0.817
-Russian Federation,RUS,2012,0.825
+Russia,RUS,2012,0.825
 Rwanda,RWA,2012,0.521
 Saint Kitts and Nevis,KNA,2012,0.808
 Saint Lucia,LCA,2012,0.748
@@ -157,7 +158,9 @@ Singapore,SGP,2012,0.933
 Slovakia,SVK,2012,0.856
 Slovenia,SVN,2012,0.897
 Solomon Islands,SLB,2012,0.57
+Somalia,SOM,2012,
 South Africa,ZAF,2012,0.696
+South Korea,KOR,2012,0.901
 South Sudan,SSD,2012,0.389
 Spain,ESP,2012,0.881
 Sri Lanka,LKA,2012,0.759
@@ -165,9 +168,9 @@ Sudan,SDN,2012,0.482
 Suriname,SUR,2012,0.711
 Sweden,SWE,2012,0.92
 Switzerland,CHE,2012,0.949
-Syrian Arab Republic,SYR,2012,0.626
+Syria,SYR,2012,0.626
 Tajikistan,TJK,2012,0.649
-Tanzania (United Republic of),TZA,2012,0.519
+Tanzania,TZA,2012,0.519
 Thailand,THA,2012,0.75
 Timor-Leste,TLS,2012,0.65
 Togo,TGO,2012,0.5
@@ -176,7 +179,7 @@ Trinidad and Tobago,TTO,2012,0.796
 Tunisia,TUN,2012,0.72
 Turkmenistan,TKM,2012,0.714
 Tuvalu,TUV,2012,0.642
-T¸rkiye,TUR,2012,0.772
+Türkiye,TUR,2012,0.772
 Uganda,UGA,2012,0.526
 Ukraine,UKR,2012,0.789
 United Arab Emirates,ARE,2012,0.843
@@ -185,8 +188,9 @@ United States,USA,2012,0.923
 Uruguay,URY,2012,0.804
 Uzbekistan,UZB,2012,0.692
 Vanuatu,VUT,2012,0.587
-Venezuela (Bolivarian Republic of),VEN,2012,0.772
-Viet Nam,VNM,2012,0.698
+Vatican City,VAT,2012,
+Venezuela,VEN,2012,0.772
+Vietnam,VNM,2012,0.698
 Yemen,YEM,2012,0.503
 Zambia,ZMB,2012,0.551
 Zimbabwe,ZWE,2012,0.545

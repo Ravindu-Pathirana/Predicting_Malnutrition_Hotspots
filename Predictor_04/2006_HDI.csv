@@ -4,6 +4,7 @@ Albania,ALB,2006,0.732
 Algeria,DZA,2006,0.698
 Andorra,AND,2006,0.851
 Angola,AGO,2006,0.475
+Antigua and Barbuda,ATG,2006,
 Argentina,ARG,2006,0.822
 Armenia,ARM,2006,0.725
 Australia,AUS,2006,0.917
@@ -17,11 +18,12 @@ Belarus,BLR,2006,0.777
 Belgium,BEL,2006,0.913
 Belize,BLZ,2006,0.713
 Benin,BEN,2006,0.462
-Bolivia (Plurinational State of),BOL,2006,0.656
+Bhutan,BTN,2006,
+Bolivia,BOL,2006,0.656
 Bosnia and Herzegovina,BIH,2006,0.701
 Botswana,BWA,2006,0.627
 Brazil,BRA,2006,0.725
-Brunei Darussalam,BRN,2006,0.819
+Brunei,BRN,2006,0.819
 Bulgaria,BGR,2006,0.779
 Burkina Faso,BFA,2006,0.34
 Burundi,BDI,2006,0.376
@@ -36,13 +38,13 @@ China,CHN,2006,0.666
 Colombia,COL,2006,0.712
 Comoros,COM,2006,0.506
 Congo,COG,2006,0.582
-Congo (Democratic Republic of the),COD,2006,0.413
 Costa Rica,CRI,2006,0.755
 Croatia,HRV,2006,0.819
 Cuba,CUB,2006,0.766
 Cyprus,CYP,2006,0.85
 Czechia,CZE,2006,0.864
-CÙte d'Ivoire,CIV,2006,0.44
+Côte d'Ivoire,CIV,2006,0.44
+Democratic Republic of the Congo,COD,2006,0.413
 Denmark,DNK,2006,0.917
 Djibouti,DJI,2006,0.385
 Dominica,DMA,2006,0.737
@@ -53,7 +55,7 @@ El Salvador,SLV,2006,0.647
 Equatorial Guinea,GNQ,2006,0.591
 Eritrea,ERI,2006,0.473
 Estonia,EST,2006,0.855
-Eswatini (Kingdom of),SWZ,2006,0.485
+Eswatini,SWZ,2006,0.485
 Ethiopia,ETH,2006,0.366
 Fiji,FJI,2006,0.684
 Finland,FIN,2006,0.917
@@ -75,7 +77,7 @@ Hungary,HUN,2006,0.823
 Iceland,ISL,2006,0.936
 India,IND,2006,0.557
 Indonesia,IDN,2006,0.646
-Iran (Islamic Republic of),IRN,2006,0.757
+Iran,IRN,2006,0.757
 Iraq,IRQ,2006,0.611
 Ireland,IRL,2006,0.908
 Israel,ISR,2006,0.867
@@ -86,10 +88,9 @@ Jordan,JOR,2006,0.719
 Kazakhstan,KAZ,2006,0.765
 Kenya,KEN,2006,0.541
 Kiribati,KIR,2006,0.593
-Korea (Republic of),KOR,2006,0.871
 Kuwait,KWT,2006,0.799
 Kyrgyzstan,KGZ,2006,0.652
-Lao People's Democratic Republic,LAO,2006,0.515
+Laos,LAO,2006,0.515
 Latvia,LVA,2006,0.823
 Lebanon,LBN,2006,0.713
 Lesotho,LSO,2006,0.451
@@ -104,11 +105,13 @@ Malaysia,MYS,2006,0.742
 Maldives,MDV,2006,0.672
 Mali,MLI,2006,0.377
 Malta,MLT,2006,0.838
+Marshall Islands,MHL,2006,
 Mauritania,MRT,2006,0.512
 Mauritius,MUS,2006,0.729
 Mexico,MEX,2006,0.745
-Micronesia (Federated States of),FSM,2006,0.602
-Moldova (Republic of),MDA,2006,0.711
+Micronesia,FSM,2006,0.602
+Moldova,MDA,2006,0.711
+Monaco,MCO,2006,
 Mongolia,MNG,2006,0.683
 Montenegro,MNE,2006,0.785
 Morocco,MAR,2006,0.579
@@ -122,12 +125,13 @@ New Zealand,NZL,2006,0.918
 Nicaragua,NIC,2006,0.636
 Niger,NER,2006,0.309
 Nigeria,NGA,2006,0.489
+North Korea,PRK,2006,
 North Macedonia,MKD,2006,0.726
 Norway,NOR,2006,0.942
 Oman,OMN,2006,0.766
 Pakistan,PAK,2006,0.489
 Palau,PLW,2006,0.765
-"Palestine, State of",PSE,2006,0.664
+Palestine,PSE,2006,0.664
 Panama,PAN,2006,0.753
 Papua New Guinea,PNG,2006,0.479
 Paraguay,PRY,2006,0.684
@@ -137,7 +141,7 @@ Poland,POL,2006,0.831
 Portugal,PRT,2006,0.815
 Qatar,QAT,2006,0.822
 Romania,ROU,2006,0.781
-Russian Federation,RUS,2006,0.791
+Russia,RUS,2006,0.791
 Rwanda,RWA,2006,0.452
 Saint Kitts and Nevis,KNA,2006,0.765
 Saint Lucia,LCA,2006,0.741
@@ -148,20 +152,25 @@ Sao Tome and Principe,STP,2006,0.546
 Saudi Arabia,SAU,2006,0.785
 Senegal,SEN,2006,0.438
 Serbia,SRB,2006,0.753
+Seychelles,SYC,2006,
 Sierra Leone,SLE,2006,0.372
 Singapore,SGP,2006,0.911
 Slovakia,SVK,2006,0.824
 Slovenia,SVN,2006,0.883
 Solomon Islands,SLB,2006,0.553
+Somalia,SOM,2006,
 South Africa,ZAF,2006,0.622
+South Korea,KOR,2006,0.871
+South Sudan,SSD,2006,
 Spain,ESP,2006,0.862
 Sri Lanka,LKA,2006,0.724
+Sudan,SDN,2006,
 Suriname,SUR,2006,0.69
 Sweden,SWE,2006,0.915
 Switzerland,CHE,2006,0.918
-Syrian Arab Republic,SYR,2006,0.658
+Syria,SYR,2006,0.658
 Tajikistan,TJK,2006,0.62
-Tanzania (United Republic of),TZA,2006,0.477
+Tanzania,TZA,2006,0.477
 Thailand,THA,2006,0.71
 Timor-Leste,TLS,2006,0.588
 Togo,TGO,2006,0.465
@@ -170,7 +179,7 @@ Trinidad and Tobago,TTO,2006,0.766
 Tunisia,TUN,2006,0.697
 Turkmenistan,TKM,2006,0.662
 Tuvalu,TUV,2006,0.625
-T¸rkiye,TUR,2006,0.711
+Türkiye,TUR,2006,0.711
 Uganda,UGA,2006,0.481
 Ukraine,UKR,2006,0.762
 United Arab Emirates,ARE,2006,0.823
@@ -179,8 +188,9 @@ United States,USA,2006,0.911
 Uruguay,URY,2006,0.777
 Uzbekistan,UZB,2006,0.644
 Vanuatu,VUT,2006,0.567
-Venezuela (Bolivarian Republic of),VEN,2006,0.736
-Viet Nam,VNM,2006,0.656
+Vatican City,VAT,2006,
+Venezuela,VEN,2006,0.736
+Vietnam,VNM,2006,0.656
 Yemen,YEM,2006,0.486
 Zambia,ZMB,2006,0.492
 Zimbabwe,ZWE,2006,0.457

@@ -2,54 +2,74 @@ Country,Country Code,Year,Value
 Afghanistan,AFG,1993,0.311
 Albania,ALB,1993,0.624
 Algeria,DZA,1993,0.603
+Andorra,AND,1993,
+Angola,AGO,1993,
+Antigua and Barbuda,ATG,1993,
 Argentina,ARG,1993,0.748
 Armenia,ARM,1993,0.621
 Australia,AUS,1993,0.872
 Austria,AUT,1993,0.845
+Azerbaijan,AZE,1993,
 Bahamas,BHS,1993,0.763
 Bahrain,BHR,1993,0.732
 Bangladesh,BGD,1993,0.419
 Barbados,BRB,1993,0.735
+Belarus,BLR,1993,
 Belgium,BEL,1993,0.86
 Belize,BLZ,1993,0.64
 Benin,BEN,1993,0.371
-Bolivia (Plurinational State of),BOL,1993,0.577
+Bhutan,BTN,1993,
+Bolivia,BOL,1993,0.577
+Bosnia and Herzegovina,BIH,1993,
 Botswana,BWA,1993,0.588
 Brazil,BRA,1993,0.654
-Brunei Darussalam,BRN,1993,0.783
+Brunei,BRN,1993,0.783
 Bulgaria,BGR,1993,0.711
+Burkina Faso,BFA,1993,
 Burundi,BDI,1993,0.265
+Cabo Verde,CPV,1993,
 Cambodia,KHM,1993,0.399
 Cameroon,CMR,1993,0.436
 Canada,CAN,1993,0.871
 Central African Republic,CAF,1993,0.321
+Chad,TCD,1993,
 Chile,CHL,1993,0.725
 China,CHN,1993,0.522
 Colombia,COL,1993,0.645
+Comoros,COM,1993,
 Congo,COG,1993,0.566
-Congo (Democratic Republic of the),COD,1993,0.385
 Costa Rica,CRI,1993,0.696
+Croatia,HRV,1993,
 Cuba,CUB,1993,0.665
 Cyprus,CYP,1993,0.764
 Czechia,CZE,1993,0.76
-CÙte d'Ivoire,CIV,1993,0.393
+Côte d'Ivoire,CIV,1993,0.393
+Democratic Republic of the Congo,COD,1993,0.385
 Denmark,DNK,1993,0.853
+Djibouti,DJI,1993,
+Dominica,DMA,1993,
 Dominican Republic,DOM,1993,0.611
 Ecuador,ECU,1993,0.66
 Egypt,EGY,1993,0.593
 El Salvador,SLV,1993,0.548
+Equatorial Guinea,GNQ,1993,
+Eritrea,ERI,1993,
 Estonia,EST,1993,0.713
-Eswatini (Kingdom of),SWZ,1993,0.55
+Eswatini,SWZ,1993,0.55
+Ethiopia,ETH,1993,
 Fiji,FJI,1993,0.642
 Finland,FIN,1993,0.838
 France,FRA,1993,0.818
 Gabon,GAB,1993,0.631
 Gambia,GMB,1993,0.355
+Georgia,GEO,1993,
 Germany,DEU,1993,0.859
 Ghana,GHA,1993,0.45
 Greece,GRC,1993,0.784
+Grenada,GRD,1993,
 Guatemala,GTM,1993,0.51
 Guinea,GIN,1993,0.3
+Guinea-Bissau,GNB,1993,
 Guyana,GUY,1993,0.521
 Haiti,HTI,1993,0.467
 Honduras,HND,1993,0.529
@@ -57,7 +77,7 @@ Hungary,HUN,1993,0.729
 Iceland,ISL,1993,0.863
 India,IND,1993,0.458
 Indonesia,IDN,1993,0.555
-Iran (Islamic Republic of),IRN,1993,0.658
+Iran,IRN,1993,0.658
 Iraq,IRQ,1993,0.55
 Ireland,IRL,1993,0.794
 Israel,ISR,1993,0.801
@@ -67,36 +87,51 @@ Japan,JPN,1993,0.865
 Jordan,JOR,1993,0.643
 Kazakhstan,KAZ,1993,0.673
 Kenya,KEN,1993,0.483
-Korea (Republic of),KOR,1993,0.77
+Kiribati,KIR,1993,
 Kuwait,KWT,1993,0.704
 Kyrgyzstan,KGZ,1993,0.615
-Lao People's Democratic Republic,LAO,1993,0.426
+Laos,LAO,1993,0.426
 Latvia,LVA,1993,0.692
+Lebanon,LBN,1993,
 Lesotho,LSO,1993,0.477
+Liberia,LBR,1993,
 Libya,LBY,1993,0.705
+Liechtenstein,LIE,1993,
 Lithuania,LTU,1993,0.705
 Luxembourg,LUX,1993,0.812
+Madagascar,MDG,1993,
 Malawi,MWI,1993,0.324
 Malaysia,MYS,1993,0.677
+Maldives,MDV,1993,
 Mali,MLI,1993,0.259
 Malta,MLT,1993,0.754
+Marshall Islands,MHL,1993,
 Mauritania,MRT,1993,0.421
 Mauritius,MUS,1993,0.641
 Mexico,MEX,1993,0.675
+Micronesia,FSM,1993,
+Moldova,MDA,1993,
+Monaco,MCO,1993,
 Mongolia,MNG,1993,0.567
+Montenegro,MNE,1993,
 Morocco,MAR,1993,0.468
 Mozambique,MOZ,1993,0.252
 Myanmar,MMR,1993,0.374
 Namibia,NAM,1993,0.601
+Nauru,NRU,1993,
 Nepal,NPL,1993,0.425
 Netherlands,NLD,1993,0.863
 New Zealand,NZL,1993,0.838
 Nicaragua,NIC,1993,0.534
 Niger,NER,1993,0.228
 Nigeria,NGA,1993,0.393
+North Korea,PRK,1993,
 North Macedonia,MKD,1993,0.647
 Norway,NOR,1993,0.875
+Oman,OMN,1993,
 Pakistan,PAK,1993,0.408
+Palau,PLW,1993,
+Palestine,PSE,1993,
 Panama,PAN,1993,0.686
 Papua New Guinea,PNG,1993,0.432
 Paraguay,PRY,1993,0.626
@@ -106,37 +141,56 @@ Poland,POL,1993,0.737
 Portugal,PRT,1993,0.751
 Qatar,QAT,1993,0.778
 Romania,ROU,1993,0.692
-Russian Federation,RUS,1993,0.725
+Russia,RUS,1993,0.725
+Rwanda,RWA,1993,
+Saint Kitts and Nevis,KNA,1993,
 Saint Lucia,LCA,1993,0.694
+Saint Vincent and the Grenadines,VCT,1993,
+Samoa,WSM,1993,
+San Marino,SMR,1993,
+Sao Tome and Principe,STP,1993,
 Saudi Arabia,SAU,1993,0.693
 Senegal,SEN,1993,0.382
+Serbia,SRB,1993,
+Seychelles,SYC,1993,
 Sierra Leone,SLE,1993,0.312
 Singapore,SGP,1993,0.84
 Slovakia,SVK,1993,0.71
 Slovenia,SVN,1993,0.746
+Solomon Islands,SLB,1993,
+Somalia,SOM,1993,
 South Africa,ZAF,1993,0.65
+South Korea,KOR,1993,0.77
+South Sudan,SSD,1993,
 Spain,ESP,1993,0.789
 Sri Lanka,LKA,1993,0.658
+Sudan,SDN,1993,
+Suriname,SUR,1993,
 Sweden,SWE,1993,0.85
 Switzerland,CHE,1993,0.867
-Syrian Arab Republic,SYR,1993,0.583
+Syria,SYR,1993,0.583
 Tajikistan,TJK,1993,0.549
-Tanzania (United Republic of),TZA,1993,0.382
+Tanzania,TZA,1993,0.382
 Thailand,THA,1993,0.612
+Timor-Leste,TLS,1993,
 Togo,TGO,1993,0.404
 Tonga,TON,1993,0.66
 Trinidad and Tobago,TTO,1993,0.667
 Tunisia,TUN,1993,0.587
+Turkmenistan,TKM,1993,
 Tuvalu,TUV,1993,0.579
-T¸rkiye,TUR,1993,0.615
+Türkiye,TUR,1993,0.615
 Uganda,UGA,1993,0.347
 Ukraine,UKR,1993,0.721
 United Arab Emirates,ARE,1993,0.736
 United Kingdom,GBR,1993,0.827
 United States,USA,1993,0.884
 Uruguay,URY,1993,0.722
-Venezuela (Bolivarian Republic of),VEN,1993,0.68
-Viet Nam,VNM,1993,0.531
+Uzbekistan,UZB,1993,
+Vanuatu,VUT,1993,
+Vatican City,VAT,1993,
+Venezuela,VEN,1993,0.68
+Vietnam,VNM,1993,0.531
 Yemen,YEM,1993,0.377
 Zambia,ZMB,1993,0.417
 Zimbabwe,ZWE,1993,0.483

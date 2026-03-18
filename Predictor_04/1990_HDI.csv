@@ -2,54 +2,74 @@ Country,Country Code,Year,Value
 Afghanistan,AFG,1990,0.285
 Albania,ALB,1990,0.654
 Algeria,DZA,1990,0.595
+Andorra,AND,1990,
+Angola,AGO,1990,
+Antigua and Barbuda,ATG,1990,
 Argentina,ARG,1990,0.733
 Armenia,ARM,1990,0.663
 Australia,AUS,1990,0.867
 Austria,AUT,1990,0.832
+Azerbaijan,AZE,1990,
 Bahamas,BHS,1990,0.762
 Bahrain,BHR,1990,0.734
 Bangladesh,BGD,1990,0.397
 Barbados,BRB,1990,0.73
+Belarus,BLR,1990,
 Belgium,BEL,1990,0.824
 Belize,BLZ,1990,0.617
 Benin,BEN,1990,0.351
-Bolivia (Plurinational State of),BOL,1990,0.552
+Bhutan,BTN,1990,
+Bolivia,BOL,1990,0.552
+Bosnia and Herzegovina,BIH,1990,
 Botswana,BWA,1990,0.59
 Brazil,BRA,1990,0.641
-Brunei Darussalam,BRN,1990,0.781
+Brunei,BRN,1990,0.781
 Bulgaria,BGR,1990,0.706
+Burkina Faso,BFA,1990,
 Burundi,BDI,1990,0.294
+Cabo Verde,CPV,1990,
 Cambodia,KHM,1990,0.387
 Cameroon,CMR,1990,0.448
 Canada,CAN,1990,0.865
 Central African Republic,CAF,1990,0.342
+Chad,TCD,1990,
 Chile,CHL,1990,0.718
 China,CHN,1990,0.491
 Colombia,COL,1990,0.623
+Comoros,COM,1990,
 Congo,COG,1990,0.573
-Congo (Democratic Republic of the),COD,1990,0.388
 Costa Rica,CRI,1990,0.677
+Croatia,HRV,1990,
 Cuba,CUB,1990,0.687
 Cyprus,CYP,1990,0.749
 Czechia,CZE,1990,0.753
-CÙte d'Ivoire,CIV,1990,0.389
+Côte d'Ivoire,CIV,1990,0.389
+Democratic Republic of the Congo,COD,1990,0.388
 Denmark,DNK,1990,0.844
+Djibouti,DJI,1990,
+Dominica,DMA,1990,
 Dominican Republic,DOM,1990,0.589
 Ecuador,ECU,1990,0.646
 Egypt,EGY,1990,0.572
 El Salvador,SLV,1990,0.523
+Equatorial Guinea,GNQ,1990,
+Eritrea,ERI,1990,
 Estonia,EST,1990,0.738
-Eswatini (Kingdom of),SWZ,1990,0.57
+Eswatini,SWZ,1990,0.57
+Ethiopia,ETH,1990,
 Fiji,FJI,1990,0.629
 Finland,FIN,1990,0.823
 France,FRA,1990,0.798
 Gabon,GAB,1990,0.621
 Gambia,GMB,1990,0.331
+Georgia,GEO,1990,
 Germany,DEU,1990,0.834
 Ghana,GHA,1990,0.432
 Greece,GRC,1990,0.77
+Grenada,GRD,1990,
 Guatemala,GTM,1990,0.499
 Guinea,GIN,1990,0.282
+Guinea-Bissau,GNB,1990,
 Guyana,GUY,1990,0.494
 Haiti,HTI,1990,0.461
 Honduras,HND,1990,0.516
@@ -57,7 +77,7 @@ Hungary,HUN,1990,0.73
 Iceland,ISL,1990,0.841
 India,IND,1990,0.446
 Indonesia,IDN,1990,0.531
-Iran (Islamic Republic of),IRN,1990,0.626
+Iran,IRN,1990,0.626
 Iraq,IRQ,1990,0.531
 Ireland,IRL,1990,0.776
 Israel,ISR,1990,0.787
@@ -67,36 +87,51 @@ Japan,JPN,1990,0.853
 Jordan,JOR,1990,0.619
 Kazakhstan,KAZ,1990,0.689
 Kenya,KEN,1990,0.485
-Korea (Republic of),KOR,1990,0.738
+Kiribati,KIR,1990,
 Kuwait,KWT,1990,0.698
 Kyrgyzstan,KGZ,1990,0.649
-Lao People's Democratic Republic,LAO,1990,0.409
+Laos,LAO,1990,0.409
 Latvia,LVA,1990,0.736
+Lebanon,LBN,1990,
 Lesotho,LSO,1990,0.483
+Liberia,LBR,1990,
 Libya,LBY,1990,0.69
+Liechtenstein,LIE,1990,
 Lithuania,LTU,1990,0.745
 Luxembourg,LUX,1990,0.787
+Madagascar,MDG,1990,
 Malawi,MWI,1990,0.306
 Malaysia,MYS,1990,0.653
+Maldives,MDV,1990,
 Mali,MLI,1990,0.24
 Malta,MLT,1990,0.735
+Marshall Islands,MHL,1990,
 Mauritania,MRT,1990,0.396
 Mauritius,MUS,1990,0.627
 Mexico,MEX,1990,0.668
+Micronesia,FSM,1990,
+Moldova,MDA,1990,
+Monaco,MCO,1990,
 Mongolia,MNG,1990,0.593
+Montenegro,MNE,1990,
 Morocco,MAR,1990,0.451
 Mozambique,MOZ,1990,0.246
 Myanmar,MMR,1990,0.347
 Namibia,NAM,1990,0.597
+Nauru,NRU,1990,
 Nepal,NPL,1990,0.404
 Netherlands,NLD,1990,0.855
 New Zealand,NZL,1990,0.811
 Nicaragua,NIC,1990,0.515
 Niger,NER,1990,0.215
 Nigeria,NGA,1990,0.379
+North Korea,PRK,1990,
 North Macedonia,MKD,1990,0.644
 Norway,NOR,1990,0.856
+Oman,OMN,1990,
 Pakistan,PAK,1990,0.396
+Palau,PLW,1990,
+Palestine,PSE,1990,
 Panama,PAN,1990,0.672
 Papua New Guinea,PNG,1990,0.403
 Paraguay,PRY,1990,0.607
@@ -106,36 +141,56 @@ Poland,POL,1990,0.722
 Portugal,PRT,1990,0.707
 Qatar,QAT,1990,0.767
 Romania,ROU,1990,0.719
-Russian Federation,RUS,1990,0.762
+Russia,RUS,1990,0.762
+Rwanda,RWA,1990,
+Saint Kitts and Nevis,KNA,1990,
 Saint Lucia,LCA,1990,0.683
+Saint Vincent and the Grenadines,VCT,1990,
+Samoa,WSM,1990,
+San Marino,SMR,1990,
+Sao Tome and Principe,STP,1990,
 Saudi Arabia,SAU,1990,0.67
 Senegal,SEN,1990,0.377
+Serbia,SRB,1990,
+Seychelles,SYC,1990,
 Sierra Leone,SLE,1990,0.313
 Singapore,SGP,1990,0.819
 Slovakia,SVK,1990,0.698
 Slovenia,SVN,1990,0.734
+Solomon Islands,SLB,1990,
+Somalia,SOM,1990,
 South Africa,ZAF,1990,0.633
+South Korea,KOR,1990,0.738
+South Sudan,SSD,1990,
 Spain,ESP,1990,0.766
 Sri Lanka,LKA,1990,0.638
+Sudan,SDN,1990,
+Suriname,SUR,1990,
 Sweden,SWE,1990,0.818
 Switzerland,CHE,1990,0.858
-Syrian Arab Republic,SYR,1990,0.572
-Tanzania (United Republic of),TZA,1990,0.381
+Syria,SYR,1990,0.572
+Tajikistan,TJK,1990,
+Tanzania,TZA,1990,0.381
 Thailand,THA,1990,0.584
+Timor-Leste,TLS,1990,
 Togo,TGO,1990,0.412
 Tonga,TON,1990,0.641
 Trinidad and Tobago,TTO,1990,0.661
 Tunisia,TUN,1990,0.569
+Turkmenistan,TKM,1990,
 Tuvalu,TUV,1990,0.566
-T¸rkiye,TUR,1990,0.598
+Türkiye,TUR,1990,0.598
 Uganda,UGA,1990,0.342
 Ukraine,UKR,1990,0.75
 United Arab Emirates,ARE,1990,0.713
 United Kingdom,GBR,1990,0.812
 United States,USA,1990,0.878
 Uruguay,URY,1990,0.713
-Venezuela (Bolivarian Republic of),VEN,1990,0.658
-Viet Nam,VNM,1990,0.499
+Uzbekistan,UZB,1990,
+Vanuatu,VUT,1990,
+Vatican City,VAT,1990,
+Venezuela,VEN,1990,0.658
+Vietnam,VNM,1990,0.499
 Yemen,YEM,1990,0.359
 Zambia,ZMB,1990,0.422
 Zimbabwe,ZWE,1990,0.5

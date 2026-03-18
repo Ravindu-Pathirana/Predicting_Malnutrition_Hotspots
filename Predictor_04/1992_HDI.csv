@@ -2,54 +2,74 @@ Country,Country Code,Year,Value
 Afghanistan,AFG,1992,0.301
 Albania,ALB,1992,0.622
 Algeria,DZA,1992,0.601
+Andorra,AND,1992,
+Angola,AGO,1992,
+Antigua and Barbuda,ATG,1992,
 Argentina,ARG,1992,0.743
 Armenia,ARM,1992,0.618
 Australia,AUS,1992,0.868
 Austria,AUT,1992,0.841
+Azerbaijan,AZE,1992,
 Bahamas,BHS,1992,0.762
 Bahrain,BHR,1992,0.728
 Bangladesh,BGD,1992,0.411
 Barbados,BRB,1992,0.732
+Belarus,BLR,1992,
 Belgium,BEL,1992,0.845
 Belize,BLZ,1992,0.634
 Benin,BEN,1992,0.363
-Bolivia (Plurinational State of),BOL,1992,0.568
+Bhutan,BTN,1992,
+Bolivia,BOL,1992,0.568
+Bosnia and Herzegovina,BIH,1992,
 Botswana,BWA,1992,0.589
 Brazil,BRA,1992,0.648
-Brunei Darussalam,BRN,1992,0.782
+Brunei,BRN,1992,0.782
 Bulgaria,BGR,1992,0.709
+Burkina Faso,BFA,1992,
 Burundi,BDI,1992,0.294
+Cabo Verde,CPV,1992,
 Cambodia,KHM,1992,0.396
 Cameroon,CMR,1992,0.442
 Canada,CAN,1992,0.873
 Central African Republic,CAF,1992,0.321
+Chad,TCD,1992,
 Chile,CHL,1992,0.73
 China,CHN,1992,0.511
 Colombia,COL,1992,0.639
+Comoros,COM,1992,
 Congo,COG,1992,0.572
-Congo (Democratic Republic of the),COD,1992,0.387
 Costa Rica,CRI,1992,0.691
+Croatia,HRV,1992,
 Cuba,CUB,1992,0.674
 Cyprus,CYP,1992,0.761
 Czechia,CZE,1992,0.752
-CÙte d'Ivoire,CIV,1992,0.392
+Côte d'Ivoire,CIV,1992,0.392
+Democratic Republic of the Congo,COD,1992,0.387
 Denmark,DNK,1992,0.85
+Djibouti,DJI,1992,
+Dominica,DMA,1992,
 Dominican Republic,DOM,1992,0.604
 Ecuador,ECU,1992,0.654
 Egypt,EGY,1992,0.586
 El Salvador,SLV,1992,0.538
+Equatorial Guinea,GNQ,1992,
+Eritrea,ERI,1992,
 Estonia,EST,1992,0.722
-Eswatini (Kingdom of),SWZ,1992,0.558
+Eswatini,SWZ,1992,0.558
+Ethiopia,ETH,1992,
 Fiji,FJI,1992,0.637
 Finland,FIN,1992,0.833
 France,FRA,1992,0.814
 Gabon,GAB,1992,0.628
 Gambia,GMB,1992,0.347
+Georgia,GEO,1992,
 Germany,DEU,1992,0.849
 Ghana,GHA,1992,0.444
 Greece,GRC,1992,0.782
+Grenada,GRD,1992,
 Guatemala,GTM,1992,0.506
 Guinea,GIN,1992,0.293
+Guinea-Bissau,GNB,1992,
 Guyana,GUY,1992,0.507
 Haiti,HTI,1992,0.466
 Honduras,HND,1992,0.523
@@ -57,7 +77,7 @@ Hungary,HUN,1992,0.722
 Iceland,ISL,1992,0.86
 India,IND,1992,0.453
 Indonesia,IDN,1992,0.545
-Iran (Islamic Republic of),IRN,1992,0.652
+Iran,IRN,1992,0.652
 Iraq,IRQ,1992,0.532
 Ireland,IRL,1992,0.787
 Israel,ISR,1992,0.794
@@ -67,36 +87,51 @@ Japan,JPN,1992,0.859
 Jordan,JOR,1992,0.638
 Kazakhstan,KAZ,1992,0.68
 Kenya,KEN,1992,0.484
-Korea (Republic of),KOR,1992,0.759
+Kiribati,KIR,1992,
 Kuwait,KWT,1992,0.699
 Kyrgyzstan,KGZ,1992,0.631
-Lao People's Democratic Republic,LAO,1992,0.42
+Laos,LAO,1992,0.42
 Latvia,LVA,1992,0.709
+Lebanon,LBN,1992,
 Lesotho,LSO,1992,0.481
+Liberia,LBR,1992,
 Libya,LBY,1992,0.703
+Liechtenstein,LIE,1992,
 Lithuania,LTU,1992,0.723
 Luxembourg,LUX,1992,0.801
+Madagascar,MDG,1992,
 Malawi,MWI,1992,0.318
 Malaysia,MYS,1992,0.67
+Maldives,MDV,1992,
 Mali,MLI,1992,0.251
 Malta,MLT,1992,0.748
+Marshall Islands,MHL,1992,
 Mauritania,MRT,1992,0.409
 Mauritius,MUS,1992,0.637
 Mexico,MEX,1992,0.672
+Micronesia,FSM,1992,
+Moldova,MDA,1992,
+Monaco,MCO,1992,
 Mongolia,MNG,1992,0.581
+Montenegro,MNE,1992,
 Morocco,MAR,1992,0.461
 Mozambique,MOZ,1992,0.245
 Myanmar,MMR,1992,0.368
 Namibia,NAM,1992,0.603
+Nauru,NRU,1992,
 Nepal,NPL,1992,0.42
 Netherlands,NLD,1992,0.861
 New Zealand,NZL,1992,0.822
 Nicaragua,NIC,1992,0.531
 Niger,NER,1992,0.222
 Nigeria,NGA,1992,0.388
+North Korea,PRK,1992,
 North Macedonia,MKD,1992,0.642
 Norway,NOR,1992,0.868
+Oman,OMN,1992,
 Pakistan,PAK,1992,0.405
+Palau,PLW,1992,
+Palestine,PSE,1992,
 Panama,PAN,1992,0.68
 Papua New Guinea,PNG,1992,0.421
 Paraguay,PRY,1992,0.619
@@ -106,36 +141,56 @@ Poland,POL,1992,0.724
 Portugal,PRT,1992,0.735
 Qatar,QAT,1992,0.77
 Romania,ROU,1992,0.694
-Russian Federation,RUS,1992,0.744
+Russia,RUS,1992,0.744
+Rwanda,RWA,1992,
+Saint Kitts and Nevis,KNA,1992,
 Saint Lucia,LCA,1992,0.692
+Saint Vincent and the Grenadines,VCT,1992,
+Samoa,WSM,1992,
+San Marino,SMR,1992,
+Sao Tome and Principe,STP,1992,
 Saudi Arabia,SAU,1992,0.688
 Senegal,SEN,1992,0.381
+Serbia,SRB,1992,
+Seychelles,SYC,1992,
 Sierra Leone,SLE,1992,0.305
 Singapore,SGP,1992,0.833
 Slovakia,SVK,1992,0.702
 Slovenia,SVN,1992,0.741
+Solomon Islands,SLB,1992,
+Somalia,SOM,1992,
 South Africa,ZAF,1992,0.645
+South Korea,KOR,1992,0.759
+South Sudan,SSD,1992,
 Spain,ESP,1992,0.781
 Sri Lanka,LKA,1992,0.65
+Sudan,SDN,1992,
+Suriname,SUR,1992,
 Sweden,SWE,1992,0.829
 Switzerland,CHE,1992,0.863
-Syrian Arab Republic,SYR,1992,0.582
-Tanzania (United Republic of),TZA,1992,0.381
+Syria,SYR,1992,0.582
+Tajikistan,TJK,1992,
+Tanzania,TZA,1992,0.381
 Thailand,THA,1992,0.603
+Timor-Leste,TLS,1992,
 Togo,TGO,1992,0.406
 Tonga,TON,1992,0.654
 Trinidad and Tobago,TTO,1992,0.665
 Tunisia,TUN,1992,0.582
+Turkmenistan,TKM,1992,
 Tuvalu,TUV,1992,0.566
-T¸rkiye,TUR,1992,0.608
+Türkiye,TUR,1992,0.608
 Uganda,UGA,1992,0.339
 Ukraine,UKR,1992,0.733
 United Arab Emirates,ARE,1992,0.729
 United Kingdom,GBR,1992,0.824
 United States,USA,1992,0.882
 Uruguay,URY,1992,0.719
-Venezuela (Bolivarian Republic of),VEN,1992,0.676
-Viet Nam,VNM,1992,0.521
+Uzbekistan,UZB,1992,
+Vanuatu,VUT,1992,
+Vatican City,VAT,1992,
+Venezuela,VEN,1992,0.676
+Vietnam,VNM,1992,0.521
 Yemen,YEM,1992,0.37
 Zambia,ZMB,1992,0.414
 Zimbabwe,ZWE,1992,0.487

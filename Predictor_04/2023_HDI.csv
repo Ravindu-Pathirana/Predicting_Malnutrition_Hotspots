@@ -19,11 +19,11 @@ Belgium,BEL,2023,0.951
 Belize,BLZ,2023,0.721
 Benin,BEN,2023,0.515
 Bhutan,BTN,2023,0.698
-Bolivia (Plurinational State of),BOL,2023,0.733
+Bolivia,BOL,2023,0.733
 Bosnia and Herzegovina,BIH,2023,0.804
 Botswana,BWA,2023,0.731
 Brazil,BRA,2023,0.786
-Brunei Darussalam,BRN,2023,0.837
+Brunei,BRN,2023,0.837
 Bulgaria,BGR,2023,0.845
 Burkina Faso,BFA,2023,0.459
 Burundi,BDI,2023,0.439
@@ -38,13 +38,13 @@ China,CHN,2023,0.797
 Colombia,COL,2023,0.788
 Comoros,COM,2023,0.603
 Congo,COG,2023,0.649
-Congo (Democratic Republic of the),COD,2023,0.522
 Costa Rica,CRI,2023,0.833
 Croatia,HRV,2023,0.889
 Cuba,CUB,2023,0.762
 Cyprus,CYP,2023,0.913
 Czechia,CZE,2023,0.915
-CÙte d'Ivoire,CIV,2023,0.582
+Côte d'Ivoire,CIV,2023,0.582
+Democratic Republic of the Congo,COD,2023,0.522
 Denmark,DNK,2023,0.962
 Djibouti,DJI,2023,0.513
 Dominica,DMA,2023,0.761
@@ -55,7 +55,7 @@ El Salvador,SLV,2023,0.678
 Equatorial Guinea,GNQ,2023,0.674
 Eritrea,ERI,2023,0.503
 Estonia,EST,2023,0.905
-Eswatini (Kingdom of),SWZ,2023,0.695
+Eswatini,SWZ,2023,0.695
 Ethiopia,ETH,2023,0.497
 Fiji,FJI,2023,0.731
 Finland,FIN,2023,0.948
@@ -77,7 +77,7 @@ Hungary,HUN,2023,0.87
 Iceland,ISL,2023,0.972
 India,IND,2023,0.685
 Indonesia,IDN,2023,0.728
-Iran (Islamic Republic of),IRN,2023,0.799
+Iran,IRN,2023,0.799
 Iraq,IRQ,2023,0.695
 Ireland,IRL,2023,0.949
 Israel,ISR,2023,0.919
@@ -88,10 +88,9 @@ Jordan,JOR,2023,0.754
 Kazakhstan,KAZ,2023,0.837
 Kenya,KEN,2023,0.628
 Kiribati,KIR,2023,0.644
-Korea (Republic of),KOR,2023,0.937
 Kuwait,KWT,2023,0.852
 Kyrgyzstan,KGZ,2023,0.72
-Lao People's Democratic Republic,LAO,2023,0.617
+Laos,LAO,2023,0.617
 Latvia,LVA,2023,0.889
 Lebanon,LBN,2023,0.752
 Lesotho,LSO,2023,0.55
@@ -110,8 +109,9 @@ Marshall Islands,MHL,2023,0.733
 Mauritania,MRT,2023,0.563
 Mauritius,MUS,2023,0.806
 Mexico,MEX,2023,0.789
-Micronesia (Federated States of),FSM,2023,0.615
-Moldova (Republic of),MDA,2023,0.785
+Micronesia,FSM,2023,0.615
+Moldova,MDA,2023,0.785
+Monaco,MCO,2023,
 Mongolia,MNG,2023,0.747
 Montenegro,MNE,2023,0.862
 Morocco,MAR,2023,0.71
@@ -125,12 +125,13 @@ New Zealand,NZL,2023,0.938
 Nicaragua,NIC,2023,0.706
 Niger,NER,2023,0.419
 Nigeria,NGA,2023,0.56
+North Korea,PRK,2023,
 North Macedonia,MKD,2023,0.815
 Norway,NOR,2023,0.97
 Oman,OMN,2023,0.858
 Pakistan,PAK,2023,0.544
 Palau,PLW,2023,0.786
-"Palestine, State of",PSE,2023,0.674
+Palestine,PSE,2023,0.674
 Panama,PAN,2023,0.839
 Papua New Guinea,PNG,2023,0.576
 Paraguay,PRY,2023,0.756
@@ -140,7 +141,7 @@ Poland,POL,2023,0.906
 Portugal,PRT,2023,0.89
 Qatar,QAT,2023,0.886
 Romania,ROU,2023,0.845
-Russian Federation,RUS,2023,0.832
+Russia,RUS,2023,0.832
 Rwanda,RWA,2023,0.578
 Saint Kitts and Nevis,KNA,2023,0.84
 Saint Lucia,LCA,2023,0.748
@@ -159,6 +160,7 @@ Slovenia,SVN,2023,0.931
 Solomon Islands,SLB,2023,0.584
 Somalia,SOM,2023,0.404
 South Africa,ZAF,2023,0.741
+South Korea,KOR,2023,0.937
 South Sudan,SSD,2023,0.388
 Spain,ESP,2023,0.918
 Sri Lanka,LKA,2023,0.776
@@ -166,9 +168,9 @@ Sudan,SDN,2023,0.511
 Suriname,SUR,2023,0.722
 Sweden,SWE,2023,0.959
 Switzerland,CHE,2023,0.97
-Syrian Arab Republic,SYR,2023,0.564
+Syria,SYR,2023,0.564
 Tajikistan,TJK,2023,0.691
-Tanzania (United Republic of),TZA,2023,0.555
+Tanzania,TZA,2023,0.555
 Thailand,THA,2023,0.798
 Timor-Leste,TLS,2023,0.634
 Togo,TGO,2023,0.571
@@ -177,7 +179,7 @@ Trinidad and Tobago,TTO,2023,0.807
 Tunisia,TUN,2023,0.746
 Turkmenistan,TKM,2023,0.764
 Tuvalu,TUV,2023,0.689
-T¸rkiye,TUR,2023,0.853
+Türkiye,TUR,2023,0.853
 Uganda,UGA,2023,0.582
 Ukraine,UKR,2023,0.779
 United Arab Emirates,ARE,2023,0.94
@@ -186,8 +188,9 @@ United States,USA,2023,0.938
 Uruguay,URY,2023,0.862
 Uzbekistan,UZB,2023,0.74
 Vanuatu,VUT,2023,0.621
-Venezuela (Bolivarian Republic of),VEN,2023,0.709
-Viet Nam,VNM,2023,0.766
+Vatican City,VAT,2023,
+Venezuela,VEN,2023,0.709
+Vietnam,VNM,2023,0.766
 Yemen,YEM,2023,0.47
 Zambia,ZMB,2023,0.595
 Zimbabwe,ZWE,2023,0.598

@@ -19,11 +19,11 @@ Belgium,BEL,2014,0.93
 Belize,BLZ,2014,0.721
 Benin,BEN,2014,0.509
 Bhutan,BTN,2014,0.626
-Bolivia (Plurinational State of),BOL,2014,0.701
+Bolivia,BOL,2014,0.701
 Bosnia and Herzegovina,BIH,2014,0.765
 Botswana,BWA,2014,0.685
 Brazil,BRA,2014,0.765
-Brunei Darussalam,BRN,2014,0.841
+Brunei,BRN,2014,0.841
 Bulgaria,BGR,2014,0.819
 Burkina Faso,BFA,2014,0.409
 Burundi,BDI,2014,0.431
@@ -38,13 +38,13 @@ China,CHN,2014,0.742
 Colombia,COL,2014,0.763
 Comoros,COM,2014,0.56
 Congo,COG,2014,0.639
-Congo (Democratic Republic of the),COD,2014,0.467
 Costa Rica,CRI,2014,0.802
 Croatia,HRV,2014,0.848
 Cuba,CUB,2014,0.77
 Cyprus,CYP,2014,0.875
 Czechia,CZE,2014,0.898
-CÙte d'Ivoire,CIV,2014,0.511
+Côte d'Ivoire,CIV,2014,0.511
+Democratic Republic of the Congo,COD,2014,0.467
 Denmark,DNK,2014,0.939
 Djibouti,DJI,2014,0.459
 Dominica,DMA,2014,0.748
@@ -55,7 +55,7 @@ El Salvador,SLV,2014,0.668
 Equatorial Guinea,GNQ,2014,0.652
 Eritrea,ERI,2014,0.497
 Estonia,EST,2014,0.885
-Eswatini (Kingdom of),SWZ,2014,0.592
+Eswatini,SWZ,2014,0.592
 Ethiopia,ETH,2014,0.449
 Fiji,FJI,2014,0.712
 Finland,FIN,2014,0.936
@@ -77,7 +77,7 @@ Hungary,HUN,2014,0.848
 Iceland,ISL,2014,0.954
 India,IND,2014,0.625
 Indonesia,IDN,2014,0.693
-Iran (Islamic Republic of),IRN,2014,0.795
+Iran,IRN,2014,0.795
 Iraq,IRQ,2014,0.671
 Ireland,IRL,2014,0.921
 Israel,ISR,2014,0.902
@@ -88,10 +88,9 @@ Jordan,JOR,2014,0.742
 Kazakhstan,KAZ,2014,0.813
 Kenya,KEN,2014,0.576
 Kiribati,KIR,2014,0.615
-Korea (Republic of),KOR,2014,0.91
 Kuwait,KWT,2014,0.818
 Kyrgyzstan,KGZ,2014,0.691
-Lao People's Democratic Republic,LAO,2014,0.597
+Laos,LAO,2014,0.597
 Latvia,LVA,2014,0.854
 Lebanon,LBN,2014,0.761
 Lesotho,LSO,2014,0.509
@@ -110,8 +109,9 @@ Marshall Islands,MHL,2014,0.681
 Mauritania,MRT,2014,0.547
 Mauritius,MUS,2014,0.79
 Mexico,MEX,2014,0.769
-Micronesia (Federated States of),FSM,2014,0.602
-Moldova (Republic of),MDA,2014,0.762
+Micronesia,FSM,2014,0.602
+Moldova,MDA,2014,0.762
+Monaco,MCO,2014,
 Mongolia,MNG,2014,0.748
 Montenegro,MNE,2014,0.833
 Morocco,MAR,2014,0.648
@@ -125,12 +125,13 @@ New Zealand,NZL,2014,0.932
 Nicaragua,NIC,2014,0.674
 Niger,NER,2014,0.369
 Nigeria,NGA,2014,0.524
+North Korea,PRK,2014,
 North Macedonia,MKD,2014,0.788
 Norway,NOR,2014,0.956
 Oman,OMN,2014,0.831
 Pakistan,PAK,2014,0.522
 Palau,PLW,2014,0.795
-"Palestine, State of",PSE,2014,0.7
+Palestine,PSE,2014,0.7
 Panama,PAN,2014,0.798
 Papua New Guinea,PNG,2014,0.534
 Paraguay,PRY,2014,0.733
@@ -140,7 +141,7 @@ Poland,POL,2014,0.873
 Portugal,PRT,2014,0.854
 Qatar,QAT,2014,0.857
 Romania,ROU,2014,0.82
-Russian Federation,RUS,2014,0.831
+Russia,RUS,2014,0.831
 Rwanda,RWA,2014,0.525
 Saint Kitts and Nevis,KNA,2014,0.829
 Saint Lucia,LCA,2014,0.746
@@ -157,7 +158,9 @@ Singapore,SGP,2014,0.934
 Slovakia,SVK,2014,0.859
 Slovenia,SVN,2014,0.907
 Solomon Islands,SLB,2014,0.575
+Somalia,SOM,2014,
 South Africa,ZAF,2014,0.713
+South Korea,KOR,2014,0.91
 South Sudan,SSD,2014,0.343
 Spain,ESP,2014,0.89
 Sri Lanka,LKA,2014,0.767
@@ -165,9 +168,9 @@ Sudan,SDN,2014,0.496
 Suriname,SUR,2014,0.715
 Sweden,SWE,2014,0.943
 Switzerland,CHE,2014,0.956
-Syrian Arab Republic,SYR,2014,0.561
+Syria,SYR,2014,0.561
 Tajikistan,TJK,2014,0.657
-Tanzania (United Republic of),TZA,2014,0.521
+Tanzania,TZA,2014,0.521
 Thailand,THA,2014,0.784
 Timor-Leste,TLS,2014,0.637
 Togo,TGO,2014,0.514
@@ -176,7 +179,7 @@ Trinidad and Tobago,TTO,2014,0.805
 Tunisia,TUN,2014,0.725
 Turkmenistan,TKM,2014,0.719
 Tuvalu,TUV,2014,0.65
-T¸rkiye,TUR,2014,0.813
+Türkiye,TUR,2014,0.813
 Uganda,UGA,2014,0.539
 Ukraine,UKR,2014,0.788
 United Arab Emirates,ARE,2014,0.853
@@ -185,8 +188,9 @@ United States,USA,2014,0.926
 Uruguay,URY,2014,0.816
 Uzbekistan,UZB,2014,0.703
 Vanuatu,VUT,2014,0.597
-Venezuela (Bolivarian Republic of),VEN,2014,0.77
-Viet Nam,VNM,2014,0.711
+Vatican City,VAT,2014,
+Venezuela,VEN,2014,0.77
+Vietnam,VNM,2014,0.711
 Yemen,YEM,2014,0.502
 Zambia,ZMB,2014,0.559
 Zimbabwe,ZWE,2014,0.56

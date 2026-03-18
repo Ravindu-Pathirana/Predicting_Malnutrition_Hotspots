@@ -4,6 +4,7 @@ Albania,ALB,2001,0.691
 Algeria,DZA,2001,0.659
 Andorra,AND,2001,0.832
 Angola,AGO,2001,0.401
+Antigua and Barbuda,ATG,2001,
 Argentina,ARG,2001,0.795
 Armenia,ARM,2001,0.672
 Australia,AUS,2001,0.9
@@ -17,12 +18,14 @@ Belarus,BLR,2001,0.731
 Belgium,BEL,2001,0.899
 Belize,BLZ,2001,0.676
 Benin,BEN,2001,0.426
-Bolivia (Plurinational State of),BOL,2001,0.639
+Bhutan,BTN,2001,
+Bolivia,BOL,2001,0.639
 Bosnia and Herzegovina,BIH,2001,0.677
 Botswana,BWA,2001,0.595
 Brazil,BRA,2001,0.694
-Brunei Darussalam,BRN,2001,0.794
+Brunei,BRN,2001,0.794
 Bulgaria,BGR,2001,0.742
+Burkina Faso,BFA,2001,
 Burundi,BDI,2001,0.311
 Cabo Verde,CPV,2001,0.591
 Cambodia,KHM,2001,0.453
@@ -35,13 +38,13 @@ China,CHN,2001,0.608
 Colombia,COL,2001,0.681
 Comoros,COM,2001,0.47
 Congo,COG,2001,0.55
-Congo (Democratic Republic of the),COD,2001,0.389
 Costa Rica,CRI,2001,0.726
 Croatia,HRV,2001,0.785
 Cuba,CUB,2001,0.705
 Cyprus,CYP,2001,0.815
 Czechia,CZE,2001,0.828
-CÙte d'Ivoire,CIV,2001,0.422
+Côte d'Ivoire,CIV,2001,0.422
+Democratic Republic of the Congo,COD,2001,0.389
 Denmark,DNK,2001,0.902
 Djibouti,DJI,2001,0.342
 Dominica,DMA,2001,0.725
@@ -50,8 +53,9 @@ Ecuador,ECU,2001,0.691
 Egypt,EGY,2001,0.642
 El Salvador,SLV,2001,0.612
 Equatorial Guinea,GNQ,2001,0.521
+Eritrea,ERI,2001,
 Estonia,EST,2001,0.802
-Eswatini (Kingdom of),SWZ,2001,0.484
+Eswatini,SWZ,2001,0.484
 Ethiopia,ETH,2001,0.307
 Fiji,FJI,2001,0.67
 Finland,FIN,2001,0.908
@@ -62,8 +66,10 @@ Georgia,GEO,2001,0.712
 Germany,DEU,2001,0.904
 Ghana,GHA,2001,0.486
 Greece,GRC,2001,0.837
+Grenada,GRD,2001,
 Guatemala,GTM,2001,0.567
 Guinea,GIN,2001,0.366
+Guinea-Bissau,GNB,2001,
 Guyana,GUY,2001,0.575
 Haiti,HTI,2001,0.5
 Honduras,HND,2001,0.561
@@ -71,7 +77,7 @@ Hungary,HUN,2001,0.791
 Iceland,ISL,2001,0.91
 India,IND,2001,0.511
 Indonesia,IDN,2001,0.608
-Iran (Islamic Republic of),IRN,2001,0.719
+Iran,IRN,2001,0.719
 Iraq,IRQ,2001,0.598
 Ireland,IRL,2001,0.876
 Israel,ISR,2001,0.841
@@ -81,11 +87,12 @@ Japan,JPN,2001,0.892
 Jordan,JOR,2001,0.679
 Kazakhstan,KAZ,2001,0.707
 Kenya,KEN,2001,0.505
-Korea (Republic of),KOR,2001,0.838
+Kiribati,KIR,2001,
 Kuwait,KWT,2001,0.777
 Kyrgyzstan,KGZ,2001,0.634
-Lao People's Democratic Republic,LAO,2001,0.479
+Laos,LAO,2001,0.479
 Latvia,LVA,2001,0.775
+Lebanon,LBN,2001,
 Lesotho,LSO,2001,0.457
 Liberia,LBR,2001,0.448
 Libya,LBY,2001,0.73
@@ -98,26 +105,33 @@ Malaysia,MYS,2001,0.731
 Maldives,MDV,2001,0.639
 Mali,MLI,2001,0.332
 Malta,MLT,2001,0.801
+Marshall Islands,MHL,2001,
 Mauritania,MRT,2001,0.47
 Mauritius,MUS,2001,0.697
 Mexico,MEX,2001,0.715
-Micronesia (Federated States of),FSM,2001,0.599
+Micronesia,FSM,2001,0.599
+Moldova,MDA,2001,
+Monaco,MCO,2001,
 Mongolia,MNG,2001,0.622
+Montenegro,MNE,2001,
 Morocco,MAR,2001,0.539
 Mozambique,MOZ,2001,0.326
 Myanmar,MMR,2001,0.423
 Namibia,NAM,2001,0.555
+Nauru,NRU,2001,
 Nepal,NPL,2001,0.472
 Netherlands,NLD,2001,0.902
 New Zealand,NZL,2001,0.902
 Nicaragua,NIC,2001,0.601
 Niger,NER,2001,0.272
 Nigeria,NGA,2001,0.438
+North Korea,PRK,2001,
 North Macedonia,MKD,2001,0.691
 Norway,NOR,2001,0.923
 Oman,OMN,2001,0.719
 Pakistan,PAK,2001,0.443
 Palau,PLW,2001,0.741
+Palestine,PSE,2001,
 Panama,PAN,2001,0.723
 Papua New Guinea,PNG,2001,0.458
 Paraguay,PRY,2001,0.671
@@ -127,36 +141,45 @@ Poland,POL,2001,0.809
 Portugal,PRT,2001,0.801
 Qatar,QAT,2001,0.795
 Romania,ROU,2001,0.737
-Russian Federation,RUS,2001,0.758
+Russia,RUS,2001,0.758
 Rwanda,RWA,2001,0.37
+Saint Kitts and Nevis,KNA,2001,
 Saint Lucia,LCA,2001,0.712
 Saint Vincent and the Grenadines,VCT,2001,0.704
 Samoa,WSM,2001,0.683
 San Marino,SMR,2001,0.883
+Sao Tome and Principe,STP,2001,
 Saudi Arabia,SAU,2001,0.744
 Senegal,SEN,2001,0.404
 Serbia,SRB,2001,0.707
+Seychelles,SYC,2001,
 Sierra Leone,SLE,2001,0.33
 Singapore,SGP,2001,0.885
 Slovakia,SVK,2001,0.781
 Slovenia,SVN,2001,0.845
 Solomon Islands,SLB,2001,0.542
+Somalia,SOM,2001,
 South Africa,ZAF,2001,0.613
+South Korea,KOR,2001,0.838
+South Sudan,SSD,2001,
 Spain,ESP,2001,0.839
 Sri Lanka,LKA,2001,0.704
+Sudan,SDN,2001,
+Suriname,SUR,2001,
 Sweden,SWE,2001,0.915
 Switzerland,CHE,2001,0.895
-Syrian Arab Republic,SYR,2001,0.602
+Syria,SYR,2001,0.602
 Tajikistan,TJK,2001,0.563
-Tanzania (United Republic of),TZA,2001,0.422
+Tanzania,TZA,2001,0.422
 Thailand,THA,2001,0.667
 Timor-Leste,TLS,2001,0.521
 Togo,TGO,2001,0.452
 Tonga,TON,2001,0.693
 Trinidad and Tobago,TTO,2001,0.721
 Tunisia,TUN,2001,0.661
+Turkmenistan,TKM,2001,
 Tuvalu,TUV,2001,0.613
-T¸rkiye,TUR,2001,0.675
+Türkiye,TUR,2001,0.675
 Uganda,UGA,2001,0.418
 Ukraine,UKR,2001,0.728
 United Arab Emirates,ARE,2001,0.798
@@ -164,8 +187,10 @@ United Kingdom,GBR,2001,0.876
 United States,USA,2001,0.897
 Uruguay,URY,2001,0.771
 Uzbekistan,UZB,2001,0.61
-Venezuela (Bolivarian Republic of),VEN,2001,0.708
-Viet Nam,VNM,2001,0.612
+Vanuatu,VUT,2001,
+Vatican City,VAT,2001,
+Venezuela,VEN,2001,0.708
+Vietnam,VNM,2001,0.612
 Yemen,YEM,2001,0.449
 Zambia,ZMB,2001,0.437
 Zimbabwe,ZWE,2001,0.456

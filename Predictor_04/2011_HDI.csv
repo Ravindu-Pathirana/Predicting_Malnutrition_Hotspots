@@ -19,11 +19,11 @@ Belgium,BEL,2011,0.923
 Belize,BLZ,2011,0.725
 Benin,BEN,2011,0.49
 Bhutan,BTN,2011,0.603
-Bolivia (Plurinational State of),BOL,2011,0.683
+Bolivia,BOL,2011,0.683
 Bosnia and Herzegovina,BIH,2011,0.731
 Botswana,BWA,2011,0.661
 Brazil,BRA,2011,0.753
-Brunei Darussalam,BRN,2011,0.834
+Brunei,BRN,2011,0.834
 Bulgaria,BGR,2011,0.803
 Burkina Faso,BFA,2011,0.389
 Burundi,BDI,2011,0.42
@@ -38,13 +38,13 @@ China,CHN,2011,0.717
 Colombia,COL,2011,0.747
 Comoros,COM,2011,0.541
 Congo,COG,2011,0.613
-Congo (Democratic Republic of the),COD,2011,0.447
 Costa Rica,CRI,2011,0.783
 Croatia,HRV,2011,0.836
 Cuba,CUB,2011,0.781
 Cyprus,CYP,2011,0.872
 Czechia,CZE,2011,0.883
-CÙte d'Ivoire,CIV,2011,0.469
+Côte d'Ivoire,CIV,2011,0.469
+Democratic Republic of the Congo,COD,2011,0.447
 Denmark,DNK,2011,0.934
 Djibouti,DJI,2011,0.432
 Dominica,DMA,2011,0.745
@@ -55,7 +55,7 @@ El Salvador,SLV,2011,0.662
 Equatorial Guinea,GNQ,2011,0.624
 Eritrea,ERI,2011,0.48
 Estonia,EST,2011,0.877
-Eswatini (Kingdom of),SWZ,2011,0.545
+Eswatini,SWZ,2011,0.545
 Ethiopia,ETH,2011,0.425
 Fiji,FJI,2011,0.701
 Finland,FIN,2011,0.924
@@ -77,7 +77,7 @@ Hungary,HUN,2011,0.841
 Iceland,ISL,2011,0.941
 India,IND,2011,0.603
 Indonesia,IDN,2011,0.678
-Iran (Islamic Republic of),IRN,2011,0.787
+Iran,IRN,2011,0.787
 Iraq,IRQ,2011,0.656
 Ireland,IRL,2011,0.909
 Israel,ISR,2011,0.892
@@ -88,10 +88,9 @@ Jordan,JOR,2011,0.734
 Kazakhstan,KAZ,2011,0.79
 Kenya,KEN,2011,0.56
 Kiribati,KIR,2011,0.603
-Korea (Republic of),KOR,2011,0.899
 Kuwait,KWT,2011,0.817
 Kyrgyzstan,KGZ,2011,0.67
-Lao People's Democratic Republic,LAO,2011,0.567
+Laos,LAO,2011,0.567
 Latvia,LVA,2011,0.84
 Lebanon,LBN,2011,0.758
 Lesotho,LSO,2011,0.485
@@ -110,8 +109,9 @@ Marshall Islands,MHL,2011,0.666
 Mauritania,MRT,2011,0.53
 Mauritius,MUS,2011,0.762
 Mexico,MEX,2011,0.757
-Micronesia (Federated States of),FSM,2011,0.605
-Moldova (Republic of),MDA,2011,0.748
+Micronesia,FSM,2011,0.605
+Moldova,MDA,2011,0.748
+Monaco,MCO,2011,
 Mongolia,MNG,2011,0.725
 Montenegro,MNE,2011,0.822
 Morocco,MAR,2011,0.619
@@ -125,12 +125,13 @@ New Zealand,NZL,2011,0.927
 Nicaragua,NIC,2011,0.657
 Niger,NER,2011,0.346
 Nigeria,NGA,2011,0.508
+North Korea,PRK,2011,
 North Macedonia,MKD,2011,0.771
 Norway,NOR,2011,0.949
 Oman,OMN,2011,0.822
 Pakistan,PAK,2011,0.504
 Palau,PLW,2011,0.784
-"Palestine, State of",PSE,2011,0.698
+Palestine,PSE,2011,0.698
 Panama,PAN,2011,0.781
 Papua New Guinea,PNG,2011,0.508
 Paraguay,PRY,2011,0.715
@@ -140,7 +141,7 @@ Poland,POL,2011,0.858
 Portugal,PRT,2011,0.843
 Qatar,QAT,2011,0.835
 Romania,ROU,2011,0.823
-Russian Federation,RUS,2011,0.822
+Russia,RUS,2011,0.822
 Rwanda,RWA,2011,0.512
 Saint Kitts and Nevis,KNA,2011,0.8
 Saint Lucia,LCA,2011,0.755
@@ -157,7 +158,9 @@ Singapore,SGP,2011,0.933
 Slovakia,SVK,2011,0.856
 Slovenia,SVN,2011,0.897
 Solomon Islands,SLB,2011,0.567
+Somalia,SOM,2011,
 South Africa,ZAF,2011,0.683
+South Korea,KOR,2011,0.899
 South Sudan,SSD,2011,0.422
 Spain,ESP,2011,0.879
 Sri Lanka,LKA,2011,0.753
@@ -165,9 +168,9 @@ Sudan,SDN,2011,0.476
 Suriname,SUR,2011,0.708
 Sweden,SWE,2011,0.92
 Switzerland,CHE,2011,0.946
-Syrian Arab Republic,SYR,2011,0.664
+Syria,SYR,2011,0.664
 Tajikistan,TJK,2011,0.644
-Tanzania (United Republic of),TZA,2011,0.516
+Tanzania,TZA,2011,0.516
 Thailand,THA,2011,0.747
 Timor-Leste,TLS,2011,0.655
 Togo,TGO,2011,0.495
@@ -176,7 +179,7 @@ Trinidad and Tobago,TTO,2011,0.792
 Tunisia,TUN,2011,0.718
 Turkmenistan,TKM,2011,0.709
 Tuvalu,TUV,2011,0.641
-T¸rkiye,TUR,2011,0.764
+Türkiye,TUR,2011,0.764
 Uganda,UGA,2011,0.522
 Ukraine,UKR,2011,0.786
 United Arab Emirates,ARE,2011,0.839
@@ -185,8 +188,9 @@ United States,USA,2011,0.92
 Uruguay,URY,2011,0.801
 Uzbekistan,UZB,2011,0.686
 Vanuatu,VUT,2011,0.587
-Venezuela (Bolivarian Republic of),VEN,2011,0.77
-Viet Nam,VNM,2011,0.693
+Vatican City,VAT,2011,
+Venezuela,VEN,2011,0.77
+Vietnam,VNM,2011,0.693
 Yemen,YEM,2011,0.501
 Zambia,ZMB,2011,0.538
 Zimbabwe,ZWE,2011,0.529

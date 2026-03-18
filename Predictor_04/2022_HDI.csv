@@ -19,11 +19,11 @@ Belgium,BEL,2022,0.945
 Belize,BLZ,2022,0.717
 Benin,BEN,2022,0.512
 Bhutan,BTN,2022,0.695
-Bolivia (Plurinational State of),BOL,2022,0.727
+Bolivia,BOL,2022,0.727
 Bosnia and Herzegovina,BIH,2022,0.799
 Botswana,BWA,2022,0.729
 Brazil,BRA,2022,0.78
-Brunei Darussalam,BRN,2022,0.825
+Brunei,BRN,2022,0.825
 Bulgaria,BGR,2022,0.835
 Burkina Faso,BFA,2022,0.457
 Burundi,BDI,2022,0.437
@@ -31,19 +31,20 @@ Cabo Verde,CPV,2022,0.664
 Cambodia,KHM,2022,0.602
 Cameroon,CMR,2022,0.581
 Canada,CAN,2022,0.935
+Central African Republic,CAF,2022,
 Chad,TCD,2022,0.414
 Chile,CHL,2022,0.869
 China,CHN,2022,0.796
 Colombia,COL,2022,0.782
 Comoros,COM,2022,0.602
 Congo,COG,2022,0.644
-Congo (Democratic Republic of the),COD,2022,0.514
 Costa Rica,CRI,2022,0.823
 Croatia,HRV,2022,0.886
 Cuba,CUB,2022,0.764
 Cyprus,CYP,2022,0.908
 Czechia,CZE,2022,0.911
-CÙte d'Ivoire,CIV,2022,0.565
+Côte d'Ivoire,CIV,2022,0.565
+Democratic Republic of the Congo,COD,2022,0.514
 Denmark,DNK,2022,0.959
 Djibouti,DJI,2022,0.51
 Dominica,DMA,2022,0.759
@@ -54,7 +55,7 @@ El Salvador,SLV,2022,0.674
 Equatorial Guinea,GNQ,2022,0.677
 Eritrea,ERI,2022,0.499
 Estonia,EST,2022,0.902
-Eswatini (Kingdom of),SWZ,2022,0.695
+Eswatini,SWZ,2022,0.695
 Ethiopia,ETH,2022,0.494
 Fiji,FJI,2022,0.726
 Finland,FIN,2022,0.946
@@ -76,7 +77,7 @@ Hungary,HUN,2022,0.867
 Iceland,ISL,2022,0.964
 India,IND,2022,0.676
 Indonesia,IDN,2022,0.726
-Iran (Islamic Republic of),IRN,2022,0.793
+Iran,IRN,2022,0.793
 Iraq,IRQ,2022,0.695
 Ireland,IRL,2022,0.947
 Israel,ISR,2022,0.921
@@ -87,10 +88,9 @@ Jordan,JOR,2022,0.751
 Kazakhstan,KAZ,2022,0.831
 Kenya,KEN,2022,0.626
 Kiribati,KIR,2022,0.642
-Korea (Republic of),KOR,2022,0.928
 Kuwait,KWT,2022,0.845
 Kyrgyzstan,KGZ,2022,0.717
-Lao People's Democratic Republic,LAO,2022,0.614
+Laos,LAO,2022,0.614
 Latvia,LVA,2022,0.881
 Lebanon,LBN,2022,0.755
 Lesotho,LSO,2022,0.547
@@ -109,8 +109,9 @@ Marshall Islands,MHL,2022,0.732
 Mauritania,MRT,2022,0.562
 Mauritius,MUS,2022,0.794
 Mexico,MEX,2022,0.783
-Micronesia (Federated States of),FSM,2022,0.614
-Moldova (Republic of),MDA,2022,0.784
+Micronesia,FSM,2022,0.614
+Moldova,MDA,2022,0.784
+Monaco,MCO,2022,
 Mongolia,MNG,2022,0.742
 Montenegro,MNE,2022,0.853
 Morocco,MAR,2022,0.704
@@ -124,12 +125,13 @@ New Zealand,NZL,2022,0.933
 Nicaragua,NIC,2022,0.701
 Niger,NER,2022,0.414
 Nigeria,NGA,2022,0.557
+North Korea,PRK,2022,
 North Macedonia,MKD,2022,0.811
 Norway,NOR,2022,0.967
 Oman,OMN,2022,0.846
 Pakistan,PAK,2022,0.544
 Palau,PLW,2022,0.786
-"Palestine, State of",PSE,2022,0.733
+Palestine,PSE,2022,0.733
 Panama,PAN,2022,0.835
 Papua New Guinea,PNG,2022,0.572
 Paraguay,PRY,2022,0.747
@@ -139,7 +141,7 @@ Poland,POL,2022,0.902
 Portugal,PRT,2022,0.883
 Qatar,QAT,2022,0.883
 Romania,ROU,2022,0.84
-Russian Federation,RUS,2022,0.826
+Russia,RUS,2022,0.826
 Rwanda,RWA,2022,0.57
 Saint Kitts and Nevis,KNA,2022,0.829
 Saint Lucia,LCA,2022,0.747
@@ -158,6 +160,7 @@ Slovenia,SVN,2022,0.926
 Solomon Islands,SLB,2022,0.583
 Somalia,SOM,2022,0.385
 South Africa,ZAF,2022,0.737
+South Korea,KOR,2022,0.928
 South Sudan,SSD,2022,0.388
 Spain,ESP,2022,0.911
 Sri Lanka,LKA,2022,0.777
@@ -165,9 +168,9 @@ Sudan,SDN,2022,0.516
 Suriname,SUR,2022,0.719
 Sweden,SWE,2022,0.959
 Switzerland,CHE,2022,0.966
-Syrian Arab Republic,SYR,2022,0.571
+Syria,SYR,2022,0.571
 Tajikistan,TJK,2022,0.687
-Tanzania (United Republic of),TZA,2022,0.554
+Tanzania,TZA,2022,0.554
 Thailand,THA,2022,0.792
 Timor-Leste,TLS,2022,0.633
 Togo,TGO,2022,0.567
@@ -176,7 +179,7 @@ Trinidad and Tobago,TTO,2022,0.805
 Tunisia,TUN,2022,0.745
 Turkmenistan,TKM,2022,0.761
 Tuvalu,TUV,2022,0.686
-T¸rkiye,TUR,2022,0.853
+Türkiye,TUR,2022,0.853
 Uganda,UGA,2022,0.578
 Ukraine,UKR,2022,0.772
 United Arab Emirates,ARE,2022,0.921
@@ -185,8 +188,9 @@ United States,USA,2022,0.93
 Uruguay,URY,2022,0.852
 Uzbekistan,UZB,2022,0.737
 Vanuatu,VUT,2022,0.621
-Venezuela (Bolivarian Republic of),VEN,2022,0.706
-Viet Nam,VNM,2022,0.764
+Vatican City,VAT,2022,
+Venezuela,VEN,2022,0.706
+Vietnam,VNM,2022,0.764
 Yemen,YEM,2022,0.466
 Zambia,ZMB,2022,0.589
 Zimbabwe,ZWE,2022,0.594

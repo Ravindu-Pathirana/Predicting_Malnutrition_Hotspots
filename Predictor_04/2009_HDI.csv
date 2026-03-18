@@ -18,11 +18,12 @@ Belarus,BLR,2009,0.798
 Belgium,BEL,2009,0.919
 Belize,BLZ,2009,0.724
 Benin,BEN,2009,0.48
-Bolivia (Plurinational State of),BOL,2009,0.671
+Bhutan,BTN,2009,
+Bolivia,BOL,2009,0.671
 Bosnia and Herzegovina,BIH,2009,0.722
 Botswana,BWA,2009,0.644
 Brazil,BRA,2009,0.742
-Brunei Darussalam,BRN,2009,0.828
+Brunei,BRN,2009,0.828
 Bulgaria,BGR,2009,0.793
 Burkina Faso,BFA,2009,0.366
 Burundi,BDI,2009,0.409
@@ -30,19 +31,20 @@ Cabo Verde,CPV,2009,0.644
 Cambodia,KHM,2009,0.539
 Cameroon,CMR,2009,0.516
 Canada,CAN,2009,0.915
+Central African Republic,CAF,2009,
 Chad,TCD,2009,0.369
 Chile,CHL,2009,0.819
 China,CHN,2009,0.7
 Colombia,COL,2009,0.736
 Comoros,COM,2009,0.526
 Congo,COG,2009,0.602
-Congo (Democratic Republic of the),COD,2009,0.431
 Costa Rica,CRI,2009,0.773
 Croatia,HRV,2009,0.826
 Cuba,CUB,2009,0.788
 Cyprus,CYP,2009,0.867
 Czechia,CZE,2009,0.875
-CÙte d'Ivoire,CIV,2009,0.458
+Côte d'Ivoire,CIV,2009,0.458
+Democratic Republic of the Congo,COD,2009,0.431
 Denmark,DNK,2009,0.915
 Djibouti,DJI,2009,0.411
 Dominica,DMA,2009,0.746
@@ -53,7 +55,7 @@ El Salvador,SLV,2009,0.653
 Equatorial Guinea,GNQ,2009,0.615
 Eritrea,ERI,2009,0.462
 Estonia,EST,2009,0.863
-Eswatini (Kingdom of),SWZ,2009,0.519
+Eswatini,SWZ,2009,0.519
 Ethiopia,ETH,2009,0.405
 Fiji,FJI,2009,0.693
 Finland,FIN,2009,0.916
@@ -75,7 +77,7 @@ Hungary,HUN,2009,0.834
 Iceland,ISL,2009,0.934
 India,IND,2009,0.579
 Indonesia,IDN,2009,0.663
-Iran (Islamic Republic of),IRN,2009,0.771
+Iran,IRN,2009,0.771
 Iraq,IRQ,2009,0.644
 Ireland,IRL,2009,0.907
 Israel,ISR,2009,0.884
@@ -86,10 +88,9 @@ Jordan,JOR,2009,0.735
 Kazakhstan,KAZ,2009,0.774
 Kenya,KEN,2009,0.553
 Kiribati,KIR,2009,0.598
-Korea (Republic of),KOR,2009,0.881
 Kuwait,KWT,2009,0.809
 Kyrgyzstan,KGZ,2009,0.669
-Lao People's Democratic Republic,LAO,2009,0.548
+Laos,LAO,2009,0.548
 Latvia,LVA,2009,0.836
 Lebanon,LBN,2009,0.743
 Lesotho,LSO,2009,0.468
@@ -104,11 +105,13 @@ Malaysia,MYS,2009,0.773
 Maldives,MDV,2009,0.682
 Mali,MLI,2009,0.403
 Malta,MLT,2009,0.854
+Marshall Islands,MHL,2009,
 Mauritania,MRT,2009,0.522
 Mauritius,MUS,2009,0.748
 Mexico,MEX,2009,0.749
-Micronesia (Federated States of),FSM,2009,0.601
-Moldova (Republic of),MDA,2009,0.729
+Micronesia,FSM,2009,0.601
+Moldova,MDA,2009,0.729
+Monaco,MCO,2009,
 Mongolia,MNG,2009,0.711
 Montenegro,MNE,2009,0.809
 Morocco,MAR,2009,0.598
@@ -122,12 +125,13 @@ New Zealand,NZL,2009,0.923
 Nicaragua,NIC,2009,0.646
 Niger,NER,2009,0.329
 Nigeria,NGA,2009,0.499
+North Korea,PRK,2009,
 North Macedonia,MKD,2009,0.757
 Norway,NOR,2009,0.944
 Oman,OMN,2009,0.799
 Pakistan,PAK,2009,0.497
 Palau,PLW,2009,0.776
-"Palestine, State of",PSE,2009,0.685
+Palestine,PSE,2009,0.685
 Panama,PAN,2009,0.77
 Papua New Guinea,PNG,2009,0.495
 Paraguay,PRY,2009,0.7
@@ -137,7 +141,7 @@ Poland,POL,2009,0.846
 Portugal,PRT,2009,0.831
 Qatar,QAT,2009,0.838
 Romania,ROU,2009,0.826
-Russian Federation,RUS,2009,0.805
+Russia,RUS,2009,0.805
 Rwanda,RWA,2009,0.493
 Saint Kitts and Nevis,KNA,2009,0.783
 Saint Lucia,LCA,2009,0.751
@@ -148,21 +152,25 @@ Sao Tome and Principe,STP,2009,0.561
 Saudi Arabia,SAU,2009,0.794
 Senegal,SEN,2009,0.47
 Serbia,SRB,2009,0.774
+Seychelles,SYC,2009,
 Sierra Leone,SLE,2009,0.406
 Singapore,SGP,2009,0.928
 Slovakia,SVK,2009,0.845
 Slovenia,SVN,2009,0.894
 Solomon Islands,SLB,2009,0.557
+Somalia,SOM,2009,
 South Africa,ZAF,2009,0.657
+South Korea,KOR,2009,0.881
+South Sudan,SSD,2009,
 Spain,ESP,2009,0.867
 Sri Lanka,LKA,2009,0.723
 Sudan,SDN,2009,0.469
 Suriname,SUR,2009,0.704
 Sweden,SWE,2009,0.912
 Switzerland,CHE,2009,0.942
-Syrian Arab Republic,SYR,2009,0.668
+Syria,SYR,2009,0.668
 Tajikistan,TJK,2009,0.634
-Tanzania (United Republic of),TZA,2009,0.504
+Tanzania,TZA,2009,0.504
 Thailand,THA,2009,0.725
 Timor-Leste,TLS,2009,0.631
 Togo,TGO,2009,0.473
@@ -171,7 +179,7 @@ Trinidad and Tobago,TTO,2009,0.782
 Tunisia,TUN,2009,0.713
 Turkmenistan,TKM,2009,0.69
 Tuvalu,TUV,2009,0.635
-T¸rkiye,TUR,2009,0.728
+Türkiye,TUR,2009,0.728
 Uganda,UGA,2009,0.509
 Ukraine,UKR,2009,0.773
 United Arab Emirates,ARE,2009,0.832
@@ -180,8 +188,9 @@ United States,USA,2009,0.915
 Uruguay,URY,2009,0.787
 Uzbekistan,UZB,2009,0.672
 Vanuatu,VUT,2009,0.579
-Venezuela (Bolivarian Republic of),VEN,2009,0.76
-Viet Nam,VNM,2009,0.679
+Vatican City,VAT,2009,
+Venezuela,VEN,2009,0.76
+Vietnam,VNM,2009,0.679
 Yemen,YEM,2009,0.497
 Zambia,ZMB,2009,0.526
 Zimbabwe,ZWE,2009,0.488

@@ -2,6 +2,9 @@ Country,Country Code,Year,Value
 Afghanistan,AFG,1997,0.338
 Albania,ALB,1997,0.645
 Algeria,DZA,1997,0.624
+Andorra,AND,1997,
+Angola,AGO,1997,
+Antigua and Barbuda,ATG,1997,
 Argentina,ARG,1997,0.768
 Armenia,ARM,1997,0.644
 Australia,AUS,1997,0.887
@@ -15,45 +18,58 @@ Belarus,BLR,1997,0.704
 Belgium,BEL,1997,0.884
 Belize,BLZ,1997,0.654
 Benin,BEN,1997,0.396
-Bolivia (Plurinational State of),BOL,1997,0.61
+Bhutan,BTN,1997,
+Bolivia,BOL,1997,0.61
+Bosnia and Herzegovina,BIH,1997,
 Botswana,BWA,1997,0.587
 Brazil,BRA,1997,0.676
-Brunei Darussalam,BRN,1997,0.785
+Brunei,BRN,1997,0.785
 Bulgaria,BGR,1997,0.713
+Burkina Faso,BFA,1997,
 Burundi,BDI,1997,0.297
+Cabo Verde,CPV,1997,
 Cambodia,KHM,1997,0.414
 Cameroon,CMR,1997,0.432
 Canada,CAN,1997,0.884
 Central African Republic,CAF,1997,0.325
+Chad,TCD,1997,
 Chile,CHL,1997,0.752
 China,CHN,1997,0.566
 Colombia,COL,1997,0.67
+Comoros,COM,1997,
 Congo,COG,1997,0.516
-Congo (Democratic Republic of the),COD,1997,0.388
 Costa Rica,CRI,1997,0.712
 Croatia,HRV,1997,0.734
 Cuba,CUB,1997,0.679
 Cyprus,CYP,1997,0.788
 Czechia,CZE,1997,0.797
-CÙte d'Ivoire,CIV,1997,0.409
+Côte d'Ivoire,CIV,1997,0.409
+Democratic Republic of the Congo,COD,1997,0.388
 Denmark,DNK,1997,0.876
 Djibouti,DJI,1997,0.324
+Dominica,DMA,1997,
 Dominican Republic,DOM,1997,0.639
 Ecuador,ECU,1997,0.682
 Egypt,EGY,1997,0.623
 El Salvador,SLV,1997,0.586
+Equatorial Guinea,GNQ,1997,
+Eritrea,ERI,1997,
 Estonia,EST,1997,0.759
-Eswatini (Kingdom of),SWZ,1997,0.523
+Eswatini,SWZ,1997,0.523
+Ethiopia,ETH,1997,
 Fiji,FJI,1997,0.658
 Finland,FIN,1997,0.871
 France,FRA,1997,0.847
 Gabon,GAB,1997,0.648
 Gambia,GMB,1997,0.381
+Georgia,GEO,1997,
 Germany,DEU,1997,0.881
 Ghana,GHA,1997,0.469
 Greece,GRC,1997,0.803
+Grenada,GRD,1997,
 Guatemala,GTM,1997,0.539
 Guinea,GIN,1997,0.332
+Guinea-Bissau,GNB,1997,
 Guyana,GUY,1997,0.552
 Haiti,HTI,1997,0.484
 Honduras,HND,1997,0.547
@@ -61,7 +77,7 @@ Hungary,HUN,1997,0.758
 Iceland,ISL,1997,0.881
 India,IND,1997,0.482
 Indonesia,IDN,1997,0.595
-Iran (Islamic Republic of),IRN,1997,0.687
+Iran,IRN,1997,0.687
 Iraq,IRQ,1997,0.565
 Ireland,IRL,1997,0.823
 Israel,ISR,1997,0.824
@@ -71,36 +87,51 @@ Japan,JPN,1997,0.883
 Jordan,JOR,1997,0.661
 Kazakhstan,KAZ,1997,0.673
 Kenya,KEN,1997,0.493
-Korea (Republic of),KOR,1997,0.812
+Kiribati,KIR,1997,
 Kuwait,KWT,1997,0.765
 Kyrgyzstan,KGZ,1997,0.608
-Lao People's Democratic Republic,LAO,1997,0.455
+Laos,LAO,1997,0.455
 Latvia,LVA,1997,0.727
+Lebanon,LBN,1997,
 Lesotho,LSO,1997,0.469
+Liberia,LBR,1997,
 Libya,LBY,1997,0.721
+Liechtenstein,LIE,1997,
 Lithuania,LTU,1997,0.739
 Luxembourg,LUX,1997,0.837
+Madagascar,MDG,1997,
 Malawi,MWI,1997,0.379
 Malaysia,MYS,1997,0.713
+Maldives,MDV,1997,
 Mali,MLI,1997,0.293
 Malta,MLT,1997,0.772
+Marshall Islands,MHL,1997,
 Mauritania,MRT,1997,0.45
 Mauritius,MUS,1997,0.659
 Mexico,MEX,1997,0.694
+Micronesia,FSM,1997,
+Moldova,MDA,1997,
+Monaco,MCO,1997,
 Mongolia,MNG,1997,0.585
+Montenegro,MNE,1997,
 Morocco,MAR,1997,0.5
 Mozambique,MOZ,1997,0.281
 Myanmar,MMR,1997,0.396
 Namibia,NAM,1997,0.58
+Nauru,NRU,1997,
 Nepal,NPL,1997,0.453
 Netherlands,NLD,1997,0.891
 New Zealand,NZL,1997,0.871
 Nicaragua,NIC,1997,0.568
 Niger,NER,1997,0.25
 Nigeria,NGA,1997,0.413
+North Korea,PRK,1997,
 North Macedonia,MKD,1997,0.661
 Norway,NOR,1997,0.9
+Oman,OMN,1997,
 Pakistan,PAK,1997,0.422
+Palau,PLW,1997,
+Palestine,PSE,1997,
 Panama,PAN,1997,0.701
 Papua New Guinea,PNG,1997,0.449
 Paraguay,PRY,1997,0.653
@@ -110,40 +141,56 @@ Poland,POL,1997,0.775
 Portugal,PRT,1997,0.789
 Qatar,QAT,1997,0.794
 Romania,ROU,1997,0.709
-Russian Federation,RUS,1997,0.734
+Russia,RUS,1997,0.734
 Rwanda,RWA,1997,0.295
+Saint Kitts and Nevis,KNA,1997,
 Saint Lucia,LCA,1997,0.701
+Saint Vincent and the Grenadines,VCT,1997,
 Samoa,WSM,1997,0.665
+San Marino,SMR,1997,
+Sao Tome and Principe,STP,1997,
 Saudi Arabia,SAU,1997,0.718
 Senegal,SEN,1997,0.386
 Serbia,SRB,1997,0.698
+Seychelles,SYC,1997,
 Sierra Leone,SLE,1997,0.307
 Singapore,SGP,1997,0.866
 Slovakia,SVK,1997,0.747
 Slovenia,SVN,1997,0.789
+Solomon Islands,SLB,1997,
+Somalia,SOM,1997,
 South Africa,ZAF,1997,0.642
+South Korea,KOR,1997,0.812
+South Sudan,SSD,1997,
 Spain,ESP,1997,0.816
 Sri Lanka,LKA,1997,0.679
+Sudan,SDN,1997,
+Suriname,SUR,1997,
 Sweden,SWE,1997,0.888
 Switzerland,CHE,1997,0.88
-Syrian Arab Republic,SYR,1997,0.593
+Syria,SYR,1997,0.593
 Tajikistan,TJK,1997,0.536
-Tanzania (United Republic of),TZA,1997,0.388
+Tanzania,TZA,1997,0.388
 Thailand,THA,1997,0.639
+Timor-Leste,TLS,1997,
 Togo,TGO,1997,0.441
 Tonga,TON,1997,0.68
 Trinidad and Tobago,TTO,1997,0.692
 Tunisia,TUN,1997,0.623
+Turkmenistan,TKM,1997,
 Tuvalu,TUV,1997,0.595
-T¸rkiye,TUR,1997,0.638
+Türkiye,TUR,1997,0.638
 Uganda,UGA,1997,0.376
 Ukraine,UKR,1997,0.706
 United Arab Emirates,ARE,1997,0.761
 United Kingdom,GBR,1997,0.849
 United States,USA,1997,0.893
 Uruguay,URY,1997,0.747
-Venezuela (Bolivarian Republic of),VEN,1997,0.698
-Viet Nam,VNM,1997,0.578
+Uzbekistan,UZB,1997,
+Vanuatu,VUT,1997,
+Vatican City,VAT,1997,
+Venezuela,VEN,1997,0.698
+Vietnam,VNM,1997,0.578
 Yemen,YEM,1997,0.413
 Zambia,ZMB,1997,0.418
 Zimbabwe,ZWE,1997,0.472

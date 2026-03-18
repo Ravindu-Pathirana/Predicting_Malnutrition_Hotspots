@@ -2,54 +2,74 @@ Country,Country Code,Year,Value
 Afghanistan,AFG,1994,0.305
 Albania,ALB,1994,0.629
 Algeria,DZA,1994,0.603
+Andorra,AND,1994,
+Angola,AGO,1994,
+Antigua and Barbuda,ATG,1994,
 Argentina,ARG,1994,0.753
 Armenia,ARM,1994,0.625
 Australia,AUS,1994,0.873
 Austria,AUT,1994,0.851
+Azerbaijan,AZE,1994,
 Bahamas,BHS,1994,0.765
 Bahrain,BHR,1994,0.732
 Bangladesh,BGD,1994,0.426
 Barbados,BRB,1994,0.74
+Belarus,BLR,1994,
 Belgium,BEL,1994,0.868
 Belize,BLZ,1994,0.643
 Benin,BEN,1994,0.375
-Bolivia (Plurinational State of),BOL,1994,0.586
+Bhutan,BTN,1994,
+Bolivia,BOL,1994,0.586
+Bosnia and Herzegovina,BIH,1994,
 Botswana,BWA,1994,0.58
 Brazil,BRA,1994,0.659
-Brunei Darussalam,BRN,1994,0.782
+Brunei,BRN,1994,0.782
 Bulgaria,BGR,1994,0.713
+Burkina Faso,BFA,1994,
 Burundi,BDI,1994,0.298
+Cabo Verde,CPV,1994,
 Cambodia,KHM,1994,0.4
 Cameroon,CMR,1994,0.434
 Canada,CAN,1994,0.877
 Central African Republic,CAF,1994,0.323
+Chad,TCD,1994,
 Chile,CHL,1994,0.73
 China,CHN,1994,0.532
 Colombia,COL,1994,0.65
+Comoros,COM,1994,
 Congo,COG,1994,0.561
-Congo (Democratic Republic of the),COD,1994,0.382
 Costa Rica,CRI,1994,0.701
+Croatia,HRV,1994,
 Cuba,CUB,1994,0.662
 Cyprus,CYP,1994,0.771
 Czechia,CZE,1994,0.771
-CÙte d'Ivoire,CIV,1994,0.396
+Côte d'Ivoire,CIV,1994,0.396
+Democratic Republic of the Congo,COD,1994,0.382
 Denmark,DNK,1994,0.859
+Djibouti,DJI,1994,
+Dominica,DMA,1994,
 Dominican Republic,DOM,1994,0.617
 Ecuador,ECU,1994,0.667
 Egypt,EGY,1994,0.601
 El Salvador,SLV,1994,0.558
+Equatorial Guinea,GNQ,1994,
+Eritrea,ERI,1994,
 Estonia,EST,1994,0.711
-Eswatini (Kingdom of),SWZ,1994,0.543
+Eswatini,SWZ,1994,0.543
+Ethiopia,ETH,1994,
 Fiji,FJI,1994,0.648
 Finland,FIN,1994,0.85
 France,FRA,1994,0.832
 Gabon,GAB,1994,0.636
 Gambia,GMB,1994,0.362
+Georgia,GEO,1994,
 Germany,DEU,1994,0.865
 Ghana,GHA,1994,0.453
 Greece,GRC,1994,0.79
+Grenada,GRD,1994,
 Guatemala,GTM,1994,0.515
 Guinea,GIN,1994,0.307
+Guinea-Bissau,GNB,1994,
 Guyana,GUY,1994,0.531
 Haiti,HTI,1994,0.463
 Honduras,HND,1994,0.532
@@ -57,7 +77,7 @@ Hungary,HUN,1994,0.739
 Iceland,ISL,1994,0.868
 India,IND,1994,0.463
 Indonesia,IDN,1994,0.565
-Iran (Islamic Republic of),IRN,1994,0.664
+Iran,IRN,1994,0.664
 Iraq,IRQ,1994,0.547
 Ireland,IRL,1994,0.805
 Israel,ISR,1994,0.806
@@ -67,36 +87,51 @@ Japan,JPN,1994,0.872
 Jordan,JOR,1994,0.647
 Kazakhstan,KAZ,1994,0.666
 Kenya,KEN,1994,0.484
-Korea (Republic of),KOR,1994,0.779
+Kiribati,KIR,1994,
 Kuwait,KWT,1994,0.734
 Kyrgyzstan,KGZ,1994,0.595
-Lao People's Democratic Republic,LAO,1994,0.434
+Laos,LAO,1994,0.434
 Latvia,LVA,1994,0.686
+Lebanon,LBN,1994,
 Lesotho,LSO,1994,0.478
+Liberia,LBR,1994,
 Libya,LBY,1994,0.71
+Liechtenstein,LIE,1994,
 Lithuania,LTU,1994,0.699
 Luxembourg,LUX,1994,0.82
+Madagascar,MDG,1994,
 Malawi,MWI,1994,0.325
 Malaysia,MYS,1994,0.684
+Maldives,MDV,1994,
 Mali,MLI,1994,0.266
 Malta,MLT,1994,0.758
+Marshall Islands,MHL,1994,
 Mauritania,MRT,1994,0.432
 Mauritius,MUS,1994,0.645
 Mexico,MEX,1994,0.68
+Micronesia,FSM,1994,
+Moldova,MDA,1994,
+Monaco,MCO,1994,
 Mongolia,MNG,1994,0.568
+Montenegro,MNE,1994,
 Morocco,MAR,1994,0.48
 Mozambique,MOZ,1994,0.255
 Myanmar,MMR,1994,0.381
 Namibia,NAM,1994,0.6
+Nauru,NRU,1994,
 Nepal,NPL,1994,0.433
 Netherlands,NLD,1994,0.889
 New Zealand,NZL,1994,0.852
 Nicaragua,NIC,1994,0.54
 Niger,NER,1994,0.233
 Nigeria,NGA,1994,0.397
+North Korea,PRK,1994,
 North Macedonia,MKD,1994,0.648
 Norway,NOR,1994,0.89
+Oman,OMN,1994,
 Pakistan,PAK,1994,0.412
+Palau,PLW,1994,
+Palestine,PSE,1994,
 Panama,PAN,1994,0.688
 Papua New Guinea,PNG,1994,0.439
 Paraguay,PRY,1994,0.631
@@ -106,37 +141,56 @@ Poland,POL,1994,0.747
 Portugal,PRT,1994,0.765
 Qatar,QAT,1994,0.784
 Romania,ROU,1994,0.695
-Russian Federation,RUS,1994,0.712
+Russia,RUS,1994,0.712
+Rwanda,RWA,1994,
+Saint Kitts and Nevis,KNA,1994,
 Saint Lucia,LCA,1994,0.696
+Saint Vincent and the Grenadines,VCT,1994,
+Samoa,WSM,1994,
+San Marino,SMR,1994,
+Sao Tome and Principe,STP,1994,
 Saudi Arabia,SAU,1994,0.699
 Senegal,SEN,1994,0.382
+Serbia,SRB,1994,
+Seychelles,SYC,1994,
 Sierra Leone,SLE,1994,0.312
 Singapore,SGP,1994,0.848
 Slovakia,SVK,1994,0.72
 Slovenia,SVN,1994,0.756
+Solomon Islands,SLB,1994,
+Somalia,SOM,1994,
 South Africa,ZAF,1994,0.654
+South Korea,KOR,1994,0.779
+South Sudan,SSD,1994,
 Spain,ESP,1994,0.798
 Sri Lanka,LKA,1994,0.664
+Sudan,SDN,1994,
+Suriname,SUR,1994,
 Sweden,SWE,1994,0.862
 Switzerland,CHE,1994,0.87
-Syrian Arab Republic,SYR,1994,0.587
+Syria,SYR,1994,0.587
 Tajikistan,TJK,1994,0.538
-Tanzania (United Republic of),TZA,1994,0.38
+Tanzania,TZA,1994,0.38
 Thailand,THA,1994,0.62
+Timor-Leste,TLS,1994,
 Togo,TGO,1994,0.413
 Tonga,TON,1994,0.67
 Trinidad and Tobago,TTO,1994,0.672
 Tunisia,TUN,1994,0.598
+Turkmenistan,TKM,1994,
 Tuvalu,TUV,1994,0.586
-T¸rkiye,TUR,1994,0.616
+Türkiye,TUR,1994,0.616
 Uganda,UGA,1994,0.35
 Ukraine,UKR,1994,0.706
 United Arab Emirates,ARE,1994,0.742
 United Kingdom,GBR,1994,0.836
 United States,USA,1994,0.887
 Uruguay,URY,1994,0.727
-Venezuela (Bolivarian Republic of),VEN,1994,0.681
-Viet Nam,VNM,1994,0.543
+Uzbekistan,UZB,1994,
+Vanuatu,VUT,1994,
+Vatican City,VAT,1994,
+Venezuela,VEN,1994,0.681
+Vietnam,VNM,1994,0.543
 Yemen,YEM,1994,0.382
 Zambia,ZMB,1994,0.413
 Zimbabwe,ZWE,1994,0.482

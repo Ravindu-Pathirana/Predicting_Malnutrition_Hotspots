@@ -2,54 +2,74 @@ Country,Country Code,Year,Value
 Afghanistan,AFG,1991,0.291
 Albania,ALB,1991,0.638
 Algeria,DZA,1991,0.596
+Andorra,AND,1991,
+Angola,AGO,1991,
+Antigua and Barbuda,ATG,1991,
 Argentina,ARG,1991,0.739
 Armenia,ARM,1991,0.652
 Australia,AUS,1991,0.868
 Austria,AUT,1991,0.835
+Azerbaijan,AZE,1991,
 Bahamas,BHS,1991,0.762
 Bahrain,BHR,1991,0.728
 Bangladesh,BGD,1991,0.395
 Barbados,BRB,1991,0.732
+Belarus,BLR,1991,
 Belgium,BEL,1991,0.829
 Belize,BLZ,1991,0.626
 Benin,BEN,1991,0.358
-Bolivia (Plurinational State of),BOL,1991,0.561
+Bhutan,BTN,1991,
+Bolivia,BOL,1991,0.561
+Bosnia and Herzegovina,BIH,1991,
 Botswana,BWA,1991,0.59
 Brazil,BRA,1991,0.645
-Brunei Darussalam,BRN,1991,0.782
+Brunei,BRN,1991,0.782
 Bulgaria,BGR,1991,0.706
+Burkina Faso,BFA,1991,
 Burundi,BDI,1991,0.296
+Cabo Verde,CPV,1991,
 Cambodia,KHM,1991,0.392
 Cameroon,CMR,1991,0.445
 Canada,CAN,1991,0.868
 Central African Republic,CAF,1991,0.336
+Chad,TCD,1991,
 Chile,CHL,1991,0.723
 China,CHN,1991,0.499
 Colombia,COL,1991,0.63
+Comoros,COM,1991,
 Congo,COG,1991,0.571
-Congo (Democratic Republic of the),COD,1991,0.389
 Costa Rica,CRI,1991,0.682
+Croatia,HRV,1991,
 Cuba,CUB,1991,0.681
 Cyprus,CYP,1991,0.754
 Czechia,CZE,1991,0.751
-CÙte d'Ivoire,CIV,1991,0.39
+Côte d'Ivoire,CIV,1991,0.39
+Democratic Republic of the Congo,COD,1991,0.389
 Denmark,DNK,1991,0.848
+Djibouti,DJI,1991,
+Dominica,DMA,1991,
 Dominican Republic,DOM,1991,0.594
 Ecuador,ECU,1991,0.649
 Egypt,EGY,1991,0.578
 El Salvador,SLV,1991,0.529
+Equatorial Guinea,GNQ,1991,
+Eritrea,ERI,1991,
 Estonia,EST,1991,0.734
-Eswatini (Kingdom of),SWZ,1991,0.565
+Eswatini,SWZ,1991,0.565
+Ethiopia,ETH,1991,
 Fiji,FJI,1991,0.633
 Finland,FIN,1991,0.827
 France,FRA,1991,0.807
 Gabon,GAB,1991,0.627
 Gambia,GMB,1991,0.339
+Georgia,GEO,1991,
 Germany,DEU,1991,0.841
 Ghana,GHA,1991,0.438
 Greece,GRC,1991,0.78
+Grenada,GRD,1991,
 Guatemala,GTM,1991,0.503
 Guinea,GIN,1991,0.287
+Guinea-Bissau,GNB,1991,
 Guyana,GUY,1991,0.491
 Haiti,HTI,1991,0.464
 Honduras,HND,1991,0.519
@@ -57,7 +77,7 @@ Hungary,HUN,1991,0.724
 Iceland,ISL,1991,0.853
 India,IND,1991,0.448
 Indonesia,IDN,1991,0.538
-Iran (Islamic Republic of),IRN,1991,0.645
+Iran,IRN,1991,0.645
 Iraq,IRQ,1991,0.504
 Ireland,IRL,1991,0.78
 Israel,ISR,1991,0.791
@@ -67,36 +87,51 @@ Japan,JPN,1991,0.857
 Jordan,JOR,1991,0.625
 Kazakhstan,KAZ,1991,0.683
 Kenya,KEN,1991,0.485
-Korea (Republic of),KOR,1991,0.749
+Kiribati,KIR,1991,
 Kuwait,KWT,1991,0.685
 Kyrgyzstan,KGZ,1991,0.643
-Lao People's Democratic Republic,LAO,1991,0.415
+Laos,LAO,1991,0.415
 Latvia,LVA,1991,0.733
+Lebanon,LBN,1991,
 Lesotho,LSO,1991,0.482
+Liberia,LBR,1991,
 Libya,LBY,1991,0.7
+Liechtenstein,LIE,1991,
 Lithuania,LTU,1991,0.738
 Luxembourg,LUX,1991,0.796
+Madagascar,MDG,1991,
 Malawi,MWI,1991,0.31
 Malaysia,MYS,1991,0.661
+Maldives,MDV,1991,
 Mali,MLI,1991,0.247
 Malta,MLT,1991,0.742
+Marshall Islands,MHL,1991,
 Mauritania,MRT,1991,0.401
 Mauritius,MUS,1991,0.632
 Mexico,MEX,1991,0.67
+Micronesia,FSM,1991,
+Moldova,MDA,1991,
+Monaco,MCO,1991,
 Mongolia,MNG,1991,0.591
+Montenegro,MNE,1991,
 Morocco,MAR,1991,0.457
 Mozambique,MOZ,1991,0.25
 Myanmar,MMR,1991,0.354
 Namibia,NAM,1991,0.602
+Nauru,NRU,1991,
 Nepal,NPL,1991,0.412
 Netherlands,NLD,1991,0.86
 New Zealand,NZL,1991,0.813
 Nicaragua,NIC,1991,0.526
 Niger,NER,1991,0.219
 Nigeria,NGA,1991,0.383
+North Korea,PRK,1991,
 North Macedonia,MKD,1991,0.647
 Norway,NOR,1991,0.863
+Oman,OMN,1991,
 Pakistan,PAK,1991,0.4
+Palau,PLW,1991,
+Palestine,PSE,1991,
 Panama,PAN,1991,0.674
 Papua New Guinea,PNG,1991,0.411
 Paraguay,PRY,1991,0.613
@@ -106,36 +141,56 @@ Poland,POL,1991,0.72
 Portugal,PRT,1991,0.718
 Qatar,QAT,1991,0.768
 Romania,ROU,1991,0.705
-Russian Federation,RUS,1991,0.758
+Russia,RUS,1991,0.758
+Rwanda,RWA,1991,
+Saint Kitts and Nevis,KNA,1991,
 Saint Lucia,LCA,1991,0.685
+Saint Vincent and the Grenadines,VCT,1991,
+Samoa,WSM,1991,
+San Marino,SMR,1991,
+Sao Tome and Principe,STP,1991,
 Saudi Arabia,SAU,1991,0.681
 Senegal,SEN,1991,0.379
+Serbia,SRB,1991,
+Seychelles,SYC,1991,
 Sierra Leone,SLE,1991,0.303
 Singapore,SGP,1991,0.826
 Slovakia,SVK,1991,0.697
 Slovenia,SVN,1991,0.736
+Solomon Islands,SLB,1991,
+Somalia,SOM,1991,
 South Africa,ZAF,1991,0.641
+South Korea,KOR,1991,0.749
+South Sudan,SSD,1991,
 Spain,ESP,1991,0.774
 Sri Lanka,LKA,1991,0.642
+Sudan,SDN,1991,
+Suriname,SUR,1991,
 Sweden,SWE,1991,0.821
 Switzerland,CHE,1991,0.86
-Syrian Arab Republic,SYR,1991,0.577
-Tanzania (United Republic of),TZA,1991,0.382
+Syria,SYR,1991,0.577
+Tajikistan,TJK,1991,
+Tanzania,TZA,1991,0.382
 Thailand,THA,1991,0.593
+Timor-Leste,TLS,1991,
 Togo,TGO,1991,0.415
 Tonga,TON,1991,0.649
 Trinidad and Tobago,TTO,1991,0.665
 Tunisia,TUN,1991,0.575
+Turkmenistan,TKM,1991,
 Tuvalu,TUV,1991,0.57
-T¸rkiye,TUR,1991,0.602
+Türkiye,TUR,1991,0.602
 Uganda,UGA,1991,0.345
 Ukraine,UKR,1991,0.743
 United Arab Emirates,ARE,1991,0.724
 United Kingdom,GBR,1991,0.816
 United States,USA,1991,0.878
 Uruguay,URY,1991,0.717
-Venezuela (Bolivarian Republic of),VEN,1991,0.669
-Viet Nam,VNM,1991,0.509
+Uzbekistan,UZB,1991,
+Vanuatu,VUT,1991,
+Vatican City,VAT,1991,
+Venezuela,VEN,1991,0.669
+Vietnam,VNM,1991,0.509
 Yemen,YEM,1991,0.364
 Zambia,ZMB,1991,0.416
 Zimbabwe,ZWE,1991,0.502

@@ -2,7 +2,9 @@ Country,Country Code,Year,Value
 Afghanistan,AFG,1999,0.347
 Albania,ALB,1999,0.671
 Algeria,DZA,1999,0.643
+Andorra,AND,1999,
 Angola,AGO,1999,0.379
+Antigua and Barbuda,ATG,1999,
 Argentina,ARG,1999,0.783
 Armenia,ARM,1999,0.661
 Australia,AUS,1999,0.893
@@ -16,45 +18,58 @@ Belarus,BLR,1999,0.716
 Belgium,BEL,1999,0.889
 Belize,BLZ,1999,0.664
 Benin,BEN,1999,0.407
-Bolivia (Plurinational State of),BOL,1999,0.624
+Bhutan,BTN,1999,
+Bolivia,BOL,1999,0.624
+Bosnia and Herzegovina,BIH,1999,
 Botswana,BWA,1999,0.592
 Brazil,BRA,1999,0.684
-Brunei Darussalam,BRN,1999,0.79
+Brunei,BRN,1999,0.79
 Bulgaria,BGR,1999,0.728
+Burkina Faso,BFA,1999,
 Burundi,BDI,1999,0.306
+Cabo Verde,CPV,1999,
 Cambodia,KHM,1999,0.429
 Cameroon,CMR,1999,0.434
 Canada,CAN,1999,0.888
 Central African Republic,CAF,1999,0.332
+Chad,TCD,1999,
 Chile,CHL,1999,0.766
 China,CHN,1999,0.587
 Colombia,COL,1999,0.673
+Comoros,COM,1999,
 Congo,COG,1999,0.544
-Congo (Democratic Republic of the),COD,1999,0.383
 Costa Rica,CRI,1999,0.717
 Croatia,HRV,1999,0.753
 Cuba,CUB,1999,0.69
 Cyprus,CYP,1999,0.802
 Czechia,CZE,1999,0.806
-CÙte d'Ivoire,CIV,1999,0.416
+Côte d'Ivoire,CIV,1999,0.416
+Democratic Republic of the Congo,COD,1999,0.383
 Denmark,DNK,1999,0.894
 Djibouti,DJI,1999,0.333
+Dominica,DMA,1999,
 Dominican Republic,DOM,1999,0.652
 Ecuador,ECU,1999,0.682
 Egypt,EGY,1999,0.634
 El Salvador,SLV,1999,0.598
+Equatorial Guinea,GNQ,1999,
+Eritrea,ERI,1999,
 Estonia,EST,1999,0.776
-Eswatini (Kingdom of),SWZ,1999,0.504
+Eswatini,SWZ,1999,0.504
+Ethiopia,ETH,1999,
 Fiji,FJI,1999,0.667
 Finland,FIN,1999,0.889
 France,FRA,1999,0.856
 Gabon,GAB,1999,0.653
 Gambia,GMB,1999,0.396
+Georgia,GEO,1999,
 Germany,DEU,1999,0.892
 Ghana,GHA,1999,0.48
 Greece,GRC,1999,0.816
+Grenada,GRD,1999,
 Guatemala,GTM,1999,0.556
 Guinea,GIN,1999,0.351
+Guinea-Bissau,GNB,1999,
 Guyana,GUY,1999,0.562
 Haiti,HTI,1999,0.493
 Honduras,HND,1999,0.552
@@ -62,7 +77,7 @@ Hungary,HUN,1999,0.771
 Iceland,ISL,1999,0.895
 India,IND,1999,0.496
 Indonesia,IDN,1999,0.595
-Iran (Islamic Republic of),IRN,1999,0.703
+Iran,IRN,1999,0.703
 Iraq,IRQ,1999,0.589
 Ireland,IRL,1999,0.858
 Israel,ISR,1999,0.839
@@ -72,38 +87,51 @@ Japan,JPN,1999,0.885
 Jordan,JOR,1999,0.668
 Kazakhstan,KAZ,1999,0.683
 Kenya,KEN,1999,0.499
-Korea (Republic of),KOR,1999,0.821
+Kiribati,KIR,1999,
 Kuwait,KWT,1999,0.773
 Kyrgyzstan,KGZ,1999,0.619
-Lao People's Democratic Republic,LAO,1999,0.469
+Laos,LAO,1999,0.469
 Latvia,LVA,1999,0.753
+Lebanon,LBN,1999,
 Lesotho,LSO,1999,0.462
 Liberia,LBR,1999,0.403
 Libya,LBY,1999,0.724
+Liechtenstein,LIE,1999,
 Lithuania,LTU,1999,0.762
 Luxembourg,LUX,1999,0.858
 Madagascar,MDG,1999,0.436
 Malawi,MWI,1999,0.392
 Malaysia,MYS,1999,0.723
+Maldives,MDV,1999,
 Mali,MLI,1999,0.314
 Malta,MLT,1999,0.784
+Marshall Islands,MHL,1999,
 Mauritania,MRT,1999,0.467
 Mauritius,MUS,1999,0.675
 Mexico,MEX,1999,0.706
+Micronesia,FSM,1999,
+Moldova,MDA,1999,
+Monaco,MCO,1999,
 Mongolia,MNG,1999,0.602
+Montenegro,MNE,1999,
 Morocco,MAR,1999,0.517
 Mozambique,MOZ,1999,0.304
 Myanmar,MMR,1999,0.406
 Namibia,NAM,1999,0.565
+Nauru,NRU,1999,
 Nepal,NPL,1999,0.464
 Netherlands,NLD,1999,0.894
 New Zealand,NZL,1999,0.886
 Nicaragua,NIC,1999,0.585
 Niger,NER,1999,0.263
 Nigeria,NGA,1999,0.425
+North Korea,PRK,1999,
 North Macedonia,MKD,1999,0.675
 Norway,NOR,1999,0.913
+Oman,OMN,1999,
 Pakistan,PAK,1999,0.431
+Palau,PLW,1999,
+Palestine,PSE,1999,
 Panama,PAN,1999,0.712
 Papua New Guinea,PNG,1999,0.454
 Paraguay,PRY,1999,0.664
@@ -113,41 +141,56 @@ Poland,POL,1999,0.793
 Portugal,PRT,1999,0.793
 Qatar,QAT,1999,0.796
 Romania,ROU,1999,0.724
-Russian Federation,RUS,1999,0.74
+Russia,RUS,1999,0.74
 Rwanda,RWA,1999,0.317
+Saint Kitts and Nevis,KNA,1999,
 Saint Lucia,LCA,1999,0.708
+Saint Vincent and the Grenadines,VCT,1999,
 Samoa,WSM,1999,0.672
+San Marino,SMR,1999,
+Sao Tome and Principe,STP,1999,
 Saudi Arabia,SAU,1999,0.729
 Senegal,SEN,1999,0.392
 Serbia,SRB,1999,0.685
+Seychelles,SYC,1999,
 Sierra Leone,SLE,1999,0.301
 Singapore,SGP,1999,0.875
 Slovakia,SVK,1999,0.765
 Slovenia,SVN,1999,0.82
 Solomon Islands,SLB,1999,0.554
+Somalia,SOM,1999,
 South Africa,ZAF,1999,0.626
+South Korea,KOR,1999,0.821
+South Sudan,SSD,1999,
 Spain,ESP,1999,0.825
 Sri Lanka,LKA,1999,0.692
+Sudan,SDN,1999,
+Suriname,SUR,1999,
 Sweden,SWE,1999,0.906
 Switzerland,CHE,1999,0.889
-Syrian Arab Republic,SYR,1999,0.595
+Syria,SYR,1999,0.595
 Tajikistan,TJK,1999,0.546
-Tanzania (United Republic of),TZA,1999,0.404
+Tanzania,TZA,1999,0.404
 Thailand,THA,1999,0.65
+Timor-Leste,TLS,1999,
 Togo,TGO,1999,0.446
 Tonga,TON,1999,0.688
 Trinidad and Tobago,TTO,1999,0.708
 Tunisia,TUN,1999,0.646
+Turkmenistan,TKM,1999,
 Tuvalu,TUV,1999,0.608
-T¸rkiye,TUR,1999,0.652
+Türkiye,TUR,1999,0.652
 Uganda,UGA,1999,0.398
 Ukraine,UKR,1999,0.714
 United Arab Emirates,ARE,1999,0.78
 United Kingdom,GBR,1999,0.862
 United States,USA,1999,0.895
 Uruguay,URY,1999,0.76
-Venezuela (Bolivarian Republic of),VEN,1999,0.698
-Viet Nam,VNM,1999,0.596
+Uzbekistan,UZB,1999,
+Vanuatu,VUT,1999,
+Vatican City,VAT,1999,
+Venezuela,VEN,1999,0.698
+Vietnam,VNM,1999,0.596
 Yemen,YEM,1999,0.429
 Zambia,ZMB,1999,0.423
 Zimbabwe,ZWE,1999,0.462
