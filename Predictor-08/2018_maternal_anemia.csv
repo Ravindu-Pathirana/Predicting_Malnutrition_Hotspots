@@ -1,0 +1,170 @@
+Country Name,Country Code,Year,Prevalance of Anemia %
+Afghanistan,AFG,2018,32.2
+Albania,ALB,2018,24.5
+Algeria,DZA,2018,33.6
+Andorra,AND,2018,16.6
+Angola,AGO,2018,45.6
+Antigua and Barbuda,ATG,2018,24.5
+Argentina,ARG,2018,25.6
+Armenia,ARM,2018,21.9
+Australia,AUS,2018,14.5
+Austria,AUT,2018,16.7
+Azerbaijan,AZE,2018,33.6
+Bahrain,BHR,2018,29.7
+Bangladesh,BGD,2018,39.9
+Barbados,BRB,2018,24.7
+Belarus,BLR,2018,24.2
+Belgium,BEL,2018,13.7
+Belize,BLZ,2018,25.9
+Benin,BEN,2018,60.0
+Bhutan,BTN,2018,33.5
+Bolivia,BOL,2018,26.8
+Bosnia and Herzegovina,BIH,2018,26.1
+Botswana,BWA,2018,30.7
+Brazil,BRA,2018,22.0
+Bulgaria,BGR,2018,25.4
+Burkina Faso,BFA,2018,50.1
+Burundi,BDI,2018,41.1
+Cabo Verde,CPV,2018,43.9
+Cambodia,KHM,2018,43.7
+Cameroon,CMR,2018,41.1
+Canada,CAN,2018,15.3
+Central African Republic,CAF,2018,48.0
+Chad,TCD,2018,51.6
+Chile,CHL,2018,21.6
+China,CHN,2018,15.8
+Colombia,COL,2018,25.9
+Comoros,COM,2018,35.0
+Costa Rica,CRI,2018,22.2
+Croatia,HRV,2018,24.6
+Cuba,CUB,2018,25.8
+Cyprus,CYP,2018,17.1
+Czechia,CZE,2018,24.7
+Denmark,DNK,2018,16.9
+Djibouti,DJI,2018,36.4
+Dominica,DMA,2018,26.5
+Dominican Republic,DOM,2018,26.5
+Ecuador,ECU,2018,28.6
+El Salvador,SLV,2018,22.2
+Equatorial Guinea,GNQ,2018,42.9
+Eritrea,ERI,2018,40.3
+Estonia,EST,2018,24.7
+Eswatini,SWZ,2018,28.8
+Ethiopia,ETH,2018,25.1
+Fiji,FJI,2018,31.5
+Finland,FIN,2018,15.4
+France,FRA,2018,14.4
+Gabon,GAB,2018,54.2
+Georgia,GEO,2018,30.9
+Germany,DEU,2018,15.4
+Ghana,GHA,2018,46.0
+Greece,GRC,2018,16.9
+Grenada,GRD,2018,25.5
+Guatemala,GTM,2018,18.8
+Guinea,GIN,2018,51.5
+Guinea-Bissau,GNB,2018,50.9
+Guyana,GUY,2018,32.5
+Haiti,HTI,2018,45.8
+Honduras,HND,2018,23.2
+Hungary,HUN,2018,24.5
+Iceland,ISL,2018,15.5
+India,IND,2018,47.5
+Indonesia,IDN,2018,29.5
+Iraq,IRQ,2018,31.1
+Ireland,IRL,2018,15.5
+Israel,ISR,2018,16.0
+Italy,ITA,2018,17.1
+Jamaica,JAM,2018,25.6
+Japan,JPN,2018,25.3
+Jordan,JOR,2018,32.3
+Kazakhstan,KAZ,2018,31.3
+Kenya,KEN,2018,38.7
+Kiribati,KIR,2018,30.0
+Kuwait,KWT,2018,28.1
+Latvia,LVA,2018,22.3
+Lebanon,LBN,2018,31.5
+Lesotho,LSO,2018,32.6
+Liberia,LBR,2018,47.1
+Libya,LBY,2018,30.9
+Liechtenstein,LIE,2018,
+Lithuania,LTU,2018,24.3
+Luxembourg,LUX,2018,15.9
+Madagascar,MDG,2018,38.1
+Malawi,MWI,2018,37.2
+Malaysia,MYS,2018,30.5
+Maldives,MDV,2018,44.0
+Mali,MLI,2018,60.5
+Malta,MLT,2018,16.7
+Marshall Islands,MHL,2018,26.8
+Mauritania,MRT,2018,53.1
+Mauritius,MUS,2018,31.2
+Mexico,MEX,2018,24.1
+Moldova,MDA,2018,27.1
+Monaco,MCO,2018,16.3
+Mongolia,MNG,2018,27.9
+Montenegro,MNE,2018,28.4
+Morocco,MAR,2018,32.0
+Mozambique,MOZ,2018,52.6
+Myanmar,MMR,2018,42.4
+Namibia,NAM,2018,26.8
+Nauru,NRU,2018,24.5
+Nepal,NPL,2018,37.0
+Netherlands,NLD,2018,16.9
+New Zealand,NZL,2018,13.3
+Nicaragua,NIC,2018,
+Niger,NER,2018,55.1
+Nigeria,NGA,2018,47.0
+North Macedonia,MKD,2018,24.3
+Norway,NOR,2018,16.7
+Oman,OMN,2018,35.2
+Pakistan,PAK,2018,42.5
+Palau,PLW,2018,25.9
+Panama,PAN,2018,26.5
+Papua New Guinea,PNG,2018,30.7
+Paraguay,PRY,2018,26.9
+Peru,PER,2018,27.4
+Philippines,PHL,2018,28.4
+Poland,POL,2018,24.3
+Portugal,PRT,2018,16.6
+Qatar,QAT,2018,25.6
+Romania,ROU,2018,25.1
+Rwanda,RWA,2018,22.8
+Samoa,WSM,2018,25.2
+San Marino,SMR,2018,16.4
+Sao Tome and Principe,STP,2018,42.6
+Saudi Arabia,SAU,2018,20.8
+Senegal,SEN,2018,53.5
+Serbia,SRB,2018,25.0
+Seychelles,SYC,2018,26.9
+Sierra Leone,SLE,2018,52.1
+Singapore,SGP,2018,17.2
+Slovenia,SVN,2018,24.9
+Solomon Islands,SLB,2018,34.9
+South Africa,ZAF,2018,28.7
+South Sudan,SSD,2018,40.5
+Spain,ESP,2018,16.6
+Sri Lanka,LKA,2018,25.8
+Sudan,SDN,2018,36.2
+Suriname,SUR,2018,26.2
+Sweden,SWE,2018,16.9
+Switzerland,CHE,2018,15.2
+Tajikistan,TJK,2018,38.1
+Tanzania,TZA,2018,48.0
+Thailand,THA,2018,26.5
+Timor-Leste,TLS,2018,31.3
+Togo,TGO,2018,53.0
+Tonga,TON,2018,22.8
+Trinidad and Tobago,TTO,2018,25.2
+Tunisia,TUN,2018,31.9
+Turkmenistan,TKM,2018,34.7
+Tuvalu,TUV,2018,25.4
+Uganda,UGA,2018,34.5
+Ukraine,UKR,2018,23.5
+United Arab Emirates,ARE,2018,28.7
+United Kingdom,GBR,2018,15.1
+United States,USA,2018,10.2
+Uruguay,URY,2018,25.2
+Uzbekistan,UZB,2018,34.5
+Vanuatu,VUT,2018,31.9
+Zambia,ZMB,2018,36.3
+Zimbabwe,ZWE,2018,29.6

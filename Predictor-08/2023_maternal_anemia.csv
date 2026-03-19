@@ -1,0 +1,170 @@
+Country Name,Country Code,Year,Prevalance of Anemia %
+Afghanistan,AFG,2023,31.6
+Albania,ALB,2023,25.5
+Algeria,DZA,2023,35.2
+Andorra,AND,2023,16.3
+Angola,AGO,2023,45.9
+Antigua and Barbuda,ATG,2023,25.2
+Argentina,ARG,2023,24.4
+Armenia,ARM,2023,22.3
+Australia,AUS,2023,13.9
+Austria,AUT,2023,16.7
+Azerbaijan,AZE,2023,34.1
+Bahrain,BHR,2023,30.1
+Bangladesh,BGD,2023,38.6
+Barbados,BRB,2023,25.4
+Belarus,BLR,2023,24.4
+Belgium,BEL,2023,13.9
+Belize,BLZ,2023,26.8
+Benin,BEN,2023,60.2
+Bhutan,BTN,2023,32.6
+Bolivia,BOL,2023,25.5
+Bosnia and Herzegovina,BIH,2023,26.0
+Botswana,BWA,2023,31.4
+Brazil,BRA,2023,23.1
+Bulgaria,BGR,2023,25.6
+Burkina Faso,BFA,2023,49.5
+Burundi,BDI,2023,44.7
+Cabo Verde,CPV,2023,43.9
+Cambodia,KHM,2023,41.0
+Cameroon,CMR,2023,41.0
+Canada,CAN,2023,15.1
+Central African Republic,CAF,2023,48.4
+Chad,TCD,2023,51.2
+Chile,CHL,2023,21.4
+China,CHN,2023,14.2
+Colombia,COL,2023,27.0
+Comoros,COM,2023,35.5
+Costa Rica,CRI,2023,23.3
+Croatia,HRV,2023,24.6
+Cuba,CUB,2023,26.7
+Cyprus,CYP,2023,17.0
+Czechia,CZE,2023,24.8
+Denmark,DNK,2023,16.9
+Djibouti,DJI,2023,37.2
+Dominica,DMA,2023,27.2
+Dominican Republic,DOM,2023,27.2
+Ecuador,ECU,2023,29.5
+El Salvador,SLV,2023,23.0
+Equatorial Guinea,GNQ,2023,42.9
+Eritrea,ERI,2023,41.5
+Estonia,EST,2023,24.8
+Eswatini,SWZ,2023,30.1
+Ethiopia,ETH,2023,26.2
+Fiji,FJI,2023,30.7
+Finland,FIN,2023,15.1
+France,FRA,2023,14.8
+Gabon,GAB,2023,54.8
+Georgia,GEO,2023,31.9
+Germany,DEU,2023,15.4
+Ghana,GHA,2023,45.3
+Greece,GRC,2023,16.6
+Grenada,GRD,2023,26.1
+Guatemala,GTM,2023,20.8
+Guinea,GIN,2023,50.2
+Guinea-Bissau,GNB,2023,51.1
+Guyana,GUY,2023,31.9
+Haiti,HTI,2023,45.5
+Honduras,HND,2023,24.8
+Hungary,HUN,2023,24.8
+Iceland,ISL,2023,15.1
+India,IND,2023,46.6
+Indonesia,IDN,2023,27.1
+Iraq,IRQ,2023,32.9
+Ireland,IRL,2023,14.7
+Israel,ISR,2023,15.6
+Italy,ITA,2023,17.1
+Jamaica,JAM,2023,26.6
+Japan,JPN,2023,22.5
+Jordan,JOR,2023,33.3
+Kazakhstan,KAZ,2023,32.3
+Kenya,KEN,2023,39.8
+Kiribati,KIR,2023,29.4
+Kuwait,KWT,2023,28.5
+Latvia,LVA,2023,21.9
+Lebanon,LBN,2023,33.6
+Lesotho,LSO,2023,35.8
+Liberia,LBR,2023,49.2
+Libya,LBY,2023,32.1
+Liechtenstein,LIE,2023,
+Lithuania,LTU,2023,24.4
+Luxembourg,LUX,2023,15.5
+Madagascar,MDG,2023,39.3
+Malawi,MWI,2023,38.6
+Malaysia,MYS,2023,28.8
+Maldives,MDV,2023,41.3
+Mali,MLI,2023,62.1
+Malta,MLT,2023,16.7
+Marshall Islands,MHL,2023,25.5
+Mauritania,MRT,2023,53.9
+Mauritius,MUS,2023,32.4
+Mexico,MEX,2023,25.7
+Moldova,MDA,2023,27.4
+Monaco,MCO,2023,15.9
+Mongolia,MNG,2023,27.9
+Montenegro,MNE,2023,29.5
+Morocco,MAR,2023,33.7
+Mozambique,MOZ,2023,54.6
+Myanmar,MMR,2023,43.4
+Namibia,NAM,2023,28.3
+Nauru,NRU,2023,24.3
+Nepal,NPL,2023,35.2
+Netherlands,NLD,2023,16.5
+New Zealand,NZL,2023,13.3
+Nicaragua,NIC,2023,
+Niger,NER,2023,55.9
+Nigeria,NGA,2023,45.0
+North Macedonia,MKD,2023,24.4
+Norway,NOR,2023,16.3
+Oman,OMN,2023,35.6
+Pakistan,PAK,2023,39.1
+Palau,PLW,2023,25.9
+Panama,PAN,2023,27.5
+Papua New Guinea,PNG,2023,30.9
+Paraguay,PRY,2023,27.8
+Peru,PER,2023,28.8
+Philippines,PHL,2023,24.0
+Poland,POL,2023,24.6
+Portugal,PRT,2023,16.3
+Qatar,QAT,2023,24.9
+Romania,ROU,2023,25.2
+Rwanda,RWA,2023,23.9
+Samoa,WSM,2023,25.1
+San Marino,SMR,2023,16.2
+Sao Tome and Principe,STP,2023,42.9
+Saudi Arabia,SAU,2023,20.8
+Senegal,SEN,2023,50.9
+Serbia,SRB,2023,25.1
+Seychelles,SYC,2023,27.2
+Sierra Leone,SLE,2023,53.7
+Singapore,SGP,2023,16.9
+Slovenia,SVN,2023,25.3
+Solomon Islands,SLB,2023,34.8
+South Africa,ZAF,2023,29.3
+South Sudan,SSD,2023,42.2
+Spain,ESP,2023,16.3
+Sri Lanka,LKA,2023,22.9
+Sudan,SDN,2023,38.0
+Suriname,SUR,2023,26.9
+Sweden,SWE,2023,16.8
+Switzerland,CHE,2023,15.1
+Tajikistan,TJK,2023,39.6
+Tanzania,TZA,2023,46.6
+Thailand,THA,2023,23.8
+Timor-Leste,TLS,2023,30.7
+Togo,TGO,2023,52.6
+Tonga,TON,2023,22.6
+Trinidad and Tobago,TTO,2023,26.3
+Tunisia,TUN,2023,33.1
+Turkmenistan,TKM,2023,35.9
+Tuvalu,TUV,2023,25.7
+Uganda,UGA,2023,35.0
+Ukraine,UKR,2023,24.1
+United Arab Emirates,ARE,2023,28.6
+United Kingdom,GBR,2023,14.3
+United States,USA,2023,10.2
+Uruguay,URY,2023,24.7
+Uzbekistan,UZB,2023,35.6
+Vanuatu,VUT,2023,32.3
+Zambia,ZMB,2023,36.7
+Zimbabwe,ZWE,2023,30.1

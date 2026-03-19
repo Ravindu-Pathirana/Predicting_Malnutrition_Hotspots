@@ -1,0 +1,170 @@
+Country Name,Country Code,Year,Prevalance of Anemia %
+Afghanistan,AFG,2013,33.4
+Albania,ALB,2013,23.0
+Algeria,DZA,2013,33.2
+Andorra,AND,2013,17.3
+Angola,AGO,2013,45.3
+Antigua and Barbuda,ATG,2013,23.8
+Argentina,ARG,2013,27.0
+Armenia,ARM,2013,22.8
+Australia,AUS,2013,15.5
+Austria,AUT,2013,17.3
+Azerbaijan,AZE,2013,33.7
+Bahrain,BHR,2013,29.8
+Bangladesh,BGD,2013,42.2
+Barbados,BRB,2013,24.0
+Belarus,BLR,2013,24.0
+Belgium,BEL,2013,14.1
+Belize,BLZ,2013,25.5
+Benin,BEN,2013,60.4
+Bhutan,BTN,2013,34.9
+Bolivia,BOL,2013,28.9
+Bosnia and Herzegovina,BIH,2013,26.5
+Botswana,BWA,2013,30.5
+Brazil,BRA,2013,21.3
+Bulgaria,BGR,2013,25.5
+Burkina Faso,BFA,2013,51.9
+Burundi,BDI,2013,37.8
+Cabo Verde,CPV,2013,44.9
+Cambodia,KHM,2013,46.6
+Cameroon,CMR,2013,42.3
+Canada,CAN,2013,15.9
+Central African Republic,CAF,2013,48.3
+Chad,TCD,2013,54.9
+Chile,CHL,2013,22.3
+China,CHN,2013,17.6
+Colombia,COL,2013,25.7
+Comoros,COM,2013,34.9
+Costa Rica,CRI,2013,21.5
+Croatia,HRV,2013,24.9
+Cuba,CUB,2013,25.6
+Cyprus,CYP,2013,17.7
+Czechia,CZE,2013,24.8
+Denmark,DNK,2013,17.6
+Djibouti,DJI,2013,35.7
+Dominica,DMA,2013,26.3
+Dominican Republic,DOM,2013,26.2
+Ecuador,ECU,2013,27.8
+El Salvador,SLV,2013,21.9
+Equatorial Guinea,GNQ,2013,43.8
+Eritrea,ERI,2013,39.8
+Estonia,EST,2013,24.7
+Eswatini,SWZ,2013,28.7
+Ethiopia,ETH,2013,25.0
+Fiji,FJI,2013,33.1
+Finland,FIN,2013,15.9
+France,FRA,2013,14.5
+Gabon,GAB,2013,54.7
+Georgia,GEO,2013,31.0
+Germany,DEU,2013,16.1
+Ghana,GHA,2013,48.1
+Greece,GRC,2013,17.5
+Grenada,GRD,2013,25.3
+Guatemala,GTM,2013,18.0
+Guinea,GIN,2013,54.2
+Guinea-Bissau,GNB,2013,51.3
+Guyana,GUY,2013,33.2
+Haiti,HTI,2013,46.9
+Honduras,HND,2013,22.0
+Hungary,HUN,2013,24.6
+Iceland,ISL,2013,16.4
+India,IND,2013,49.2
+Indonesia,IDN,2013,31.9
+Iraq,IRQ,2013,31.2
+Ireland,IRL,2013,16.6
+Israel,ISR,2013,17.0
+Italy,ITA,2013,17.5
+Jamaica,JAM,2013,25.1
+Japan,JPN,2013,28.0
+Jordan,JOR,2013,31.2
+Kazakhstan,KAZ,2013,31.0
+Kenya,KEN,2013,38.5
+Kiribati,KIR,2013,31.0
+Kuwait,KWT,2013,27.7
+Latvia,LVA,2013,22.6
+Lebanon,LBN,2013,30.5
+Lesotho,LSO,2013,30.8
+Liberia,LBR,2013,46.9
+Libya,LBY,2013,30.6
+Liechtenstein,LIE,2013,
+Lithuania,LTU,2013,24.3
+Luxembourg,LUX,2013,16.5
+Madagascar,MDG,2013,36.9
+Malawi,MWI,2013,36.7
+Malaysia,MYS,2013,31.7
+Maldives,MDV,2013,46.2
+Mali,MLI,2013,59.7
+Malta,MLT,2013,17.4
+Marshall Islands,MHL,2013,27.9
+Mauritania,MRT,2013,53.4
+Mauritius,MUS,2013,30.4
+Mexico,MEX,2013,22.6
+Moldova,MDA,2013,27.9
+Monaco,MCO,2013,17.0
+Mongolia,MNG,2013,28.1
+Montenegro,MNE,2013,27.6
+Morocco,MAR,2013,31.8
+Mozambique,MOZ,2013,51.1
+Myanmar,MMR,2013,44.5
+Namibia,NAM,2013,26.3
+Nauru,NRU,2013,25.3
+Nepal,NPL,2013,38.7
+Netherlands,NLD,2013,17.3
+New Zealand,NZL,2013,13.9
+Nicaragua,NIC,2013,
+Niger,NER,2013,54.3
+Nigeria,NGA,2013,49.1
+North Macedonia,MKD,2013,24.3
+Norway,NOR,2013,17.4
+Oman,OMN,2013,35.1
+Pakistan,PAK,2013,45.3
+Palau,PLW,2013,26.5
+Panama,PAN,2013,26.6
+Papua New Guinea,PNG,2013,31.2
+Paraguay,PRY,2013,26.5
+Peru,PER,2013,26.6
+Philippines,PHL,2013,32.1
+Poland,POL,2013,24.3
+Portugal,PRT,2013,17.4
+Qatar,QAT,2013,26.2
+Romania,ROU,2013,25.4
+Rwanda,RWA,2013,22.4
+Samoa,WSM,2013,25.6
+San Marino,SMR,2013,17.1
+Sao Tome and Principe,STP,2013,43.4
+Saudi Arabia,SAU,2013,21.6
+Senegal,SEN,2013,57.1
+Serbia,SRB,2013,25.0
+Seychelles,SYC,2013,27.4
+Sierra Leone,SLE,2013,51.4
+Singapore,SGP,2013,17.9
+Slovenia,SVN,2013,24.8
+Solomon Islands,SLB,2013,35.6
+South Africa,ZAF,2013,28.6
+South Sudan,SSD,2013,39.0
+Spain,ESP,2013,17.4
+Sri Lanka,LKA,2013,27.5
+Sudan,SDN,2013,35.8
+Suriname,SUR,2013,25.8
+Sweden,SWE,2013,17.5
+Switzerland,CHE,2013,15.5
+Tajikistan,TJK,2013,38.1
+Tanzania,TZA,2013,49.3
+Thailand,THA,2013,28.4
+Timor-Leste,TLS,2013,32.5
+Togo,TGO,2013,53.9
+Tonga,TON,2013,23.5
+Trinidad and Tobago,TTO,2013,24.4
+Tunisia,TUN,2013,31.7
+Turkmenistan,TKM,2013,34.1
+Tuvalu,TUV,2013,26.1
+Uganda,UGA,2013,34.6
+Ukraine,UKR,2013,23.2
+United Arab Emirates,ARE,2013,28.8
+United Kingdom,GBR,2013,16.3
+United States,USA,2013,10.7
+Uruguay,URY,2013,25.8
+Uzbekistan,UZB,2013,35.1
+Vanuatu,VUT,2013,32.0
+Zambia,ZMB,2013,37.0
+Zimbabwe,ZWE,2013,30.9
