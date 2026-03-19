@@ -10,6 +10,7 @@ Armenia,ARM,2014,22.5
 Australia,AUS,2014,15.3
 Austria,AUT,2014,17.2
 Azerbaijan,AZE,2014,33.6
+"Bahamas, The",BHS,2014,22.6
 Bahrain,BHR,2014,29.8
 Bangladesh,BGD,2014,41.7
 Barbados,BRB,2014,24.1
@@ -22,6 +23,7 @@ Bolivia,BOL,2014,28.4
 Bosnia and Herzegovina,BIH,2014,26.4
 Botswana,BWA,2014,30.5
 Brazil,BRA,2014,21.4
+Brunei Darussalam,BRN,2014,22.4
 Bulgaria,BGR,2014,25.4
 Burkina Faso,BFA,2014,51.7
 Burundi,BDI,2014,38.4
@@ -35,7 +37,10 @@ Chile,CHL,2014,22.1
 China,CHN,2014,17.2
 Colombia,COL,2014,25.6
 Comoros,COM,2014,34.8
+"Congo, Dem. Rep.",COD,2014,44.7
+"Congo, Rep.",COG,2014,49.9
 Costa Rica,CRI,2014,21.6
+Cote d'Ivoire,CIV,2014,55.2
 Croatia,HRV,2014,24.8
 Cuba,CUB,2014,25.6
 Cyprus,CYP,2014,17.6
@@ -45,6 +50,7 @@ Djibouti,DJI,2014,35.9
 Dominica,DMA,2014,26.3
 Dominican Republic,DOM,2014,26.2
 Ecuador,ECU,2014,27.9
+"Egypt, Arab Rep.",EGY,2014,30.8
 El Salvador,SLV,2014,21.9
 Equatorial Guinea,GNQ,2014,43.5
 Eritrea,ERI,2014,39.8
@@ -55,6 +61,7 @@ Fiji,FJI,2014,32.7
 Finland,FIN,2014,15.8
 France,FRA,2014,14.5
 Gabon,GAB,2014,54.4
+"Gambia, The",GMB,2014,59.8
 Georgia,GEO,2014,30.9
 Germany,DEU,2014,16.0
 Ghana,GHA,2014,47.5
@@ -70,6 +77,7 @@ Hungary,HUN,2014,24.6
 Iceland,ISL,2014,16.2
 India,IND,2014,48.9
 Indonesia,IDN,2014,31.5
+"Iran, Islamic Rep.",IRN,2014,24.1
 Iraq,IRQ,2014,31.0
 Ireland,IRL,2014,16.4
 Israel,ISR,2014,16.8
@@ -80,7 +88,11 @@ Jordan,JOR,2014,31.4
 Kazakhstan,KAZ,2014,31.0
 Kenya,KEN,2014,38.5
 Kiribati,KIR,2014,30.7
+"Korea, Dem. People's Rep.",PRK,2014,32.9
+"Korea, Rep.",KOR,2014,19.8
 Kuwait,KWT,2014,27.8
+Kyrgyz Republic,KGZ,2014,38.4
+Lao PDR,LAO,2014,34.6
 Latvia,LVA,2014,22.5
 Lebanon,LBN,2014,30.6
 Lesotho,LSO,2014,31.0
@@ -99,6 +111,7 @@ Marshall Islands,MHL,2014,27.8
 Mauritania,MRT,2014,53.2
 Mauritius,MUS,2014,30.5
 Mexico,MEX,2014,22.8
+"Micronesia, Fed. Sts.",FSM,2014,26.4
 Moldova,MDA,2014,27.6
 Monaco,MCO,2014,16.9
 Mongolia,MNG,2014,28.1
@@ -128,6 +141,7 @@ Poland,POL,2014,24.3
 Portugal,PRT,2014,17.2
 Qatar,QAT,2014,26.1
 Romania,ROU,2014,25.3
+Russian Federation,RUS,2014,24.5
 Rwanda,RWA,2014,22.5
 Samoa,WSM,2014,25.5
 San Marino,SMR,2014,17.0
@@ -138,16 +152,22 @@ Serbia,SRB,2014,25.0
 Seychelles,SYC,2014,27.3
 Sierra Leone,SLE,2014,51.4
 Singapore,SGP,2014,17.8
+Slovak Republic,SVK,2014,25.2
 Slovenia,SVN,2014,24.8
 Solomon Islands,SLB,2014,35.4
+"Somalia, Fed. Rep.",SOM,2014,50.4
 South Africa,ZAF,2014,28.6
 South Sudan,SSD,2014,39.2
 Spain,ESP,2014,17.3
 Sri Lanka,LKA,2014,27.3
+St. Kitts and Nevis,KNA,2014,23.4
+St. Lucia,LCA,2014,23.4
+St. Vincent and the Grenadines,VCT,2014,23.9
 Sudan,SDN,2014,35.7
 Suriname,SUR,2014,25.9
 Sweden,SWE,2014,17.4
 Switzerland,CHE,2014,15.5
+Syrian Arab Republic,SYR,2014,32.7
 Tajikistan,TJK,2014,38.0
 Tanzania,TZA,2014,49.1
 Thailand,THA,2014,28.1
@@ -156,6 +176,7 @@ Togo,TGO,2014,53.7
 Tonga,TON,2014,23.4
 Trinidad and Tobago,TTO,2014,24.5
 Tunisia,TUN,2014,31.6
+Turkiye,TUR,2014,31.5
 Turkmenistan,TKM,2014,34.1
 Tuvalu,TUV,2014,25.9
 Uganda,UGA,2014,34.5
@@ -166,5 +187,9 @@ United States,USA,2014,10.7
 Uruguay,URY,2014,25.7
 Uzbekistan,UZB,2014,34.8
 Vanuatu,VUT,2014,31.9
+"Venezuela, RB",VEN,2014,26.2
+Viet Nam,VNM,2014,26.6
+West Bank and Gaza,PSE,2014,30.9
+"Yemen, Rep.",YEM,2014,38.4
 Zambia,ZMB,2014,36.8
 Zimbabwe,ZWE,2014,30.5

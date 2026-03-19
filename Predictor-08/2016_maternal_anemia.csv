@@ -10,6 +10,7 @@ Armenia,ARM,2016,22.1
 Australia,AUS,2016,14.9
 Austria,AUT,2016,16.9
 Azerbaijan,AZE,2016,33.7
+"Bahamas, The",BHS,2016,23.1
 Bahrain,BHR,2016,29.7
 Bangladesh,BGD,2016,40.8
 Barbados,BRB,2016,24.5
@@ -22,6 +23,7 @@ Bolivia,BOL,2016,27.6
 Bosnia and Herzegovina,BIH,2016,26.2
 Botswana,BWA,2016,30.6
 Brazil,BRA,2016,21.6
+Brunei Darussalam,BRN,2016,21.9
 Bulgaria,BGR,2016,25.4
 Burkina Faso,BFA,2016,51.0
 Burundi,BDI,2016,39.8
@@ -35,7 +37,10 @@ Chile,CHL,2016,21.9
 China,CHN,2016,16.5
 Colombia,COL,2016,25.7
 Comoros,COM,2016,35.0
+"Congo, Dem. Rep.",COD,2016,44.4
+"Congo, Rep.",COG,2016,49.0
 Costa Rica,CRI,2016,21.9
+Cote d'Ivoire,CIV,2016,55.5
 Croatia,HRV,2016,24.7
 Cuba,CUB,2016,25.7
 Cyprus,CYP,2016,17.3
@@ -45,6 +50,7 @@ Djibouti,DJI,2016,36.2
 Dominica,DMA,2016,26.4
 Dominican Republic,DOM,2016,26.3
 Ecuador,ECU,2016,28.3
+"Egypt, Arab Rep.",EGY,2016,31.3
 El Salvador,SLV,2016,22.1
 Equatorial Guinea,GNQ,2016,43.1
 Eritrea,ERI,2016,40.1
@@ -55,6 +61,7 @@ Fiji,FJI,2016,32.0
 Finland,FIN,2016,15.7
 France,FRA,2016,14.4
 Gabon,GAB,2016,54.2
+"Gambia, The",GMB,2016,58.5
 Georgia,GEO,2016,30.8
 Germany,DEU,2016,15.7
 Ghana,GHA,2016,46.7
@@ -70,6 +77,7 @@ Hungary,HUN,2016,24.6
 Iceland,ISL,2016,15.9
 India,IND,2016,48.1
 Indonesia,IDN,2016,30.6
+"Iran, Islamic Rep.",IRN,2016,24.5
 Iraq,IRQ,2016,30.9
 Ireland,IRL,2016,16.0
 Israel,ISR,2016,16.4
@@ -80,7 +88,11 @@ Jordan,JOR,2016,31.9
 Kazakhstan,KAZ,2016,31.2
 Kenya,KEN,2016,38.5
 Kiribati,KIR,2016,30.3
+"Korea, Dem. People's Rep.",PRK,2016,32.2
+"Korea, Rep.",KOR,2016,18.9
 Kuwait,KWT,2016,27.9
+Kyrgyz Republic,KGZ,2016,39.1
+Lao PDR,LAO,2016,33.6
 Latvia,LVA,2016,22.4
 Lebanon,LBN,2016,31.0
 Lesotho,LSO,2016,31.6
@@ -99,6 +111,7 @@ Marshall Islands,MHL,2016,27.5
 Mauritania,MRT,2016,53.1
 Mauritius,MUS,2016,30.8
 Mexico,MEX,2016,23.5
+"Micronesia, Fed. Sts.",FSM,2016,26.2
 Moldova,MDA,2016,27.3
 Monaco,MCO,2016,16.6
 Mongolia,MNG,2016,28.0
@@ -128,6 +141,7 @@ Poland,POL,2016,24.3
 Portugal,PRT,2016,16.9
 Qatar,QAT,2016,25.8
 Romania,ROU,2016,25.2
+Russian Federation,RUS,2016,24.5
 Rwanda,RWA,2016,22.7
 Samoa,WSM,2016,25.3
 San Marino,SMR,2016,16.7
@@ -138,16 +152,22 @@ Serbia,SRB,2016,25.0
 Seychelles,SYC,2016,27.1
 Sierra Leone,SLE,2016,51.7
 Singapore,SGP,2016,17.5
+Slovak Republic,SVK,2016,25.2
 Slovenia,SVN,2016,24.8
 Solomon Islands,SLB,2016,35.2
+"Somalia, Fed. Rep.",SOM,2016,51.3
 South Africa,ZAF,2016,28.7
 South Sudan,SSD,2016,39.8
 Spain,ESP,2016,16.9
 Sri Lanka,LKA,2016,26.7
+St. Kitts and Nevis,KNA,2016,23.6
+St. Lucia,LCA,2016,23.9
+St. Vincent and the Grenadines,VCT,2016,24.0
 Sudan,SDN,2016,35.9
 Suriname,SUR,2016,26.1
 Sweden,SWE,2016,17.2
 Switzerland,CHE,2016,15.4
+Syrian Arab Republic,SYR,2016,33.1
 Tajikistan,TJK,2016,38.0
 Tanzania,TZA,2016,48.7
 Thailand,THA,2016,27.4
@@ -156,6 +176,7 @@ Togo,TGO,2016,53.3
 Tonga,TON,2016,23.1
 Trinidad and Tobago,TTO,2016,24.7
 Tunisia,TUN,2016,31.7
+Turkiye,TUR,2016,31.3
 Turkmenistan,TKM,2016,34.4
 Tuvalu,TUV,2016,25.6
 Uganda,UGA,2016,34.6
@@ -166,5 +187,9 @@ United States,USA,2016,10.5
 Uruguay,URY,2016,25.4
 Uzbekistan,UZB,2016,34.5
 Vanuatu,VUT,2016,31.9
+"Venezuela, RB",VEN,2016,27.0
+Viet Nam,VNM,2016,26.7
+West Bank and Gaza,PSE,2016,30.9
+"Yemen, Rep.",YEM,2016,38.7
 Zambia,ZMB,2016,36.6
 Zimbabwe,ZWE,2016,29.9

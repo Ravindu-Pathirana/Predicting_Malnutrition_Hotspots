@@ -10,6 +10,7 @@ Armenia,ARM,2021,21.9
 Australia,AUS,2021,14.0
 Austria,AUT,2021,16.5
 Azerbaijan,AZE,2021,33.7
+"Bahamas, The",BHS,2021,23.8
 Bahrain,BHR,2021,29.8
 Bangladesh,BGD,2021,38.7
 Barbados,BRB,2021,25.0
@@ -22,6 +23,7 @@ Bolivia,BOL,2021,25.9
 Bosnia and Herzegovina,BIH,2021,26.0
 Botswana,BWA,2021,30.9
 Brazil,BRA,2021,22.5
+Brunei Darussalam,BRN,2021,21.0
 Bulgaria,BGR,2021,25.4
 Burkina Faso,BFA,2021,49.3
 Burundi,BDI,2021,43.1
@@ -35,7 +37,10 @@ Chile,CHL,2021,21.3
 China,CHN,2021,14.6
 Colombia,COL,2021,26.4
 Comoros,COM,2021,35.2
+"Congo, Dem. Rep.",COD,2021,44.4
+"Congo, Rep.",COG,2021,47.1
 Costa Rica,CRI,2021,22.7
+Cote d'Ivoire,CIV,2021,56.5
 Croatia,HRV,2021,24.5
 Cuba,CUB,2021,26.2
 Cyprus,CYP,2021,16.8
@@ -45,6 +50,7 @@ Djibouti,DJI,2021,36.6
 Dominica,DMA,2021,26.8
 Dominican Republic,DOM,2021,26.8
 Ecuador,ECU,2021,29.1
+"Egypt, Arab Rep.",EGY,2021,34.2
 El Salvador,SLV,2021,22.6
 Equatorial Guinea,GNQ,2021,42.7
 Eritrea,ERI,2021,40.8
@@ -55,6 +61,7 @@ Fiji,FJI,2021,30.7
 Finland,FIN,2021,15.1
 France,FRA,2021,14.5
 Gabon,GAB,2021,54.4
+"Gambia, The",GMB,2021,55.1
 Georgia,GEO,2021,31.3
 Germany,DEU,2021,15.2
 Ghana,GHA,2021,45.2
@@ -70,6 +77,7 @@ Hungary,HUN,2021,24.6
 Iceland,ISL,2021,15.1
 India,IND,2021,46.6
 Indonesia,IDN,2021,27.9
+"Iran, Islamic Rep.",IRN,2021,26.6
 Iraq,IRQ,2021,31.8
 Ireland,IRL,2021,14.8
 Israel,ISR,2021,15.6
@@ -80,7 +88,11 @@ Jordan,JOR,2021,32.8
 Kazakhstan,KAZ,2021,31.8
 Kenya,KEN,2021,39.1
 Kiribati,KIR,2021,29.4
+"Korea, Dem. People's Rep.",PRK,2021,30.3
+"Korea, Rep.",KOR,2021,16.6
 Kuwait,KWT,2021,28.2
+Kyrgyz Republic,KGZ,2021,41.2
+Lao PDR,LAO,2021,30.7
 Latvia,LVA,2021,22.0
 Lebanon,LBN,2021,32.6
 Lesotho,LSO,2021,34.3
@@ -99,6 +111,7 @@ Marshall Islands,MHL,2021,25.9
 Mauritania,MRT,2021,53.3
 Mauritius,MUS,2021,31.7
 Mexico,MEX,2021,25.0
+"Micronesia, Fed. Sts.",FSM,2021,25.8
 Moldova,MDA,2021,27.2
 Monaco,MCO,2021,15.9
 Mongolia,MNG,2021,27.8
@@ -128,6 +141,7 @@ Poland,POL,2021,24.4
 Portugal,PRT,2021,16.2
 Qatar,QAT,2021,25.1
 Romania,ROU,2021,25.1
+Russian Federation,RUS,2021,24.6
 Rwanda,RWA,2021,23.2
 Samoa,WSM,2021,25.0
 San Marino,SMR,2021,16.1
@@ -138,16 +152,22 @@ Serbia,SRB,2021,25.0
 Seychelles,SYC,2021,26.9
 Sierra Leone,SLE,2021,52.8
 Singapore,SGP,2021,16.8
+Slovak Republic,SVK,2021,25.2
 Slovenia,SVN,2021,25.1
 Solomon Islands,SLB,2021,34.6
+"Somalia, Fed. Rep.",SOM,2021,52.4
 South Africa,ZAF,2021,28.9
 South Sudan,SSD,2021,41.4
 Spain,ESP,2021,16.2
 Sri Lanka,LKA,2021,24.1
+St. Kitts and Nevis,KNA,2021,24.5
+St. Lucia,LCA,2021,25.1
+St. Vincent and the Grenadines,VCT,2021,24.4
 Sudan,SDN,2021,37.0
 Suriname,SUR,2021,26.4
 Sweden,SWE,2021,16.7
 Switzerland,CHE,2021,15.0
+Syrian Arab Republic,SYR,2021,34.4
 Tajikistan,TJK,2021,38.7
 Tanzania,TZA,2021,46.8
 Thailand,THA,2021,24.8
@@ -156,6 +176,7 @@ Togo,TGO,2021,52.5
 Tonga,TON,2021,22.6
 Trinidad and Tobago,TTO,2021,25.8
 Tunisia,TUN,2021,32.4
+Turkiye,TUR,2021,31.5
 Turkmenistan,TKM,2021,35.2
 Tuvalu,TUV,2021,25.4
 Uganda,UGA,2021,34.4
@@ -166,5 +187,9 @@ United States,USA,2021,10.0
 Uruguay,URY,2021,24.7
 Uzbekistan,UZB,2021,34.9
 Vanuatu,VUT,2021,31.9
+"Venezuela, RB",VEN,2021,28.7
+Viet Nam,VNM,2021,25.6
+West Bank and Gaza,PSE,2021,31.3
+"Yemen, Rep.",YEM,2021,40.2
 Zambia,ZMB,2021,36.2
 Zimbabwe,ZWE,2021,29.8

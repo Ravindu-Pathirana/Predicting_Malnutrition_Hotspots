@@ -10,6 +10,7 @@ Armenia,ARM,2019,21.8
 Australia,AUS,2019,14.3
 Austria,AUT,2019,16.6
 Azerbaijan,AZE,2019,33.6
+"Bahamas, The",BHS,2019,23.6
 Bahrain,BHR,2019,29.7
 Bangladesh,BGD,2019,39.5
 Barbados,BRB,2019,24.8
@@ -22,6 +23,7 @@ Bolivia,BOL,2019,26.5
 Bosnia and Herzegovina,BIH,2019,26.0
 Botswana,BWA,2019,30.7
 Brazil,BRA,2019,22.1
+Brunei Darussalam,BRN,2019,21.3
 Bulgaria,BGR,2019,25.4
 Burkina Faso,BFA,2019,49.8
 Burundi,BDI,2019,41.7
@@ -35,7 +37,10 @@ Chile,CHL,2019,21.5
 China,CHN,2019,15.3
 Colombia,COL,2019,26.1
 Comoros,COM,2019,35.0
+"Congo, Dem. Rep.",COD,2019,44.3
+"Congo, Rep.",COG,2019,47.7
 Costa Rica,CRI,2019,22.3
+Cote d'Ivoire,CIV,2019,56.0
 Croatia,HRV,2019,24.5
 Cuba,CUB,2019,25.9
 Cyprus,CYP,2019,16.9
@@ -45,6 +50,7 @@ Djibouti,DJI,2019,36.4
 Dominica,DMA,2019,26.6
 Dominican Republic,DOM,2019,26.6
 Ecuador,ECU,2019,28.8
+"Egypt, Arab Rep.",EGY,2019,32.9
 El Salvador,SLV,2019,22.3
 Equatorial Guinea,GNQ,2019,42.8
 Eritrea,ERI,2019,40.4
@@ -55,6 +61,7 @@ Fiji,FJI,2019,31.2
 Finland,FIN,2019,15.3
 France,FRA,2019,14.4
 Gabon,GAB,2019,54.4
+"Gambia, The",GMB,2019,56.5
 Georgia,GEO,2019,31.0
 Germany,DEU,2019,15.3
 Ghana,GHA,2019,45.7
@@ -70,6 +77,7 @@ Hungary,HUN,2019,24.6
 Iceland,ISL,2019,15.3
 India,IND,2019,47.2
 Indonesia,IDN,2019,28.9
+"Iran, Islamic Rep.",IRN,2019,25.5
 Iraq,IRQ,2019,31.3
 Ireland,IRL,2019,15.2
 Israel,ISR,2019,15.8
@@ -80,7 +88,11 @@ Jordan,JOR,2019,32.4
 Kazakhstan,KAZ,2019,31.5
 Kenya,KEN,2019,38.8
 Kiribati,KIR,2019,29.7
+"Korea, Dem. People's Rep.",PRK,2019,31.1
+"Korea, Rep.",KOR,2019,17.5
 Kuwait,KWT,2019,28.1
+Kyrgyz Republic,KGZ,2019,40.2
+Lao PDR,LAO,2019,31.8
 Latvia,LVA,2019,22.2
 Lebanon,LBN,2019,31.8
 Lesotho,LSO,2019,33.1
@@ -99,6 +111,7 @@ Marshall Islands,MHL,2019,26.5
 Mauritania,MRT,2019,53.2
 Mauritius,MUS,2019,31.3
 Mexico,MEX,2019,24.4
+"Micronesia, Fed. Sts.",FSM,2019,25.8
 Moldova,MDA,2019,27.1
 Monaco,MCO,2019,16.1
 Mongolia,MNG,2019,27.9
@@ -128,6 +141,7 @@ Poland,POL,2019,24.3
 Portugal,PRT,2019,16.4
 Qatar,QAT,2019,25.4
 Romania,ROU,2019,25.1
+Russian Federation,RUS,2019,24.6
 Rwanda,RWA,2019,22.9
 Samoa,WSM,2019,25.1
 San Marino,SMR,2019,16.3
@@ -138,16 +152,22 @@ Serbia,SRB,2019,25.0
 Seychelles,SYC,2019,26.8
 Sierra Leone,SLE,2019,52.3
 Singapore,SGP,2019,17.0
+Slovak Republic,SVK,2019,25.1
 Slovenia,SVN,2019,25.0
 Solomon Islands,SLB,2019,34.8
+"Somalia, Fed. Rep.",SOM,2019,52.1
 South Africa,ZAF,2019,28.8
 South Sudan,SSD,2019,40.7
 Spain,ESP,2019,16.4
 Sri Lanka,LKA,2019,25.3
+St. Kitts and Nevis,KNA,2019,24.1
+St. Lucia,LCA,2019,24.7
+St. Vincent and the Grenadines,VCT,2019,24.2
 Sudan,SDN,2019,36.4
 Suriname,SUR,2019,26.3
 Sweden,SWE,2019,16.8
 Switzerland,CHE,2019,15.1
+Syrian Arab Republic,SYR,2019,33.8
 Tajikistan,TJK,2019,38.2
 Tanzania,TZA,2019,47.6
 Thailand,THA,2019,25.9
@@ -156,6 +176,7 @@ Togo,TGO,2019,52.8
 Tonga,TON,2019,22.7
 Trinidad and Tobago,TTO,2019,25.4
 Tunisia,TUN,2019,32.1
+Turkiye,TUR,2019,31.3
 Turkmenistan,TKM,2019,34.8
 Tuvalu,TUV,2019,25.3
 Uganda,UGA,2019,34.4
@@ -166,5 +187,9 @@ United States,USA,2019,10.1
 Uruguay,URY,2019,25.0
 Uzbekistan,UZB,2019,34.6
 Vanuatu,VUT,2019,31.9
+"Venezuela, RB",VEN,2019,28.2
+Viet Nam,VNM,2019,26.1
+West Bank and Gaza,PSE,2019,31.1
+"Yemen, Rep.",YEM,2019,39.6
 Zambia,ZMB,2019,36.3
 Zimbabwe,ZWE,2019,29.7

@@ -10,6 +10,7 @@ Armenia,ARM,2004,25.7
 Australia,AUS,2004,17.7
 Austria,AUT,2004,19.3
 Azerbaijan,AZE,2004,35.6
+"Bahamas, The",BHS,2004,24.9
 Bahrain,BHR,2004,31.5
 Bangladesh,BGD,2004,46.6
 Barbados,BRB,2004,26.7
@@ -22,6 +23,7 @@ Bolivia,BOL,2004,34.0
 Bosnia and Herzegovina,BIH,2004,29.1
 Botswana,BWA,2004,33.1
 Brazil,BRA,2004,26.0
+Brunei Darussalam,BRN,2004,27.2
 Bulgaria,BGR,2004,28.1
 Burkina Faso,BFA,2004,55.8
 Burundi,BDI,2004,40.1
@@ -35,7 +37,10 @@ Chile,CHL,2004,24.9
 China,CHN,2004,24.7
 Colombia,COL,2004,33.4
 Comoros,COM,2004,38.6
+"Congo, Dem. Rep.",COD,2004,49.5
+"Congo, Rep.",COG,2004,56.2
 Costa Rica,CRI,2004,24.8
+Cote d'Ivoire,CIV,2004,56.6
 Croatia,HRV,2004,27.3
 Cuba,CUB,2004,30.5
 Cyprus,CYP,2004,19.6
@@ -45,6 +50,7 @@ Djibouti,DJI,2004,38.2
 Dominica,DMA,2004,30.0
 Dominican Republic,DOM,2004,30.9
 Ecuador,ECU,2004,31.2
+"Egypt, Arab Rep.",EGY,2004,31.7
 El Salvador,SLV,2004,23.5
 Equatorial Guinea,GNQ,2004,48.8
 Eritrea,ERI,2004,42.4
@@ -55,6 +61,7 @@ Fiji,FJI,2004,36.4
 Finland,FIN,2004,17.8
 France,FRA,2004,16.0
 Gabon,GAB,2004,58.2
+"Gambia, The",GMB,2004,65.0
 Georgia,GEO,2004,32.3
 Germany,DEU,2004,18.0
 Ghana,GHA,2004,53.0
@@ -70,6 +77,7 @@ Hungary,HUN,2004,26.3
 Iceland,ISL,2004,18.3
 India,IND,2004,51.8
 Indonesia,IDN,2004,36.7
+"Iran, Islamic Rep.",IRN,2004,26.5
 Iraq,IRQ,2004,35.6
 Ireland,IRL,2004,18.6
 Israel,ISR,2004,19.1
@@ -80,7 +88,11 @@ Jordan,JOR,2004,30.7
 Kazakhstan,KAZ,2004,33.0
 Kenya,KEN,2004,43.1
 Kiribati,KIR,2004,33.7
+"Korea, Dem. People's Rep.",PRK,2004,37.5
+"Korea, Rep.",KOR,2004,23.9
 Kuwait,KWT,2004,28.5
+Kyrgyz Republic,KGZ,2004,37.6
+Lao PDR,LAO,2004,41.9
 Latvia,LVA,2004,25.0
 Lebanon,LBN,2004,31.0
 Lesotho,LSO,2004,32.8
@@ -99,6 +111,7 @@ Marshall Islands,MHL,2004,31.1
 Mauritania,MRT,2004,56.0
 Mauritius,MUS,2004,32.8
 Mexico,MEX,2004,26.1
+"Micronesia, Fed. Sts.",FSM,2004,29.0
 Moldova,MDA,2004,31.4
 Monaco,MCO,2004,19.0
 Mongolia,MNG,2004,29.9
@@ -128,6 +141,7 @@ Poland,POL,2004,26.4
 Portugal,PRT,2004,19.5
 Qatar,QAT,2004,28.1
 Romania,ROU,2004,28.0
+Russian Federation,RUS,2004,27.1
 Rwanda,RWA,2004,26.4
 Samoa,WSM,2004,28.8
 San Marino,SMR,2004,19.0
@@ -138,16 +152,22 @@ Serbia,SRB,2004,27.3
 Seychelles,SYC,2004,30.6
 Sierra Leone,SLE,2004,54.5
 Singapore,SGP,2004,20.1
+Slovak Republic,SVK,2004,27.3
 Slovenia,SVN,2004,26.6
 Solomon Islands,SLB,2004,39.4
+"Somalia, Fed. Rep.",SOM,2004,50.2
 South Africa,ZAF,2004,31.8
 South Sudan,SSD,2004,41.5
 Spain,ESP,2004,18.9
 Sri Lanka,LKA,2004,30.4
+St. Kitts and Nevis,KNA,2004,26.7
+St. Lucia,LCA,2004,26.4
+St. Vincent and the Grenadines,VCT,2004,27.9
 Sudan,SDN,2004,38.2
 Suriname,SUR,2004,30.4
 Sweden,SWE,2004,19.7
 Switzerland,CHE,2004,16.7
+Syrian Arab Republic,SYR,2004,34.3
 Tajikistan,TJK,2004,39.5
 Tanzania,TZA,2004,52.8
 Thailand,THA,2004,30.0
@@ -156,6 +176,7 @@ Togo,TGO,2004,55.6
 Tonga,TON,2004,26.0
 Trinidad and Tobago,TTO,2004,28.0
 Tunisia,TUN,2004,33.2
+Turkiye,TUR,2004,34.4
 Turkmenistan,TKM,2004,37.7
 Tuvalu,TUV,2004,29.3
 Uganda,UGA,2004,40.4
@@ -166,5 +187,9 @@ United States,USA,2004,10.5
 Uruguay,URY,2004,28.5
 Uzbekistan,UZB,2004,40.4
 Vanuatu,VUT,2004,35.3
+"Venezuela, RB",VEN,2004,30.4
+Viet Nam,VNM,2004,32.3
+West Bank and Gaza,PSE,2004,32.9
+"Yemen, Rep.",YEM,2004,41.4
 Zambia,ZMB,2004,42.3
 Zimbabwe,ZWE,2004,34.2

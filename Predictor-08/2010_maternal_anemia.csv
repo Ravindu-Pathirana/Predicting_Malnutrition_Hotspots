@@ -10,6 +10,7 @@ Armenia,ARM,2010,23.7
 Australia,AUS,2010,16.1
 Austria,AUT,2010,17.8
 Azerbaijan,AZE,2010,34.1
+"Bahamas, The",BHS,2010,22.5
 Bahrain,BHR,2010,30.2
 Bangladesh,BGD,2010,43.7
 Barbados,BRB,2010,24.1
@@ -22,6 +23,7 @@ Bolivia,BOL,2010,30.3
 Bosnia and Herzegovina,BIH,2010,27.0
 Botswana,BWA,2010,30.8
 Brazil,BRA,2010,22.0
+Brunei Darussalam,BRN,2010,23.8
 Bulgaria,BGR,2010,25.9
 Burkina Faso,BFA,2010,52.9
 Burundi,BDI,2010,37.0
@@ -35,7 +37,10 @@ Chile,CHL,2010,22.8
 China,CHN,2010,19.2
 Colombia,COL,2010,27.1
 Comoros,COM,2010,35.5
+"Congo, Dem. Rep.",COD,2010,46.3
+"Congo, Rep.",COG,2010,52.6
 Costa Rica,CRI,2010,21.8
+Cote d'Ivoire,CIV,2010,55.2
 Croatia,HRV,2010,25.3
 Cuba,CUB,2010,26.1
 Cyprus,CYP,2010,18.1
@@ -45,6 +50,7 @@ Djibouti,DJI,2010,35.4
 Dominica,DMA,2010,26.7
 Dominican Republic,DOM,2010,26.8
 Ecuador,ECU,2010,28.0
+"Egypt, Arab Rep.",EGY,2010,30.8
 El Salvador,SLV,2010,22.0
 Equatorial Guinea,GNQ,2010,45.2
 Eritrea,ERI,2010,40.0
@@ -55,6 +61,7 @@ Fiji,FJI,2010,33.9
 Finland,FIN,2010,16.2
 France,FRA,2010,14.7
 Gabon,GAB,2010,55.8
+"Gambia, The",GMB,2010,62.0
 Georgia,GEO,2010,31.4
 Germany,DEU,2010,16.5
 Ghana,GHA,2010,49.9
@@ -70,6 +77,7 @@ Hungary,HUN,2010,24.8
 Iceland,ISL,2010,16.8
 India,IND,2010,50.3
 Indonesia,IDN,2010,33.3
+"Iran, Islamic Rep.",IRN,2010,24.4
 Iraq,IRQ,2010,32.3
 Ireland,IRL,2010,17.1
 Israel,ISR,2010,17.6
@@ -80,7 +88,11 @@ Jordan,JOR,2010,30.7
 Kazakhstan,KAZ,2010,31.2
 Kenya,KEN,2010,39.1
 Kiribati,KIR,2010,31.6
+"Korea, Dem. People's Rep.",PRK,2010,34.5
+"Korea, Rep.",KOR,2010,21.4
 Kuwait,KWT,2010,27.6
+Kyrgyz Republic,KGZ,2010,37.7
+Lao PDR,LAO,2010,37.0
 Latvia,LVA,2010,22.9
 Lebanon,LBN,2010,30.3
 Lesotho,LSO,2010,30.7
@@ -99,6 +111,7 @@ Marshall Islands,MHL,2010,28.7
 Mauritania,MRT,2010,54.2
 Mauritius,MUS,2010,30.5
 Mexico,MEX,2010,22.6
+"Micronesia, Fed. Sts.",FSM,2010,27.1
 Moldova,MDA,2010,28.8
 Monaco,MCO,2010,17.5
 Mongolia,MNG,2010,28.4
@@ -128,6 +141,7 @@ Poland,POL,2010,24.7
 Portugal,PRT,2010,17.9
 Qatar,QAT,2010,26.8
 Romania,ROU,2010,25.9
+Russian Federation,RUS,2010,24.9
 Rwanda,RWA,2010,22.5
 Samoa,WSM,2010,26.4
 San Marino,SMR,2010,17.6
@@ -138,16 +152,22 @@ Serbia,SRB,2010,25.3
 Seychelles,SYC,2010,28.1
 Sierra Leone,SLE,2010,51.8
 Singapore,SGP,2010,18.4
+Slovak Republic,SVK,2010,25.5
 Slovenia,SVN,2010,25.0
 Solomon Islands,SLB,2010,36.6
+"Somalia, Fed. Rep.",SOM,2010,49.4
 South Africa,ZAF,2010,29.1
 South Sudan,SSD,2010,38.9
 Spain,ESP,2010,17.8
 Sri Lanka,LKA,2010,28.3
+St. Kitts and Nevis,KNA,2010,23.9
+St. Lucia,LCA,2010,23.5
+St. Vincent and the Grenadines,VCT,2010,24.3
 Sudan,SDN,2010,36.3
 Suriname,SUR,2010,26.3
 Sweden,SWE,2010,18.0
 Switzerland,CHE,2010,15.7
+Syrian Arab Republic,SYR,2010,32.7
 Tajikistan,TJK,2010,38.3
 Tanzania,TZA,2010,50.1
 Thailand,THA,2010,29.1
@@ -156,6 +176,7 @@ Togo,TGO,2010,54.5
 Tonga,TON,2010,24.1
 Trinidad and Tobago,TTO,2010,24.7
 Tunisia,TUN,2010,32.1
+Turkiye,TUR,2010,32.5
 Turkmenistan,TKM,2010,34.4
 Tuvalu,TUV,2010,26.9
 Uganda,UGA,2010,35.5
@@ -166,5 +187,9 @@ United States,USA,2010,10.7
 Uruguay,URY,2010,26.3
 Uzbekistan,UZB,2010,36.5
 Vanuatu,VUT,2010,32.4
+"Venezuela, RB",VEN,2010,26.2
+Viet Nam,VNM,2010,26.9
+West Bank and Gaza,PSE,2010,31.3
+"Yemen, Rep.",YEM,2010,38.9
 Zambia,ZMB,2010,38.1
 Zimbabwe,ZWE,2010,32.7
