@@ -1,0 +1,196 @@
+Country,Country Code,Year,Prevalence of stunting
+Afghanistan,AFG,2019,
+Albania,ALB,2019,
+Algeria,DZA,2019,9.8
+Andorra,AND,2019,
+Angola,AGO,2019,
+Antigua and Barbuda,ATG,2019,
+Argentina,ARG,2019,
+Armenia,ARM,2019,
+Australia,AUS,2019,
+Austria,AUT,2019,
+Azerbaijan,AZE,2019,
+Bahamas,BHS,2019,
+Bahrain,BHR,2019,
+Bangladesh,BGD,2019,28.0
+Barbados,BRB,2019,
+Belarus,BLR,2019,1.1
+Belgium,BEL,2019,
+Belize,BLZ,2019,
+Benin,BEN,2019,
+Bhutan,BTN,2019,
+Bolivia,BOL,2019,
+Bosnia and Herzegovina,BIH,2019,
+Botswana,BWA,2019,
+Brazil,BRA,2019,8.0
+Brunei,BRN,2019,
+Bulgaria,BGR,2019,
+Burkina Faso,BFA,2019,23.8
+Burundi,BDI,2019,54.0
+Cabo Verde,CPV,2019,
+Cambodia,KHM,2019,
+Cameroon,CMR,2019,
+Canada,CAN,2019,
+Central African Republic,CAF,2019,40.2
+Chad,TCD,2019,37.8
+Chile,CHL,2019,
+China,CHN,2019,
+Colombia,COL,2019,
+Comoros,COM,2019,
+Congo,COG,2019,
+Costa Rica,CRI,2019,
+Croatia,HRV,2019,
+Cuba,CUB,2019,7.1
+Cyprus,CYP,2019,
+Czechia,CZE,2019,
+Côte d'Ivoire,CIV,2019,
+Democratic Republic of the Congo,COD,2019,
+Denmark,DNK,2019,
+Djibouti,DJI,2019,20.9
+Dominica,DMA,2019,
+Dominican Republic,DOM,2019,6.7
+Ecuador,ECU,2019,
+Egypt,EGY,2019,
+El Salvador,SLV,2019,
+Equatorial Guinea,GNQ,2019,
+Eritrea,ERI,2019,
+Estonia,EST,2019,
+Eswatini,SWZ,2019,
+Ethiopia,ETH,2019,36.8
+Fiji,FJI,2019,
+Finland,FIN,2019,1.3
+France,FRA,2019,
+Gabon,GAB,2019,
+Gambia,GMB,2019,
+Georgia,GEO,2019,
+Germany,DEU,2019,
+Ghana,GHA,2019,
+Greece,GRC,2019,
+Grenada,GRD,2019,
+Guatemala,GTM,2019,
+Guinea,GIN,2019,
+Guinea-Bissau,GNB,2019,28.1
+Guyana,GUY,2019,9.5
+Haiti,HTI,2019,
+Honduras,HND,2019,18.7
+Hungary,HUN,2019,
+Iceland,ISL,2019,
+India,IND,2019,
+Indonesia,IDN,2019,26.6
+Iran,IRN,2019,
+Iraq,IRQ,2019,
+Ireland,IRL,2019,
+Israel,ISR,2019,
+Italy,ITA,2019,
+Jamaica,JAM,2019,
+Japan,JPN,2019,
+Jordan,JOR,2019,7.4
+Kazakhstan,KAZ,2019,
+Kenya,KEN,2019,
+Kiribati,KIR,2019,
+Kuwait,KWT,2019,4.6
+Kyrgyzstan,KGZ,2019,
+Laos,LAO,2019,
+Latvia,LVA,2019,
+Lebanon,LBN,2019,
+Lesotho,LSO,2019,
+Liberia,LBR,2019,29.8
+Libya,LBY,2019,
+Liechtenstein,LIE,2019,
+Lithuania,LTU,2019,
+Luxembourg,LUX,2019,
+Madagascar,MDG,2019,
+Malawi,MWI,2019,34.0
+Malaysia,MYS,2019,25.5
+Maldives,MDV,2019,
+Mali,MLI,2019,26.4
+Malta,MLT,2019,
+Marshall Islands,MHL,2019,
+Mauritania,MRT,2019,19.4
+Mauritius,MUS,2019,
+Mexico,MEX,2019,14.1
+Micronesia,FSM,2019,
+Moldova,MDA,2019,
+Monaco,MCO,2019,
+Mongolia,MNG,2019,
+Montenegro,MNE,2019,
+Morocco,MAR,2019,14.2
+Mozambique,MOZ,2019,
+Myanmar,MMR,2019,
+Namibia,NAM,2019,
+Nauru,NRU,2019,
+Nepal,NPL,2019,31.5
+Netherlands,NLD,2019,
+New Zealand,NZL,2019,
+Nicaragua,NIC,2019,
+Niger,NER,2019,47.1
+Nigeria,NGA,2019,
+North Korea,PRK,2019,
+North Macedonia,MKD,2019,4.3
+Norway,NOR,2019,
+Oman,OMN,2019,
+Pakistan,PAK,2019,
+Palau,PLW,2019,
+Palestine,,2019,
+Panama,PAN,2019,15.9
+Papua New Guinea,PNG,2019,
+Paraguay,PRY,2019,
+Peru,PER,2019,13.1
+Philippines,PHL,2019,28.7
+Poland,POL,2019,1.0
+Portugal,PRT,2019,
+Qatar,QAT,2019,
+Romania,ROU,2019,
+Russia,RUS,2019,
+Rwanda,RWA,2019,
+Saint Kitts and Nevis,KNA,2019,
+Saint Lucia,LCA,2019,
+Saint Vincent and the Grenadines,VCT,2019,
+Samoa,WSM,2019,7.3
+San Marino,SMR,2019,
+Sao Tome and Principe,STP,2019,11.7
+Saudi Arabia,SAU,2019,13.2
+Senegal,SEN,2019,17.9
+Serbia,SRB,2019,5.4
+Seychelles,SYC,2019,
+Sierra Leone,SLE,2019,29.5
+Singapore,SGP,2019,
+Slovakia,SVK,2019,
+Slovenia,SVN,2019,
+Solomon Islands,SLB,2019,
+Somalia,,2019,
+South Africa,ZAF,2019,
+South Korea,KOR,2019,
+South Sudan,SSD,2019,
+Spain,ESP,2019,
+Sri Lanka,LKA,2019,8.4
+Sudan,SDN,2019,
+Suriname,SUR,2019,
+Sweden,SWE,2019,
+Switzerland,CHE,2019,
+Syria,SYR,2019,
+Tajikistan,TJK,2019,
+Tanzania,TZA,2019,
+Thailand,THA,2019,13.4
+Timor-Leste,TLS,2019,
+Togo,TGO,2019,
+Tonga,TON,2019,2.2
+Trinidad and Tobago,TTO,2019,
+Tunisia,TUN,2019,
+Turkmenistan,TKM,2019,7.2
+Tuvalu,TUV,2019,5.7
+Türkiye,TUR,2019,
+Uganda,UGA,2019,
+Ukraine,UKR,2019,
+United Arab Emirates,ARE,2019,
+United Kingdom,GBR,2019,2.0
+United States,USA,2019,
+Uruguay,URY,2019,
+Uzbekistan,UZB,2019,
+Vanuatu,VUT,2019,
+Vatican City,,2019,
+Venezuela,VEN,2019,
+Vietnam,VNM,2019,22.4
+Yemen,YEM,2019,
+Zambia,ZMB,2019,
+Zimbabwe,ZWE,2019,23.5
