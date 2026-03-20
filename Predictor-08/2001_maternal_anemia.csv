@@ -10,7 +10,7 @@ Armenia,ARM,2001,25.9
 Australia,AUS,2001,18.9
 Austria,AUT,2001,20.4
 Azerbaijan,AZE,2001,35.4
-"Bahamas, The",BHS,2001,26.4
+Bahamas,BHS,2001,26.4
 Bahrain,BHR,2001,31.9
 Bangladesh,BGD,2001,47.5
 Barbados,BRB,2001,28.2
@@ -23,7 +23,7 @@ Bolivia,BOL,2001,34.6
 Bosnia and Herzegovina,BIH,2001,30.4
 Botswana,BWA,2001,34.3
 Brazil,BRA,2001,27.9
-Brunei Darussalam,BRN,2001,29.6
+Brunei,BRN,2001,29.6
 Bulgaria,BGR,2001,29.0
 Burkina Faso,BFA,2001,57.3
 Burundi,BDI,2001,42.1
@@ -37,20 +37,20 @@ Chile,CHL,2001,26.3
 China,CHN,2001,27.6
 Colombia,COL,2001,36.2
 Comoros,COM,2001,40.5
-"Congo, Dem. Rep.",COD,2001,50.5
-"Congo, Rep.",COG,2001,57.1
+Congo,COG,2001,57.1
 Costa Rica,CRI,2001,26.4
 Cote d'Ivoire,CIV,2001,57.6
 Croatia,HRV,2001,28.4
 Cuba,CUB,2001,32.6
 Cyprus,CYP,2001,20.8
 Czechia,CZE,2001,27.7
+Democratic Republic of the Congo,COD,2001,50.5
 Denmark,DNK,2001,21.1
 Djibouti,DJI,2001,39.9
 Dominica,DMA,2001,32.2
 Dominican Republic,DOM,2001,33.2
 Ecuador,ECU,2001,33.2
-"Egypt, Arab Rep.",EGY,2001,32.6
+Egypt,EGY,2001,32.6
 El Salvador,SLV,2001,24.3
 Equatorial Guinea,GNQ,2001,50.9
 Eritrea,ERI,2001,43.7
@@ -61,7 +61,7 @@ Fiji,FJI,2001,37.5
 Finland,FIN,2001,18.9
 France,FRA,2001,17.2
 Gabon,GAB,2001,59.3
-"Gambia, The",GMB,2001,66.3
+Gambia,GMB,2001,66.3
 Georgia,GEO,2001,32.7
 Germany,DEU,2001,19.2
 Ghana,GHA,2001,53.8
@@ -77,7 +77,7 @@ Hungary,HUN,2001,27.4
 Iceland,ISL,2001,19.5
 India,IND,2001,51.7
 Indonesia,IDN,2001,38.2
-"Iran, Islamic Rep.",IRN,2001,28.2
+Iran,IRN,2001,28.2
 Iraq,IRQ,2001,36.7
 Ireland,IRL,2001,19.7
 Israel,ISR,2001,20.6
@@ -88,11 +88,9 @@ Jordan,JOR,2001,30.9
 Kazakhstan,KAZ,2001,33.9
 Kenya,KEN,2001,45.1
 Kiribati,KIR,2001,35.3
-"Korea, Dem. People's Rep.",PRK,2001,39.1
-"Korea, Rep.",KOR,2001,25.5
 Kuwait,KWT,2001,29.3
-Kyrgyz Republic,KGZ,2001,37.4
-Lao PDR,LAO,2001,44.4
+Kyrgyzstan,KGZ,2001,37.4
+Laos,LAO,2001,44.4
 Latvia,LVA,2001,26.4
 Lebanon,LBN,2001,31.3
 Lesotho,LSO,2001,34.2
@@ -111,7 +109,7 @@ Marshall Islands,MHL,2001,32.1
 Mauritania,MRT,2001,56.9
 Mauritius,MUS,2001,34.1
 Mexico,MEX,2001,28.5
-"Micronesia, Fed. Sts.",FSM,2001,29.9
+Micronesia,FSM,2001,29.9
 Moldova,MDA,2001,32.9
 Monaco,MCO,2001,20.2
 Mongolia,MNG,2001,29.9
@@ -127,11 +125,13 @@ New Zealand,NZL,2001,17.2
 Nicaragua,NIC,2001,
 Niger,NER,2001,57.5
 Nigeria,NGA,2001,54.9
+North Korea,PRK,2001,39.1
 North Macedonia,MKD,2001,27.4
 Norway,NOR,2001,20.6
 Oman,OMN,2001,36.9
 Pakistan,PAK,2001,46.0
 Palau,PLW,2001,29.8
+Palestine,PSE,2001,33.6
 Panama,PAN,2001,32.8
 Papua New Guinea,PNG,2001,35.6
 Paraguay,PRY,2001,30.8
@@ -141,8 +141,11 @@ Poland,POL,2001,27.6
 Portugal,PRT,2001,20.8
 Qatar,QAT,2001,28.6
 Romania,ROU,2001,29.3
-Russian Federation,RUS,2001,28.4
+Russia,RUS,2001,28.4
 Rwanda,RWA,2001,28.9
+Saint Kitts and Nevis,KNA,2001,28.4
+Saint Lucia,LCA,2001,28.0
+Saint Vincent and the Grenadines,VCT,2001,30.1
 Samoa,WSM,2001,29.9
 San Marino,SMR,2001,20.1
 Sao Tome and Principe,STP,2001,50.4
@@ -152,22 +155,20 @@ Serbia,SRB,2001,28.5
 Seychelles,SYC,2001,32.0
 Sierra Leone,SLE,2001,55.9
 Singapore,SGP,2001,21.3
-Slovak Republic,SVK,2001,28.4
+Slovakia,SVK,2001,28.4
 Slovenia,SVN,2001,27.7
 Solomon Islands,SLB,2001,40.4
-"Somalia, Fed. Rep.",SOM,2001,50.7
+Somalia,SOM,2001,50.7
 South Africa,ZAF,2001,32.9
+South Korea,KOR,2001,25.5
 South Sudan,SSD,2001,42.8
 Spain,ESP,2001,20.0
 Sri Lanka,LKA,2001,31.7
-St. Kitts and Nevis,KNA,2001,28.4
-St. Lucia,LCA,2001,28.0
-St. Vincent and the Grenadines,VCT,2001,30.1
 Sudan,SDN,2001,39.0
 Suriname,SUR,2001,32.4
 Sweden,SWE,2001,20.9
 Switzerland,CHE,2001,17.5
-Syrian Arab Republic,SYR,2001,35.1
+Syria,SYR,2001,35.1
 Tajikistan,TJK,2001,39.9
 Tanzania,TZA,2001,53.3
 Thailand,THA,2001,30.2
@@ -176,7 +177,7 @@ Togo,TGO,2001,55.8
 Tonga,TON,2001,27.0
 Trinidad and Tobago,TTO,2001,30.1
 Tunisia,TUN,2001,33.5
-Turkiye,TUR,2001,35.0
+Turkey,TUR,2001,35.0
 Turkmenistan,TKM,2001,39.5
 Tuvalu,TUV,2001,30.5
 Uganda,UGA,2001,42.4
@@ -187,9 +188,8 @@ United States,USA,2001,11.1
 Uruguay,URY,2001,28.8
 Uzbekistan,UZB,2001,42.1
 Vanuatu,VUT,2001,36.2
-"Venezuela, RB",VEN,2001,31.9
-Viet Nam,VNM,2001,36.3
-West Bank and Gaza,PSE,2001,33.6
-"Yemen, Rep.",YEM,2001,42.3
+Venezuela,VEN,2001,31.9
+Vietnam,VNM,2001,36.3
+Yemen,YEM,2001,42.3
 Zambia,ZMB,2001,44.5
 Zimbabwe,ZWE,2001,34.9

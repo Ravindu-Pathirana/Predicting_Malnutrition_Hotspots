@@ -10,7 +10,7 @@ Armenia,ARM,2018.0,3096.23,103.53,107.52
 Australia,AUS,2018.0,3450.47,118.26,159.51
 Austria,AUT,2018.0,3761.46,110.49,170.86
 Azerbaijan,AZE,2018.0,3166.17,94.7,85.38
-"Bahamas, The",BHS,,,,
+Bahamas,BHS,2018.0,2657.27,94.16,100.29
 Bahrain,BHR,,,,
 Bangladesh,BGD,2018.0,2566.95,63.3,34.86
 Barbados,BRB,2018.0,3077.41,105.59,94.11
@@ -23,7 +23,7 @@ Bolivia,BOL,,,,
 Bosnia and Herzegovina,BIH,2018.0,3337.73,108.73,88.38
 Botswana,BWA,2018.0,2534.47,64.04,60.7
 Brazil,BRA,2018.0,3339.51,107.16,126.84
-Brunei Darussalam,BRN,,,,
+Brunei,BRN,,,,
 Bulgaria,BGR,2018.0,2909.19,89.89,110.73
 Burkina Faso,BFA,2018.0,2648.69,75.74,61.9
 Burundi,BDI,,,,
@@ -37,20 +37,20 @@ Chile,CHL,2018.0,2990.82,103.38,83.94
 China,CHN,2018.0,3274.57,119.77,89.48
 Colombia,COL,2018.0,3088.03,80.55,96.32
 Comoros,COM,2018.0,2486.01,62.54,65.16
-"Congo, Dem. Rep.",COD,,,,
-"Congo, Rep.",COG,,,,
+Congo,COG,2018.0,2110.25,53.21,46.18
 Costa Rica,CRI,2018.0,3053.24,84.02,109.69
 Cote d'Ivoire,CIV,,,,
 Croatia,HRV,2018.0,3250.38,103.59,118.11
 Cuba,CUB,2018.0,3433.97,96.79,78.01
 Cyprus,CYP,2018.0,2857.91,93.88,102.9
 Czechia,CZE,2018.0,3300.27,95.29,146.71
+Democratic Republic of the Congo,COD,2018.0,2100.95,29.22,25.36
 Denmark,DNK,2018.0,3816.42,128.84,173.05
 Djibouti,DJI,2018.0,2738.14,72.15,61.58
 Dominica,DMA,,,,
 Dominican Republic,DOM,2018.0,3001.27,76.88,107.59
 Ecuador,ECU,2018.0,2541.55,65.89,96.55
-"Egypt, Arab Rep.",EGY,,,,
+Egypt,EGY,2018.0,3166.2,91.7,63.7
 El Salvador,SLV,2018.0,2785.58,80.98,64.39
 Equatorial Guinea,GNQ,,,,
 Eritrea,ERI,,,,
@@ -61,7 +61,7 @@ Fiji,FJI,2018.0,2792.41,84.15,85.54
 Finland,FIN,2018.0,3318.52,122.53,135.0
 France,FRA,2018.0,3437.36,117.65,150.3
 Gabon,GAB,2018.0,2628.82,89.19,55.93
-"Gambia, The",GMB,,,,
+Gambia,GMB,2018.0,2404.64,57.17,50.06
 Georgia,GEO,2018.0,2966.34,83.83,82.08
 Germany,DEU,2018.0,3586.32,110.74,152.9
 Ghana,GHA,2018.0,2972.78,65.18,42.43
@@ -77,7 +77,7 @@ Hungary,HUN,2018.0,3294.71,94.02,153.32
 Iceland,ISL,2018.0,3647.88,151.92,163.68
 India,IND,2018.0,2525.82,66.17,58.85
 Indonesia,IDN,2018.0,2907.28,80.35,59.84
-"Iran, Islamic Rep.",IRN,,,,
+Iran,IRN,,,,
 Iraq,IRQ,2018.0,2657.28,71.98,69.17
 Ireland,IRL,2018.0,3931.02,125.18,150.19
 Israel,ISR,2018.0,3678.0,131.06,160.58
@@ -88,11 +88,9 @@ Jordan,JOR,2018.0,2641.07,72.51,87.16
 Kazakhstan,KAZ,2018.0,3080.38,96.66,118.4
 Kenya,KEN,2018.0,2226.6,59.35,49.52
 Kiribati,KIR,2018.0,3095.68,80.9,127.28
-"Korea, Dem. People's Rep.",PRK,,,,
-"Korea, Rep.",KOR,,,,
 Kuwait,KWT,2018.0,3417.35,106.08,114.58
-Kyrgyz Republic,KGZ,,,,
-Lao PDR,LAO,,,,
+Kyrgyzstan,KGZ,2018.0,2714.06,87.89,73.68
+Laos,LAO,,,,
 Latvia,LVA,2018.0,3261.66,105.69,130.57
 Lebanon,LBN,2018.0,2908.08,82.59,101.87
 Lesotho,LSO,2018.0,2192.58,57.3,47.47
@@ -111,7 +109,7 @@ Marshall Islands,MHL,,,,
 Mauritania,MRT,2018.0,2895.06,85.48,71.61
 Mauritius,MUS,2018.0,3001.26,95.79,96.59
 Mexico,MEX,2018.0,3217.6,96.95,99.37
-"Micronesia, Fed. Sts.",FSM,,,,
+Micronesia,FSM,,,,
 Moldova,MDA,,,,
 Monaco,MCO,,,,
 Mongolia,MNG,2018.0,2846.54,113.62,120.03
@@ -127,11 +125,13 @@ New Zealand,NZL,2018.0,3153.93,104.11,115.14
 Nicaragua,NIC,2018.0,2644.57,67.55,61.18
 Niger,NER,2018.0,2687.25,91.28,55.96
 Nigeria,NGA,2018.0,2519.65,60.86,63.07
+North Korea,PRK,,,,
 North Macedonia,MKD,2018.0,3336.73,96.81,114.19
 Norway,NOR,2018.0,3487.25,129.59,135.01
 Oman,OMN,2018.0,3050.91,91.29,90.76
 Pakistan,PAK,2018.0,2368.91,68.82,87.46
 Palau,PLW,,,,
+Palestine,PSE,,,,
 Panama,PAN,2018.0,3036.12,98.22,91.62
 Papua New Guinea,PNG,2018.0,2178.43,65.47,62.1
 Paraguay,PRY,2018.0,3111.86,73.68,98.88
@@ -141,8 +141,11 @@ Poland,POL,2018.0,3531.69,114.73,129.09
 Portugal,PRT,2018.0,3450.71,120.41,137.16
 Qatar,QAT,,,,
 Romania,ROU,2018.0,3621.81,113.73,126.95
-Russian Federation,RUS,2018.0,3375.45,111.12,116.02
+Russia,RUS,,,,
 Rwanda,RWA,2018.0,2212.96,58.44,31.23
+Saint Kitts and Nevis,KNA,2018.0,2896.68,97.12,111.33
+Saint Lucia,LCA,2018.0,2679.32,107.52,84.75
+Saint Vincent and the Grenadines,VCT,2018.0,2998.14,114.61,94.34
 Samoa,WSM,2018.0,3067.96,110.16,119.84
 San Marino,SMR,,,,
 Sao Tome and Principe,STP,2018.0,2356.16,56.37,66.67
@@ -152,22 +155,20 @@ Serbia,SRB,2018.0,3586.84,124.65,103.77
 Seychelles,SYC,2018.0,2909.23,101.31,80.11
 Sierra Leone,SLE,2018.0,2360.43,54.38,42.62
 Singapore,SGP,,,,
-Slovak Republic,SVK,,,,
+Slovakia,SVK,2018.0,2908.12,75.6,139.09
 Slovenia,SVN,2018.0,3250.13,105.13,116.59
 Solomon Islands,SLB,2018.0,2308.07,57.15,50.98
-"Somalia, Fed. Rep.",SOM,,,,
+Somalia,SOM,,,,
 South Africa,ZAF,2018.0,2826.07,80.63,85.13
+South Korea,KOR,,,,
 South Sudan,SSD,,,,
 Spain,ESP,2018.0,3346.39,114.12,152.99
 Sri Lanka,LKA,2018.0,2764.67,74.77,45.74
-St. Kitts and Nevis,KNA,,,,
-St. Lucia,LCA,,,,
-St. Vincent and the Grenadines,VCT,,,,
 Sudan,SDN,,,,
 Suriname,SUR,2018.0,2631.37,73.42,71.09
 Sweden,SWE,2018.0,3166.42,107.85,132.85
 Switzerland,CHE,2018.0,3416.6,100.49,159.54
-Syrian Arab Republic,SYR,2018.0,2525.83,72.2,78.73
+Syria,SYR,,,,
 Tajikistan,TJK,2018.0,2628.54,81.03,76.58
 Tanzania,TZA,,,,
 Thailand,THA,2018.0,2777.13,67.28,57.75
@@ -176,7 +177,7 @@ Togo,TGO,,,,
 Tonga,TON,,,,
 Trinidad and Tobago,TTO,2018.0,3033.41,94.24,96.81
 Tunisia,TUN,2018.0,3445.39,102.08,103.41
-Turkiye,TUR,,,,
+Turkey,TUR,,,,
 Turkmenistan,TKM,2018.0,2878.52,104.26,87.52
 Tuvalu,TUV,,,,
 Uganda,UGA,2018.0,2317.84,51.81,56.49
@@ -187,9 +188,8 @@ United States,USA,,,,
 Uruguay,URY,2018.0,3272.24,96.28,110.87
 Uzbekistan,UZB,2018.0,3218.44,102.5,92.84
 Vanuatu,VUT,2018.0,2951.85,79.07,120.1
-"Venezuela, RB",VEN,,,,
-Viet Nam,VNM,2018.0,2885.87,90.62,59.95
-West Bank and Gaza,PSE,,,,
-"Yemen, Rep.",YEM,,,,
+Venezuela,VEN,,,,
+Vietnam,VNM,,,,
+Yemen,YEM,2018.0,1866.24,47.8,35.53
 Zambia,ZMB,2018.0,2244.16,51.95,49.71
 Zimbabwe,ZWE,2018.0,2204.99,57.62,67.6

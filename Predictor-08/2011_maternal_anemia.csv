@@ -10,7 +10,7 @@ Armenia,ARM,2011,23.4
 Australia,AUS,2011,15.9
 Austria,AUT,2011,17.6
 Azerbaijan,AZE,2011,33.9
-"Bahamas, The",BHS,2011,22.4
+Bahamas,BHS,2011,22.4
 Bahrain,BHR,2011,30.1
 Bangladesh,BGD,2011,43.2
 Barbados,BRB,2011,24.0
@@ -23,7 +23,7 @@ Bolivia,BOL,2011,29.9
 Bosnia and Herzegovina,BIH,2011,26.8
 Botswana,BWA,2011,30.6
 Brazil,BRA,2011,21.6
-Brunei Darussalam,BRN,2011,23.4
+Brunei,BRN,2011,23.4
 Bulgaria,BGR,2011,25.7
 Burkina Faso,BFA,2011,52.5
 Burundi,BDI,2011,37.1
@@ -37,20 +37,20 @@ Chile,CHL,2011,22.6
 China,CHN,2011,18.6
 Colombia,COL,2011,26.5
 Comoros,COM,2011,35.2
-"Congo, Dem. Rep.",COD,2011,45.8
-"Congo, Rep.",COG,2011,51.9
+Congo,COG,2011,51.9
 Costa Rica,CRI,2011,21.6
 Cote d'Ivoire,CIV,2011,55.1
 Croatia,HRV,2011,25.1
 Cuba,CUB,2011,25.8
 Cyprus,CYP,2011,17.9
 Czechia,CZE,2011,24.9
+Democratic Republic of the Congo,COD,2011,45.8
 Denmark,DNK,2011,17.9
 Djibouti,DJI,2011,35.5
 Dominica,DMA,2011,26.5
 Dominican Republic,DOM,2011,26.5
 Ecuador,ECU,2011,27.8
-"Egypt, Arab Rep.",EGY,2011,30.8
+Egypt,EGY,2011,30.8
 El Salvador,SLV,2011,21.9
 Equatorial Guinea,GNQ,2011,44.7
 Eritrea,ERI,2011,39.8
@@ -61,7 +61,7 @@ Fiji,FJI,2011,33.6
 Finland,FIN,2011,16.1
 France,FRA,2011,14.5
 Gabon,GAB,2011,55.4
-"Gambia, The",GMB,2011,61.4
+Gambia,GMB,2011,61.4
 Georgia,GEO,2011,31.2
 Germany,DEU,2011,16.4
 Ghana,GHA,2011,49.2
@@ -77,7 +77,7 @@ Hungary,HUN,2011,24.7
 Iceland,ISL,2011,16.7
 India,IND,2011,50.0
 Indonesia,IDN,2011,32.8
-"Iran, Islamic Rep.",IRN,2011,24.2
+Iran,IRN,2011,24.2
 Iraq,IRQ,2011,31.9
 Ireland,IRL,2011,16.9
 Israel,ISR,2011,17.4
@@ -88,11 +88,9 @@ Jordan,JOR,2011,30.8
 Kazakhstan,KAZ,2011,31.1
 Kenya,KEN,2011,38.8
 Kiribati,KIR,2011,31.4
-"Korea, Dem. People's Rep.",PRK,2011,34.1
-"Korea, Rep.",KOR,2011,21.0
 Kuwait,KWT,2011,27.6
-Kyrgyz Republic,KGZ,2011,37.8
-Lao PDR,LAO,2011,36.3
+Kyrgyzstan,KGZ,2011,37.8
+Laos,LAO,2011,36.3
 Latvia,LVA,2011,22.8
 Lebanon,LBN,2011,30.3
 Lesotho,LSO,2011,30.6
@@ -111,7 +109,7 @@ Marshall Islands,MHL,2011,28.4
 Mauritania,MRT,2011,53.9
 Mauritius,MUS,2011,30.4
 Mexico,MEX,2011,22.4
-"Micronesia, Fed. Sts.",FSM,2011,26.9
+Micronesia,FSM,2011,26.9
 Moldova,MDA,2011,28.5
 Monaco,MCO,2011,17.3
 Mongolia,MNG,2011,28.3
@@ -127,11 +125,13 @@ New Zealand,NZL,2011,14.1
 Nicaragua,NIC,2011,
 Niger,NER,2011,54.2
 Nigeria,NGA,2011,50.1
+North Korea,PRK,2011,34.1
 North Macedonia,MKD,2011,24.5
 Norway,NOR,2011,17.6
 Oman,OMN,2011,35.2
 Pakistan,PAK,2011,45.8
 Palau,PLW,2011,26.9
+Palestine,PSE,2011,31.1
 Panama,PAN,2011,27.0
 Papua New Guinea,PNG,2011,31.7
 Paraguay,PRY,2011,26.6
@@ -141,8 +141,11 @@ Poland,POL,2011,24.5
 Portugal,PRT,2011,17.7
 Qatar,QAT,2011,26.6
 Romania,ROU,2011,25.7
-Russian Federation,RUS,2011,24.7
+Russia,RUS,2011,24.7
 Rwanda,RWA,2011,22.3
+Saint Kitts and Nevis,KNA,2011,23.6
+Saint Lucia,LCA,2011,23.3
+Saint Vincent and the Grenadines,VCT,2011,24.1
 Samoa,WSM,2011,26.1
 San Marino,SMR,2011,17.4
 Sao Tome and Principe,STP,2011,44.1
@@ -152,22 +155,20 @@ Serbia,SRB,2011,25.1
 Seychelles,SYC,2011,27.8
 Sierra Leone,SLE,2011,51.6
 Singapore,SGP,2011,18.2
-Slovak Republic,SVK,2011,25.3
+Slovakia,SVK,2011,25.3
 Slovenia,SVN,2011,24.9
 Solomon Islands,SLB,2011,36.2
-"Somalia, Fed. Rep.",SOM,2011,49.5
+Somalia,SOM,2011,49.5
 South Africa,ZAF,2011,28.8
+South Korea,KOR,2011,21.0
 South Sudan,SSD,2011,38.7
 Spain,ESP,2011,17.7
 Sri Lanka,LKA,2011,28.0
-St. Kitts and Nevis,KNA,2011,23.6
-St. Lucia,LCA,2011,23.3
-St. Vincent and the Grenadines,VCT,2011,24.1
 Sudan,SDN,2011,36.0
 Suriname,SUR,2011,26.0
 Sweden,SWE,2011,17.8
 Switzerland,CHE,2011,15.6
-Syrian Arab Republic,SYR,2011,32.6
+Syria,SYR,2011,32.6
 Tajikistan,TJK,2011,38.2
 Tanzania,TZA,2011,49.7
 Thailand,THA,2011,28.9
@@ -176,7 +177,7 @@ Togo,TGO,2011,54.3
 Tonga,TON,2011,23.9
 Trinidad and Tobago,TTO,2011,24.5
 Tunisia,TUN,2011,31.9
-Turkiye,TUR,2011,32.2
+Turkey,TUR,2011,32.2
 Turkmenistan,TKM,2011,34.2
 Tuvalu,TUV,2011,26.6
 Uganda,UGA,2011,35.0
@@ -187,9 +188,8 @@ United States,USA,2011,10.7
 Uruguay,URY,2011,26.0
 Uzbekistan,UZB,2011,35.9
 Vanuatu,VUT,2011,32.2
-"Venezuela, RB",VEN,2011,25.8
-Viet Nam,VNM,2011,26.7
-West Bank and Gaza,PSE,2011,31.1
-"Yemen, Rep.",YEM,2011,38.6
+Venezuela,VEN,2011,25.8
+Vietnam,VNM,2011,26.7
+Yemen,YEM,2011,38.6
 Zambia,ZMB,2011,37.6
 Zimbabwe,ZWE,2011,32.1

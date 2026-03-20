@@ -10,7 +10,7 @@ Armenia,ARM,2017,22.0
 Australia,AUS,2017,14.7
 Austria,AUT,2017,16.8
 Azerbaijan,AZE,2017,33.7
-"Bahamas, The",BHS,2017,23.3
+Bahamas,BHS,2017,23.3
 Bahrain,BHR,2017,29.7
 Bangladesh,BGD,2017,40.3
 Barbados,BRB,2017,24.6
@@ -23,7 +23,7 @@ Bolivia,BOL,2017,27.2
 Bosnia and Herzegovina,BIH,2017,26.1
 Botswana,BWA,2017,30.7
 Brazil,BRA,2017,21.8
-Brunei Darussalam,BRN,2017,21.7
+Brunei,BRN,2017,21.7
 Bulgaria,BGR,2017,25.4
 Burkina Faso,BFA,2017,50.5
 Burundi,BDI,2017,40.5
@@ -37,20 +37,20 @@ Chile,CHL,2017,21.8
 China,CHN,2017,16.2
 Colombia,COL,2017,25.8
 Comoros,COM,2017,35.0
-"Congo, Dem. Rep.",COD,2017,44.3
-"Congo, Rep.",COG,2017,48.5
+Congo,COG,2017,48.5
 Costa Rica,CRI,2017,22.0
 Cote d'Ivoire,CIV,2017,55.6
 Croatia,HRV,2017,24.7
 Cuba,CUB,2017,25.7
 Cyprus,CYP,2017,17.2
 Czechia,CZE,2017,24.8
+Democratic Republic of the Congo,COD,2017,44.3
 Denmark,DNK,2017,17.1
 Djibouti,DJI,2017,36.4
 Dominica,DMA,2017,26.5
 Dominican Republic,DOM,2017,26.4
 Ecuador,ECU,2017,28.4
-"Egypt, Arab Rep.",EGY,2017,31.8
+Egypt,EGY,2017,31.8
 El Salvador,SLV,2017,22.1
 Equatorial Guinea,GNQ,2017,43.0
 Eritrea,ERI,2017,40.2
@@ -61,7 +61,7 @@ Fiji,FJI,2017,31.8
 Finland,FIN,2017,15.6
 France,FRA,2017,14.4
 Gabon,GAB,2017,54.2
-"Gambia, The",GMB,2017,57.9
+Gambia,GMB,2017,57.9
 Georgia,GEO,2017,30.8
 Germany,DEU,2017,15.6
 Ghana,GHA,2017,46.3
@@ -77,7 +77,7 @@ Hungary,HUN,2017,24.6
 Iceland,ISL,2017,15.7
 India,IND,2017,47.8
 Indonesia,IDN,2017,30.1
-"Iran, Islamic Rep.",IRN,2017,24.8
+Iran,IRN,2017,24.8
 Iraq,IRQ,2017,31.0
 Ireland,IRL,2017,15.8
 Israel,ISR,2017,16.2
@@ -88,11 +88,9 @@ Jordan,JOR,2017,32.1
 Kazakhstan,KAZ,2017,31.3
 Kenya,KEN,2017,38.6
 Kiribati,KIR,2017,30.2
-"Korea, Dem. People's Rep.",PRK,2017,31.9
-"Korea, Rep.",KOR,2017,18.4
 Kuwait,KWT,2017,28.0
-Kyrgyz Republic,KGZ,2017,39.5
-Lao PDR,LAO,2017,33.0
+Kyrgyzstan,KGZ,2017,39.5
+Laos,LAO,2017,33.0
 Latvia,LVA,2017,22.4
 Lebanon,LBN,2017,31.3
 Lesotho,LSO,2017,32.1
@@ -111,7 +109,7 @@ Marshall Islands,MHL,2017,27.2
 Mauritania,MRT,2017,53.1
 Mauritius,MUS,2017,31.0
 Mexico,MEX,2017,23.8
-"Micronesia, Fed. Sts.",FSM,2017,26.0
+Micronesia,FSM,2017,26.0
 Moldova,MDA,2017,27.1
 Monaco,MCO,2017,16.4
 Mongolia,MNG,2017,28.0
@@ -127,11 +125,13 @@ New Zealand,NZL,2017,13.5
 Nicaragua,NIC,2017,
 Niger,NER,2017,54.9
 Nigeria,NGA,2017,47.4
+North Korea,PRK,2017,31.9
 North Macedonia,MKD,2017,24.3
 Norway,NOR,2017,16.9
 Oman,OMN,2017,35.2
 Pakistan,PAK,2017,43.3
 Palau,PLW,2017,26.1
+Palestine,PSE,2017,31.0
 Panama,PAN,2017,26.4
 Papua New Guinea,PNG,2017,30.8
 Paraguay,PRY,2017,26.8
@@ -141,8 +141,11 @@ Poland,POL,2017,24.3
 Portugal,PRT,2017,16.8
 Qatar,QAT,2017,25.7
 Romania,ROU,2017,25.1
-Russian Federation,RUS,2017,24.5
+Russia,RUS,2017,24.5
 Rwanda,RWA,2017,22.8
+Saint Kitts and Nevis,KNA,2017,23.7
+Saint Lucia,LCA,2017,24.3
+Saint Vincent and the Grenadines,VCT,2017,24.1
 Samoa,WSM,2017,25.3
 San Marino,SMR,2017,16.6
 Sao Tome and Principe,STP,2017,42.7
@@ -152,22 +155,20 @@ Serbia,SRB,2017,25.0
 Seychelles,SYC,2017,27.0
 Sierra Leone,SLE,2017,51.9
 Singapore,SGP,2017,17.3
-Slovak Republic,SVK,2017,25.2
+Slovakia,SVK,2017,25.2
 Slovenia,SVN,2017,24.9
 Solomon Islands,SLB,2017,35.0
-"Somalia, Fed. Rep.",SOM,2017,51.6
+Somalia,SOM,2017,51.6
 South Africa,ZAF,2017,28.7
+South Korea,KOR,2017,18.4
 South Sudan,SSD,2017,40.1
 Spain,ESP,2017,16.8
 Sri Lanka,LKA,2017,26.3
-St. Kitts and Nevis,KNA,2017,23.7
-St. Lucia,LCA,2017,24.3
-St. Vincent and the Grenadines,VCT,2017,24.1
 Sudan,SDN,2017,36.0
 Suriname,SUR,2017,26.1
 Sweden,SWE,2017,17.1
 Switzerland,CHE,2017,15.4
-Syrian Arab Republic,SYR,2017,33.4
+Syria,SYR,2017,33.4
 Tajikistan,TJK,2017,38.2
 Tanzania,TZA,2017,48.4
 Thailand,THA,2017,27.0
@@ -176,7 +177,7 @@ Togo,TGO,2017,53.2
 Tonga,TON,2017,23.0
 Trinidad and Tobago,TTO,2017,25.0
 Tunisia,TUN,2017,31.8
-Turkiye,TUR,2017,31.3
+Turkey,TUR,2017,31.3
 Turkmenistan,TKM,2017,34.5
 Tuvalu,TUV,2017,25.5
 Uganda,UGA,2017,34.5
@@ -187,9 +188,8 @@ United States,USA,2017,10.3
 Uruguay,URY,2017,25.3
 Uzbekistan,UZB,2017,34.5
 Vanuatu,VUT,2017,32.0
-"Venezuela, RB",VEN,2017,27.4
-Viet Nam,VNM,2017,26.8
-West Bank and Gaza,PSE,2017,31.0
-"Yemen, Rep.",YEM,2017,39.0
+Venezuela,VEN,2017,27.4
+Vietnam,VNM,2017,26.8
+Yemen,YEM,2017,39.0
 Zambia,ZMB,2017,36.4
 Zimbabwe,ZWE,2017,29.6

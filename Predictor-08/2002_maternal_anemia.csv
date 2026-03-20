@@ -10,7 +10,7 @@ Armenia,ARM,2002,25.8
 Australia,AUS,2002,18.5
 Austria,AUT,2002,20.0
 Azerbaijan,AZE,2002,35.4
-"Bahamas, The",BHS,2002,25.9
+Bahamas,BHS,2002,25.9
 Bahrain,BHR,2002,31.8
 Bangladesh,BGD,2002,47.3
 Barbados,BRB,2002,27.7
@@ -23,7 +23,7 @@ Bolivia,BOL,2002,34.6
 Bosnia and Herzegovina,BIH,2002,29.9
 Botswana,BWA,2002,33.9
 Brazil,BRA,2002,27.3
-Brunei Darussalam,BRN,2002,28.7
+Brunei,BRN,2002,28.7
 Bulgaria,BGR,2002,28.7
 Burkina Faso,BFA,2002,56.8
 Burundi,BDI,2002,41.4
@@ -37,20 +37,20 @@ Chile,CHL,2002,25.8
 China,CHN,2002,26.7
 Colombia,COL,2002,35.4
 Comoros,COM,2002,39.9
-"Congo, Dem. Rep.",COD,2002,50.2
-"Congo, Rep.",COG,2002,56.9
+Congo,COG,2002,56.9
 Costa Rica,CRI,2002,25.9
 Cote d'Ivoire,CIV,2002,57.3
 Croatia,HRV,2002,28.0
 Cuba,CUB,2002,31.9
 Cyprus,CYP,2002,20.3
 Czechia,CZE,2002,27.3
+Democratic Republic of the Congo,COD,2002,50.2
 Denmark,DNK,2002,20.7
 Djibouti,DJI,2002,39.4
 Dominica,DMA,2002,31.4
 Dominican Republic,DOM,2002,32.5
 Ecuador,ECU,2002,32.6
-"Egypt, Arab Rep.",EGY,2002,32.2
+Egypt,EGY,2002,32.2
 El Salvador,SLV,2002,24.1
 Equatorial Guinea,GNQ,2002,50.2
 Eritrea,ERI,2002,43.3
@@ -61,7 +61,7 @@ Fiji,FJI,2002,37.1
 Finland,FIN,2002,18.5
 France,FRA,2002,16.7
 Gabon,GAB,2002,59.0
-"Gambia, The",GMB,2002,65.9
+Gambia,GMB,2002,65.9
 Georgia,GEO,2002,32.5
 Germany,DEU,2002,18.8
 Ghana,GHA,2002,53.6
@@ -77,7 +77,7 @@ Hungary,HUN,2002,27.0
 Iceland,ISL,2002,19.1
 India,IND,2002,51.7
 Indonesia,IDN,2002,37.7
-"Iran, Islamic Rep.",IRN,2002,27.6
+Iran,IRN,2002,27.6
 Iraq,IRQ,2002,36.3
 Ireland,IRL,2002,19.3
 Israel,ISR,2002,20.0
@@ -88,11 +88,9 @@ Jordan,JOR,2002,30.7
 Kazakhstan,KAZ,2002,33.6
 Kenya,KEN,2002,44.5
 Kiribati,KIR,2002,34.7
-"Korea, Dem. People's Rep.",PRK,2002,38.5
-"Korea, Rep.",KOR,2002,24.9
 Kuwait,KWT,2002,29.0
-Kyrgyz Republic,KGZ,2002,37.5
-Lao PDR,LAO,2002,43.6
+Kyrgyzstan,KGZ,2002,37.5
+Laos,LAO,2002,43.6
 Latvia,LVA,2002,25.9
 Lebanon,LBN,2002,31.2
 Lesotho,LSO,2002,33.7
@@ -111,7 +109,7 @@ Marshall Islands,MHL,2002,31.7
 Mauritania,MRT,2002,56.6
 Mauritius,MUS,2002,33.7
 Mexico,MEX,2002,27.7
-"Micronesia, Fed. Sts.",FSM,2002,29.6
+Micronesia,FSM,2002,29.6
 Moldova,MDA,2002,32.4
 Monaco,MCO,2002,19.7
 Mongolia,MNG,2002,29.9
@@ -127,11 +125,13 @@ New Zealand,NZL,2002,16.7
 Nicaragua,NIC,2002,
 Niger,NER,2002,57.1
 Nigeria,NGA,2002,54.6
+North Korea,PRK,2002,38.5
 North Macedonia,MKD,2002,27.0
 Norway,NOR,2002,20.1
 Oman,OMN,2002,36.8
 Pakistan,PAK,2002,46.2
 Palau,PLW,2002,29.5
+Palestine,PSE,2002,33.3
 Panama,PAN,2002,32.2
 Papua New Guinea,PNG,2002,35.2
 Paraguay,PRY,2002,30.4
@@ -141,8 +141,11 @@ Poland,POL,2002,27.2
 Portugal,PRT,2002,20.3
 Qatar,QAT,2002,28.4
 Romania,ROU,2002,28.8
-Russian Federation,RUS,2002,28.0
+Russia,RUS,2002,28.0
 Rwanda,RWA,2002,28.0
+Saint Kitts and Nevis,KNA,2002,27.8
+Saint Lucia,LCA,2002,27.4
+Saint Vincent and the Grenadines,VCT,2002,29.4
 Samoa,WSM,2002,29.5
 San Marino,SMR,2002,19.7
 Sao Tome and Principe,STP,2002,49.8
@@ -152,22 +155,20 @@ Serbia,SRB,2002,28.1
 Seychelles,SYC,2002,31.5
 Sierra Leone,SLE,2002,55.4
 Singapore,SGP,2002,20.9
-Slovak Republic,SVK,2002,28.0
+Slovakia,SVK,2002,28.0
 Slovenia,SVN,2002,27.3
 Solomon Islands,SLB,2002,40.1
-"Somalia, Fed. Rep.",SOM,2002,50.5
+Somalia,SOM,2002,50.5
 South Africa,ZAF,2002,32.6
+South Korea,KOR,2002,24.9
 South Sudan,SSD,2002,42.4
 Spain,ESP,2002,19.5
 Sri Lanka,LKA,2002,31.3
-St. Kitts and Nevis,KNA,2002,27.8
-St. Lucia,LCA,2002,27.4
-St. Vincent and the Grenadines,VCT,2002,29.4
 Sudan,SDN,2002,38.7
 Suriname,SUR,2002,31.8
 Sweden,SWE,2002,20.5
 Switzerland,CHE,2002,17.2
-Syrian Arab Republic,SYR,2002,34.8
+Syria,SYR,2002,34.8
 Tajikistan,TJK,2002,39.8
 Tanzania,TZA,2002,53.2
 Thailand,THA,2002,30.2
@@ -176,7 +177,7 @@ Togo,TGO,2002,55.8
 Tonga,TON,2002,26.7
 Trinidad and Tobago,TTO,2002,29.4
 Tunisia,TUN,2002,33.4
-Turkiye,TUR,2002,34.8
+Turkey,TUR,2002,34.8
 Turkmenistan,TKM,2002,38.9
 Tuvalu,TUV,2002,30.1
 Uganda,UGA,2002,41.8
@@ -187,9 +188,8 @@ United States,USA,2002,10.8
 Uruguay,URY,2002,28.7
 Uzbekistan,UZB,2002,41.6
 Vanuatu,VUT,2002,35.9
-"Venezuela, RB",VEN,2002,31.4
-Viet Nam,VNM,2002,34.9
-West Bank and Gaza,PSE,2002,33.3
-"Yemen, Rep.",YEM,2002,42.0
+Venezuela,VEN,2002,31.4
+Vietnam,VNM,2002,34.9
+Yemen,YEM,2002,42.0
 Zambia,ZMB,2002,43.8
 Zimbabwe,ZWE,2002,34.7

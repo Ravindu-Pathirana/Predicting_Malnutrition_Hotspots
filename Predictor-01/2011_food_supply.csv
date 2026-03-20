@@ -10,7 +10,7 @@ Armenia,ARM,2011.0,3163.09,101.38,95.09
 Australia,AUS,2011.0,3496.46,121.76,157.45
 Austria,AUT,2011.0,3834.49,111.59,177.2
 Azerbaijan,AZE,2011.0,2982.74,92.52,68.91
-"Bahamas, The",BHS,,,,
+Bahamas,BHS,2011.0,2606.34,93.89,88.94
 Bahrain,BHR,,,,
 Bangladesh,BGD,2011.0,2365.3,56.04,27.52
 Barbados,BRB,2011.0,3045.08,101.55,93.51
@@ -23,7 +23,7 @@ Bolivia,BOL,,,,
 Bosnia and Herzegovina,BIH,2011.0,3111.37,98.45,79.83
 Botswana,BWA,2011.0,2464.72,73.75,64.28
 Brazil,BRA,2011.0,3348.85,103.51,117.87
-Brunei Darussalam,BRN,,,,
+Brunei,BRN,,,,
 Bulgaria,BGR,2011.0,2786.97,85.32,93.4
 Burkina Faso,BFA,2011.0,2572.92,74.54,58.59
 Burundi,BDI,,,,
@@ -37,20 +37,20 @@ Chile,CHL,2011.0,2902.83,94.75,75.93
 China,CHN,2011.0,3085.76,110.05,81.26
 Colombia,COL,2011.0,2803.96,67.75,83.2
 Comoros,COM,2011.0,2387.02,60.49,63.94
-"Congo, Dem. Rep.",COD,,,,
-"Congo, Rep.",COG,,,,
+Congo,COG,2011.0,1940.44,43.12,43.25
 Costa Rica,CRI,2011.0,2881.9,77.14,96.14
 Cote d'Ivoire,CIV,,,,
 Croatia,HRV,2011.0,3029.91,87.89,105.41
 Cuba,CUB,2011.0,3307.61,91.17,66.23
 Cyprus,CYP,2011.0,2990.14,103.43,106.9
 Czechia,CZE,2011.0,3274.5,98.19,134.7
+Democratic Republic of the Congo,COD,2011.0,2185.62,31.25,25.68
 Denmark,DNK,2011.0,3494.55,108.51,139.48
 Djibouti,DJI,2011.0,2477.45,65.75,56.65
 Dominica,DMA,,,,
 Dominican Republic,DOM,2011.0,2647.2,65.44,92.69
 Ecuador,ECU,2011.0,2601.5,72.31,98.25
-"Egypt, Arab Rep.",EGY,,,,
+Egypt,EGY,2011.0,3247.69,91.58,60.88
 El Salvador,SLV,2011.0,2630.33,73.58,61.62
 Equatorial Guinea,GNQ,,,,
 Eritrea,ERI,,,,
@@ -61,7 +61,7 @@ Fiji,FJI,2011.0,2721.62,72.36,78.68
 Finland,FIN,2011.0,3193.79,116.59,128.46
 France,FRA,2011.0,3490.55,117.52,148.63
 Gabon,GAB,2011.0,2737.39,90.1,58.18
-"Gambia, The",GMB,,,,
+Gambia,GMB,2011.0,2653.59,60.69,72.41
 Georgia,GEO,2011.0,2794.24,80.1,71.91
 Germany,DEU,2011.0,3651.89,111.27,150.18
 Ghana,GHA,2011.0,2915.49,66.93,45.22
@@ -77,7 +77,7 @@ Hungary,HUN,2011.0,3059.36,86.45,133.81
 Iceland,ISL,2011.0,3302.28,135.16,141.29
 India,IND,2011.0,2391.21,60.66,48.72
 Indonesia,IDN,2011.0,2672.15,70.88,43.37
-"Iran, Islamic Rep.",IRN,,,,
+Iran,IRN,,,,
 Iraq,IRQ,2011.0,2618.15,68.4,70.01
 Ireland,IRL,2011.0,3656.2,114.4,136.42
 Israel,ISR,2011.0,3605.09,127.79,150.1
@@ -88,11 +88,9 @@ Jordan,JOR,2011.0,2662.06,76.28,87.01
 Kazakhstan,KAZ,2011.0,2870.93,86.88,114.4
 Kenya,KEN,2011.0,2185.37,60.58,44.99
 Kiribati,KIR,2011.0,2988.43,77.51,123.54
-"Korea, Dem. People's Rep.",PRK,,,,
-"Korea, Rep.",KOR,,,,
 Kuwait,KWT,2011.0,3584.68,116.68,118.16
-Kyrgyz Republic,KGZ,,,,
-Lao PDR,LAO,,,,
+Kyrgyzstan,KGZ,2011.0,2693.58,87.35,69.19
+Laos,LAO,,,,
 Latvia,LVA,2011.0,3191.05,106.21,123.14
 Lebanon,LBN,2011.0,3014.54,82.73,107.05
 Lesotho,LSO,2011.0,2541.12,67.06,33.23
@@ -111,7 +109,7 @@ Marshall Islands,MHL,,,,
 Mauritania,MRT,2011.0,2889.98,84.59,75.97
 Mauritius,MUS,2011.0,2987.85,90.96,90.85
 Mexico,MEX,2011.0,3121.91,91.23,93.14
-"Micronesia, Fed. Sts.",FSM,,,,
+Micronesia,FSM,,,,
 Moldova,MDA,,,,
 Monaco,MCO,,,,
 Mongolia,MNG,2011.0,2532.39,88.08,96.79
@@ -127,11 +125,13 @@ New Zealand,NZL,2011.0,3258.13,105.4,133.55
 Nicaragua,NIC,2011.0,2570.89,63.49,62.28
 Niger,NER,2011.0,2470.61,87.26,55.86
 Nigeria,NGA,2011.0,2528.97,60.72,61.1
+North Korea,PRK,,,,
 North Macedonia,MKD,2011.0,3008.55,83.27,104.83
 Norway,NOR,2011.0,3561.43,131.51,138.79
 Oman,OMN,2011.0,3158.97,94.55,88.24
 Pakistan,PAK,2011.0,2353.33,65.29,72.84
 Palau,PLW,,,,
+Palestine,PSE,,,,
 Panama,PAN,2011.0,2746.91,81.29,87.47
 Papua New Guinea,PNG,2011.0,2139.54,65.54,63.94
 Paraguay,PRY,2011.0,3122.53,70.11,105.93
@@ -141,8 +141,11 @@ Poland,POL,2011.0,3464.48,111.73,125.21
 Portugal,PRT,2011.0,3492.04,118.14,140.06
 Qatar,QAT,,,,
 Romania,ROU,2011.0,3394.44,106.65,120.37
-Russian Federation,RUS,2011.0,3387.59,110.08,107.45
+Russia,RUS,,,,
 Rwanda,RWA,2011.0,2126.84,58.73,28.18
+Saint Kitts and Nevis,KNA,2011.0,2605.41,93.76,88.75
+Saint Lucia,LCA,2011.0,2623.97,97.7,73.68
+Saint Vincent and the Grenadines,VCT,2011.0,2926.45,101.6,79.04
 Samoa,WSM,2011.0,2868.22,95.28,123.69
 San Marino,SMR,,,,
 Sao Tome and Principe,STP,2011.0,2313.11,56.35,66.02
@@ -152,22 +155,20 @@ Serbia,SRB,2011.0,3391.75,113.09,93.88
 Seychelles,SYC,2011.0,2756.72,91.14,68.96
 Sierra Leone,SLE,2011.0,2400.44,56.75,50.3
 Singapore,SGP,,,,
-Slovak Republic,SVK,,,,
+Slovakia,SVK,2011.0,2811.21,79.33,113.87
 Slovenia,SVN,2011.0,3231.21,107.9,122.17
 Solomon Islands,SLB,2011.0,2375.8,61.54,48.98
-"Somalia, Fed. Rep.",SOM,,,,
+Somalia,SOM,,,,
 South Africa,ZAF,2011.0,2871.87,79.18,85.93
+South Korea,KOR,,,,
 South Sudan,SSD,,,,
 Spain,ESP,2011.0,3200.69,108.99,145.34
 Sri Lanka,LKA,2011.0,2448.83,62.46,38.14
-St. Kitts and Nevis,KNA,,,,
-St. Lucia,LCA,,,,
-St. Vincent and the Grenadines,VCT,,,,
 Sudan,SDN,,,,
 Suriname,SUR,2011.0,2620.55,69.09,75.45
 Sweden,SWE,2011.0,3221.46,113.27,135.86
 Switzerland,CHE,2011.0,3498.67,99.41,155.5
-Syrian Arab Republic,SYR,2011.0,3056.92,81.48,105.62
+Syria,SYR,,,,
 Tajikistan,TJK,2011.0,2293.51,62.03,60.59
 Tanzania,TZA,,,,
 Thailand,THA,2011.0,2730.82,63.84,53.95
@@ -176,7 +177,7 @@ Togo,TGO,,,,
 Tonga,TON,,,,
 Trinidad and Tobago,TTO,2011.0,3023.62,93.58,98.26
 Tunisia,TUN,2011.0,3314.86,99.35,89.41
-Turkiye,TUR,,,,
+Turkey,TUR,,,,
 Turkmenistan,TKM,2011.0,2803.55,96.72,82.48
 Tuvalu,TUV,,,,
 Uganda,UGA,2011.0,2433.98,61.79,57.95
@@ -187,9 +188,8 @@ United States,USA,,,,
 Uruguay,URY,2011.0,3151.22,95.06,109.25
 Uzbekistan,UZB,2011.0,3017.54,92.86,86.16
 Vanuatu,VUT,2011.0,2902.23,75.33,127.3
-"Venezuela, RB",VEN,,,,
-Viet Nam,VNM,2011.0,2757.69,82.42,53.35
-West Bank and Gaza,PSE,,,,
-"Yemen, Rep.",YEM,,,,
+Venezuela,VEN,,,,
+Vietnam,VNM,,,,
+Yemen,YEM,2011.0,2061.68,56.59,39.58
 Zambia,ZMB,2011.0,1961.36,49.48,49.0
 Zimbabwe,ZWE,2011.0,2154.43,59.95,76.38

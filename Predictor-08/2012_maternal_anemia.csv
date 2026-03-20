@@ -10,7 +10,7 @@ Armenia,ARM,2012,23.1
 Australia,AUS,2012,15.7
 Austria,AUT,2012,17.5
 Azerbaijan,AZE,2012,33.7
-"Bahamas, The",BHS,2012,22.3
+Bahamas,BHS,2012,22.3
 Bahrain,BHR,2012,30.0
 Bangladesh,BGD,2012,42.7
 Barbados,BRB,2012,24.0
@@ -23,7 +23,7 @@ Bolivia,BOL,2012,29.4
 Bosnia and Herzegovina,BIH,2012,26.6
 Botswana,BWA,2012,30.5
 Brazil,BRA,2012,21.4
-Brunei Darussalam,BRN,2012,23.0
+Brunei,BRN,2012,23.0
 Bulgaria,BGR,2012,25.5
 Burkina Faso,BFA,2012,52.2
 Burundi,BDI,2012,37.3
@@ -37,20 +37,20 @@ Chile,CHL,2012,22.4
 China,CHN,2012,18.1
 Colombia,COL,2012,26.0
 Comoros,COM,2012,35.0
-"Congo, Dem. Rep.",COD,2012,45.4
-"Congo, Rep.",COG,2012,51.2
+Congo,COG,2012,51.2
 Costa Rica,CRI,2012,21.5
 Cote d'Ivoire,CIV,2012,55.1
 Croatia,HRV,2012,24.9
 Cuba,CUB,2012,25.7
 Cyprus,CYP,2012,17.8
 Czechia,CZE,2012,24.8
+Democratic Republic of the Congo,COD,2012,45.4
 Denmark,DNK,2012,17.8
 Djibouti,DJI,2012,35.6
 Dominica,DMA,2012,26.3
 Dominican Republic,DOM,2012,26.3
 Ecuador,ECU,2012,27.7
-"Egypt, Arab Rep.",EGY,2012,30.7
+Egypt,EGY,2012,30.7
 El Salvador,SLV,2012,21.9
 Equatorial Guinea,GNQ,2012,44.2
 Eritrea,ERI,2012,39.7
@@ -61,7 +61,7 @@ Fiji,FJI,2012,33.3
 Finland,FIN,2012,16.0
 France,FRA,2012,14.5
 Gabon,GAB,2012,55.0
-"Gambia, The",GMB,2012,60.9
+Gambia,GMB,2012,60.9
 Georgia,GEO,2012,31.1
 Germany,DEU,2012,16.2
 Ghana,GHA,2012,48.6
@@ -77,7 +77,7 @@ Hungary,HUN,2012,24.6
 Iceland,ISL,2012,16.5
 India,IND,2012,49.6
 Indonesia,IDN,2012,32.4
-"Iran, Islamic Rep.",IRN,2012,24.1
+Iran,IRN,2012,24.1
 Iraq,IRQ,2012,31.5
 Ireland,IRL,2012,16.8
 Israel,ISR,2012,17.2
@@ -88,11 +88,9 @@ Jordan,JOR,2012,31.0
 Kazakhstan,KAZ,2012,31.0
 Kenya,KEN,2012,38.6
 Kiribati,KIR,2012,31.2
-"Korea, Dem. People's Rep.",PRK,2012,33.7
-"Korea, Rep.",KOR,2012,20.6
 Kuwait,KWT,2012,27.6
-Kyrgyz Republic,KGZ,2012,37.9
-Lao PDR,LAO,2012,35.7
+Kyrgyzstan,KGZ,2012,37.9
+Laos,LAO,2012,35.7
 Latvia,LVA,2012,22.7
 Lebanon,LBN,2012,30.3
 Lesotho,LSO,2012,30.7
@@ -111,7 +109,7 @@ Marshall Islands,MHL,2012,28.2
 Mauritania,MRT,2012,53.6
 Mauritius,MUS,2012,30.3
 Mexico,MEX,2012,22.4
-"Micronesia, Fed. Sts.",FSM,2012,26.7
+Micronesia,FSM,2012,26.7
 Moldova,MDA,2012,28.2
 Monaco,MCO,2012,17.2
 Mongolia,MNG,2012,28.1
@@ -127,11 +125,13 @@ New Zealand,NZL,2012,14.0
 Nicaragua,NIC,2012,
 Niger,NER,2012,54.3
 Nigeria,NGA,2012,49.6
+North Korea,PRK,2012,33.7
 North Macedonia,MKD,2012,24.4
 Norway,NOR,2012,17.5
 Oman,OMN,2012,35.1
 Pakistan,PAK,2012,45.6
 Palau,PLW,2012,26.7
+Palestine,PSE,2012,31.0
 Panama,PAN,2012,26.8
 Papua New Guinea,PNG,2012,31.4
 Paraguay,PRY,2012,26.5
@@ -141,8 +141,11 @@ Poland,POL,2012,24.4
 Portugal,PRT,2012,17.5
 Qatar,QAT,2012,26.4
 Romania,ROU,2012,25.5
-Russian Federation,RUS,2012,24.6
+Russia,RUS,2012,24.6
 Rwanda,RWA,2012,22.3
+Saint Kitts and Nevis,KNA,2012,23.4
+Saint Lucia,LCA,2012,23.3
+Saint Vincent and the Grenadines,VCT,2012,24.0
 Samoa,WSM,2012,25.9
 San Marino,SMR,2012,17.3
 Sao Tome and Principe,STP,2012,43.7
@@ -152,22 +155,20 @@ Serbia,SRB,2012,25.0
 Seychelles,SYC,2012,27.6
 Sierra Leone,SLE,2012,51.4
 Singapore,SGP,2012,18.0
-Slovak Republic,SVK,2012,25.3
+Slovakia,SVK,2012,25.3
 Slovenia,SVN,2012,24.8
 Solomon Islands,SLB,2012,35.9
-"Somalia, Fed. Rep.",SOM,2012,49.7
+Somalia,SOM,2012,49.7
 South Africa,ZAF,2012,28.7
+South Korea,KOR,2012,20.6
 South Sudan,SSD,2012,38.8
 Spain,ESP,2012,17.6
 Sri Lanka,LKA,2012,27.8
-St. Kitts and Nevis,KNA,2012,23.4
-St. Lucia,LCA,2012,23.3
-St. Vincent and the Grenadines,VCT,2012,24.0
 Sudan,SDN,2012,35.9
 Suriname,SUR,2012,25.8
 Sweden,SWE,2012,17.7
 Switzerland,CHE,2012,15.6
-Syrian Arab Republic,SYR,2012,32.5
+Syria,SYR,2012,32.5
 Tajikistan,TJK,2012,38.1
 Tanzania,TZA,2012,49.5
 Thailand,THA,2012,28.7
@@ -176,7 +177,7 @@ Togo,TGO,2012,54.1
 Tonga,TON,2012,23.7
 Trinidad and Tobago,TTO,2012,24.4
 Tunisia,TUN,2012,31.8
-Turkiye,TUR,2012,31.9
+Turkey,TUR,2012,31.9
 Turkmenistan,TKM,2012,34.1
 Tuvalu,TUV,2012,26.4
 Uganda,UGA,2012,34.7
@@ -187,9 +188,8 @@ United States,USA,2012,10.7
 Uruguay,URY,2012,25.9
 Uzbekistan,UZB,2012,35.5
 Vanuatu,VUT,2012,32.1
-"Venezuela, RB",VEN,2012,25.8
-Viet Nam,VNM,2012,26.6
-West Bank and Gaza,PSE,2012,31.0
-"Yemen, Rep.",YEM,2012,38.4
+Venezuela,VEN,2012,25.8
+Vietnam,VNM,2012,26.6
+Yemen,YEM,2012,38.4
 Zambia,ZMB,2012,37.2
 Zimbabwe,ZWE,2012,31.5

@@ -10,7 +10,7 @@ Armenia,ARM,2003.0,2432.0,70.15,57.49
 Australia,AUS,2003.0,3104.0,109.64,130.99
 Austria,AUT,2003.0,3609.0,102.09,151.28
 Azerbaijan,AZE,2003.0,2554.0,73.1,46.38
-"Bahamas, The",BHS,,,,
+Bahamas,BHS,2003.0,2686.0,87.0,91.6
 Bahrain,BHR,,,,
 Bangladesh,BGD,2003.0,2350.0,51.21,25.82
 Barbados,BRB,2003.0,2838.0,85.74,86.01
@@ -23,7 +23,7 @@ Bolivia,BOL,,,,
 Bosnia and Herzegovina,BIH,2003.0,2834.0,81.25,57.87
 Botswana,BWA,2003.0,2113.0,61.22,48.43
 Brazil,BRA,2003.0,3067.0,84.42,103.63
-Brunei Darussalam,BRN,2003.0,2976.0,90.6,82.89
+Brunei,BRN,,,,
 Bulgaria,BGR,2003.0,2757.0,78.55,94.36
 Burkina Faso,BFA,2003.0,2492.0,75.86,59.28
 Burundi,BDI,,,,
@@ -37,20 +37,20 @@ Chile,CHL,2003.0,2891.0,83.69,85.71
 China,CHN,2003.0,2838.0,84.97,79.41
 Colombia,COL,2003.0,2798.0,63.1,72.74
 Comoros,COM,,,,
-"Congo, Dem. Rep.",COD,,,,
-"Congo, Rep.",COG,,,,
+Congo,COG,2003.0,2236.0,47.08,55.06
 Costa Rica,CRI,2003.0,2749.0,70.59,78.14
 Cote d'Ivoire,CIV,,,,
 Croatia,HRV,2003.0,2868.0,75.65,88.53
 Cuba,CUB,2003.0,3246.0,76.93,50.54
 Cyprus,CYP,2003.0,2611.0,80.14,106.16
 Czechia,CZE,2003.0,3319.0,92.99,120.35
+Democratic Republic of the Congo,COD,,,,
 Denmark,DNK,2003.0,3343.0,103.36,130.11
 Djibouti,DJI,2003.0,2094.0,50.93,52.35
 Dominica,DMA,2003.0,3006.0,87.8,82.79
 Dominican Republic,DOM,2003.0,2143.0,43.89,74.07
 Ecuador,ECU,2003.0,2202.0,54.85,81.88
-"Egypt, Arab Rep.",EGY,,,,
+Egypt,EGY,2003.0,3379.0,95.86,59.1
 El Salvador,SLV,2003.0,2597.0,69.66,60.5
 Equatorial Guinea,GNQ,,,,
 Eritrea,ERI,,,,
@@ -61,7 +61,7 @@ Fiji,FJI,2003.0,2892.0,75.35,94.31
 Finland,FIN,2003.0,3154.0,104.3,125.98
 France,FRA,2003.0,3587.0,116.25,168.41
 Gabon,GAB,2003.0,2661.0,73.87,55.63
-"Gambia, The",GMB,,,,
+Gambia,GMB,2003.0,2455.0,59.87,79.5
 Georgia,GEO,2003.0,2864.0,83.37,57.07
 Germany,DEU,2003.0,3390.0,97.95,139.19
 Ghana,GHA,2003.0,2669.0,55.14,42.03
@@ -77,7 +77,7 @@ Hungary,HUN,2003.0,3061.0,87.27,129.19
 Iceland,ISL,2003.0,3236.0,129.47,138.85
 India,IND,2003.0,2282.0,54.32,45.04
 Indonesia,IDN,2003.0,2468.0,53.46,48.39
-"Iran, Islamic Rep.",IRN,,,,
+Iran,IRN,,,,
 Iraq,IRQ,2003.0,2252.0,54.66,45.34
 Ireland,IRL,2003.0,3592.0,116.87,133.66
 Israel,ISR,2003.0,3576.0,124.29,139.79
@@ -88,11 +88,9 @@ Jordan,JOR,2003.0,3076.0,82.33,84.75
 Kazakhstan,KAZ,2003.0,2973.0,91.2,89.4
 Kenya,KEN,2003.0,2004.0,56.02,46.42
 Kiribati,KIR,2003.0,2872.0,71.94,100.84
-"Korea, Dem. People's Rep.",PRK,,,,
-"Korea, Rep.",KOR,,,,
 Kuwait,KWT,2003.0,3501.0,104.16,116.96
-Kyrgyz Republic,KGZ,,,,
-Lao PDR,LAO,,,,
+Kyrgyzstan,KGZ,2003.0,2624.0,86.93,53.55
+Laos,LAO,,,,
 Latvia,LVA,2003.0,3047.0,85.83,111.8
 Lebanon,LBN,2003.0,3198.0,87.8,109.31
 Lesotho,LSO,2003.0,2518.0,70.47,33.07
@@ -111,7 +109,7 @@ Marshall Islands,MHL,,,,
 Mauritania,MRT,2003.0,2712.0,82.39,68.8
 Mauritius,MUS,2003.0,2958.0,83.09,84.35
 Mexico,MEX,2003.0,3109.0,87.37,86.89
-"Micronesia, Fed. Sts.",FSM,,,,
+Micronesia,FSM,,,,
 Moldova,MDA,,,,
 Monaco,MCO,,,,
 Mongolia,MNG,2003.0,2221.0,73.14,75.82
@@ -127,11 +125,13 @@ New Zealand,NZL,2003.0,3120.0,91.84,114.07
 Nicaragua,NIC,2003.0,2319.0,57.68,48.58
 Niger,NER,2003.0,2401.0,72.06,52.17
 Nigeria,NGA,2003.0,2608.0,59.26,63.81
+North Korea,PRK,,,,
 North Macedonia,MKD,2003.0,2741.0,71.55,92.34
 Norway,NOR,2003.0,3437.0,103.73,145.84
 Oman,OMN,2003.0,2631.0,78.83,75.13
 Pakistan,PAK,2003.0,2312.0,59.7,68.05
 Palau,PLW,,,,
+Palestine,PSE,,,,
 Panama,PAN,2003.0,2365.0,67.32,61.79
 Papua New Guinea,PNG,,,,
 Paraguay,PRY,2003.0,2732.0,76.33,98.85
@@ -141,8 +141,11 @@ Poland,POL,2003.0,3421.0,101.03,114.65
 Portugal,PRT,2003.0,3523.0,110.45,134.19
 Qatar,QAT,,,,
 Romania,ROU,2003.0,3365.0,106.37,101.73
-Russian Federation,RUS,2003.0,3064.0,90.01,84.56
+Russia,RUS,,,,
 Rwanda,RWA,2003.0,2004.0,47.26,19.63
+Saint Kitts and Nevis,KNA,2003.0,2463.0,75.38,82.72
+Saint Lucia,LCA,2003.0,2640.0,89.3,77.87
+Saint Vincent and the Grenadines,VCT,2003.0,2685.0,77.76,73.04
 Samoa,WSM,2003.0,2830.0,78.37,128.78
 San Marino,SMR,,,,
 Sao Tome and Principe,STP,2003.0,2506.0,57.38,71.65
@@ -152,22 +155,20 @@ Serbia,SRB,,,,
 Seychelles,SYC,,,,
 Sierra Leone,SLE,2003.0,2032.0,46.85,47.85
 Singapore,SGP,,,,
-Slovak Republic,SVK,,,,
+Slovakia,SVK,2003.0,2790.0,73.75,105.58
 Slovenia,SVN,2003.0,3113.0,100.11,120.32
 Solomon Islands,SLB,2003.0,2409.0,52.13,48.01
-"Somalia, Fed. Rep.",SOM,,,,
+Somalia,SOM,,,,
 South Africa,ZAF,2003.0,2929.0,75.7,79.01
+South Korea,KOR,,,,
 South Sudan,SSD,,,,
 Spain,ESP,2003.0,3297.0,113.76,149.34
 Sri Lanka,LKA,2003.0,2330.0,54.28,44.12
-St. Kitts and Nevis,KNA,,,,
-St. Lucia,LCA,,,,
-St. Vincent and the Grenadines,VCT,,,,
 Sudan,SDN,,,,
 Suriname,SUR,2003.0,2559.0,55.22,72.82
 Sweden,SWE,2003.0,3124.0,108.19,123.61
 Switzerland,CHE,2003.0,3432.0,93.7,153.96
-Syrian Arab Republic,SYR,,,,
+Syria,SYR,,,,
 Tajikistan,TJK,2003.0,1956.0,49.34,50.32
 Tanzania,TZA,,,,
 Thailand,THA,2003.0,2642.0,58.1,57.49
@@ -176,7 +177,7 @@ Togo,TGO,2003.0,2199.0,49.93,49.6
 Tonga,TON,,,,
 Trinidad and Tobago,TTO,2003.0,2749.0,69.68,80.7
 Tunisia,TUN,2003.0,3240.0,89.97,86.78
-Turkiye,TUR,,,,
+Turkey,TUR,,,,
 Turkmenistan,TKM,2003.0,2742.0,86.81,68.1
 Tuvalu,TUV,,,,
 Uganda,UGA,2003.0,2382.0,54.08,40.31
@@ -187,9 +188,8 @@ United States,USA,,,,
 Uruguay,URY,2003.0,2835.0,81.05,93.01
 Uzbekistan,UZB,2003.0,2351.0,71.04,62.22
 Vanuatu,VUT,2003.0,2753.0,63.92,93.29
-"Venezuela, RB",VEN,,,,
-Viet Nam,VNM,2003.0,2416.0,61.32,46.06
-West Bank and Gaza,PSE,,,,
-"Yemen, Rep.",YEM,,,,
+Venezuela,VEN,,,,
+Vietnam,VNM,,,,
+Yemen,YEM,2003.0,2067.0,58.53,45.2
 Zambia,ZMB,2003.0,1900.0,48.23,34.24
 Zimbabwe,ZWE,2003.0,2010.0,47.86,54.53

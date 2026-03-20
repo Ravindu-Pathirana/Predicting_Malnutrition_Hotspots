@@ -10,7 +10,7 @@ Armenia,ARM,2016.0,3126.97,107.27,104.39
 Australia,AUS,2016.0,3517.43,120.5,161.93
 Austria,AUT,2016.0,3721.98,109.72,168.6
 Azerbaijan,AZE,2016.0,3055.43,92.8,74.5
-"Bahamas, The",BHS,,,,
+Bahamas,BHS,2016.0,2602.25,94.51,91.45
 Bahrain,BHR,,,,
 Bangladesh,BGD,2016.0,2425.98,59.49,33.14
 Barbados,BRB,2016.0,3061.58,103.45,94.29
@@ -23,7 +23,7 @@ Bolivia,BOL,,,,
 Bosnia and Herzegovina,BIH,2016.0,3327.73,107.05,91.73
 Botswana,BWA,2016.0,2545.17,66.77,62.05
 Brazil,BRA,2016.0,3280.27,103.23,123.59
-Brunei Darussalam,BRN,,,,
+Brunei,BRN,,,,
 Bulgaria,BGR,2016.0,2845.91,90.5,96.92
 Burkina Faso,BFA,2016.0,2636.41,74.78,60.75
 Burundi,BDI,,,,
@@ -37,20 +37,20 @@ Chile,CHL,2016.0,2954.51,100.3,83.87
 China,CHN,2016.0,3221.75,117.5,87.82
 Colombia,COL,2016.0,3090.76,77.31,91.79
 Comoros,COM,2016.0,2506.62,65.82,68.07
-"Congo, Dem. Rep.",COD,,,,
-"Congo, Rep.",COG,,,,
+Congo,COG,2016.0,2099.19,48.07,51.33
 Costa Rica,CRI,2016.0,3020.16,81.39,103.83
 Cote d'Ivoire,CIV,,,,
 Croatia,HRV,2016.0,3211.42,98.39,116.2
 Cuba,CUB,2016.0,3475.65,99.76,77.07
 Cyprus,CYP,2016.0,2869.79,95.4,103.53
 Czechia,CZE,2016.0,3258.33,96.86,138.7
+Democratic Republic of the Congo,COD,2016.0,2085.97,29.3,25.43
 Denmark,DNK,2016.0,3670.16,123.75,159.28
 Djibouti,DJI,2016.0,2677.79,74.18,59.58
 Dominica,DMA,,,,
 Dominican Republic,DOM,2016.0,2890.5,70.42,108.29
 Ecuador,ECU,2016.0,2537.41,67.55,93.86
-"Egypt, Arab Rep.",EGY,,,,
+Egypt,EGY,2016.0,3138.96,90.07,56.28
 El Salvador,SLV,2016.0,2697.39,80.25,60.49
 Equatorial Guinea,GNQ,,,,
 Eritrea,ERI,,,,
@@ -61,7 +61,7 @@ Fiji,FJI,2016.0,2676.68,67.95,74.92
 Finland,FIN,2016.0,3269.8,120.23,132.03
 France,FRA,2016.0,3450.05,116.44,141.57
 Gabon,GAB,2016.0,2658.37,89.25,56.34
-"Gambia, The",GMB,,,,
+Gambia,GMB,2016.0,2554.73,62.73,62.84
 Georgia,GEO,2016.0,2814.57,81.84,75.37
 Germany,DEU,2016.0,3564.59,109.38,145.79
 Ghana,GHA,2016.0,2793.78,60.54,40.21
@@ -77,7 +77,7 @@ Hungary,HUN,2016.0,3201.08,90.53,144.93
 Iceland,ISL,2016.0,3578.9,148.18,164.59
 India,IND,2016.0,2472.94,65.04,53.67
 Indonesia,IDN,2016.0,2887.21,76.07,57.41
-"Iran, Islamic Rep.",IRN,,,,
+Iran,IRN,,,,
 Iraq,IRQ,2016.0,2603.62,68.28,73.16
 Ireland,IRL,2016.0,3814.63,117.85,140.23
 Israel,ISR,2016.0,3704.86,130.48,165.51
@@ -88,11 +88,9 @@ Jordan,JOR,2016.0,2754.3,75.72,86.1
 Kazakhstan,KAZ,2016.0,2900.37,89.53,116.1
 Kenya,KEN,2016.0,2174.69,59.68,43.55
 Kiribati,KIR,2016.0,3096.93,79.33,127.33
-"Korea, Dem. People's Rep.",PRK,,,,
-"Korea, Rep.",KOR,,,,
 Kuwait,KWT,2016.0,3447.78,108.47,104.86
-Kyrgyz Republic,KGZ,,,,
-Lao PDR,LAO,,,,
+Kyrgyzstan,KGZ,2016.0,2638.87,85.38,69.24
+Laos,LAO,,,,
 Latvia,LVA,2016.0,3222.04,109.22,124.81
 Lebanon,LBN,2016.0,2899.12,78.22,97.53
 Lesotho,LSO,2016.0,2096.03,56.68,42.23
@@ -111,7 +109,7 @@ Marshall Islands,MHL,,,,
 Mauritania,MRT,2016.0,2862.24,85.29,70.94
 Mauritius,MUS,2016.0,2953.44,93.4,92.62
 Mexico,MEX,2016.0,3199.79,94.66,96.09
-"Micronesia, Fed. Sts.",FSM,,,,
+Micronesia,FSM,,,,
 Moldova,MDA,,,,
 Monaco,MCO,,,,
 Mongolia,MNG,2016.0,2720.6,106.57,112.82
@@ -127,11 +125,13 @@ New Zealand,NZL,2016.0,3154.13,104.8,112.63
 Nicaragua,NIC,2016.0,2638.18,66.21,60.6
 Niger,NER,2016.0,2620.82,90.34,53.98
 Nigeria,NGA,2016.0,2561.62,60.9,62.2
+North Korea,PRK,,,,
 North Macedonia,MKD,2016.0,3226.11,92.06,109.23
 Norway,NOR,2016.0,3418.19,124.19,133.41
 Oman,OMN,2016.0,2956.25,91.15,78.32
 Pakistan,PAK,2016.0,2437.74,66.61,77.6
 Palau,PLW,,,,
+Palestine,PSE,,,,
 Panama,PAN,2016.0,2832.61,85.43,85.14
 Papua New Guinea,PNG,2016.0,2188.71,66.4,65.43
 Paraguay,PRY,2016.0,3069.47,68.48,94.76
@@ -141,8 +141,11 @@ Poland,POL,2016.0,3438.75,113.13,124.95
 Portugal,PRT,2016.0,3402.18,117.65,133.61
 Qatar,QAT,,,,
 Romania,ROU,2016.0,3580.34,113.78,126.64
-Russian Federation,RUS,2016.0,3389.48,110.89,114.06
+Russia,RUS,,,,
 Rwanda,RWA,2016.0,2220.79,59.05,28.14
+Saint Kitts and Nevis,KNA,2016.0,2855.94,101.02,111.67
+Saint Lucia,LCA,2016.0,2632.22,101.01,83.22
+Saint Vincent and the Grenadines,VCT,2016.0,2977.91,112.52,94.59
 Samoa,WSM,2016.0,3035.86,112.4,114.63
 San Marino,SMR,,,,
 Sao Tome and Principe,STP,2016.0,2357.43,55.95,65.62
@@ -152,22 +155,20 @@ Serbia,SRB,2016.0,3492.81,119.36,96.94
 Seychelles,SYC,2016.0,2894.48,97.54,84.76
 Sierra Leone,SLE,2016.0,2324.13,53.51,42.98
 Singapore,SGP,,,,
-Slovak Republic,SVK,,,,
+Slovakia,SVK,2016.0,2857.34,76.96,127.23
 Slovenia,SVN,2016.0,3227.73,106.98,117.55
 Solomon Islands,SLB,2016.0,2300.72,55.66,52.84
-"Somalia, Fed. Rep.",SOM,,,,
+Somalia,SOM,,,,
 South Africa,ZAF,2016.0,2818.74,80.78,85.51
+South Korea,KOR,,,,
 South Sudan,SSD,,,,
 Spain,ESP,2016.0,3280.58,110.69,149.79
 Sri Lanka,LKA,2016.0,2740.52,72.0,43.6
-St. Kitts and Nevis,KNA,,,,
-St. Lucia,LCA,,,,
-St. Vincent and the Grenadines,VCT,,,,
 Sudan,SDN,,,,
 Suriname,SUR,2016.0,2607.54,68.78,74.53
 Sweden,SWE,2016.0,3223.11,110.42,139.92
 Switzerland,CHE,2016.0,3382.64,99.4,155.35
-Syrian Arab Republic,SYR,2016.0,2683.93,73.64,86.63
+Syria,SYR,,,,
 Tajikistan,TJK,2016.0,2482.29,73.35,69.74
 Tanzania,TZA,,,,
 Thailand,THA,2016.0,2763.2,66.91,57.0
@@ -176,7 +177,7 @@ Togo,TGO,,,,
 Tonga,TON,,,,
 Trinidad and Tobago,TTO,2016.0,3031.18,94.28,98.47
 Tunisia,TUN,2016.0,3380.67,102.06,95.94
-Turkiye,TUR,,,,
+Turkey,TUR,,,,
 Turkmenistan,TKM,2016.0,2889.51,103.19,88.81
 Tuvalu,TUV,,,,
 Uganda,UGA,2016.0,1996.45,47.41,54.7
@@ -187,9 +188,8 @@ United States,USA,,,,
 Uruguay,URY,2016.0,3198.9,89.97,107.69
 Uzbekistan,UZB,2016.0,3262.88,104.59,95.23
 Vanuatu,VUT,2016.0,2919.94,79.2,114.92
-"Venezuela, RB",VEN,,,,
-Viet Nam,VNM,2016.0,2847.28,87.3,55.62
-West Bank and Gaza,PSE,,,,
-"Yemen, Rep.",YEM,,,,
+Venezuela,VEN,,,,
+Vietnam,VNM,,,,
+Yemen,YEM,2016.0,1832.72,48.7,34.52
 Zambia,ZMB,2016.0,2166.63,52.98,46.93
 Zimbabwe,ZWE,2016.0,2140.75,57.57,68.74
