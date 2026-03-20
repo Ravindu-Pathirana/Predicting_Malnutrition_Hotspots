@@ -1,0 +1,195 @@
+Country Name,Country Code,year,Food supply (kcal/capita/day),Protein supply quantity (g/capita/day),Fat supply quantity (g/capita/day)
+Afghanistan,AFG,2015.0,2251.27,63.93,38.94
+Albania,ALB,2015.0,3310.49,113.28,111.8
+Algeria,DZA,2015.0,3384.2,93.81,97.3
+Andorra,AND,,,,
+Angola,AGO,2015.0,2468.9,53.94,58.25
+Antigua and Barbuda,ATG,2015.0,2420.04,93.21,94.96
+Argentina,ARG,2015.0,3210.04,110.69,116.59
+Armenia,ARM,2015.0,3166.96,107.61,103.48
+Australia,AUS,2015.0,3500.05,119.6,161.19
+Austria,AUT,2015.0,3734.47,108.12,169.5
+Azerbaijan,AZE,2015.0,3016.72,92.25,73.29
+"Bahamas, The",BHS,,,,
+Bahrain,BHR,,,,
+Bangladesh,BGD,2015.0,2481.03,59.52,33.77
+Barbados,BRB,2015.0,3078.45,104.67,100.13
+Belarus,BLR,2015.0,3303.29,100.85,133.71
+Belgium,BEL,2015.0,3807.89,100.01,170.22
+Belize,BLZ,2015.0,2730.99,78.68,96.74
+Benin,BEN,,,,
+Bhutan,BTN,,,,
+Bolivia,BOL,,,,
+Bosnia and Herzegovina,BIH,2015.0,3293.02,106.01,89.28
+Botswana,BWA,2015.0,2532.12,66.59,59.7
+Brazil,BRA,2015.0,3299.99,103.49,123.8
+Brunei Darussalam,BRN,,,,
+Bulgaria,BGR,2015.0,2779.09,87.07,96.31
+Burkina Faso,BFA,2015.0,2645.45,75.16,61.92
+Burundi,BDI,,,,
+Cabo Verde,CPV,2015.0,2598.96,79.13,71.95
+Cambodia,KHM,2015.0,2641.9,60.02,31.79
+Cameroon,CMR,2015.0,2806.53,75.51,60.41
+Canada,CAN,2015.0,3504.89,106.57,160.69
+Central African Republic,CAF,,,,
+Chad,TCD,,,,
+Chile,CHL,2015.0,2925.52,96.88,84.29
+China,CHN,2015.0,3229.71,115.35,87.83
+Colombia,COL,2015.0,3075.32,77.14,92.26
+Comoros,COM,2015.0,2443.38,62.26,66.17
+"Congo, Dem. Rep.",COD,,,,
+"Congo, Rep.",COG,,,,
+Costa Rica,CRI,2015.0,2931.29,78.09,100.81
+Cote d'Ivoire,CIV,,,,
+Croatia,HRV,2015.0,3095.26,95.26,112.0
+Cuba,CUB,2015.0,3360.61,91.65,73.1
+Cyprus,CYP,2015.0,2910.25,96.53,99.9
+Czechia,CZE,2015.0,3133.55,95.39,126.07
+Denmark,DNK,2015.0,3700.48,123.03,160.53
+Djibouti,DJI,2015.0,2699.99,76.33,60.63
+Dominica,DMA,,,,
+Dominican Republic,DOM,2015.0,2795.61,67.62,102.77
+Ecuador,ECU,2015.0,2603.85,69.91,98.43
+"Egypt, Arab Rep.",EGY,,,,
+El Salvador,SLV,2015.0,2649.61,79.14,60.05
+Equatorial Guinea,GNQ,,,,
+Eritrea,ERI,,,,
+Estonia,EST,2015.0,3130.34,107.57,117.67
+Eswatini,SWZ,2015.0,2387.15,56.83,57.39
+Ethiopia,ETH,2015.0,2483.18,79.84,40.06
+Fiji,FJI,2015.0,2731.08,71.87,76.47
+Finland,FIN,2015.0,3240.32,119.78,130.26
+France,FRA,2015.0,3407.97,115.39,140.49
+Gabon,GAB,2015.0,2733.24,95.89,62.68
+"Gambia, The",GMB,,,,
+Georgia,GEO,2015.0,2877.4,84.18,76.54
+Germany,DEU,2015.0,3590.45,110.82,144.98
+Ghana,GHA,2015.0,2814.22,62.44,41.06
+Greece,GRC,2015.0,3402.75,106.46,150.87
+Grenada,GRD,2015.0,2511.53,81.52,88.08
+Guatemala,GTM,2015.0,2526.26,69.55,63.42
+Guinea,GIN,2015.0,2609.87,52.87,69.24
+Guinea-Bissau,GNB,2015.0,2169.82,45.07,72.78
+Guyana,GUY,2015.0,2996.37,101.11,53.89
+Haiti,HTI,2015.0,2224.2,52.32,50.06
+Honduras,HND,2015.0,2578.47,58.49,78.71
+Hungary,HUN,2015.0,3177.0,88.7,142.82
+Iceland,ISL,2015.0,3471.9,148.17,156.66
+India,IND,2015.0,2422.59,63.13,53.97
+Indonesia,IDN,2015.0,2812.49,75.5,45.8
+"Iran, Islamic Rep.",IRN,,,,
+Iraq,IRQ,2015.0,2581.89,66.33,71.45
+Ireland,IRL,2015.0,3762.43,117.55,143.6
+Israel,ISR,2015.0,3660.71,128.21,154.77
+Italy,ITA,2015.0,3521.33,111.98,149.89
+Jamaica,JAM,2015.0,2822.52,83.46,78.81
+Japan,JPN,,,,
+Jordan,JOR,2015.0,2791.67,75.7,91.12
+Kazakhstan,KAZ,2015.0,2875.59,87.15,115.53
+Kenya,KEN,2015.0,2236.16,61.03,44.62
+Kiribati,KIR,2015.0,3108.93,78.38,130.21
+"Korea, Dem. People's Rep.",PRK,,,,
+"Korea, Rep.",KOR,,,,
+Kuwait,KWT,2015.0,3542.33,111.72,108.65
+Kyrgyz Republic,KGZ,,,,
+Lao PDR,LAO,,,,
+Latvia,LVA,2015.0,3212.08,105.42,126.47
+Lebanon,LBN,2015.0,2890.69,78.26,95.29
+Lesotho,LSO,2015.0,2085.25,56.13,45.96
+Liberia,LBR,2015.0,2097.57,41.76,58.49
+Libya,LBY,2015.0,2960.95,91.31,93.15
+Liechtenstein,LIE,,,,
+Lithuania,LTU,2015.0,3381.43,122.37,102.38
+Luxembourg,LUX,2015.0,3377.27,114.45,131.16
+Madagascar,MDG,2015.0,2012.18,41.48,22.39
+Malawi,MWI,2015.0,2602.76,62.31,39.11
+Malaysia,MYS,2015.0,2877.24,92.23,96.93
+Maldives,MDV,2015.0,2735.55,116.79,64.67
+Mali,MLI,,,,
+Malta,MLT,2015.0,3499.17,116.28,127.33
+Marshall Islands,MHL,,,,
+Mauritania,MRT,2015.0,2892.49,85.82,72.15
+Mauritius,MUS,2015.0,2969.78,93.68,93.23
+Mexico,MEX,2015.0,3172.1,93.65,94.49
+"Micronesia, Fed. Sts.",FSM,,,,
+Moldova,MDA,,,,
+Monaco,MCO,,,,
+Mongolia,MNG,2015.0,2688.93,106.03,117.82
+Montenegro,MNE,2015.0,3394.03,118.0,127.68
+Morocco,MAR,2015.0,3380.86,101.79,68.16
+Mozambique,MOZ,2015.0,1922.69,41.66,37.94
+Myanmar,MMR,2015.0,2775.75,98.0,75.32
+Namibia,NAM,2015.0,2465.45,67.16,66.06
+Nauru,NRU,,,,
+Nepal,NPL,2015.0,2690.62,73.46,55.67
+Netherlands,NLD,,,,
+New Zealand,NZL,2015.0,3194.48,100.79,113.73
+Nicaragua,NIC,2015.0,2557.63,64.44,58.51
+Niger,NER,2015.0,2586.67,87.6,51.72
+Nigeria,NGA,2015.0,2560.7,60.04,62.92
+North Macedonia,MKD,2015.0,3171.69,91.11,106.5
+Norway,NOR,2015.0,3458.95,125.55,134.96
+Oman,OMN,2015.0,3023.53,93.75,76.12
+Pakistan,PAK,2015.0,2379.4,67.78,80.06
+Palau,PLW,,,,
+Panama,PAN,2015.0,2794.42,83.9,84.77
+Papua New Guinea,PNG,2015.0,2172.88,65.84,67.01
+Paraguay,PRY,2015.0,3096.11,67.81,95.52
+Peru,PER,2015.0,2763.82,83.23,59.19
+Philippines,PHL,2015.0,2510.83,68.44,49.88
+Poland,POL,2015.0,3358.97,110.29,122.82
+Portugal,PRT,2015.0,3463.6,117.18,138.12
+Qatar,QAT,,,,
+Romania,ROU,2015.0,3537.66,113.06,124.33
+Russian Federation,RUS,2015.0,3413.51,112.24,111.5
+Rwanda,RWA,2015.0,2080.62,56.39,24.65
+Samoa,WSM,2015.0,2990.19,105.42,106.69
+San Marino,SMR,,,,
+Sao Tome and Principe,STP,2015.0,2313.82,54.98,66.3
+Saudi Arabia,SAU,2015.0,3498.21,101.26,108.2
+Senegal,SEN,2015.0,2468.2,60.9,66.27
+Serbia,SRB,2015.0,3494.44,119.47,98.61
+Seychelles,SYC,2015.0,2857.84,93.26,81.4
+Sierra Leone,SLE,2015.0,2404.92,55.69,47.44
+Singapore,SGP,,,,
+Slovak Republic,SVK,,,,
+Slovenia,SVN,2015.0,3229.93,105.39,114.58
+Solomon Islands,SLB,2015.0,2309.32,56.82,50.5
+"Somalia, Fed. Rep.",SOM,,,,
+South Africa,ZAF,2015.0,2801.23,79.89,83.52
+South Sudan,SSD,,,,
+Spain,ESP,2015.0,3203.05,109.02,147.13
+Sri Lanka,LKA,2015.0,3006.08,78.12,44.5
+St. Kitts and Nevis,KNA,,,,
+St. Lucia,LCA,,,,
+St. Vincent and the Grenadines,VCT,,,,
+Sudan,SDN,,,,
+Suriname,SUR,2015.0,2623.42,68.31,74.95
+Sweden,SWE,2015.0,3229.33,112.31,139.07
+Switzerland,CHE,2015.0,3418.87,100.47,159.03
+Syrian Arab Republic,SYR,2015.0,2798.46,76.15,95.71
+Tajikistan,TJK,2015.0,2421.44,71.2,66.38
+Tanzania,TZA,,,,
+Thailand,THA,2015.0,2775.64,67.28,56.2
+Timor-Leste,TLS,2015.0,2298.89,62.38,56.45
+Togo,TGO,,,,
+Tonga,TON,,,,
+Trinidad and Tobago,TTO,2015.0,3046.56,95.96,96.02
+Tunisia,TUN,2015.0,3389.07,101.76,98.37
+Turkiye,TUR,,,,
+Turkmenistan,TKM,2015.0,2912.17,102.32,93.27
+Tuvalu,TUV,,,,
+Uganda,UGA,2015.0,2265.16,55.53,55.58
+Ukraine,UKR,2015.0,3023.2,91.13,82.29
+United Arab Emirates,ARE,2015.0,3278.78,92.94,119.98
+United Kingdom,GBR,,,,
+United States,USA,,,,
+Uruguay,URY,2015.0,3176.76,93.43,107.42
+Uzbekistan,UZB,2015.0,3247.05,103.71,92.85
+Vanuatu,VUT,2015.0,2913.43,78.34,123.62
+"Venezuela, RB",VEN,,,,
+Viet Nam,VNM,2015.0,2822.85,86.03,53.95
+West Bank and Gaza,PSE,,,,
+"Yemen, Rep.",YEM,,,,
+Zambia,ZMB,2015.0,2105.61,53.2,50.51
+Zimbabwe,ZWE,2015.0,2075.47,56.34,67.17

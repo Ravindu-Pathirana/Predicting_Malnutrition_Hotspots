@@ -1,0 +1,195 @@
+Country Name,Country Code,year,Food supply (kcal/capita/day),Protein supply quantity (g/capita/day),Fat supply quantity (g/capita/day)
+Afghanistan,AFG,2006.0,1966.0,53.46,31.13
+Albania,ALB,2006.0,2855.0,97.63,91.55
+Algeria,DZA,2006.0,3047.0,83.73,68.66
+Andorra,AND,,,,
+Angola,AGO,2006.0,2119.0,45.88,45.52
+Antigua and Barbuda,ATG,,,,
+Argentina,ARG,2006.0,3114.0,98.26,107.32
+Armenia,ARM,2006.0,2757.0,80.89,66.44
+Australia,AUS,2006.0,3156.0,104.6,143.42
+Austria,AUT,2006.0,3719.0,101.46,162.3
+Azerbaijan,AZE,2006.0,3006.0,86.7,49.4
+"Bahamas, The",BHS,,,,
+Bahrain,BHR,,,,
+Bangladesh,BGD,2006.0,2372.0,51.86,29.16
+Barbados,BRB,2006.0,2838.0,87.04,87.75
+Belarus,BLR,2006.0,3084.0,90.99,112.32
+Belgium,BEL,2006.0,3716.0,100.12,163.62
+Belize,BLZ,2006.0,2800.0,73.21,71.98
+Benin,BEN,2006.0,2450.0,58.14,42.89
+Bhutan,BTN,,,,
+Bolivia,BOL,,,,
+Bosnia and Herzegovina,BIH,2006.0,3016.0,86.62,68.1
+Botswana,BWA,2006.0,2150.0,57.24,53.84
+Brazil,BRA,2006.0,3096.0,84.39,105.28
+Brunei Darussalam,BRN,2006.0,2971.0,86.43,77.38
+Bulgaria,BGR,2006.0,2759.0,79.75,92.99
+Burkina Faso,BFA,2006.0,2559.0,75.26,56.04
+Burundi,BDI,,,,
+Cabo Verde,CPV,2006.0,2513.0,67.77,70.22
+Cambodia,KHM,2006.0,2377.0,61.33,36.22
+Cameroon,CMR,2006.0,2354.0,62.56,51.73
+Canada,CAN,2006.0,3470.0,103.53,143.19
+Central African Republic,CAF,2006.0,2029.0,49.43,65.86
+Chad,TCD,2006.0,2022.0,62.65,55.56
+Chile,CHL,2006.0,2957.0,87.73,86.69
+China,CHN,2006.0,2886.0,87.24,85.38
+Colombia,COL,2006.0,2770.0,63.83,75.6
+Comoros,COM,,,,
+"Congo, Dem. Rep.",COD,,,,
+"Congo, Rep.",COG,,,,
+Costa Rica,CRI,2006.0,2873.0,72.98,86.23
+Cote d'Ivoire,CIV,,,,
+Croatia,HRV,2006.0,3070.0,80.49,114.75
+Cuba,CUB,2006.0,3260.0,80.34,62.46
+Cyprus,CYP,2006.0,2559.0,76.29,117.48
+Czechia,CZE,2006.0,3279.0,95.26,137.7
+Denmark,DNK,2006.0,3407.0,112.93,130.9
+Djibouti,DJI,2006.0,2314.0,59.99,64.97
+Dominica,DMA,2006.0,2917.0,87.97,76.24
+Dominican Republic,DOM,2006.0,2367.0,54.78,80.09
+Ecuador,ECU,2006.0,2229.0,57.58,86.28
+"Egypt, Arab Rep.",EGY,,,,
+El Salvador,SLV,2006.0,2577.0,70.9,62.67
+Equatorial Guinea,GNQ,,,,
+Eritrea,ERI,,,,
+Estonia,EST,2006.0,3203.0,93.64,94.98
+Eswatini,SWZ,2006.0,2325.0,61.21,48.43
+Ethiopia,ETH,2006.0,1967.0,56.48,21.42
+Fiji,FJI,2006.0,2949.0,77.26,95.82
+Finland,FIN,2006.0,3237.0,108.12,129.1
+France,FRA,2006.0,3513.0,110.98,162.86
+Gabon,GAB,2006.0,2716.0,81.87,59.07
+"Gambia, The",GMB,,,,
+Georgia,GEO,2006.0,2864.0,75.82,65.14
+Germany,DEU,2006.0,3466.0,99.18,140.72
+Ghana,GHA,2006.0,2824.0,61.17,47.99
+Greece,GRC,2006.0,3485.0,113.64,148.22
+Grenada,GRD,2006.0,2400.0,77.94,89.65
+Guatemala,GTM,2006.0,2415.0,61.75,58.16
+Guinea,GIN,2006.0,2503.0,52.49,58.66
+Guinea-Bissau,GNB,2006.0,2253.0,43.38,56.41
+Guyana,GUY,2006.0,2660.0,72.13,55.9
+Haiti,HTI,2006.0,1942.0,43.48,36.54
+Honduras,HND,2006.0,2530.0,64.81,71.46
+Hungary,HUN,2006.0,3278.0,90.4,139.09
+Iceland,ISL,2006.0,3401.0,134.74,149.05
+India,IND,2006.0,2334.0,55.91,49.32
+Indonesia,IDN,2006.0,2483.0,54.99,49.57
+"Iran, Islamic Rep.",IRN,,,,
+Iraq,IRQ,2006.0,2374.0,54.77,55.2
+Ireland,IRL,2006.0,3503.0,114.19,125.44
+Israel,ISR,2006.0,3624.0,130.06,150.24
+Italy,ITA,2006.0,3625.0,110.88,156.45
+Jamaica,JAM,2006.0,2792.0,77.08,86.58
+Japan,JPN,2006.0,2778.0,90.16,89.44
+Jordan,JOR,2006.0,3153.0,80.14,93.6
+Kazakhstan,KAZ,2006.0,3073.0,92.55,109.6
+Kenya,KEN,2006.0,2161.0,60.76,48.61
+Kiribati,KIR,2006.0,2903.0,73.08,100.37
+"Korea, Dem. People's Rep.",PRK,,,,
+"Korea, Rep.",KOR,,,,
+Kuwait,KWT,2006.0,3587.0,112.37,122.88
+Kyrgyz Republic,KGZ,,,,
+Lao PDR,LAO,,,,
+Latvia,LVA,2006.0,3213.0,90.76,128.18
+Lebanon,LBN,2006.0,3128.0,83.75,110.84
+Lesotho,LSO,2006.0,2595.0,73.83,35.28
+Liberia,LBR,2006.0,2116.0,34.1,58.53
+Libya,LBY,,,,
+Liechtenstein,LIE,,,,
+Lithuania,LTU,2006.0,3466.0,118.88,101.33
+Luxembourg,LUX,2006.0,3505.0,109.84,146.63
+Madagascar,MDG,2006.0,2083.0,48.36,28.74
+Malawi,MWI,2006.0,2269.0,59.04,32.59
+Malaysia,MYS,2006.0,2809.0,79.11,83.75
+Maldives,MDV,2006.0,2388.0,82.33,55.85
+Mali,MLI,2006.0,2654.0,73.86,59.99
+Malta,MLT,2006.0,3368.0,111.14,111.27
+Marshall Islands,MHL,,,,
+Mauritania,MRT,2006.0,2603.0,76.09,71.36
+Mauritius,MUS,2006.0,3022.0,83.14,88.79
+Mexico,MEX,2006.0,3079.0,88.02,89.21
+"Micronesia, Fed. Sts.",FSM,,,,
+Moldova,MDA,,,,
+Monaco,MCO,,,,
+Mongolia,MNG,2006.0,2288.0,72.68,77.12
+Montenegro,MNE,2006.0,3276.0,101.08,117.25
+Morocco,MAR,2006.0,3271.0,92.53,62.27
+Mozambique,MOZ,2006.0,2111.0,43.45,36.99
+Myanmar,MMR,2006.0,2207.0,65.87,51.75
+Namibia,NAM,2006.0,2230.0,63.05,53.25
+Nauru,NRU,,,,
+Nepal,NPL,2006.0,2378.0,61.22,40.5
+Netherlands,NLD,,,,
+New Zealand,NZL,2006.0,3151.0,93.92,118.45
+Nicaragua,NIC,2006.0,2412.0,62.84,58.26
+Niger,NER,2006.0,2442.0,75.44,52.24
+Nigeria,NGA,2006.0,2725.0,63.3,67.54
+North Macedonia,MKD,2006.0,2827.0,73.12,108.39
+Norway,NOR,2006.0,3446.0,105.0,149.23
+Oman,OMN,2006.0,2768.0,75.62,74.31
+Pakistan,PAK,2006.0,2381.0,60.55,71.13
+Palau,PLW,,,,
+Panama,PAN,2006.0,2347.0,68.31,61.91
+Papua New Guinea,PNG,,,,
+Paraguay,PRY,2006.0,2621.0,70.63,91.67
+Peru,PER,2006.0,2433.0,67.76,40.67
+Philippines,PHL,2006.0,2514.0,58.42,48.37
+Poland,POL,2006.0,3353.0,98.72,112.39
+Portugal,PRT,2006.0,3521.0,113.5,136.47
+Qatar,QAT,,,,
+Romania,ROU,2006.0,3430.0,108.92,105.88
+Russian Federation,RUS,2006.0,3247.0,95.28,91.04
+Rwanda,RWA,2006.0,2044.0,50.01,24.09
+Samoa,WSM,2006.0,2860.0,75.75,130.93
+San Marino,SMR,,,,
+Sao Tome and Principe,STP,2006.0,2554.0,57.98,74.03
+Saudi Arabia,SAU,2006.0,3045.0,83.58,85.59
+Senegal,SEN,2006.0,2310.0,58.11,62.74
+Serbia,SRB,2006.0,2750.0,77.92,85.58
+Seychelles,SYC,,,,
+Sierra Leone,SLE,2006.0,2155.0,51.51,54.65
+Singapore,SGP,,,,
+Slovak Republic,SVK,,,,
+Slovenia,SVN,2006.0,3120.0,98.18,118.94
+Solomon Islands,SLB,2006.0,2458.0,54.17,50.24
+"Somalia, Fed. Rep.",SOM,,,,
+South Africa,ZAF,2006.0,2927.0,79.73,80.43
+South Sudan,SSD,,,,
+Spain,ESP,2006.0,3227.0,110.17,144.94
+Sri Lanka,LKA,2006.0,2376.0,54.0,45.29
+St. Kitts and Nevis,KNA,,,,
+St. Lucia,LCA,,,,
+St. Vincent and the Grenadines,VCT,,,,
+Sudan,SDN,,,,
+Suriname,SUR,2006.0,2632.0,58.86,73.95
+Sweden,SWE,2006.0,3091.0,107.69,122.03
+Switzerland,CHE,2006.0,3432.0,92.23,158.01
+Syrian Arab Republic,SYR,,,,
+Tajikistan,TJK,2006.0,2063.0,51.6,54.06
+Tanzania,TZA,,,,
+Thailand,THA,2006.0,2796.0,60.68,58.33
+Timor-Leste,TLS,2006.0,2038.0,54.13,39.74
+Togo,TGO,2006.0,2283.0,52.57,46.97
+Tonga,TON,,,,
+Trinidad and Tobago,TTO,2006.0,2801.0,72.33,80.81
+Tunisia,TUN,2006.0,3273.0,89.64,91.37
+Turkiye,TUR,,,,
+Turkmenistan,TKM,2006.0,2835.0,88.93,68.81
+Tuvalu,TUV,,,,
+Uganda,UGA,2006.0,2276.0,50.77,44.69
+Ukraine,UKR,2006.0,3244.0,89.08,91.08
+United Arab Emirates,ARE,2006.0,3202.0,103.32,82.28
+United Kingdom,GBR,,,,
+United States,USA,,,,
+Uruguay,URY,2006.0,2823.0,80.22,90.15
+Uzbekistan,UZB,2006.0,2556.0,75.27,66.87
+Vanuatu,VUT,2006.0,2800.0,65.41,95.38
+"Venezuela, RB",VEN,,,,
+Viet Nam,VNM,2006.0,2483.0,64.69,58.42
+West Bank and Gaza,PSE,,,,
+"Yemen, Rep.",YEM,,,,
+Zambia,ZMB,2006.0,1838.0,46.81,33.98
+Zimbabwe,ZWE,2006.0,2115.0,51.37,54.69

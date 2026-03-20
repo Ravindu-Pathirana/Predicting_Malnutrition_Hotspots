@@ -1,0 +1,195 @@
+Country Name,Country Code,year,Food supply (kcal/capita/day),Protein supply quantity (g/capita/day),Fat supply quantity (g/capita/day)
+Afghanistan,AFG,2017.0,2307.21,65.33,40.86
+Albania,ALB,2017.0,3354.93,116.34,118.11
+Algeria,DZA,2017.0,3349.87,91.18,100.33
+Andorra,AND,,,,
+Angola,AGO,2017.0,2449.86,52.91,58.59
+Antigua and Barbuda,ATG,2017.0,2448.38,95.42,93.78
+Argentina,ARG,2017.0,3178.47,109.78,115.26
+Armenia,ARM,2017.0,3064.87,105.43,108.42
+Australia,AUS,2017.0,3472.98,117.43,158.75
+Austria,AUT,2017.0,3761.97,107.81,172.47
+Azerbaijan,AZE,2017.0,3111.73,95.09,79.32
+"Bahamas, The",BHS,,,,
+Bahrain,BHR,,,,
+Bangladesh,BGD,2017.0,2488.05,61.19,34.02
+Barbados,BRB,2017.0,3032.73,103.47,93.73
+Belarus,BLR,2017.0,3314.59,101.29,134.61
+Belgium,BEL,2017.0,3795.17,99.66,171.99
+Belize,BLZ,2017.0,2777.86,77.48,94.62
+Benin,BEN,,,,
+Bhutan,BTN,,,,
+Bolivia,BOL,,,,
+Bosnia and Herzegovina,BIH,2017.0,3304.25,106.23,92.9
+Botswana,BWA,2017.0,2572.09,64.1,60.22
+Brazil,BRA,2017.0,3296.82,104.43,124.05
+Brunei Darussalam,BRN,,,,
+Bulgaria,BGR,2017.0,2855.27,90.99,97.69
+Burkina Faso,BFA,2017.0,2610.01,73.04,61.45
+Burundi,BDI,,,,
+Cabo Verde,CPV,2017.0,2710.05,83.42,71.58
+Cambodia,KHM,2017.0,2673.85,61.58,35.33
+Cameroon,CMR,2017.0,2779.0,73.75,59.24
+Canada,CAN,2017.0,3569.68,113.57,159.02
+Central African Republic,CAF,,,,
+Chad,TCD,,,,
+Chile,CHL,2017.0,2956.5,100.96,83.84
+China,CHN,2017.0,3258.41,118.59,88.6
+Colombia,COL,2017.0,3052.02,78.48,96.9
+Comoros,COM,2017.0,2495.3,64.9,67.9
+"Congo, Dem. Rep.",COD,,,,
+"Congo, Rep.",COG,,,,
+Costa Rica,CRI,2017.0,3056.04,82.47,112.4
+Cote d'Ivoire,CIV,,,,
+Croatia,HRV,2017.0,3174.85,100.2,115.74
+Cuba,CUB,2017.0,3459.98,99.73,78.18
+Cyprus,CYP,2017.0,2863.39,95.27,106.54
+Czechia,CZE,2017.0,3298.72,95.19,142.46
+Denmark,DNK,2017.0,3656.42,123.4,155.66
+Djibouti,DJI,2017.0,2703.37,72.33,62.21
+Dominica,DMA,,,,
+Dominican Republic,DOM,2017.0,2939.87,71.56,109.56
+Ecuador,ECU,2017.0,2549.78,67.13,96.44
+"Egypt, Arab Rep.",EGY,,,,
+El Salvador,SLV,2017.0,2750.76,80.2,66.39
+Equatorial Guinea,GNQ,,,,
+Eritrea,ERI,,,,
+Estonia,EST,2017.0,3101.95,106.54,116.96
+Eswatini,SWZ,2017.0,2412.58,58.34,52.38
+Ethiopia,ETH,2017.0,2523.13,80.27,37.06
+Fiji,FJI,2017.0,2726.68,75.92,86.65
+Finland,FIN,2017.0,3269.79,120.93,131.16
+France,FRA,2017.0,3452.03,118.11,143.15
+Gabon,GAB,2017.0,2610.08,88.16,60.12
+"Gambia, The",GMB,,,,
+Georgia,GEO,2017.0,2891.54,84.08,77.85
+Germany,DEU,2017.0,3554.88,108.84,147.02
+Ghana,GHA,2017.0,2888.48,63.17,40.81
+Greece,GRC,2017.0,3371.83,105.55,151.51
+Grenada,GRD,2017.0,2602.03,91.69,91.53
+Guatemala,GTM,2017.0,2606.19,71.08,63.45
+Guinea,GIN,2017.0,2664.44,53.76,69.21
+Guinea-Bissau,GNB,2017.0,2603.11,56.11,81.89
+Guyana,GUY,2017.0,3048.12,98.43,58.15
+Haiti,HTI,2017.0,2183.03,52.45,51.07
+Honduras,HND,2017.0,2613.8,60.2,80.01
+Hungary,HUN,2017.0,3236.5,91.64,147.41
+Iceland,ISL,2017.0,3633.78,152.54,167.07
+India,IND,2017.0,2513.81,66.78,56.69
+Indonesia,IDN,2017.0,2950.85,80.78,61.53
+"Iran, Islamic Rep.",IRN,,,,
+Iraq,IRQ,2017.0,2624.16,71.56,68.1
+Ireland,IRL,2017.0,3947.62,126.04,153.08
+Israel,ISR,2017.0,3738.66,130.82,165.29
+Italy,ITA,2017.0,3530.86,112.71,151.26
+Jamaica,JAM,2017.0,2850.57,83.85,81.14
+Japan,JPN,,,,
+Jordan,JOR,2017.0,2719.21,72.4,85.79
+Kazakhstan,KAZ,2017.0,2986.28,93.68,119.1
+Kenya,KEN,2017.0,2192.95,58.87,49.07
+Kiribati,KIR,2017.0,3066.99,79.84,126.68
+"Korea, Dem. People's Rep.",PRK,,,,
+"Korea, Rep.",KOR,,,,
+Kuwait,KWT,2017.0,3413.71,108.0,104.5
+Kyrgyz Republic,KGZ,,,,
+Lao PDR,LAO,,,,
+Latvia,LVA,2017.0,3227.63,108.27,129.23
+Lebanon,LBN,2017.0,2901.65,81.12,96.14
+Lesotho,LSO,2017.0,2167.48,60.18,44.54
+Liberia,LBR,2017.0,2153.49,44.91,54.21
+Libya,LBY,2017.0,2957.46,84.02,104.5
+Liechtenstein,LIE,,,,
+Lithuania,LTU,2017.0,3411.81,126.7,105.72
+Luxembourg,LUX,2017.0,3367.06,111.79,133.28
+Madagascar,MDG,2017.0,1981.29,41.5,23.17
+Malawi,MWI,2017.0,2582.53,63.94,42.82
+Malaysia,MYS,2017.0,2894.42,91.86,98.79
+Maldives,MDV,2017.0,2680.02,104.61,66.76
+Mali,MLI,,,,
+Malta,MLT,2017.0,3521.7,117.41,125.73
+Marshall Islands,MHL,,,,
+Mauritania,MRT,2017.0,2870.1,83.87,73.47
+Mauritius,MUS,2017.0,2988.68,94.41,97.66
+Mexico,MEX,2017.0,3209.96,95.34,97.13
+"Micronesia, Fed. Sts.",FSM,,,,
+Moldova,MDA,,,,
+Monaco,MCO,,,,
+Mongolia,MNG,2017.0,2651.09,106.31,116.02
+Montenegro,MNE,2017.0,3516.36,123.89,132.85
+Morocco,MAR,2017.0,3367.77,101.8,69.88
+Mozambique,MOZ,2017.0,1949.24,42.97,40.51
+Myanmar,MMR,2017.0,2808.31,99.8,75.77
+Namibia,NAM,2017.0,2450.73,67.45,66.59
+Nauru,NRU,,,,
+Nepal,NPL,2017.0,2846.61,77.42,63.46
+Netherlands,NLD,,,,
+New Zealand,NZL,2017.0,3126.8,98.72,112.38
+Nicaragua,NIC,2017.0,2668.11,66.7,64.57
+Niger,NER,2017.0,2601.04,88.7,53.46
+Nigeria,NGA,2017.0,2558.58,61.89,64.8
+North Macedonia,MKD,2017.0,3248.39,94.15,111.01
+Norway,NOR,2017.0,3417.89,126.5,131.89
+Oman,OMN,2017.0,3032.07,93.81,79.45
+Pakistan,PAK,2017.0,2522.88,69.95,86.33
+Palau,PLW,,,,
+Panama,PAN,2017.0,2876.94,85.57,84.81
+Papua New Guinea,PNG,2017.0,2197.46,66.25,63.59
+Paraguay,PRY,2017.0,3103.42,74.12,96.1
+Peru,PER,2017.0,2766.51,84.06,60.76
+Philippines,PHL,2017.0,2636.43,71.67,56.52
+Poland,POL,2017.0,3489.2,114.14,125.37
+Portugal,PRT,2017.0,3424.56,119.61,133.34
+Qatar,QAT,,,,
+Romania,ROU,2017.0,3596.99,113.72,127.44
+Russian Federation,RUS,2017.0,3420.61,112.56,114.62
+Rwanda,RWA,2017.0,2283.37,59.79,29.26
+Samoa,WSM,2017.0,3016.95,106.88,112.9
+San Marino,SMR,,,,
+Sao Tome and Principe,STP,2017.0,2356.68,54.79,66.74
+Saudi Arabia,SAU,2017.0,3575.82,99.0,109.85
+Senegal,SEN,2017.0,2561.4,63.94,69.35
+Serbia,SRB,2017.0,3519.72,120.91,102.47
+Seychelles,SYC,2017.0,2818.74,97.85,82.64
+Sierra Leone,SLE,2017.0,2356.59,54.42,42.32
+Singapore,SGP,,,,
+Slovak Republic,SVK,,,,
+Slovenia,SVN,2017.0,3259.58,106.13,118.3
+Solomon Islands,SLB,2017.0,2341.7,56.96,51.27
+"Somalia, Fed. Rep.",SOM,,,,
+South Africa,ZAF,2017.0,2835.26,79.5,86.47
+South Sudan,SSD,,,,
+Spain,ESP,2017.0,3297.49,110.2,151.7
+Sri Lanka,LKA,2017.0,2616.23,71.82,42.18
+St. Kitts and Nevis,KNA,,,,
+St. Lucia,LCA,,,,
+St. Vincent and the Grenadines,VCT,,,,
+Sudan,SDN,,,,
+Suriname,SUR,2017.0,2606.19,68.45,73.84
+Sweden,SWE,2017.0,3200.74,109.91,135.74
+Switzerland,CHE,2017.0,3410.72,99.64,155.66
+Syrian Arab Republic,SYR,2017.0,2623.56,71.0,89.39
+Tajikistan,TJK,2017.0,2554.45,76.54,77.56
+Tanzania,TZA,,,,
+Thailand,THA,2017.0,2751.94,66.4,59.51
+Timor-Leste,TLS,2017.0,2307.63,65.68,57.19
+Togo,TGO,,,,
+Tonga,TON,,,,
+Trinidad and Tobago,TTO,2017.0,3048.4,94.34,97.94
+Tunisia,TUN,2017.0,3394.91,101.26,98.6
+Turkiye,TUR,,,,
+Turkmenistan,TKM,2017.0,2896.31,104.26,85.69
+Tuvalu,TUV,,,,
+Uganda,UGA,2017.0,2121.32,49.77,56.27
+Ukraine,UKR,2017.0,2982.75,92.96,81.91
+United Arab Emirates,ARE,2017.0,3161.19,89.8,114.86
+United Kingdom,GBR,,,,
+United States,USA,,,,
+Uruguay,URY,2017.0,3222.34,92.53,110.59
+Uzbekistan,UZB,2017.0,3196.93,102.2,97.15
+Vanuatu,VUT,2017.0,2960.61,80.84,114.33
+"Venezuela, RB",VEN,,,,
+Viet Nam,VNM,2017.0,2862.37,88.83,56.66
+West Bank and Gaza,PSE,,,,
+"Yemen, Rep.",YEM,,,,
+Zambia,ZMB,2017.0,2214.6,52.2,48.31
+Zimbabwe,ZWE,2017.0,2180.83,57.78,65.51
