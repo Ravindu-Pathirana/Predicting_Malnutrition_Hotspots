@@ -1,0 +1,195 @@
+Country Name,Country Code,Year,Prevalance of Anemia %
+Afghanistan,AFG,2015,32.9
+Albania,ALB,2015,23.5
+Algeria,DZA,2015,33.2
+Andorra,AND,2015,17.0
+Angola,AGO,2015,45.2
+Antigua and Barbuda,ATG,2015,24.0
+Argentina,ARG,2015,26.5
+Armenia,ARM,2015,22.3
+Australia,AUS,2015,15.1
+Austria,AUT,2015,17.1
+Azerbaijan,AZE,2015,33.6
+Bahamas,BHS,2015,22.8
+Bahrain,BHR,2015,29.7
+Bangladesh,BGD,2015,41.2
+Barbados,BRB,2015,24.3
+Belarus,BLR,2015,24.1
+Belgium,BEL,2015,13.9
+Belize,BLZ,2015,25.5
+Benin,BEN,2015,60.0
+Bhutan,BTN,2015,34.2
+Bolivia,BOL,2015,28.0
+Bosnia and Herzegovina,BIH,2015,26.3
+Botswana,BWA,2015,30.5
+Brazil,BRA,2015,21.5
+Brunei,BRN,2015,22.1
+Bulgaria,BGR,2015,25.4
+Burkina Faso,BFA,2015,51.6
+Burundi,BDI,2015,39.1
+Cabo Verde,CPV,2015,44.4
+Cambodia,KHM,2015,45.5
+Cameroon,CMR,2015,41.7
+Canada,CAN,2015,15.7
+Central African Republic,CAF,2015,48.3
+Chad,TCD,2015,53.3
+Chile,CHL,2015,22.0
+China,CHN,2015,16.9
+Colombia,COL,2015,25.6
+Comoros,COM,2015,34.9
+Congo,COG,2015,49.5
+Costa Rica,CRI,2015,21.8
+Cote d'Ivoire,CIV,2015,55.3
+Croatia,HRV,2015,24.7
+Cuba,CUB,2015,25.7
+Cyprus,CYP,2015,17.5
+Czechia,CZE,2015,24.8
+Democratic Republic of the Congo,COD,2015,44.5
+Denmark,DNK,2015,17.3
+Djibouti,DJI,2015,36.1
+Dominica,DMA,2015,26.4
+Dominican Republic,DOM,2015,26.3
+Ecuador,ECU,2015,28.1
+Egypt,EGY,2015,31.0
+El Salvador,SLV,2015,22.0
+Equatorial Guinea,GNQ,2015,43.3
+Eritrea,ERI,2015,39.9
+Estonia,EST,2015,24.7
+Eswatini,SWZ,2015,28.6
+Ethiopia,ETH,2015,25.1
+Fiji,FJI,2015,32.3
+Finland,FIN,2015,15.8
+France,FRA,2015,14.5
+Gabon,GAB,2015,54.3
+Gambia,GMB,2015,59.2
+Georgia,GEO,2015,30.9
+Germany,DEU,2015,15.9
+Ghana,GHA,2015,47.1
+Greece,GRC,2015,17.3
+Grenada,GRD,2015,25.4
+Guatemala,GTM,2015,18.1
+Guinea,GIN,2015,53.1
+Guinea-Bissau,GNB,2015,51.1
+Guyana,GUY,2015,33.0
+Haiti,HTI,2015,46.3
+Honduras,HND,2015,22.4
+Hungary,HUN,2015,24.6
+Iceland,ISL,2015,16.0
+India,IND,2015,48.5
+Indonesia,IDN,2015,31.1
+Iran,IRN,2015,24.3
+Iraq,IRQ,2015,31.0
+Ireland,IRL,2015,16.2
+Israel,ISR,2015,16.6
+Italy,ITA,2015,17.4
+Jamaica,JAM,2015,25.2
+Japan,JPN,2015,27.1
+Jordan,JOR,2015,31.6
+Kazakhstan,KAZ,2015,31.1
+Kenya,KEN,2015,38.5
+Kiribati,KIR,2015,30.5
+Kuwait,KWT,2015,27.8
+Kyrgyzstan,KGZ,2015,38.7
+Laos,LAO,2015,34.1
+Latvia,LVA,2015,22.5
+Lebanon,LBN,2015,30.8
+Lesotho,LSO,2015,31.2
+Liberia,LBR,2015,46.7
+Libya,LBY,2015,30.6
+Liechtenstein,LIE,2015,
+Lithuania,LTU,2015,24.3
+Luxembourg,LUX,2015,16.3
+Madagascar,MDG,2015,37.4
+Malawi,MWI,2015,36.9
+Malaysia,MYS,2015,31.3
+Maldives,MDV,2015,45.4
+Mali,MLI,2015,59.6
+Malta,MLT,2015,17.1
+Marshall Islands,MHL,2015,27.6
+Mauritania,MRT,2015,53.1
+Mauritius,MUS,2015,30.7
+Mexico,MEX,2015,23.1
+Micronesia,FSM,2015,26.2
+Moldova,MDA,2015,27.5
+Monaco,MCO,2015,16.7
+Mongolia,MNG,2015,28.1
+Montenegro,MNE,2015,27.9
+Morocco,MAR,2015,31.7
+Mozambique,MOZ,2015,51.6
+Myanmar,MMR,2015,43.1
+Namibia,NAM,2015,26.4
+Nauru,NRU,2015,25.0
+Nepal,NPL,2015,38.1
+Netherlands,NLD,2015,17.1
+New Zealand,NZL,2015,13.7
+Nicaragua,NIC,2015,
+Niger,NER,2015,54.5
+Nigeria,NGA,2015,48.3
+North Korea,PRK,2015,32.6
+North Macedonia,MKD,2015,24.3
+Norway,NOR,2015,17.1
+Oman,OMN,2015,35.1
+Pakistan,PAK,2015,44.4
+Palau,PLW,2015,26.3
+Palestine,PSE,2015,30.9
+Panama,PAN,2015,26.5
+Papua New Guinea,PNG,2015,30.9
+Paraguay,PRY,2015,26.6
+Peru,PER,2015,26.8
+Philippines,PHL,2015,30.7
+Poland,POL,2015,24.2
+Portugal,PRT,2015,17.1
+Qatar,QAT,2015,26.0
+Romania,ROU,2015,25.3
+Russia,RUS,2015,24.5
+Rwanda,RWA,2015,22.6
+Saint Kitts and Nevis,KNA,2015,23.5
+Saint Lucia,LCA,2015,23.6
+Saint Vincent and the Grenadines,VCT,2015,24.0
+Samoa,WSM,2015,25.3
+San Marino,SMR,2015,16.9
+Sao Tome and Principe,STP,2015,43.1
+Saudi Arabia,SAU,2015,21.2
+Senegal,SEN,2015,55.6
+Serbia,SRB,2015,25.0
+Seychelles,SYC,2015,27.2
+Sierra Leone,SLE,2015,51.5
+Singapore,SGP,2015,17.6
+Slovakia,SVK,2015,25.2
+Slovenia,SVN,2015,24.8
+Solomon Islands,SLB,2015,35.3
+Somalia,SOM,2015,50.8
+South Africa,ZAF,2015,28.6
+South Korea,KOR,2015,19.3
+South Sudan,SSD,2015,39.5
+Spain,ESP,2015,17.1
+Sri Lanka,LKA,2015,27.1
+Sudan,SDN,2015,35.8
+Suriname,SUR,2015,26.0
+Sweden,SWE,2015,17.3
+Switzerland,CHE,2015,15.5
+Syria,SYR,2015,32.9
+Tajikistan,TJK,2015,37.9
+Tanzania,TZA,2015,48.9
+Thailand,THA,2015,27.8
+Timor-Leste,TLS,2015,31.9
+Togo,TGO,2015,53.5
+Tonga,TON,2015,23.3
+Trinidad and Tobago,TTO,2015,24.6
+Tunisia,TUN,2015,31.6
+Turkey,TUR,2015,31.3
+Turkmenistan,TKM,2015,34.2
+Tuvalu,TUV,2015,25.8
+Uganda,UGA,2015,34.5
+Ukraine,UKR,2015,23.3
+United Arab Emirates,ARE,2015,28.9
+United Kingdom,GBR,2015,15.8
+United States,USA,2015,10.6
+Uruguay,URY,2015,25.6
+Uzbekistan,UZB,2015,34.6
+Vanuatu,VUT,2015,31.8
+Venezuela,VEN,2015,26.6
+Vietnam,VNM,2015,26.7
+Yemen,YEM,2015,38.5
+Zambia,ZMB,2015,36.7
+Zimbabwe,ZWE,2015,30.2
