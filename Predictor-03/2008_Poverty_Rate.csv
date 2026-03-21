@@ -1,0 +1,196 @@
+Country Name,Country Code,Year,Poverty_Rate(daily income < 3USD)
+Afghanistan,AFG,2008,
+Albania,ALB,2008,0.8
+Algeria,DZA,2008,
+Andorra,AND,2008,
+Angola,AGO,2008,22.1
+Antigua and Barbuda,ATG,2008,
+Argentina,ARG,2008,2.6
+Armenia,ARM,2008,2
+Australia,AUS,2008,0.7
+Austria,AUT,2008,0.5
+Azerbaijan,AZE,2008,
+Bahamas,BHS,2008,
+Bahrain,BHR,2008,
+Bangladesh,BGD,2008,
+Barbados,BRB,2008,
+Belarus,BLR,2008,0.5
+Belgium,BEL,2008,0.1
+Belize,BLZ,2008,
+Benin,BEN,2008,
+Bhutan,BTN,2008,
+Bolivia,BOL,2008,10.6
+Bosnia and Herzegovina,BIH,2008,
+Botswana,BWA,2008,
+Brazil,BRA,2008,9.1
+Brunei,BRN,2008,
+Bulgaria,BGR,2008,1.9
+Burkina Faso,BFA,2008,
+Burundi,BDI,2008,
+Cabo Verde,CPV,2008,
+Cambodia,KHM,2008,
+Cameroon,CMR,2008,
+Canada,CAN,2008,0.2
+Central African Republic,CAF,2008,67.3
+Chad,TCD,2008,
+Chile,CHL,2008,
+China,CHN,2008,26.2
+Colombia,COL,2008,16.6
+Comoros,COM,2008,
+Congo,COG,2008,
+Costa Rica,CRI,2008,3.4
+Croatia,HRV,2008,0
+Cuba,CUB,2008,
+Cyprus,CYP,2008,0
+Czechia,CZE,2008,0.1
+Côte d'Ivoire,CIV,2008,47.9
+Democratic Republic of the Congo,COD,2008,
+Denmark,DNK,2008,0.3
+Djibouti,DJI,2008,
+Dominica,DMA,2008,
+Dominican Republic,DOM,2008,7.1
+Ecuador,ECU,2008,9.8
+Egypt,EGY,2008,3.7
+El Salvador,SLV,2008,12.6
+Equatorial Guinea,GNQ,2008,
+Eritrea,ERI,2008,
+Estonia,EST,2008,0.6
+Eswatini,SWZ,2008,
+Ethiopia,ETH,2008,
+Fiji,FJI,2008,3.8
+Finland,FIN,2008,0.1
+France,FRA,2008,0
+Gabon,GAB,2008,
+Gambia,GMB,2008,
+Georgia,GEO,2008,21.7
+Germany,DEU,2008,0
+Ghana,GHA,2008,
+Greece,GRC,2008,0.4
+Grenada,GRD,2008,
+Guatemala,GTM,2008,
+Guinea,GIN,2008,
+Guinea-Bissau,GNB,2008,
+Guyana,GUY,2008,
+Haiti,HTI,2008,
+Honduras,HND,2008,20.9
+Hungary,HUN,2008,0.1
+Iceland,ISL,2008,0.1
+India,IND,2008,
+Indonesia,IDN,2008,38
+Iran,IRN,2008,
+Iraq,IRQ,2008,
+Ireland,IRL,2008,0.2
+Israel,ISR,2008,0.7
+Italy,ITA,2008,0.9
+Jamaica,JAM,2008,
+Japan,JPN,2008,1
+Jordan,JOR,2008,0.1
+Kazakhstan,KAZ,2008,0.8
+Kenya,KEN,2008,
+Kiribati,KIR,2008,
+Kuwait,KWT,2008,
+Kyrgyzstan,KGZ,2008,13.8
+Laos,LAO,2008,
+Latvia,LVA,2008,1.6
+Lebanon,LBN,2008,
+Lesotho,LSO,2008,
+Liberia,LBR,2008,
+Libya,LBY,2008,
+Liechtenstein,LIE,2008,
+Lithuania,LTU,2008,1.8
+Luxembourg,LUX,2008,0
+Madagascar,MDG,2008,
+Malawi,MWI,2008,
+Malaysia,MYS,2008,1.5
+Maldives,MDV,2008,
+Mali,MLI,2008,
+Malta,MLT,2008,0.2
+Marshall Islands,MHL,2008,
+Mauritania,MRT,2008,19.2
+Mauritius,MUS,2008,
+Mexico,MEX,2008,10.1
+Micronesia,FSM,2008,
+Moldova,MDA,2008,1.7
+Monaco,MCO,2008,
+Mongolia,MNG,2008,
+Montenegro,MNE,2008,0.3
+Morocco,MAR,2008,
+Mozambique,MOZ,2008,81.1
+Myanmar,MMR,2008,
+Namibia,NAM,2008,
+Nauru,NRU,2008,
+Nepal,NPL,2008,
+Netherlands,NLD,2008,0.2
+New Zealand,NZL,2008,
+Nicaragua,NIC,2008,
+Niger,NER,2008,
+Nigeria,NGA,2008,
+North Korea,PRK,2008,
+North Macedonia,MKD,2008,1.4
+Norway,NOR,2008,0.2
+Oman,OMN,2008,
+Pakistan,PAK,2008,
+Palau,PLW,2008,
+Palestine,PSE,2008,
+Panama,PAN,2008,9
+Papua New Guinea,PNG,2008,
+Paraguay,PRY,2008,7.9
+Peru,PER,2008,15.8
+Philippines,PHL,2008,
+Poland,POL,2008,0.3
+Portugal,PRT,2008,0.3
+Qatar,QAT,2008,
+Romania,ROU,2008,6
+Russia,RUS,2008,0.2
+Rwanda,RWA,2008,
+Saint Kitts and Nevis,KNA,2008,
+Saint Lucia,LCA,2008,
+Saint Vincent and the Grenadines,VCT,2008,
+Samoa,WSM,2008,3.7
+San Marino,SMR,2008,
+Sao Tome and Principe,STP,2008,
+Saudi Arabia,SAU,2008,
+Senegal,SEN,2008,
+Serbia,SRB,2008,0.3
+Seychelles,SYC,2008,
+Sierra Leone,SLE,2008,
+Singapore,SGP,2008,
+Slovakia,SVK,2008,0.5
+Slovenia,SVN,2008,0
+Solomon Islands,SLB,2008,
+Somalia,SOM,2008,
+South Africa,ZAF,2008,30.3
+South Korea,KOR,2008,0.5
+South Sudan,SSD,2008,
+Spain,ESP,2008,0.6
+Sri Lanka,LKA,2008,
+Sudan,SDN,2008,
+Suriname,SUR,2008,
+Sweden,SWE,2008,0.7
+Switzerland,CHE,2008,0.1
+Syria,SYR,2008,
+Tajikistan,TJK,2008,
+Tanzania,TZA,2008,
+Thailand,THA,2008,1
+Timor-Leste,TLS,2008,
+Togo,TGO,2008,
+Tonga,TON,2008,
+Trinidad and Tobago,TTO,2008,
+Tunisia,TUN,2008,
+Turkmenistan,TKM,2008,
+Tuvalu,TUV,2008,
+Türkiye,TUR,2008,3.3
+Uganda,UGA,2008,
+Ukraine,UKR,2008,0.1
+United Arab Emirates,ARE,2008,
+United Kingdom,GBR,2008,0.2
+United States,USA,2008,1
+Uruguay,URY,2008,0.4
+Uzbekistan,UZB,2008,
+Vanuatu,VUT,2008,
+Vatican City,VAT,2008,
+Venezuela,VEN,2008,
+Vietnam,VNM,2008,17.6
+Yemen,YEM,2008,
+Zambia,ZMB,2008,
+Zimbabwe,ZWE,2008,

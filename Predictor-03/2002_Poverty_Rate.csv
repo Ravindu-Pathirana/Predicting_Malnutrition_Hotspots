@@ -1,0 +1,196 @@
+Country Name,Country Code,Year,Poverty_Rate(daily income < 3USD)
+Afghanistan,AFG,2002,
+Albania,ALB,2002,4.2
+Algeria,DZA,2002,
+Andorra,AND,2002,
+Angola,AGO,2002,
+Antigua and Barbuda,ATG,2002,
+Argentina,ARG,2002,17.1
+Armenia,ARM,2002,19.8
+Australia,AUS,2002,
+Austria,AUT,2002,
+Azerbaijan,AZE,2002,0.2
+Bahamas,BHS,2002,
+Bahrain,BHR,2002,
+Bangladesh,BGD,2002,
+Barbados,BRB,2002,
+Belarus,BLR,2002,10.4
+Belgium,BEL,2002,
+Belize,BLZ,2002,
+Benin,BEN,2002,
+Bhutan,BTN,2002,
+Bolivia,BOL,2002,23.9
+Bosnia and Herzegovina,BIH,2002,
+Botswana,BWA,2002,34.8
+Brazil,BRA,2002,16.2
+Brunei,BRN,2002,
+Bulgaria,BGR,2002,
+Burkina Faso,BFA,2002,
+Burundi,BDI,2002,
+Cabo Verde,CPV,2002,
+Cambodia,KHM,2002,
+Cameroon,CMR,2002,
+Canada,CAN,2002,0.2
+Central African Republic,CAF,2002,
+Chad,TCD,2002,
+Chile,CHL,2002,
+China,CHN,2002,48.1
+Colombia,COL,2002,21.2
+Comoros,COM,2002,
+Congo,COG,2002,
+Costa Rica,CRI,2002,6.6
+Croatia,HRV,2002,
+Cuba,CUB,2002,
+Cyprus,CYP,2002,
+Czechia,CZE,2002,0
+Côte d'Ivoire,CIV,2002,44.7
+Democratic Republic of the Congo,COD,2002,
+Denmark,DNK,2002,
+Djibouti,DJI,2002,32.3
+Dominica,DMA,2002,
+Dominican Republic,DOM,2002,9
+Ecuador,ECU,2002,
+Egypt,EGY,2002,
+El Salvador,SLV,2002,19.5
+Equatorial Guinea,GNQ,2002,
+Eritrea,ERI,2002,
+Estonia,EST,2002,2.9
+Eswatini,SWZ,2002,
+Ethiopia,ETH,2002,
+Fiji,FJI,2002,5.4
+Finland,FIN,2002,
+France,FRA,2002,0
+Gabon,GAB,2002,
+Gambia,GMB,2002,
+Georgia,GEO,2002,22.3
+Germany,DEU,2002,0
+Ghana,GHA,2002,
+Greece,GRC,2002,0.2
+Grenada,GRD,2002,
+Guatemala,GTM,2002,
+Guinea,GIN,2002,50.3
+Guinea-Bissau,GNB,2002,68.2
+Guyana,GUY,2002,
+Haiti,HTI,2002,
+Honduras,HND,2002,29
+Hungary,HUN,2002,0.1
+Iceland,ISL,2002,
+India,IND,2002,
+Indonesia,IDN,2002,46.8
+Iran,IRN,2002,
+Iraq,IRQ,2002,
+Ireland,IRL,2002,0.2
+Israel,ISR,2002,0.7
+Italy,ITA,2002,1.7
+Jamaica,JAM,2002,6.4
+Japan,JPN,2002,
+Jordan,JOR,2002,1
+Kazakhstan,KAZ,2002,16.2
+Kenya,KEN,2002,
+Kiribati,KIR,2002,
+Kuwait,KWT,2002,
+Kyrgyzstan,KGZ,2002,58.1
+Laos,LAO,2002,43.1
+Latvia,LVA,2002,1.5
+Lebanon,LBN,2002,
+Lesotho,LSO,2002,74.9
+Liberia,LBR,2002,
+Libya,LBY,2002,
+Liechtenstein,LIE,2002,
+Lithuania,LTU,2002,1.4
+Luxembourg,LUX,2002,0
+Madagascar,MDG,2002,
+Malawi,MWI,2002,
+Malaysia,MYS,2002,
+Maldives,MDV,2002,18.8
+Mali,MLI,2002,
+Malta,MLT,2002,
+Marshall Islands,MHL,2002,
+Mauritania,MRT,2002,
+Mauritius,MUS,2002,
+Mexico,MEX,2002,12.8
+Micronesia,FSM,2002,
+Moldova,MDA,2002,19.9
+Monaco,MCO,2002,
+Mongolia,MNG,2002,18.7
+Montenegro,MNE,2002,
+Morocco,MAR,2002,
+Mozambique,MOZ,2002,87.6
+Myanmar,MMR,2002,
+Namibia,NAM,2002,
+Nauru,NRU,2002,
+Nepal,NPL,2002,
+Netherlands,NLD,2002,
+New Zealand,NZL,2002,
+Nicaragua,NIC,2002,
+Niger,NER,2002,
+Nigeria,NGA,2002,
+North Korea,PRK,2002,
+North Macedonia,MKD,2002,3
+Norway,NOR,2002,
+Oman,OMN,2002,
+Pakistan,PAK,2002,
+Palau,PLW,2002,
+Palestine,PSE,2002,
+Panama,PAN,2002,17.2
+Papua New Guinea,PNG,2002,
+Paraguay,PRY,2002,19.6
+Peru,PER,2002,24.4
+Philippines,PHL,2002,
+Poland,POL,2002,0.3
+Portugal,PRT,2002,
+Qatar,QAT,2002,
+Romania,ROU,2002,9.1
+Russia,RUS,2002,2
+Rwanda,RWA,2002,
+Saint Kitts and Nevis,KNA,2002,
+Saint Lucia,LCA,2002,
+Saint Vincent and the Grenadines,VCT,2002,
+Samoa,WSM,2002,5.9
+San Marino,SMR,2002,
+Sao Tome and Principe,STP,2002,
+Saudi Arabia,SAU,2002,
+Senegal,SEN,2002,
+Serbia,SRB,2002,0.4
+Seychelles,SYC,2002,
+Sierra Leone,SLE,2002,
+Singapore,SGP,2002,
+Slovakia,SVK,2002,
+Slovenia,SVN,2002,0.1
+Solomon Islands,SLB,2002,
+Somalia,SOM,2002,
+South Africa,ZAF,2002,
+South Korea,KOR,2002,
+South Sudan,SSD,2002,
+Spain,ESP,2002,
+Sri Lanka,LKA,2002,20.7
+Sudan,SDN,2002,
+Suriname,SUR,2002,
+Sweden,SWE,2002,0
+Switzerland,CHE,2002,0
+Syria,SYR,2002,
+Tajikistan,TJK,2002,
+Tanzania,TZA,2002,
+Thailand,THA,2002,4.7
+Timor-Leste,TLS,2002,
+Togo,TGO,2002,
+Tonga,TON,2002,
+Trinidad and Tobago,TTO,2002,
+Tunisia,TUN,2002,
+Turkmenistan,TKM,2002,
+Tuvalu,TUV,2002,
+Türkiye,TUR,2002,7.6
+Uganda,UGA,2002,78.6
+Ukraine,UKR,2002,6.3
+United Arab Emirates,ARE,2002,
+United Kingdom,GBR,2002,0.2
+United States,USA,2002,1
+Uruguay,URY,2002,1.1
+Uzbekistan,UZB,2002,93.1
+Vanuatu,VUT,2002,
+Vatican City,VAT,2002,
+Venezuela,VEN,2002,22.1
+Vietnam,VNM,2002,43.3
+Yemen,YEM,2002,
+Zambia,ZMB,2002,68
+Zimbabwe,ZWE,2002,
